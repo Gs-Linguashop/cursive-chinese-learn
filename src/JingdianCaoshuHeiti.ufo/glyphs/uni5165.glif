@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5165" format="2">
+  <advance width="1000"/>
+  <unicode hex="5165"/>
+  <outline>
+    <contour>
+      <point x="890" y="-71" type="curve"/>
+      <point x="963" y="-19" type="line"/>
+      <point x="701" y="358"/>
+      <point x="482" y="646"/>
+      <point x="275" y="831" type="curve"/>
+      <point x="213" y="773" type="line"/>
+      <point x="419" y="587"/>
+      <point x="631" y="312"/>
+    </contour>
+    <contour>
+      <point x="104" y="-76" type="line"/>
+      <point x="296" y="77"/>
+      <point x="466" y="284"/>
+      <point x="560" y="476" type="curve"/>
+      <point x="489" y="513" type="line"/>
+      <point x="395" y="323"/>
+      <point x="247" y="137"/>
+      <point x="53" y="-7" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-08-20 16:43:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5341" format="2">
+  <advance width="1000"/>
+  <unicode hex="5341"/>
+  <outline>
+    <contour>
+      <point x="541" y="-77" type="line"/>
+      <point x="541" y="834" type="line"/>
+      <point x="459" y="834" type="line"/>
+      <point x="459" y="-77" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="381" type="line"/>
+      <point x="944" y="381" type="line"/>
+      <point x="944" y="460" type="line"/>
+      <point x="56" y="460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-08-21 19:21:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

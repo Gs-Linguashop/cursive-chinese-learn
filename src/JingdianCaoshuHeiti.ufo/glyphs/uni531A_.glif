@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni531A" format="2">
+  <advance width="1000"/>
+  <unicode hex="531A"/>
+  <outline>
+    <contour>
+      <point x="103" y="765" type="line"/>
+      <point x="103" y="679" type="line"/>
+      <point x="897" y="679" type="line"/>
+      <point x="897" y="765" type="line"/>
+    </contour>
+    <contour>
+      <point x="931" y="-21" type="curve"/>
+      <point x="931" y="70" type="line"/>
+      <point x="708" y="19"/>
+      <point x="424" y="31"/>
+      <point x="280" y="79" type="curve" smooth="yes"/>
+      <point x="194" y="109"/>
+      <point x="161" y="180"/>
+      <point x="156" y="356" type="curve"/>
+      <point x="74" y="340" type="line"/>
+      <point x="77" y="149"/>
+      <point x="131" y="36"/>
+      <point x="250" y="-5" type="curve" smooth="yes"/>
+      <point x="398" y="-57"/>
+      <point x="703" y="-71"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-08-21 03:20:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5E73" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="5E73"/>
+  <note>
+cid16854
+</note>
+  <outline>
+    <contour>
+      <point x="459" y="-79" type="line"/>
+      <point x="537" y="-79" type="line"/>
+      <point x="537" y="698" type="line"/>
+      <point x="893" y="698" type="line"/>
+      <point x="893" y="773" type="line"/>
+      <point x="105" y="773" type="line"/>
+      <point x="105" y="698" type="line"/>
+      <point x="459" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="939" y="225" type="curve"/>
+      <point x="959" y="304" type="line"/>
+      <point x="738" y="333"/>
+      <point x="444" y="334"/>
+      <point x="55" y="303" type="curve"/>
+      <point x="55" y="231" type="line"/>
+      <point x="439" y="259"/>
+      <point x="734" y="252"/>
+    </contour>
+    <contour>
+      <point x="172" y="476" type="line"/>
+      <point x="829" y="476" type="line"/>
+      <point x="829" y="551" type="line"/>
+      <point x="172" y="551" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-08-20 16:43:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

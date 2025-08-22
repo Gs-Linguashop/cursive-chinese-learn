@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni535E" format="2">
+  <advance width="1000"/>
+  <unicode hex="535E"/>
+  <outline>
+    <contour>
+      <point x="544" y="619" type="curve"/>
+      <point x="605" y="670" type="line"/>
+      <point x="566" y="729"/>
+      <point x="510" y="792"/>
+      <point x="452" y="851" type="curve"/>
+      <point x="396" y="806" type="line"/>
+      <point x="459" y="743"/>
+      <point x="504" y="682"/>
+    </contour>
+    <contour>
+      <point x="56" y="568" type="line"/>
+      <point x="944" y="568" type="line"/>
+      <point x="944" y="644" type="line"/>
+      <point x="56" y="644" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="-71" type="line"/>
+      <point x="511" y="-71" type="line"/>
+      <point x="511" y="607" type="line"/>
+      <point x="431" y="607" type="line"/>
+    </contour>
+    <contour>
+      <point x="768" y="198" type="curve"/>
+      <point x="800" y="263" type="line"/>
+      <point x="718" y="311"/>
+      <point x="605" y="367"/>
+      <point x="493" y="409" type="curve"/>
+      <point x="464" y="346" type="line"/>
+      <point x="574" y="303"/>
+      <point x="692" y="243"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-08-21 19:16:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>
