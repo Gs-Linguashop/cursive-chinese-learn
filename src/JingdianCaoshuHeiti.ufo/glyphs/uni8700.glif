@@ -43,6 +43,7 @@
     </contour>
     <contour>
       <point x="0" y="0"/>
+      <point x="0" y="0"/>
     </contour>
     <contour>
       <point x="206" y="278" type="line"/>
