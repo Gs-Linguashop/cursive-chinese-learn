@@ -4,9 +4,35 @@
 
 # 草书是什么，不是什么？
 
-![Tux, the Linux mascot](src/caoshu-cursive.svg)
+<div style="max-width: 80%; margin: 20px auto;">
 
-（插图：“草书”在不同书体的形态）
+<table style="width: 100%; border: none; border-collapse: collapse;">
+<tr style="border: none;">
+
+<td style="border: none; text-align: center; vertical-align: top; width: 50%; padding: 0 20px;">
+  <img src="src/caoshu-SourceHanSans.svg" alt="草书（思源黑体）" 
+       style="max-width: 100%; height: auto; ">
+  <div style="text-align: center; font-style: italic; color: gray">
+    楷书中的“草书”
+  </div>
+</td>
+
+<td style="border: none; text-align: center; vertical-align: top; width: 50%; padding: 0 20px;">
+  <img src="src/caoshu-cursive.svg" alt="草书（经典草书黑体）" 
+       style="max-width: 100%; height: auto; ">
+  <div style="text-align: center; font-style: italic; color: gray">
+    草书中的“草书”
+  </div>
+</td>
+
+</tr>
+</table>
+
+<div style="text-align: center; font-style: italic; color: gray">
+  “草书”在不同书体的形态
+</div>
+
+</div>
 
 * 草书是一套汉字的书体，地位等同于“篆书”“楷书”“行书”等其他书体。它是汉字符号由具象到抽象，由繁复到便捷发展的自然延伸。
 * 草书是一套完整的汉字符号系统。它对于汉字的结构有特定的符号呈现方式。这些结构的形态是不同于其它书体的。
