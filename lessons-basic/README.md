@@ -6,8 +6,7 @@
 
 <div style="max-width: 80%; margin: 20px auto;">
 
-<table style="width: 100%; border: none; border-collapse: collapse;">
-<tr style="border: none;">
+<table style="width: 100%; border: none;">
 
 <td style="border: none; text-align: center; vertical-align: top; width: 50%; padding: 0 20px;">
   <img src="src/caoshu-SourceHanSans.svg" alt="草书（思源黑体）" 
@@ -25,7 +24,6 @@
   </div>
 </td>
 
-</tr>
 </table>
 
 <div style="text-align: center; font-style: italic; color: gray">
