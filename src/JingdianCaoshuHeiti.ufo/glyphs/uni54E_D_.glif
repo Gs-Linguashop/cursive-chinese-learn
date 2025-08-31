@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni54ED" format="2">
+  <advance width="1000"/>
+  <unicode hex="54ED"/>
+  <outline>
+    <contour>
+      <point x="104" y="-77" type="line"/>
+      <point x="569" y="105"/>
+      <point x="650" y="602"/>
+      <point x="644" y="831" type="curve"/>
+      <point x="561" y="831" type="line"/>
+      <point x="560" y="606"/>
+      <point x="495" y="163"/>
+      <point x="46" y="-8" type="curve"/>
+    </contour>
+    <contour>
+      <point x="900" y="-80" type="curve"/>
+      <point x="959" y="-15" type="line"/>
+      <point x="797" y="138"/>
+      <point x="645" y="254"/>
+      <point x="477" y="355" type="curve"/>
+      <point x="440" y="285" type="line"/>
+      <point x="591" y="192"/>
+      <point x="726" y="76"/>
+    </contour>
+    <contour>
+      <point x="62" y="351" type="line"/>
+      <point x="938" y="351" type="line"/>
+      <point x="938" y="433" type="line"/>
+      <point x="62" y="433" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="467" type="curve"/>
+      <point x="251" y="497" type="line"/>
+      <point x="235" y="572"/>
+      <point x="193" y="692"/>
+      <point x="152" y="782" type="curve"/>
+      <point x="81" y="758" type="line"/>
+      <point x="120" y="665"/>
+      <point x="161" y="543"/>
+    </contour>
+    <contour>
+      <point x="377" y="517" type="curve"/>
+      <point x="449" y="546" type="line"/>
+      <point x="437" y="613"/>
+      <point x="414" y="692"/>
+      <point x="383" y="766" type="curve"/>
+      <point x="312" y="744" type="line"/>
+      <point x="344" y="668"/>
+      <point x="365" y="584"/>
+    </contour>
+    <contour>
+      <point x="787" y="461" type="line"/>
+      <point x="826" y="539"/>
+      <point x="875" y="663"/>
+      <point x="914" y="766" type="curve"/>
+      <point x="830" y="799" type="line"/>
+      <point x="805" y="704"/>
+      <point x="759" y="572"/>
+      <point x="721" y="491" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-08-25 02:47:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

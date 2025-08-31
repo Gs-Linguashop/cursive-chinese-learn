@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni571F" format="2">
+  <advance width="1000"/>
+  <unicode hex="571F"/>
+  <outline>
+    <contour>
+      <point x="540" y="34" type="line"/>
+      <point x="540" y="833" type="line"/>
+      <point x="460" y="833" type="line"/>
+      <point x="460" y="34" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="435" type="line"/>
+      <point x="868" y="435" type="line"/>
+      <point x="868" y="514" type="line"/>
+      <point x="132" y="514" type="line"/>
+    </contour>
+    <contour>
+      <point x="930" y="54" type="line"/>
+      <point x="70" y="54" type="line"/>
+      <point x="70" y="-22" type="line"/>
+      <point x="930" y="-22" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-08-27 01:36:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

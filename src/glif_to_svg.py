@@ -1,4 +1,5 @@
 import sys
+from pathlib import Path
 import argparse
 from defcon import Font
 from fontTools.pens.svgPathPen import SVGPathPen
@@ -44,18 +45,44 @@ def string_to_svg(font, text):
 	svg.set('height', '1000')
 	return tostring(svg, encoding='unicode')
 
+def export_all_glyphs_to_svg(font, output_path):
+	for glyph in font:
+		svg = Element('svg', xmlns="http://www.w3.org/2000/svg")
+		x_cursor = 0
+		ascender = font.info.ascender if font.info.ascender is not None else 1000
+		glyph = font[glyph.name]
+		path_data = glyph_to_svg_path(glyph)
+		# Reflect y: scaleY(-1) and translateY(-descender)
+		path = SubElement(svg, 'path', d=path_data)
+		path.set('transform', f'translate({x_cursor}, {ascender}) scale(1,-1)')
+		x_cursor += glyph.width
+		svg.set('width', str(x_cursor))
+		svg.set('height', '1000')
+		with open(output_path + glyph.name + '.svg', 'w', encoding='utf-8') as f:
+			f.write(tostring(svg, encoding='unicode'))
+		for codepoint in glyph.unicodes:
+			if 0 < codepoint < 0x10FFFF:
+				with open(output_path + 'uni' + f'{codepoint:04X}' + '.svg', 'w', encoding='utf-8') as f:
+					f.write(tostring(svg, encoding='unicode'))
+
 def main():
 	parser = argparse.ArgumentParser(description="Convert UFO glyphs to SVG for a string.")
 	parser.add_argument('ufo_path', help='Path to UFO font folder')
 	parser.add_argument('text', help='Unicode string to render')
-	parser.add_argument('output_svg', help='Output SVG file')
+	parser.add_argument('output_path', help='Output path')
+	parser.add_argument('--all_glyphs', action='store_true', default=False, help='Export all glyphs in the font')
 	args = parser.parse_args()
 
 	font = load_ufo_glyphs(args.ufo_path)
-	svg_content = string_to_svg(font, args.text)
-	with open(args.output_svg, 'w', encoding='utf-8') as f:
-		f.write(svg_content)
+	if args.all_glyphs:
+		Path(args.output_path).mkdir(parents=True, exist_ok=True)
+		export_all_glyphs_to_svg(font, args.output_path)
+	else:
+		svg_content = string_to_svg(font, args.text)
+		with open(args.output_path, 'w', encoding='utf-8') as f:
+			f.write(svg_content)
 
 if __name__ == '__main__':
 	main()
 	# python3 src/glif_to_svg.py src/JingdianCaoshuHeiti.ufo "草书" output.svg
+	# python3 src/glif_to_svg.py src/JingdianCaoshuHeiti.ufo "" dictionary/src/ --all_glyphs

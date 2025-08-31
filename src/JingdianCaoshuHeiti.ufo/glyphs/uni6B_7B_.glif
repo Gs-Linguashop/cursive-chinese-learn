@@ -50,8 +50,8 @@ cid22661
       <point x="691" y="-48" type="curve" smooth="yes"/>
       <point x="843" y="-48" type="line" smooth="yes"/>
       <point x="910" y="-48"/>
-      <point x="943" y="-12"/>
-      <point x="947" y="123" type="curve"/>
+      <point x="943" y="3"/>
+      <point x="947" y="138" type="curve"/>
       <point x="872" y="156" type="line"/>
       <point x="872" y="70"/>
       <point x="863" y="30"/>
@@ -84,7 +84,7 @@ cid22661
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-20 16:43:07 +0000</string>
+      <string>2025-08-28 04:08:31 +0000</string>
     </dict>
   </lib>
 </glyph>

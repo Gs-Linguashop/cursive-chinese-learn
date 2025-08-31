@@ -11,7 +11,7 @@
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>3</integer>
     <key>com.schriftgestaltung.useGlyphOrder</key>
-    <true/>
+    <false/>
     <key>com.schriftgestaltung.useNiceNames</key>
     <true/>
     <key>public.glyphOrder</key>
@@ -238,6 +238,7 @@
       <string>uni52FE</string>
       <string>uni52FF</string>
       <string>uni5305</string>
+      <string>uni5306</string>
       <string>uni530B</string>
       <string>uni5315</string>
       <string>uni5316</string>
@@ -304,10 +305,13 @@
       <string>uni53D7</string>
       <string>uni53E3</string>
       <string>uni53E4</string>
+      <string>uni53E5</string>
       <string>uni53EA</string>
       <string>uni53EC</string>
       <string>uni53EF</string>
       <string>uni53F2</string>
+      <string>uni53F3</string>
+      <string>uni53F7</string>
       <string>uni53F8</string>
       <string>uni5404</string>
       <string>uni5408</string>
@@ -317,48 +321,126 @@
       <string>uni540E</string>
       <string>uni540F</string>
       <string>uni5411</string>
+      <string>uni5415</string>
+      <string>uni541B</string>
+      <string>uni541D</string>
+      <string>uni541E</string>
+      <string>uni5420</string>
+      <string>uni5426</string>
+      <string>uni542B</string>
+      <string>uni5433</string>
+      <string>uni5439</string>
       <string>uni543E</string>
+      <string>uni5448</string>
       <string>uni544A</string>
       <string>uni5468</string>
       <string>uni547D</string>
       <string>uni5485</string>
+      <string>uni548E</string>
+      <string>uni54A0</string>
+      <string>uni54A2</string>
+      <string>uni54B1</string>
       <string>uni54B2</string>
       <string>uni54B8</string>
       <string>uni54BC</string>
+      <string>uni54C0</string>
       <string>uni54C1</string>
+      <string>uni54C8</string>
+      <string>uni54C9</string>
       <string>uni54E1</string>
+      <string>uni54E5</string>
+      <string>uni54ED</string>
+      <string>uni5510</string>
+      <string>uni552E</string>
+      <string>uni5546</string>
+      <string>uni5584</string>
       <string>uni559C</string>
       <string>uni55AA</string>
       <string>uni55AC</string>
       <string>uni55AE</string>
+      <string>uni55BF</string>
+      <string>uni55C7</string>
       <string>uni55DA</string>
       <string>uni55F7</string>
+      <string>uni5617</string>
       <string>uni563C</string>
+      <string>uni5668</string>
       <string>uni56B4</string>
+      <string>uni56C2</string>
+      <string>uni56D7</string>
+      <string>uni56DA</string>
       <string>uni56DB</string>
       <string>uni56DE</string>
+      <string>uni56DF</string>
       <string>uni56E0</string>
+      <string>uni56F0</string>
+      <string>uni56F7</string>
+      <string>uni5702</string>
+      <string>uni5716</string>
+      <string>uni571F</string>
+      <string>uni5723</string>
       <string>uni5728</string>
       <string>uni572D</string>
+      <string>uni573C</string>
       <string>uni5750</string>
+      <string>uni5764</string>
+      <string>uni5774</string>
+      <string>uni5782</string>
+      <string>uni5794</string>
+      <string>uni57CB</string>
       <string>uni57F6</string>
+      <string>uni57F7</string>
+      <string>uni5802</string>
+      <string>uni5807</string>
+      <string>uni582F</string>
       <string>uni5831</string>
+      <string>uni585E</string>
+      <string>uni5899</string>
+      <string>uni58A8</string>
       <string>uni58EB</string>
       <string>uni58EC</string>
       <string>uni58F0</string>
+      <string>uni58F9</string>
+      <string>uni58FA</string>
+      <string>uni58FD</string>
+      <string>uni5902</string>
+      <string>uni5905</string>
       <string>uni590C</string>
+      <string>uni590D</string>
+      <string>uni590F</string>
+      <string>uni5910</string>
+      <string>uni5912</string>
+      <string>uni5914</string>
+      <string>uni5915</string>
       <string>uni5916</string>
+      <string>uni5917</string>
+      <string>uni5919</string>
       <string>uni591A</string>
       <string>uni591C</string>
+      <string>uni5922</string>
       <string>uni5927</string>
       <string>uni5929</string>
       <string>uni592A</string>
       <string>uni592B</string>
       <string>uni592C</string>
+      <string>uni592D</string>
       <string>uni5931</string>
       <string>uni5934</string>
+      <string>uni5937</string>
+      <string>uni5938</string>
       <string>uni593E</string>
+      <string>uni5944</string>
       <string>uni5947</string>
+      <string>uni5948</string>
+      <string>uni5949</string>
+      <string>uni594F</string>
+      <string>uni5950</string>
+      <string>uni5954</string>
+      <string>uni595A</string>
+      <string>uni5960</string>
+      <string>uni5967</string>
+      <string>uni596A</string>
+      <string>uni596E</string>
       <string>uni5973</string>
       <string>uni597D</string>
       <string>uni5982</string>
@@ -412,6 +494,7 @@
       <string>uni5EDA</string>
       <string>uni5F00</string>
       <string>uni5F0F</string>
+      <string>uni5F14</string>
       <string>uni5F1F</string>
       <string>uni5F3A</string>
       <string>uni5F62</string>
@@ -569,8 +652,10 @@
       <string>uni8001</string>
       <string>uni8005</string>
       <string>uni800C</string>
+      <string>uni8033</string>
       <string>uni8072</string>
       <string>uni807D</string>
+      <string>uni80A1</string>
       <string>uni80FD</string>
       <string>uni81E4</string>
       <string>uni81E8</string>
@@ -597,6 +682,7 @@
       <string>uni8700</string>
       <string>uni8846</string>
       <string>uni884C</string>
+      <string>uni8863</string>
       <string>uni8868</string>
       <string>uni8881</string>
       <string>uni8931</string>
@@ -606,6 +692,7 @@
       <string>uni898B</string>
       <string>uni89E3</string>
       <string>uni8A00</string>
+      <string>uni8A9E.alt</string>
       <string>uni8B8A</string>
       <string>uni8C46</string>
       <string>uni8C4A</string>
@@ -631,6 +718,7 @@
       <string>uni90A3</string>
       <string>uni90FD</string>
       <string>uni9109</string>
+      <string>uni9119</string>
       <string>uni9149</string>
       <string>uni91CC</string>
       <string>uni91CD</string>
