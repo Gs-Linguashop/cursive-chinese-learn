@@ -5,4 +5,4 @@
 * [部首结构表](radicals.txt)
 * [草书结构字典](dictionary.md)：包含完整字的结构，您可以点击表中链接查看字形图片。目前还在完善主要部首的结构；如果您想找的字还没有收录，您可以把字拆开检索试试。
 * [凡例和术语](glossary.txt)
-* [字形图片](src/)
+* [字形图片](../src/JingdianCaoshuHeiti-svg/)

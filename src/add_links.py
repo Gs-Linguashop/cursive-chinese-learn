@@ -181,4 +181,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # Example use: python3 dictionary/add_links.py dictionary/dictionary.md dictionary/src/ -o dictionary/dictionary.md --link-folder "src/"
+    # python3 src/add_links.py dictionary/dictionary.md src/JingdianCaoshuHeiti-svg/ -o dictionary/dictionary.md --link-folder "../src/JingdianCaoshuHeiti-svg/"
+    # python3 src/add_links.py practice/chars_3500.md src/JingdianCaoshuHeiti-svg/ -o practice/chars_3500.md --link-folder "../src/JingdianCaoshuHeiti-svg/"

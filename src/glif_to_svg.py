@@ -85,4 +85,4 @@ def main():
 if __name__ == '__main__':
 	main()
 	# python3 src/glif_to_svg.py src/JingdianCaoshuHeiti.ufo "草书" output.svg
-	# python3 src/glif_to_svg.py src/JingdianCaoshuHeiti.ufo "" dictionary/src/ --all_glyphs
+	# python3 src/glif_to_svg.py src/JingdianCaoshuHeiti.ufo "" src/JingdianCaoshuHeiti(svg)/ --all_glyphs
