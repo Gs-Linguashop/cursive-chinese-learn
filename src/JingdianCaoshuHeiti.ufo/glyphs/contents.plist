@@ -42,10 +42,10 @@
     <string>semicolon.full.glif</string>
     <key>space</key>
     <string>space.glif</string>
+    <key>u20A7A</key>
+    <string>u20A_7A_.glif</string>
     <key>u20B1B</key>
     <string>u20B_1B_.glif</string>
-    <key>u20B36</key>
-    <string>u20B_36.glif</string>
     <key>u21569</key>
     <string>u21569.glif</string>
     <key>u21FFA</key>
@@ -924,14 +924,40 @@
     <string>uni596E_.glif</string>
     <key>uni5973</key>
     <string>uni5973.glif</string>
+    <key>uni5974</key>
+    <string>uni5974.glif</string>
     <key>uni597D</key>
     <string>uni597D_.glif</string>
     <key>uni5982</key>
     <string>uni5982.glif</string>
+    <key>uni5983</key>
+    <string>uni5983.glif</string>
+    <key>uni5992</key>
+    <string>uni5992.glif</string>
+    <key>uni599F</key>
+    <string>uni599F_.glif</string>
+    <key>uni59A5</key>
+    <string>uni59A_5.glif</string>
+    <key>uni59BB</key>
+    <string>uni59B_B_.glif</string>
     <key>uni59BE</key>
     <string>uni59B_E_.glif</string>
+    <key>uni59D4</key>
+    <string>uni59D_4.glif</string>
+    <key>uni59DC</key>
+    <string>uni59D_C_.glif</string>
+    <key>uni5A01</key>
+    <string>uni5A_01.glif</string>
     <key>uni5A41</key>
     <string>uni5A_41.glif</string>
+    <key>uni5A66</key>
+    <string>uni5A_66.glif</string>
+    <key>uni5AE9</key>
+    <string>uni5A_E_9.glif</string>
+    <key>uni5B30</key>
+    <string>uni5B_30.glif</string>
+    <key>uni5B32</key>
+    <string>uni5B_32.glif</string>
     <key>uni5B50</key>
     <string>uni5B_50.glif</string>
     <key>uni5B57</key>
@@ -1004,6 +1030,8 @@
     <string>uni5E_03.glif</string>
     <key>uni5E0C</key>
     <string>uni5E_0C_.glif</string>
+    <key>uni5E1A</key>
+    <string>uni5E_1A_.glif</string>
     <key>uni5E2B</key>
     <string>uni5E_2B_.glif</string>
     <key>uni5E36</key>
@@ -1070,6 +1098,8 @@
     <string>uni6220.glif</string>
     <key>uni6232</key>
     <string>uni6232.glif</string>
+    <key>uni6236</key>
+    <string>uni6236.glif</string>
     <key>uni6240</key>
     <string>uni6240.glif</string>
     <key>uni624B</key>

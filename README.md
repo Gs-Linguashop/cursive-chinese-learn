@@ -20,6 +20,14 @@
 	* 草书字形字体文件（可查具体字形）：「经典草书黑体[ufo](src/JingdianCaoshuHeiti.ufo)/[svg](dictionary/src/)」是一个包含了重要部首字形的字库，由我设计制作。计划涵盖1600+常见偏旁与3500+常用汉字。它有SIL开源字体许可，您可以按需求使用，使用时请注明出处。
 		* 如需更完整的字库，可以在[方正字库官网](https://www.foundertype.com)获取「方正巴龙草书黑体」，它包含一个完整的字体字库；这是一款由我发起设计的字库，但它不是开源的。
 
+资料获取
+* Git镜像
+	* [GitHub](https://github.com/Gs-Linguashop/cursive-chinese-learn.git)
+	* [Gitee（国内）](https://gitee.com/awwlang/cursive-chinese-learn.git)
+* 视频版请在视频平台搜索“嗷呜草书字形”，持续更新中
+	* Bilibili账号：喔喔喔嗷呜
+	* Youtube账号：Aww Linguistics
+
 # 草书笔画与规律
 
 [这个部分](lessons-basic/README.md)我们探究草书的笔画规律，以及它与楷书、隶书、篆书的联系。

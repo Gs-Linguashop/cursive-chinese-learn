@@ -15,7 +15,10 @@ def find_glyph_svg(glyph_name, svg_folder):
         Path or None: Path to SVG file if found, None otherwise
     """
     # Remove any hex prefix if present (like "uni" or "u")
-    clean_name = re.sub(r'^(uni|u)', '', glyph_name)
+    if len(glyph_name) == 1: # the unicode character itself
+        clean_name = f"{ord(glyph_name):04X}"
+    else:
+        clean_name = re.sub(r'^(uni|u)', '', glyph_name)
     
     # Possible SVG filenames to check
     possible_filenames = [
@@ -36,7 +39,7 @@ def find_glyph_svg(glyph_name, svg_folder):
     return None
 
 def add_glyph_links_to_markdown(input_md_file, svg_folder_path, output_file=None, 
-                               glyph_column=1, link_svg_folder=None):
+                               glyph_column=0, link_svg_folder=None):
     """
     Add SVG hyperlinks to glyph names in a Markdown table
     
@@ -155,7 +158,7 @@ def main():
     parser.add_argument('input_md', help='Path to the input markdown file (relative to current directory)')
     parser.add_argument('svg_folder', help='Path to the folder containing SVG files (relative to current directory)')
     parser.add_argument('-o', '--output', help='Path to the output markdown file (relative to current directory, optional)')
-    parser.add_argument('--glyph-col', type=int, default=1, help='Column index containing glyph names (0-based, default: 1)')
+    parser.add_argument('--glyph-col', type=int, default=0, help='Column index containing glyph names (0-based, default: 0)')
     parser.add_argument('--link-folder', help='Folder path to use in the hyperlinks (e.g., "https://example.com/glyphs" or "../assets/glyphs")')
     
     args = parser.parse_args()

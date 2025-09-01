@@ -1,5 +1,5 @@
-# Bilibili & 抖音
-视频中的内容资料已经同步公开上传至github，请移步Gs-Linguashop/cursive-chinese-learn
+# Bilibili
+视频中的内容资料已经同步公开上传至Gitee：https://gitee.com/awwlang/cursive-chinese-learn.git
 如果您需要完整的草书字体，可以在方正字库搜索“方正巴龙草书黑体”
 
 # YouTube

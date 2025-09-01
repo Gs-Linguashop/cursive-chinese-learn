@@ -51,20 +51,20 @@ uni79BE
       <point x="82" y="536" type="line"/>
     </contour>
     <contour>
-      <point x="182" y="704" type="line"/>
-      <point x="396" y="707"/>
-      <point x="651" y="726"/>
-      <point x="826" y="758" type="curve"/>
-      <point x="781" y="826" type="line"/>
-      <point x="605" y="794"/>
-      <point x="377" y="777"/>
-      <point x="156" y="776" type="curve"/>
+      <point x="163" y="704" type="line"/>
+      <point x="390" y="707"/>
+      <point x="661" y="726"/>
+      <point x="846" y="758" type="curve"/>
+      <point x="799" y="826" type="line"/>
+      <point x="612" y="794"/>
+      <point x="370" y="777"/>
+      <point x="136" y="776" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-20 16:43:07 +0000</string>
+      <string>2025-09-01 01:47:08 +0000</string>
     </dict>
   </lib>
 </glyph>
