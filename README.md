@@ -25,7 +25,7 @@
 	* [GitHub](https://github.com/Gs-Linguashop/cursive-chinese-learn.git)
 	* [Gitee（国内）](https://gitee.com/awwlang/cursive-chinese-learn.git)
 * 视频版请在视频平台搜索“嗷呜草书字形”，持续更新中
-	* Bilibili账号：喔喔喔嗷呜
+	* Bilibili账号：喔喔喔嗷嗚
 	* Youtube账号：Aww Linguistics
 
 # 草书笔画与规律
