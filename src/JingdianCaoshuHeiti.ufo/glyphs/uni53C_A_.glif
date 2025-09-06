@@ -22,9 +22,9 @@ cid11862
       <point x="353" y="709" type="line"/>
       <point x="316" y="447"/>
       <point x="253" y="246"/>
-      <point x="35" y="-2" type="curve"/>
-      <point x="91" y="-66" type="line"/>
-      <point x="337" y="227"/>
+      <point x="35" y="-12" type="curve"/>
+      <point x="101" y="-66" type="line"/>
+      <point x="331" y="217"/>
       <point x="390" y="421"/>
       <point x="431" y="709" type="curve"/>
       <point x="647" y="709" type="line"/>
@@ -51,7 +51,7 @@ cid11862
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-20 16:43:06 +0000</string>
+      <string>2025-09-02 01:07:55 +0000</string>
     </dict>
   </lib>
 </glyph>

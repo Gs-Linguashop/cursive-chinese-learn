@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
+  <advance width="401"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="360" y="76" type="line"/>
+      <point x="262" y="79"/>
+      <point x="219" y="86"/>
+      <point x="219" y="201" type="curve"/>
+      <point x="219" y="442" type="line"/>
+      <point x="334" y="442" type="line"/>
+      <point x="334" y="526" type="line"/>
+      <point x="219" y="526" type="line"/>
+      <point x="219" y="686" type="line"/>
+      <point x="131" y="686" type="line"/>
+      <point x="131" y="526" type="line"/>
+      <point x="30" y="526" type="line"/>
+      <point x="30" y="442" type="line"/>
+      <point x="131" y="442" type="line"/>
+      <point x="131" y="211" type="line"/>
+      <point x="131" y="71"/>
+      <point x="152" y="-6"/>
+      <point x="360" y="-6" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-06 00:25:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -7,17 +7,7 @@ cid11124
 </note>
   <outline>
     <contour>
-      <point x="71" y="-53" type="line"/>
-      <point x="932" y="-53" type="line"/>
-      <point x="932" y="21" type="line"/>
-      <point x="591" y="21" type="line"/>
-      <point x="591" y="273" type="line"/>
-      <point x="748" y="273" type="line"/>
       <point x="748" y="348" type="line"/>
-      <point x="591" y="348" type="line"/>
-      <point x="591" y="638" type="line"/>
-      <point x="512" y="638" type="line"/>
-      <point x="512" y="348" type="line"/>
       <point x="226" y="348" type="line"/>
       <point x="302" y="508"/>
       <point x="364" y="663"/>
@@ -31,9 +21,7 @@ cid11124
       <point x="113" y="337" type="curve"/>
       <point x="148" y="266" type="line"/>
       <point x="172" y="273" type="line"/>
-      <point x="512" y="273" type="line"/>
-      <point x="512" y="21" type="line"/>
-      <point x="71" y="21" type="line"/>
+      <point x="748" y="273" type="line"/>
     </contour>
     <contour>
       <point x="848" y="336" type="curve"/>
@@ -45,11 +33,21 @@ cid11124
       <point x="796" y="525"/>
       <point x="827" y="428"/>
     </contour>
+    <contour>
+      <point x="591" y="21" type="line"/>
+      <point x="591" y="638" type="line"/>
+      <point x="512" y="638" type="line"/>
+      <point x="512" y="21" type="line"/>
+      <point x="71" y="21" type="line"/>
+      <point x="71" y="-53" type="line"/>
+      <point x="932" y="-53" type="line"/>
+      <point x="932" y="21" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-27 02:19:27 +0000</string>
+      <string>2025-09-05 00:52:10 +0000</string>
     </dict>
   </lib>
 </glyph>

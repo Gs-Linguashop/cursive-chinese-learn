@@ -66,40 +66,36 @@ cid38506
       <point x="632" y="628"/>
     </contour>
     <contour>
-      <point x="160" y="828" type="curve"/>
-      <point x="105" y="786" type="line"/>
-      <point x="155" y="733"/>
-      <point x="217" y="661"/>
-      <point x="245" y="615" type="curve"/>
-      <point x="302" y="663" type="line"/>
-      <point x="273" y="708"/>
-      <point x="210" y="778"/>
+      <point x="149" y="803" type="curve"/>
+      <point x="97" y="756" type="line"/>
+      <point x="151" y="709"/>
+      <point x="211" y="651"/>
+      <point x="241" y="610" type="curve"/>
+      <point x="295" y="662" type="line"/>
+      <point x="263" y="702"/>
+      <point x="203" y="759"/>
     </contour>
     <contour>
-      <point x="278" y="539" type="line"/>
-      <point x="249" y="529" type="line"/>
-      <point x="46" y="529" type="line"/>
-      <point x="46" y="456" type="line"/>
-      <point x="220" y="456" type="line"/>
-      <point x="165" y="329"/>
-      <point x="133" y="157"/>
-      <point x="130" y="75" type="curve" smooth="yes"/>
-      <point x="128" y="24"/>
-      <point x="114" y="1"/>
-      <point x="96" y="-14" type="curve"/>
-      <point x="138" y="-69" type="line"/>
-      <point x="354" y="84" type="line"/>
-      <point x="332" y="148" type="line"/>
-      <point x="194" y="59" type="line"/>
-      <point x="206" y="192"/>
-      <point x="245" y="348"/>
-      <point x="308" y="481" type="curve"/>
+      <point x="130" y="15" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="308" y="491" type="line"/>
+      <point x="254" y="522" type="line"/>
+      <point x="229" y="509" type="line"/>
+      <point x="46" y="509" type="line"/>
+      <point x="46" y="436" type="line"/>
+      <point x="220" y="436" type="line"/>
+    </contour>
+    <contour>
+      <point x="322" y="153" type="line"/>
+      <point x="56" y="-4" type="line"/>
+      <point x="88" y="-79" type="line"/>
+      <point x="354" y="94" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-30 20:16:45 +0000</string>
+      <string>2025-09-03 00:19:09 +0000</string>
     </dict>
   </lib>
 </glyph>

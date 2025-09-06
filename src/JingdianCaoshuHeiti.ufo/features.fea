@@ -1,3 +1,13 @@
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
 
+feature liga {
+lookupflag IgnoreMarks;
+sub f f i by ffi;
+sub f f l by ffl;
+sub f f by ff;
+sub f i by fi;
+sub f l by fl;
+sub f t by longst;
+} liga;
+

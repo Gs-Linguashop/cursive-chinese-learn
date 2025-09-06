@@ -5,13 +5,13 @@
     <key>ascender</key>
     <integer>880</integer>
     <key>capHeight</key>
-    <integer>0</integer>
+    <integer>750</integer>
     <key>copyright</key>
     <string>Copyright (c) 2025, Ziqi Zhou, with Reserved Font Name "Jingdian Caoshu Heiti".</string>
     <key>descender</key>
     <integer>-120</integer>
     <key>familyName</key>
-    <string>經典草書黑體</string>
+    <string>经典草书黑体</string>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -21,7 +21,7 @@
     <key>openTypeHheaDescender</key>
     <integer>-260</integer>
     <key>openTypeNameDesigner</key>
-    <string>周子祺</string>
+    <string>周子祺Ziqi Zhou, Latin glyphs by Ahsan Ahmadzai</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1.</string>
     <key>openTypeNameLicenseURL</key>
@@ -48,18 +48,11 @@
     <integer>260</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <integer>-16</integer>
       <integer>0</integer>
-      <integer>880</integer>
-      <integer>896</integer>
+      <integer>0</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>NewFont-Regular</string>
-    <key>postscriptOtherBlues</key>
-    <array>
-      <integer>-136</integer>
-      <integer>-120</integer>
-    </array>
+    <string>JingdianCaoshuHeiti-Regular</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
@@ -71,6 +64,6 @@
     <key>versionMinor</key>
     <integer>0</integer>
     <key>xHeight</key>
-    <integer>0</integer>
+    <integer>526</integer>
   </dict>
 </plist>

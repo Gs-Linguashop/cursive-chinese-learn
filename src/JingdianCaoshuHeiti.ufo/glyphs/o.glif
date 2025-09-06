@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="608"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="305" y="-5" type="curve"/>
+      <point x="453" y="-5"/>
+      <point x="562" y="103"/>
+      <point x="562" y="267" type="curve"/>
+      <point x="562" y="428"/>
+      <point x="453" y="543"/>
+      <point x="305" y="543" type="curve"/>
+      <point x="153" y="543"/>
+      <point x="46" y="428"/>
+      <point x="46" y="267" type="curve"/>
+      <point x="46" y="103"/>
+      <point x="153" y="-5"/>
+    </contour>
+    <contour>
+      <point x="305" y="77" type="curve"/>
+      <point x="197" y="77"/>
+      <point x="133" y="164"/>
+      <point x="133" y="267" type="curve"/>
+      <point x="133" y="369"/>
+      <point x="197" y="459"/>
+      <point x="305" y="459" type="curve"/>
+      <point x="410" y="459"/>
+      <point x="475" y="369"/>
+      <point x="475" y="267" type="curve"/>
+      <point x="475" y="165"/>
+      <point x="410" y="77"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-06 00:23:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

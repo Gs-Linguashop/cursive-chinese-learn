@@ -16,6 +16,64 @@
     <true/>
     <key>public.glyphOrder</key>
     <array>
+      <string>A</string>
+      <string>B</string>
+      <string>C</string>
+      <string>D</string>
+      <string>E</string>
+      <string>F</string>
+      <string>G</string>
+      <string>H</string>
+      <string>I</string>
+      <string>J</string>
+      <string>K</string>
+      <string>L</string>
+      <string>M</string>
+      <string>N</string>
+      <string>O</string>
+      <string>P</string>
+      <string>Q</string>
+      <string>R</string>
+      <string>S</string>
+      <string>T</string>
+      <string>U</string>
+      <string>V</string>
+      <string>W</string>
+      <string>X</string>
+      <string>Y</string>
+      <string>Z</string>
+      <string>a</string>
+      <string>b</string>
+      <string>c</string>
+      <string>d</string>
+      <string>e</string>
+      <string>f</string>
+      <string>g</string>
+      <string>h</string>
+      <string>i</string>
+      <string>j</string>
+      <string>k</string>
+      <string>l</string>
+      <string>m</string>
+      <string>n</string>
+      <string>o</string>
+      <string>p</string>
+      <string>q</string>
+      <string>r</string>
+      <string>s</string>
+      <string>t</string>
+      <string>u</string>
+      <string>v</string>
+      <string>w</string>
+      <string>x</string>
+      <string>y</string>
+      <string>z</string>
+      <string>ff</string>
+      <string>ffi</string>
+      <string>ffl</string>
+      <string>fi</string>
+      <string>fl</string>
+      <string>longst</string>
       <string>uni3405</string>
       <string>uni340C</string>
       <string>uni342C</string>
@@ -72,6 +130,7 @@
       <string>uni4E3B</string>
       <string>uni4E3D</string>
       <string>uni4E3F</string>
+      <string>uni4E43</string>
       <string>uni4E45</string>
       <string>uni4E47</string>
       <string>uni4E48</string>
@@ -395,6 +454,7 @@
       <string>uni582F</string>
       <string>uni5831</string>
       <string>uni585E</string>
+      <string>uni5875</string>
       <string>uni5899</string>
       <string>uni58A8</string>
       <string>uni58EB</string>
@@ -460,33 +520,112 @@
       <string>uni5B30</string>
       <string>uni5B32</string>
       <string>uni5B50</string>
+      <string>uni5B51</string>
+      <string>uni5B53</string>
+      <string>uni5B54</string>
+      <string>uni5B55</string>
       <string>uni5B57</string>
+      <string>uni5B58</string>
+      <string>uni5B5A</string>
+      <string>uni5B5B</string>
+      <string>uni5B5D</string>
+      <string>uni5B5F</string>
+      <string>uni5B63</string>
+      <string>uni5B68</string>
+      <string>uni5B70</string>
       <string>uni5B78</string>
+      <string>uni5B80</string>
+      <string>uni5B81</string>
       <string>uni5B83</string>
+      <string>uni5B85</string>
+      <string>uni5B88</string>
       <string>uni5B89</string>
+      <string>uni5B8B</string>
       <string>uni5B8C</string>
+      <string>uni5B93</string>
+      <string>uni5B95</string>
+      <string>uni5B97</string>
       <string>uni5B98</string>
       <string>uni5B9A</string>
+      <string>uni5B9B</string>
+      <string>uni5B9C</string>
+      <string>uni5BA3</string>
+      <string>uni5BA4</string>
+      <string>uni5BA6</string>
+      <string>uni5BAB</string>
+      <string>uni5BB0</string>
+      <string>uni5BB3</string>
       <string>uni5BB6</string>
       <string>uni5BB9</string>
+      <string>uni5BBF</string>
       <string>uni5BC3</string>
       <string>uni5BC5</string>
+      <string>uni5BC7</string>
+      <string>uni5BD2</string>
+      <string>uni5BE1</string>
       <string>uni5BE6</string>
+      <string>uni5BE7</string>
+      <string>uni5BE9</string>
       <string>uni5BEB</string>
+      <string>uni5BEC</string>
       <string>uni5BF6</string>
+      <string>uni5BF8</string>
       <string>uni5BFA</string>
-      <string>uni5C06</string>
+      <string>uni5BFD</string>
+      <string>uni5C01</string>
+      <string>uni5C03</string>
+      <string>uni5C04</string>
+      <string>uni5C07</string>
       <string>uni5C08</string>
+      <string>uni5C09</string>
+      <string>uni5C0A</string>
+      <string>uni5C0B</string>
       <string>uni5C0C</string>
       <string>uni5C0D</string>
       <string>uni5C0F</string>
       <string>uni5C11</string>
+      <string>uni5C16</string>
       <string>uni5C1A</string>
+      <string>uni5C1E</string>
+      <string>uni5C22</string>
+      <string>uni5C24</string>
+      <string>uni5C28</string>
       <string>uni5C31</string>
+      <string>uni5C39</string>
+      <string>uni5C3A</string>
       <string>uni5C3C</string>
+      <string>uni5C3E</string>
+      <string>uni5C3F</string>
+      <string>uni5C40</string>
+      <string>uni5C45</string>
+      <string>uni5C46</string>
+      <string>uni5C48</string>
+      <string>uni5C4B</string>
+      <string>uni5C51</string>
+      <string>uni5C55</string>
+      <string>uni5C5A</string>
+      <string>uni5C65</string>
+      <string>uni5C6C</string>
+      <string>uni5C6E</string>
+      <string>uni5C6F</string>
+      <string>uni5C70</string>
       <string>uni5C71</string>
+      <string>uni5C91</string>
       <string>uni5CA1</string>
+      <string>uni5CB8</string>
+      <string>uni5CF6</string>
+      <string>uni5D07</string>
+      <string>uni5D14</string>
+      <string>uni5D52</string>
+      <string>uni5D69</string>
+      <string>uni5D6C</string>
+      <string>uni5DC2</string>
+      <string>uni5DDD</string>
+      <string>uni5DDE</string>
+      <string>uni5DDF</string>
       <string>uni5DE0</string>
+      <string>uni5DE2</string>
+      <string>uni5DE4</string>
       <string>uni5DE5</string>
       <string>uni5DF1</string>
       <string>uni5DF2</string>
@@ -514,6 +653,7 @@
       <string>uni5F62</string>
       <string>uni5F80</string>
       <string>uni5F9E</string>
+      <string>uni5FA9</string>
       <string>uni5FB7</string>
       <string>uni5FC3</string>
       <string>uni5FC5</string>
@@ -592,6 +732,7 @@
       <string>uni6BCF</string>
       <string>uni6BD4</string>
       <string>uni6BDA</string>
+      <string>uni6BDB</string>
       <string>uni6BEB</string>
       <string>uni6C11</string>
       <string>uni6C14</string>
@@ -628,6 +769,7 @@
       <string>uni7535</string>
       <string>uni7537</string>
       <string>uni7559</string>
+      <string>uni756A</string>
       <string>uni756B</string>
       <string>uni7576</string>
       <string>uni767C</string>
@@ -670,8 +812,10 @@
       <string>uni8033</string>
       <string>uni8072</string>
       <string>uni807D</string>
+      <string>uni8096</string>
       <string>uni80A1</string>
       <string>uni80FD</string>
+      <string>uni81E3</string>
       <string>uni81E4</string>
       <string>uni81E8</string>
       <string>uni81EA</string>
@@ -710,17 +854,20 @@
       <string>uni8A9E.alt</string>
       <string>uni8B8A</string>
       <string>uni8C46</string>
+      <string>uni8C48</string>
       <string>uni8C4A</string>
       <string>uni8C55</string>
       <string>uni8C61</string>
       <string>uni8C9D</string>
       <string>uni8CB7</string>
+      <string>uni8CD3</string>
       <string>uni8CE3</string>
       <string>uni8D70</string>
       <string>uni8DEF</string>
       <string>uni8EAB</string>
       <string>uni8ECA</string>
       <string>uni8ECD</string>
+      <string>uni8F9B</string>
       <string>uni8FA1</string>
       <string>uni8FB2</string>
       <string>uni9001</string>
@@ -750,6 +897,7 @@
       <string>uni96D9</string>
       <string>uni96DA</string>
       <string>uni96E3</string>
+      <string>uni96E8</string>
       <string>uni9752</string>
       <string>uni975E</string>
       <string>uni9762</string>
@@ -764,10 +912,12 @@
       <string>uni99AC</string>
       <string>uni99AE</string>
       <string>uni9AD8</string>
+      <string>uni9B3C</string>
       <string>uni9CE5</string>
       <string>uni9CE7</string>
       <string>uni9CF3</string>
       <string>uni9E75</string>
+      <string>uni9E7F</string>
       <string>uni9EBB</string>
       <string>uni9ED1</string>
       <string>uni9F13</string>
@@ -787,9 +937,32 @@
       <string>u2B95E</string>
       <string>u2C037</string>
       <string>u2D41F</string>
+      <string>zero</string>
+      <string>one</string>
+      <string>two</string>
+      <string>three</string>
+      <string>four</string>
+      <string>five</string>
+      <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
       <string>space</string>
+      <string>nonmarkingreturn</string>
+      <string>.notdef</string>
+      <string>.null</string>
       <string>comma-han</string>
       <string>period-han</string>
+      <string>period</string>
+      <string>comma</string>
+      <string>colon</string>
+      <string>semicolon</string>
+      <string>exclam</string>
+      <string>exclamdown</string>
+      <string>question</string>
+      <string>asterisk</string>
+      <string>numbersign</string>
+      <string>backslash</string>
       <string>colon.full</string>
       <string>comma.full</string>
       <string>exclam.full</string>
@@ -797,6 +970,14 @@
       <string>quotedbl.full</string>
       <string>quotesingle.full</string>
       <string>semicolon.full</string>
+      <string>hyphenminus</string>
+      <string>underscore</string>
+      <string>parenleft</string>
+      <string>parenright</string>
+      <string>braceleft</string>
+      <string>braceright</string>
+      <string>bracketleft</string>
+      <string>bracketright</string>
       <string>cornerbracketleft</string>
       <string>cornerbracketright</string>
       <string>dblanglebracketleft</string>
@@ -807,6 +988,18 @@
       <string>quotedblright</string>
       <string>quoteleft</string>
       <string>quoteright</string>
+      <string>quotedbl</string>
+      <string>quotesingle</string>
+      <string>ampersand</string>
+      <string>bar</string>
+      <string>brokenbar</string>
+      <string>dollar</string>
+      <string>plus</string>
+      <string>equal</string>
+      <string>greater</string>
+      <string>less</string>
+      <string>asciicircum</string>
+      <string>percent</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

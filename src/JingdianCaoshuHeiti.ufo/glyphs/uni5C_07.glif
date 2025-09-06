@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni5C06" format="2">
+<glyph name="uni5C07" format="2">
   <advance width="1000" height="1000"/>
+  <unicode hex="5C07"/>
   <unicode hex="5C06"/>
   <note>
 cid15720
@@ -80,7 +81,7 @@ cid15720
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-20 16:43:07 +0000</string>
+      <string>2025-09-04 00:35:21 +0000</string>
     </dict>
   </lib>
 </glyph>

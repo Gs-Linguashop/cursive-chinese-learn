@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="1084"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="680" y="0" type="line"/>
+      <point x="788" y="0" type="line"/>
+      <point x="1056" y="750" type="line"/>
+      <point x="960" y="750" type="line"/>
+      <point x="737" y="108" type="line"/>
+      <point x="584" y="755" type="line"/>
+      <point x="500" y="755" type="line"/>
+      <point x="349" y="110" type="line"/>
+      <point x="124" y="750" type="line"/>
+      <point x="28" y="750" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="406" y="0" type="line"/>
+      <point x="542" y="564" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-05 23:52:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>
