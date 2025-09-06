@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="period" format="2">
-  <advance width="234"/>
+  <advance width="256"/>
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="117" y="-15" type="curve" smooth="yes"/>
-      <point x="150" y="-15"/>
-      <point x="176" y="11"/>
-      <point x="176" y="44" type="curve" smooth="yes"/>
-      <point x="176" y="77"/>
-      <point x="150" y="103"/>
-      <point x="117" y="103" type="curve" smooth="yes"/>
-      <point x="84" y="103"/>
-      <point x="58" y="77"/>
-      <point x="58" y="44" type="curve" smooth="yes"/>
-      <point x="58" y="11"/>
-      <point x="84" y="-15"/>
+      <point x="128" y="-15" type="curve" smooth="yes"/>
+      <point x="167" y="-15"/>
+      <point x="198" y="16"/>
+      <point x="198" y="55" type="curve" smooth="yes"/>
+      <point x="198" y="94"/>
+      <point x="167" y="125"/>
+      <point x="128" y="125" type="curve" smooth="yes"/>
+      <point x="89" y="125"/>
+      <point x="58" y="94"/>
+      <point x="58" y="55" type="curve" smooth="yes"/>
+      <point x="58" y="16"/>
+      <point x="89" y="-15"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-09-05 23:08:49 +0000</string>
+      <string>2025-09-06 04:15:30 +0000</string>
     </dict>
   </lib>
 </glyph>

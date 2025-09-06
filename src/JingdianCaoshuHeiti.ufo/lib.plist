@@ -11,7 +11,7 @@
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>3</integer>
     <key>com.schriftgestaltung.useGlyphOrder</key>
-    <false/>
+    <true/>
     <key>com.schriftgestaltung.useNiceNames</key>
     <true/>
     <key>public.glyphOrder</key>
@@ -947,7 +947,6 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
-      <string>space</string>
       <string>nonmarkingreturn</string>
       <string>.notdef</string>
       <string>.null</string>
@@ -970,7 +969,7 @@
       <string>quotedbl.full</string>
       <string>quotesingle.full</string>
       <string>semicolon.full</string>
-      <string>hyphenminus</string>
+      <string>hyphen</string>
       <string>underscore</string>
       <string>parenleft</string>
       <string>parenright</string>
@@ -1000,6 +999,7 @@
       <string>less</string>
       <string>asciicircum</string>
       <string>percent</string>
+      <string>space</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
