@@ -1,339 +1,237 @@
 # 一
-
 ![一](../src/JingdianCaoshuHeiti-svg/uni4E00.svg)
 # 丁
-
 ![丁](../src/JingdianCaoshuHeiti-svg/uni4E01.svg)
 # 七
-
 ![七](../src/JingdianCaoshuHeiti-svg/uni4E03.svg)
 # 万
-
 ![万](../src/JingdianCaoshuHeiti-svg/uni4E07.svg)
 # 丈
-
 ![丈](../src/JingdianCaoshuHeiti-svg/uni4E08.svg)
 # 三
-
 ![三](../src/JingdianCaoshuHeiti-svg/uni4E09.svg)
 # 上
-
 ![上](../src/JingdianCaoshuHeiti-svg/uni4E0A.svg)
 # 下
-
 ![下](../src/JingdianCaoshuHeiti-svg/uni4E0B.svg)
 # 不
-
 ![不](../src/JingdianCaoshuHeiti-svg/uni4E0D.svg)
 # 与
-
 ![与](../src/JingdianCaoshuHeiti-svg/uni4E0E.svg)
 # 丐
-
 ![丐](../src/JingdianCaoshuHeiti-svg/uni4E10.svg)
 # 丑
-
 ![丑](../src/JingdianCaoshuHeiti-svg/uni4E11.svg)
 # 专
-
 ![专](../src/JingdianCaoshuHeiti-svg/uni4E13.svg)
 # 且
-
 ![且](../src/JingdianCaoshuHeiti-svg/uni4E14.svg)
 # 世
-
 ![世](../src/JingdianCaoshuHeiti-svg/uni4E16.svg)
 # 丘
-
 ![丘](../src/JingdianCaoshuHeiti-svg/uni4E18.svg)
 # 丙
-
 ![丙](../src/JingdianCaoshuHeiti-svg/uni4E19.svg)
 # 业
-
 ![业](../src/JingdianCaoshuHeiti-svg/uni4E1A.svg)
 # 丛
 # 东
-
 ![东](../src/JingdianCaoshuHeiti-svg/uni4E1C.svg)
 # 丝
-
 ![丝](../src/JingdianCaoshuHeiti-svg/uni4E1D.svg)
 # 丟
 # 丢
 # 两
-
 ![两](../src/JingdianCaoshuHeiti-svg/uni4E24.svg)
 # 严
-
 ![严](../src/JingdianCaoshuHeiti-svg/uni4E25.svg)
 # 並
-
 ![並](../src/JingdianCaoshuHeiti-svg/uni4E26.svg)
 # 丧
-
 ![丧](../src/JingdianCaoshuHeiti-svg/uni4E27.svg)
 # 个
-
 ![个](../src/JingdianCaoshuHeiti-svg/uni4E2A.svg)
 # 中
-
 ![中](../src/JingdianCaoshuHeiti-svg/uni4E2D.svg)
 # 丰
-
 ![丰](../src/JingdianCaoshuHeiti-svg/uni4E30.svg)
 # 串
 # 临
-
 ![临](../src/JingdianCaoshuHeiti-svg/uni4E34.svg)
 # 丸
-
 ![丸](../src/JingdianCaoshuHeiti-svg/uni4E38.svg)
 # 丹
-
 ![丹](../src/JingdianCaoshuHeiti-svg/uni4E39.svg)
 # 为
-
 ![为](../src/JingdianCaoshuHeiti-svg/uni4E3A.svg)
 # 主
-
 ![主](../src/JingdianCaoshuHeiti-svg/uni4E3B.svg)
 # 丽
-
 ![丽](../src/JingdianCaoshuHeiti-svg/uni4E3D.svg)
 # 举
-
 ![举](../src/JingdianCaoshuHeiti-svg/uni4E3E.svg)
 # 乃
+![乃](../src/JingdianCaoshuHeiti-svg/uni4E43.svg)
 # 久
-
 ![久](../src/JingdianCaoshuHeiti-svg/uni4E45.svg)
 # 么
-
 ![么](../src/JingdianCaoshuHeiti-svg/uni4E48.svg)
 # 义
-
 ![义](../src/JingdianCaoshuHeiti-svg/uni4E49.svg)
 # 之
-
 ![之](../src/JingdianCaoshuHeiti-svg/uni4E4B.svg)
 # 乌
-
 ![乌](../src/JingdianCaoshuHeiti-svg/uni4E4C.svg)
 # 乍
-
 ![乍](../src/JingdianCaoshuHeiti-svg/uni4E4D.svg)
 # 乎
-
 ![乎](../src/JingdianCaoshuHeiti-svg/uni4E4E.svg)
 # 乏
-
 ![乏](../src/JingdianCaoshuHeiti-svg/uni4E4F.svg)
 # 乐
-
 ![乐](../src/JingdianCaoshuHeiti-svg/uni4E50.svg)
 # 乒
-
 ![乒](../src/JingdianCaoshuHeiti-svg/uni4E52.svg)
 # 乓
-
 ![乓](../src/JingdianCaoshuHeiti-svg/uni4E53.svg)
 # 乔
-
 ![乔](../src/JingdianCaoshuHeiti-svg/uni4E54.svg)
 # 乖
-
 ![乖](../src/JingdianCaoshuHeiti-svg/uni4E56.svg)
 # 乘
-
 ![乘](../src/JingdianCaoshuHeiti-svg/uni4E58.svg)
 # 乙
-
 ![乙](../src/JingdianCaoshuHeiti-svg/uni4E59.svg)
 # 九
-
 ![九](../src/JingdianCaoshuHeiti-svg/uni4E5D.svg)
 # 乞
-
 ![乞](../src/JingdianCaoshuHeiti-svg/uni4E5E.svg)
 # 也
-
 ![也](../src/JingdianCaoshuHeiti-svg/uni4E5F.svg)
 # 习
-
 ![习](../src/JingdianCaoshuHeiti-svg/uni4E60.svg)
 # 乡
-
 ![乡](../src/JingdianCaoshuHeiti-svg/uni4E61.svg)
 # 书
-
 ![书](../src/JingdianCaoshuHeiti-svg/uni4E66.svg)
 # 买
-
 ![买](../src/JingdianCaoshuHeiti-svg/uni4E70.svg)
 # 乱
-
 ![乱](../src/JingdianCaoshuHeiti-svg/uni4E71.svg)
 # 乳
-
 ![乳](../src/JingdianCaoshuHeiti-svg/uni4E73.svg)
 # 乾
 # 亂
-
 ![亂](../src/JingdianCaoshuHeiti-svg/uni4E82.svg)
 # 了
-
 ![了](../src/JingdianCaoshuHeiti-svg/uni4E86.svg)
 # 予
-
 ![予](../src/JingdianCaoshuHeiti-svg/uni4E88.svg)
 # 争
-
 ![争](../src/JingdianCaoshuHeiti-svg/uni4E89.svg)
 # 事
-
 ![事](../src/JingdianCaoshuHeiti-svg/uni4E8B.svg)
 # 二
-
 ![二](../src/JingdianCaoshuHeiti-svg/uni4E8C.svg)
 # 于
-
 ![于](../src/JingdianCaoshuHeiti-svg/uni4E8E.svg)
 # 亏
-
 ![亏](../src/JingdianCaoshuHeiti-svg/uni4E8F.svg)
 # 云
-
 ![云](../src/JingdianCaoshuHeiti-svg/uni4E91.svg)
 # 互
-
 ![互](../src/JingdianCaoshuHeiti-svg/uni4E92.svg)
 # 五
-
 ![五](../src/JingdianCaoshuHeiti-svg/uni4E94.svg)
 # 井
-
 ![井](../src/JingdianCaoshuHeiti-svg/uni4E95.svg)
 # 亚
-
 ![亚](../src/JingdianCaoshuHeiti-svg/uni4E9A.svg)
 # 些
-
 ![些](../src/JingdianCaoshuHeiti-svg/uni4E9B.svg)
 # 亞
-
 ![亞](../src/JingdianCaoshuHeiti-svg/uni4E9E.svg)
 # 亡
-
 ![亡](../src/JingdianCaoshuHeiti-svg/uni4EA1.svg)
 # 交
-
 ![交](../src/JingdianCaoshuHeiti-svg/uni4EA4.svg)
 # 亥
-
 ![亥](../src/JingdianCaoshuHeiti-svg/uni4EA5.svg)
 # 亦
-
 ![亦](../src/JingdianCaoshuHeiti-svg/uni4EA6.svg)
 # 产
-
 ![产](../src/JingdianCaoshuHeiti-svg/uni4EA7.svg)
 # 亩
-
 ![亩](../src/JingdianCaoshuHeiti-svg/uni4EA9.svg)
 # 享
-
 ![享](../src/JingdianCaoshuHeiti-svg/uni4EAB.svg)
 # 京
 # 亭
 # 亮
-
 ![亮](../src/JingdianCaoshuHeiti-svg/uni4EAE.svg)
 # 亲
-
 ![亲](../src/JingdianCaoshuHeiti-svg/uni4EB2.svg)
 # 人
-
 ![人](../src/JingdianCaoshuHeiti-svg/uni4EBA.svg)
 # 亿
 # 什
 # 仁
-
 ![仁](../src/JingdianCaoshuHeiti-svg/uni4EC1.svg)
 # 仅
 # 仆
 # 仇
 # 今
-
 ![今](../src/JingdianCaoshuHeiti-svg/uni4ECA.svg)
 # 介
-
 ![介](../src/JingdianCaoshuHeiti-svg/uni4ECB.svg)
 # 仍
 # 从
-
 ![从](../src/JingdianCaoshuHeiti-svg/uni4ECE.svg)
 # 仑
-
 ![仑](../src/JingdianCaoshuHeiti-svg/uni4ED1.svg)
 # 仓
-
 ![仓](../src/JingdianCaoshuHeiti-svg/uni4ED3.svg)
 # 仔
 # 他
 # 仗
 # 付
-
 ![付](../src/JingdianCaoshuHeiti-svg/uni4ED8.svg)
 # 仙
-
 ![仙](../src/JingdianCaoshuHeiti-svg/uni4ED9.svg)
 # 代
-
 ![代](../src/JingdianCaoshuHeiti-svg/uni4EE3.svg)
 # 令
-
 ![令](../src/JingdianCaoshuHeiti-svg/uni4EE4.svg)
 # 以
-
 ![以](../src/JingdianCaoshuHeiti-svg/uni4EE5.svg)
 # 仪
 # 们
 # 仰
 # 仲
 # 件
-
 ![件](../src/JingdianCaoshuHeiti-svg/uni4EF6.svg)
 # 价
 # 任
-
 ![任](../src/JingdianCaoshuHeiti-svg/uni4EFB.svg)
 # 份
 # 仿
 # 企
-
 ![企](../src/JingdianCaoshuHeiti-svg/uni4F01.svg)
 # 伊
-
 ![伊](../src/JingdianCaoshuHeiti-svg/uni4F0A.svg)
 # 伍
 # 伏
-
 ![伏](../src/JingdianCaoshuHeiti-svg/uni4F0F.svg)
 # 伐
-
 ![伐](../src/JingdianCaoshuHeiti-svg/uni4F10.svg)
 # 休
-
 ![休](../src/JingdianCaoshuHeiti-svg/uni4F11.svg)
 # 伕
 # 众
-
 ![众](../src/JingdianCaoshuHeiti-svg/uni4F17.svg)
 # 优
 # 伙
 # 会
-
 ![会](../src/JingdianCaoshuHeiti-svg/uni4F1A.svg)
 # 伞
 # 伟
@@ -352,7 +250,6 @@
 # 但
 # 佈
 # 位
-
 ![位](../src/JingdianCaoshuHeiti-svg/uni4F4D.svg)
 # 低
 # 住
@@ -360,10 +257,8 @@
 # 体
 # 佔
 # 何
-
 ![何](../src/JingdianCaoshuHeiti-svg/uni4F55.svg)
 # 余
-
 ![余](../src/JingdianCaoshuHeiti-svg/uni4F59.svg)
 # 佛
 # 作
@@ -373,17 +268,14 @@
 # 佳
 # 併
 # 使
-
 ![使](../src/JingdianCaoshuHeiti-svg/uni4F7F.svg)
 # 侄
 # 來
-
 ![來](../src/JingdianCaoshuHeiti-svg/uni4F86.svg)
 # 侈
 # 例
 # 侍
 # 侖
-
 ![侖](../src/JingdianCaoshuHeiti-svg/uni4F96.svg)
 # 供
 # 依
@@ -395,11 +287,11 @@
 # 侨
 # 侮
 # 侯
+![侯](../src/JingdianCaoshuHeiti-svg/uni4FAF.svg)
 # 侵
 # 侶
 # 侷
 # 便
-
 ![便](../src/JingdianCaoshuHeiti-svg/uni4FBF.svg)
 # 促
 # 俄
@@ -409,23 +301,19 @@
 # 俗
 # 俘
 # 保
-
 ![保](../src/JingdianCaoshuHeiti-svg/uni4FDD.svg)
 # 俠
 # 信
-
 ![信](../src/JingdianCaoshuHeiti-svg/uni4FE1.svg)
 # 俩
 # 俭
 # 修
-
 ![修](../src/JingdianCaoshuHeiti-svg/uni4FEE.svg)
 # 俯
 # 俱
 # 俺
 # 倆
 # 倉
-
 ![倉](../src/JingdianCaoshuHeiti-svg/uni5009.svg)
 # 個
 # 倍
@@ -463,7 +351,6 @@
 # 傍
 # 傑
 # 傘
-
 ![傘](../src/JingdianCaoshuHeiti-svg/uni5098.svg)
 # 備
 # 储
@@ -494,151 +381,104 @@
 # 優
 # 儲
 # 儿
-
 ![儿](../src/JingdianCaoshuHeiti-svg/uni513F.svg)
 # 允
-
 ![允](../src/JingdianCaoshuHeiti-svg/uni5141.svg)
 # 元
-
 ![元](../src/JingdianCaoshuHeiti-svg/uni5143.svg)
 # 兄
-
 ![兄](../src/JingdianCaoshuHeiti-svg/uni5144.svg)
 # 充
-
 ![充](../src/JingdianCaoshuHeiti-svg/uni5145.svg)
 # 兆
-
 ![兆](../src/JingdianCaoshuHeiti-svg/uni5146.svg)
 # 兇
 # 先
-
 ![先](../src/JingdianCaoshuHeiti-svg/uni5148.svg)
 # 光
-
 ![光](../src/JingdianCaoshuHeiti-svg/uni5149.svg)
 # 克
-
 ![克](../src/JingdianCaoshuHeiti-svg/uni514B.svg)
 # 兌
-
 ![兌](../src/JingdianCaoshuHeiti-svg/uni514C.svg)
 # 免
-
 ![免](../src/JingdianCaoshuHeiti-svg/uni514D.svg)
 # 兑
-
 ![兑](../src/JingdianCaoshuHeiti-svg/uni5151.svg)
 # 兒
-
 ![兒](../src/JingdianCaoshuHeiti-svg/uni5152.svg)
 # 兔
-
 ![兔](../src/JingdianCaoshuHeiti-svg/uni5154.svg)
 # 党
-
 ![党](../src/JingdianCaoshuHeiti-svg/uni515A.svg)
 # 兜
-
 ![兜](../src/JingdianCaoshuHeiti-svg/uni515C.svg)
 # 兢
 # 入
-
 ![入](../src/JingdianCaoshuHeiti-svg/uni5165.svg)
 # 內
-
 ![內](../src/JingdianCaoshuHeiti-svg/uni5167.svg)
 # 全
-
 ![全](../src/JingdianCaoshuHeiti-svg/uni5168.svg)
 # 兩
-
 ![兩](../src/JingdianCaoshuHeiti-svg/uni5169.svg)
 # 八
-
 ![八](../src/JingdianCaoshuHeiti-svg/uni516B.svg)
 # 公
-
 ![公](../src/JingdianCaoshuHeiti-svg/uni516C.svg)
 # 六
-
 ![六](../src/JingdianCaoshuHeiti-svg/uni516D.svg)
 # 兰
 # 共
-
 ![共](../src/JingdianCaoshuHeiti-svg/uni5171.svg)
 # 关
-
 ![关](../src/JingdianCaoshuHeiti-svg/uni5173.svg)
 # 兴
-
 ![兴](../src/JingdianCaoshuHeiti-svg/uni5174.svg)
 # 兵
-
 ![兵](../src/JingdianCaoshuHeiti-svg/uni5175.svg)
 # 其
-
 ![其](../src/JingdianCaoshuHeiti-svg/uni5176.svg)
 # 具
-
 ![具](../src/JingdianCaoshuHeiti-svg/uni5177.svg)
 # 典
-
 ![典](../src/JingdianCaoshuHeiti-svg/uni5178.svg)
 # 养
 # 兼
-
 ![兼](../src/JingdianCaoshuHeiti-svg/uni517C.svg)
 # 兽
-
 ![兽](../src/JingdianCaoshuHeiti-svg/uni517D.svg)
 # 冀
-
 ![冀](../src/JingdianCaoshuHeiti-svg/uni5180.svg)
 # 内
-
 ![内](../src/JingdianCaoshuHeiti-svg/uni5185.svg)
 # 冈
-
 ![冈](../src/JingdianCaoshuHeiti-svg/uni5188.svg)
 # 冊
-
 ![冊](../src/JingdianCaoshuHeiti-svg/uni518A.svg)
 # 册
-
 ![册](../src/JingdianCaoshuHeiti-svg/uni518C.svg)
 # 再
-
 ![再](../src/JingdianCaoshuHeiti-svg/uni518D.svg)
 # 冒
-
 ![冒](../src/JingdianCaoshuHeiti-svg/uni5192.svg)
 # 冕
 # 冗
-
 ![冗](../src/JingdianCaoshuHeiti-svg/uni5197.svg)
 # 写
-
 ![写](../src/JingdianCaoshuHeiti-svg/uni5199.svg)
 # 军
-
 ![军](../src/JingdianCaoshuHeiti-svg/uni519B.svg)
 # 农
-
 ![农](../src/JingdianCaoshuHeiti-svg/uni519C.svg)
 # 冠
 # 冤
-
 ![冤](../src/JingdianCaoshuHeiti-svg/uni51A4.svg)
 # 冬
-
 ![冬](../src/JingdianCaoshuHeiti-svg/uni51AC.svg)
 # 冯
-
 ![冯](../src/JingdianCaoshuHeiti-svg/uni51AF.svg)
 # 冰
-
 ![冰](../src/JingdianCaoshuHeiti-svg/uni51B0.svg)
 # 冲
 # 决
@@ -649,7 +489,6 @@
 # 净
 # 凄
 # 准
-
 ![准](../src/JingdianCaoshuHeiti-svg/uni51C6.svg)
 # 凈
 # 凉
@@ -661,16 +500,12 @@
 # 凜
 # 凝
 # 几
-
 ![几](../src/JingdianCaoshuHeiti-svg/uni51E0.svg)
 # 凡
-
 ![凡](../src/JingdianCaoshuHeiti-svg/uni51E1.svg)
 # 凤
-
 ![凤](../src/JingdianCaoshuHeiti-svg/uni51E4.svg)
 # 凫
-
 ![凫](../src/JingdianCaoshuHeiti-svg/uni51EB.svg)
 # 凭
 # 凯
@@ -678,92 +513,69 @@
 # 凱
 # 凳
 # 凶
-
 ![凶](../src/JingdianCaoshuHeiti-svg/uni51F6.svg)
 # 凸
 # 凹
 # 出
-
 ![出](../src/JingdianCaoshuHeiti-svg/uni51FA.svg)
 # 击
 # 函
-
 ![函](../src/JingdianCaoshuHeiti-svg/uni51FD.svg)
 # 凿
 # 刀
-
 ![刀](../src/JingdianCaoshuHeiti-svg/uni5200.svg)
 # 刁
-
 ![刁](../src/JingdianCaoshuHeiti-svg/uni5201.svg)
 # 刃
-
 ![刃](../src/JingdianCaoshuHeiti-svg/uni5203.svg)
 # 分
-
 ![分](../src/JingdianCaoshuHeiti-svg/uni5206.svg)
 # 切
-
 ![切](../src/JingdianCaoshuHeiti-svg/uni5207.svg)
 # 刊
 # 刑
-
 ![刑](../src/JingdianCaoshuHeiti-svg/uni5211.svg)
 # 划
 # 列
-
 ![列](../src/JingdianCaoshuHeiti-svg/uni5217.svg)
 # 刘
-
 ![刘](../src/JingdianCaoshuHeiti-svg/uni5218.svg)
 # 则
-
 ![则](../src/JingdianCaoshuHeiti-svg/uni5219.svg)
 # 刚
 # 创
 # 初
-
 ![初](../src/JingdianCaoshuHeiti-svg/uni521D.svg)
 # 删
-
 ![删](../src/JingdianCaoshuHeiti-svg/uni5220.svg)
 # 判
 # 別
-
 ![別](../src/JingdianCaoshuHeiti-svg/uni5225.svg)
 # 刨
 # 利
-
 ![利](../src/JingdianCaoshuHeiti-svg/uni5229.svg)
 # 刪
-
 ![刪](../src/JingdianCaoshuHeiti-svg/uni522A.svg)
 # 别
-
 ![别](../src/JingdianCaoshuHeiti-svg/uni522B.svg)
 # 刮
 # 到
 # 制
-
 ![制](../src/JingdianCaoshuHeiti-svg/uni5236.svg)
 # 刷
-
 ![刷](../src/JingdianCaoshuHeiti-svg/uni5237.svg)
 # 券
 # 刹
 # 刺
-
 ![刺](../src/JingdianCaoshuHeiti-svg/uni523A.svg)
 # 刻
 # 刽
 # 剂
 # 剃
 # 則
-
 ![則](../src/JingdianCaoshuHeiti-svg/uni5247.svg)
 # 削
 # 前
-
 ![前](../src/JingdianCaoshuHeiti-svg/uni524D.svg)
 # 剎
 # 剑
@@ -783,38 +595,30 @@
 # 劇
 # 劈
 # 劉
-
 ![劉](../src/JingdianCaoshuHeiti-svg/uni5289.svg)
 # 劊
 # 劍
 # 劑
 # 力
-
 ![力](../src/JingdianCaoshuHeiti-svg/uni529B.svg)
 # 劝
 # 办
 # 功
 # 加
-
 ![加](../src/JingdianCaoshuHeiti-svg/uni52A0.svg)
 # 务
-
 ![务](../src/JingdianCaoshuHeiti-svg/uni52A1.svg)
 # 劣
-
 ![劣](../src/JingdianCaoshuHeiti-svg/uni52A3.svg)
 # 动
 # 助
-
 ![助](../src/JingdianCaoshuHeiti-svg/uni52A9.svg)
 # 努
 # 劫
-
 ![劫](../src/JingdianCaoshuHeiti-svg/uni52AB.svg)
 # 励
 # 劲
 # 劳
-
 ![劳](../src/JingdianCaoshuHeiti-svg/uni52B3.svg)
 # 势
 # 勁
@@ -823,17 +627,14 @@
 # 勉
 # 勋
 # 勒
-
 ![勒](../src/JingdianCaoshuHeiti-svg/uni52D2.svg)
 # 動
 # 勘
 # 務
-
 ![務](../src/JingdianCaoshuHeiti-svg/uni52D9.svg)
 # 勛
 # 勝
 # 勞
-
 ![勞](../src/JingdianCaoshuHeiti-svg/uni52DE.svg)
 # 募
 # 勢
@@ -843,260 +644,189 @@
 # 勵
 # 勸
 # 勺
-
 ![勺](../src/JingdianCaoshuHeiti-svg/uni52FA.svg)
 # 勻
-
 ![勻](../src/JingdianCaoshuHeiti-svg/uni52FB.svg)
 # 勾
-
 ![勾](../src/JingdianCaoshuHeiti-svg/uni52FE.svg)
 # 勿
-
 ![勿](../src/JingdianCaoshuHeiti-svg/uni52FF.svg)
 # 匀
-
 ![匀](../src/JingdianCaoshuHeiti-svg/uni5300.svg)
 # 包
-
 ![包](../src/JingdianCaoshuHeiti-svg/uni5305.svg)
 # 匆
-
 ![匆](../src/JingdianCaoshuHeiti-svg/uni5306.svg)
 # 匈
 # 匕
-
 ![匕](../src/JingdianCaoshuHeiti-svg/uni5315.svg)
 # 化
-
 ![化](../src/JingdianCaoshuHeiti-svg/uni5316.svg)
 # 北
-
 ![北](../src/JingdianCaoshuHeiti-svg/uni5317.svg)
 # 匙
 # 匠
-
 ![匠](../src/JingdianCaoshuHeiti-svg/uni5320.svg)
 # 匣
 # 匪
 # 匯
 # 匹
-
 ![匹](../src/JingdianCaoshuHeiti-svg/uni5339.svg)
 # 区
-
 ![区](../src/JingdianCaoshuHeiti-svg/uni533A.svg)
 # 医
-
 ![医](../src/JingdianCaoshuHeiti-svg/uni533B.svg)
 # 匾
 # 匿
 # 區
-
 ![區](../src/JingdianCaoshuHeiti-svg/uni5340.svg)
 # 十
-
 ![十](../src/JingdianCaoshuHeiti-svg/uni5341.svg)
 # 千
-
 ![千](../src/JingdianCaoshuHeiti-svg/uni5343.svg)
 # 升
-
 ![升](../src/JingdianCaoshuHeiti-svg/uni5347.svg)
 # 午
-
 ![午](../src/JingdianCaoshuHeiti-svg/uni5348.svg)
 # 半
-
 ![半](../src/JingdianCaoshuHeiti-svg/uni534A.svg)
 # 华
 # 协
 # 卑
-
 ![卑](../src/JingdianCaoshuHeiti-svg/uni5351.svg)
 # 卒
-
 ![卒](../src/JingdianCaoshuHeiti-svg/uni5352.svg)
 # 卓
-
 ![卓](../src/JingdianCaoshuHeiti-svg/uni5353.svg)
 # 協
 # 单
-
 ![单](../src/JingdianCaoshuHeiti-svg/uni5355.svg)
 # 卖
-
 ![卖](../src/JingdianCaoshuHeiti-svg/uni5356.svg)
 # 南
-
 ![南](../src/JingdianCaoshuHeiti-svg/uni5357.svg)
 # 博
 # 卜
-
 ![卜](../src/JingdianCaoshuHeiti-svg/uni535C.svg)
 # 占
-
 ![占](../src/JingdianCaoshuHeiti-svg/uni5360.svg)
 # 卡
-
 ![卡](../src/JingdianCaoshuHeiti-svg/uni5361.svg)
 # 卢
-
 ![卢](../src/JingdianCaoshuHeiti-svg/uni5362.svg)
 # 卤
-
 ![卤](../src/JingdianCaoshuHeiti-svg/uni5364.svg)
 # 卦
 # 卧
 # 卫
 # 印
-
 ![印](../src/JingdianCaoshuHeiti-svg/uni5370.svg)
 # 危
-
 ![危](../src/JingdianCaoshuHeiti-svg/uni5371.svg)
 # 即
-
 ![即](../src/JingdianCaoshuHeiti-svg/uni5373.svg)
 # 却
-
 ![却](../src/JingdianCaoshuHeiti-svg/uni5374.svg)
 # 卵
-
 ![卵](../src/JingdianCaoshuHeiti-svg/uni5375.svg)
 # 卷
-
 ![卷](../src/JingdianCaoshuHeiti-svg/uni5377.svg)
 # 卸
-
 ![卸](../src/JingdianCaoshuHeiti-svg/uni5378.svg)
 # 卹
 # 卻
-
 ![卻](../src/JingdianCaoshuHeiti-svg/uni537B.svg)
 # 卿
-
 ![卿](../src/JingdianCaoshuHeiti-svg/uni537F.svg)
 # 厂
-
 ![厂](../src/JingdianCaoshuHeiti-svg/uni5382.svg)
 # 厅
 # 历
-
 ![历](../src/JingdianCaoshuHeiti-svg/uni5386.svg)
 # 厉
-
 ![厉](../src/JingdianCaoshuHeiti-svg/uni5389.svg)
 # 压
 # 厌
-
 ![厌](../src/JingdianCaoshuHeiti-svg/uni538C.svg)
 # 厕
 # 厖
 # 厘
-
 ![厘](../src/JingdianCaoshuHeiti-svg/uni5398.svg)
 # 厚
 # 原
-
 ![原](../src/JingdianCaoshuHeiti-svg/uni539F.svg)
 # 厠
 # 厢
 # 厦
 # 厨
-
 ![厨](../src/JingdianCaoshuHeiti-svg/uni53A8.svg)
 # 厭
-
 ![厭](../src/JingdianCaoshuHeiti-svg/uni53AD.svg)
 # 厲
-
 ![厲](../src/JingdianCaoshuHeiti-svg/uni53B2.svg)
 # 去
-
 ![去](../src/JingdianCaoshuHeiti-svg/uni53BB.svg)
 # 县
-
 ![县](../src/JingdianCaoshuHeiti-svg/uni53BF.svg)
 # 叁
 # 参
+![参](../src/JingdianCaoshuHeiti-svg/uni53C2.svg)
 # 參
-
 ![參](../src/JingdianCaoshuHeiti-svg/uni53C3.svg)
 # 叄
 # 又
-
 ![又](../src/JingdianCaoshuHeiti-svg/uni53C8.svg)
 # 叉
-
 ![叉](../src/JingdianCaoshuHeiti-svg/uni53C9.svg)
 # 及
-
 ![及](../src/JingdianCaoshuHeiti-svg/uni53CA.svg)
 # 友
-
 ![友](../src/JingdianCaoshuHeiti-svg/uni53CB.svg)
 # 双
+![双](../src/JingdianCaoshuHeiti-svg/uni53CC.svg)
 # 反
-
 ![反](../src/JingdianCaoshuHeiti-svg/uni53CD.svg)
 # 发
-
 ![发](../src/JingdianCaoshuHeiti-svg/uni53D1.svg)
 # 叔
-
 ![叔](../src/JingdianCaoshuHeiti-svg/uni53D4.svg)
 # 取
-
 ![取](../src/JingdianCaoshuHeiti-svg/uni53D6.svg)
 # 受
-
 ![受](../src/JingdianCaoshuHeiti-svg/uni53D7.svg)
 # 变
-
 ![变](../src/JingdianCaoshuHeiti-svg/uni53D8.svg)
 # 叙
 # 叛
 # 叠
 # 叢
 # 口
-
 ![口](../src/JingdianCaoshuHeiti-svg/uni53E3.svg)
 # 古
-
 ![古](../src/JingdianCaoshuHeiti-svg/uni53E4.svg)
 # 句
-
 ![句](../src/JingdianCaoshuHeiti-svg/uni53E5.svg)
 # 另
 # 叨
 # 只
-
 ![只](../src/JingdianCaoshuHeiti-svg/uni53EA.svg)
 # 叫
 # 召
-
 ![召](../src/JingdianCaoshuHeiti-svg/uni53EC.svg)
 # 叭
 # 叮
 # 可
-
 ![可](../src/JingdianCaoshuHeiti-svg/uni53EF.svg)
 # 台
-
 ![台](../src/JingdianCaoshuHeiti-svg/uni53F0.svg)
 # 史
-
 ![史](../src/JingdianCaoshuHeiti-svg/uni53F2.svg)
 # 右
-
 ![右](../src/JingdianCaoshuHeiti-svg/uni53F3.svg)
 # 叶
 # 号
-
 ![号](../src/JingdianCaoshuHeiti-svg/uni53F7.svg)
 # 司
-
 ![司](../src/JingdianCaoshuHeiti-svg/uni53F8.svg)
 # 叹
 # 叼
@@ -1104,60 +834,44 @@
 # 吁
 # 吃
 # 各
-
 ![各](../src/JingdianCaoshuHeiti-svg/uni5404.svg)
 # 吆
 # 合
-
 ![合](../src/JingdianCaoshuHeiti-svg/uni5408.svg)
 # 吉
-
 ![吉](../src/JingdianCaoshuHeiti-svg/uni5409.svg)
 # 吊
-
 ![吊](../src/JingdianCaoshuHeiti-svg/uni540A.svg)
 # 同
-
 ![同](../src/JingdianCaoshuHeiti-svg/uni540C.svg)
 # 名
-
 ![名](../src/JingdianCaoshuHeiti-svg/uni540D.svg)
 # 后
-
 ![后](../src/JingdianCaoshuHeiti-svg/uni540E.svg)
 # 吏
-
 ![吏](../src/JingdianCaoshuHeiti-svg/uni540F.svg)
 # 吐
 # 向
-
 ![向](../src/JingdianCaoshuHeiti-svg/uni5411.svg)
 # 吓
 # 吕
-
 ![吕](../src/JingdianCaoshuHeiti-svg/uni5415.svg)
 # 吗
 # 君
-
 ![君](../src/JingdianCaoshuHeiti-svg/uni541B.svg)
 # 吝
-
 ![吝](../src/JingdianCaoshuHeiti-svg/uni541D.svg)
 # 吞
-
 ![吞](../src/JingdianCaoshuHeiti-svg/uni541E.svg)
 # 吟
 # 吠
-
 ![吠](../src/JingdianCaoshuHeiti-svg/uni5420.svg)
 # 否
-
 ![否](../src/JingdianCaoshuHeiti-svg/uni5426.svg)
 # 吧
 # 吨
 # 吩
 # 含
-
 ![含](../src/JingdianCaoshuHeiti-svg/uni542B.svg)
 # 听
 # 吭
@@ -1165,49 +879,39 @@
 # 启
 # 吱
 # 吳
-
 ![吳](../src/JingdianCaoshuHeiti-svg/uni5433.svg)
 # 吴
-
 ![吴](../src/JingdianCaoshuHeiti-svg/uni5434.svg)
 # 吵
 # 吶
 # 吸
 # 吹
-
 ![吹](../src/JingdianCaoshuHeiti-svg/uni5439.svg)
 # 吻
 # 吼
 # 呀
 # 呂
-
 ![呂](../src/JingdianCaoshuHeiti-svg/uni5442.svg)
 # 呆
 # 呈
-
 ![呈](../src/JingdianCaoshuHeiti-svg/uni5448.svg)
 # 告
-
 ![告](../src/JingdianCaoshuHeiti-svg/uni544A.svg)
 # 呐
 # 呕
 # 员
-
 ![员](../src/JingdianCaoshuHeiti-svg/uni5458.svg)
 # 呛
 # 呜
-
 ![呜](../src/JingdianCaoshuHeiti-svg/uni545C.svg)
 # 呢
 # 周
-
 ![周](../src/JingdianCaoshuHeiti-svg/uni5468.svg)
 # 味
 # 呵
 # 呻
 # 呼
 # 命
-
 ![命](../src/JingdianCaoshuHeiti-svg/uni547D.svg)
 # 咆
 # 和
@@ -1222,23 +926,18 @@
 # 咪
 # 咬
 # 咱
-
 ![咱](../src/JingdianCaoshuHeiti-svg/uni54B1.svg)
 # 咳
 # 咸
-
 ![咸](../src/JingdianCaoshuHeiti-svg/uni54B8.svg)
 # 咽
 # 哀
-
 ![哀](../src/JingdianCaoshuHeiti-svg/uni54C0.svg)
 # 品
-
 ![品](../src/JingdianCaoshuHeiti-svg/uni54C1.svg)
 # 哄
 # 哆
 # 哈
-
 ![哈](../src/JingdianCaoshuHeiti-svg/uni54C8.svg)
 # 响
 # 哎
@@ -1246,16 +945,13 @@
 # 哗
 # 哟
 # 員
-
 ![員](../src/JingdianCaoshuHeiti-svg/uni54E1.svg)
 # 哥
-
 ![哥](../src/JingdianCaoshuHeiti-svg/uni54E5.svg)
 # 哨
 # 哩
 # 哪
 # 哭
-
 ![哭](../src/JingdianCaoshuHeiti-svg/uni54ED.svg)
 # 哮
 # 哲
@@ -1266,14 +962,12 @@
 # 唇
 # 唉
 # 唐
-
 ![唐](../src/JingdianCaoshuHeiti-svg/uni5510.svg)
 # 唠
 # 唤
 # 唧
 # 唬
 # 售
-
 ![售](../src/JingdianCaoshuHeiti-svg/uni552E.svg)
 # 唯
 # 唱
@@ -1282,7 +976,6 @@
 # 啃
 # 啄
 # 商
-
 ![商](../src/JingdianCaoshuHeiti-svg/uni5546.svg)
 # 啊
 # 問
@@ -1299,7 +992,6 @@
 # 啼
 # 喂
 # 善
-
 ![善](../src/JingdianCaoshuHeiti-svg/uni5584.svg)
 # 喇
 # 喉
@@ -1307,18 +999,14 @@
 # 喘
 # 喚
 # 喜
-
 ![喜](../src/JingdianCaoshuHeiti-svg/uni559C.svg)
 # 喝
 # 喧
 # 喪
-
 ![喪](../src/JingdianCaoshuHeiti-svg/uni55AA.svg)
 # 喬
-
 ![喬](../src/JingdianCaoshuHeiti-svg/uni55AC.svg)
 # 單
-
 ![單](../src/JingdianCaoshuHeiti-svg/uni55AE.svg)
 # 喲
 # 喳
@@ -1329,7 +1017,6 @@
 # 嗎
 # 嗓
 # 嗚
-
 ![嗚](../src/JingdianCaoshuHeiti-svg/uni55DA.svg)
 # 嗜
 # 嗡
@@ -1342,7 +1029,6 @@
 # 嘉
 # 嘔
 # 嘗
-
 ![嘗](../src/JingdianCaoshuHeiti-svg/uni5617.svg)
 # 嘩
 # 嘮
@@ -1355,10 +1041,8 @@
 # 嘹
 # 嘿
 # 器
-
 ![器](../src/JingdianCaoshuHeiti-svg/uni5668.svg)
 # 噩
-
 ![噩](../src/JingdianCaoshuHeiti-svg/uni5669.svg)
 # 噪
 # 噴
@@ -1367,49 +1051,40 @@
 # 嚎
 # 嚐
 # 嚣
-
 ![嚣](../src/JingdianCaoshuHeiti-svg/uni56A3.svg)
 # 嚥
 # 嚨
 # 嚴
-
 ![嚴](../src/JingdianCaoshuHeiti-svg/uni56B4.svg)
 # 嚷
 # 嚼
 # 囂
-
 ![囂](../src/JingdianCaoshuHeiti-svg/uni56C2.svg)
 # 囉
 # 囊
 # 囑
 # 囚
-
 ![囚](../src/JingdianCaoshuHeiti-svg/uni56DA.svg)
 # 四
-
 ![四](../src/JingdianCaoshuHeiti-svg/uni56DB.svg)
 # 回
-
 ![回](../src/JingdianCaoshuHeiti-svg/uni56DE.svg)
 # 因
-
 ![因](../src/JingdianCaoshuHeiti-svg/uni56E0.svg)
 # 团
 # 囤
 # 囪
-
 ![囪](../src/JingdianCaoshuHeiti-svg/uni56EA.svg)
 # 园
 # 困
-
 ![困](../src/JingdianCaoshuHeiti-svg/uni56F0.svg)
 # 囱
-
 ![囱](../src/JingdianCaoshuHeiti-svg/uni56F1.svg)
 # 围
 # 固
 # 国
 # 图
+![图](../src/JingdianCaoshuHeiti-svg/uni56FE.svg)
 # 圃
 # 圆
 # 圈
@@ -1418,17 +1093,13 @@
 # 園
 # 圓
 # 圖
-
 ![圖](../src/JingdianCaoshuHeiti-svg/uni5716.svg)
 # 團
 # 土
-
 ![土](../src/JingdianCaoshuHeiti-svg/uni571F.svg)
 # 圣
-
 ![圣](../src/JingdianCaoshuHeiti-svg/uni5723.svg)
 # 在
-
 ![在](../src/JingdianCaoshuHeiti-svg/uni5728.svg)
 # 地
 # 场
@@ -1439,7 +1110,6 @@
 # 坎
 # 坏
 # 坐
-
 ![坐](../src/JingdianCaoshuHeiti-svg/uni5750.svg)
 # 坑
 # 块
@@ -1451,14 +1121,12 @@
 # 坠
 # 坡
 # 坤
-
 ![坤](../src/JingdianCaoshuHeiti-svg/uni5764.svg)
 # 坦
 # 坪
 # 坯
 # 坷
 # 垂
-
 ![垂](../src/JingdianCaoshuHeiti-svg/uni5782.svg)
 # 垃
 # 垄
@@ -1472,18 +1140,15 @@
 # 埂
 # 埃
 # 埋
-
 ![埋](../src/JingdianCaoshuHeiti-svg/uni57CB.svg)
 # 城
 # 域
 # 埠
 # 執
-
 ![執](../src/JingdianCaoshuHeiti-svg/uni57F7.svg)
 # 培
 # 基
 # 堂
-
 ![堂](../src/JingdianCaoshuHeiti-svg/uni5802.svg)
 # 堅
 # 堆
@@ -1493,7 +1158,6 @@
 # 堪
 # 堰
 # 報
-
 ![報](../src/JingdianCaoshuHeiti-svg/uni5831.svg)
 # 場
 # 堵
@@ -1503,22 +1167,20 @@
 # 塔
 # 塘
 # 塞
-
 ![塞](../src/JingdianCaoshuHeiti-svg/uni585E.svg)
 # 塢
 # 填
 # 塵
+![塵](../src/JingdianCaoshuHeiti-svg/uni5875.svg)
 # 境
 # 墅
 # 墊
 # 墓
 # 墙
-
 ![墙](../src/JingdianCaoshuHeiti-svg/uni5899.svg)
 # 墜
 # 增
 # 墨
-
 ![墨](../src/JingdianCaoshuHeiti-svg/uni58A8.svg)
 # 墩
 # 墮
@@ -1535,142 +1197,125 @@
 # 壤
 # 壩
 # 士
-
 ![士](../src/JingdianCaoshuHeiti-svg/uni58EB.svg)
 # 壮
 # 壯
 # 声
-
 ![声](../src/JingdianCaoshuHeiti-svg/uni58F0.svg)
 # 壳
 # 壶
-
 ![壶](../src/JingdianCaoshuHeiti-svg/uni58F6.svg)
 # 壹
-
 ![壹](../src/JingdianCaoshuHeiti-svg/uni58F9.svg)
 # 壺
-
 ![壺](../src/JingdianCaoshuHeiti-svg/uni58FA.svg)
 # 壽
-
 ![壽](../src/JingdianCaoshuHeiti-svg/uni58FD.svg)
 # 处
-
 ![处](../src/JingdianCaoshuHeiti-svg/uni5904.svg)
 # 备
-
 ![备](../src/JingdianCaoshuHeiti-svg/uni5907.svg)
 # 复
-
 ![复](../src/JingdianCaoshuHeiti-svg/uni590D.svg)
 # 夏
-
 ![夏](../src/JingdianCaoshuHeiti-svg/uni590F.svg)
 # 夕
-
 ![夕](../src/JingdianCaoshuHeiti-svg/uni5915.svg)
 # 外
-
 ![外](../src/JingdianCaoshuHeiti-svg/uni5916.svg)
 # 多
-
 ![多](../src/JingdianCaoshuHeiti-svg/uni591A.svg)
 # 夜
-
 ![夜](../src/JingdianCaoshuHeiti-svg/uni591C.svg)
 # 够
 # 夠
 # 夢
-
 ![夢](../src/JingdianCaoshuHeiti-svg/uni5922.svg)
 # 大
-
 ![大](../src/JingdianCaoshuHeiti-svg/uni5927.svg)
 # 天
-
 ![天](../src/JingdianCaoshuHeiti-svg/uni5929.svg)
 # 太
-
 ![太](../src/JingdianCaoshuHeiti-svg/uni592A.svg)
 # 夫
-
 ![夫](../src/JingdianCaoshuHeiti-svg/uni592B.svg)
 # 夭
-
 ![夭](../src/JingdianCaoshuHeiti-svg/uni592D.svg)
 # 央
 # 夯
 # 失
-
 ![失](../src/JingdianCaoshuHeiti-svg/uni5931.svg)
 # 头
-
 ![头](../src/JingdianCaoshuHeiti-svg/uni5934.svg)
 # 夷
-
 ![夷](../src/JingdianCaoshuHeiti-svg/uni5937.svg)
 # 夸
-
 ![夸](../src/JingdianCaoshuHeiti-svg/uni5938.svg)
 # 夹
-
 ![夹](../src/JingdianCaoshuHeiti-svg/uni5939.svg)
 # 夺
-
 ![夺](../src/JingdianCaoshuHeiti-svg/uni593A.svg)
 # 夾
-
 ![夾](../src/JingdianCaoshuHeiti-svg/uni593E.svg)
 # 奄
+![奄](../src/JingdianCaoshuHeiti-svg/uni5944.svg)
 # 奇
-
 ![奇](../src/JingdianCaoshuHeiti-svg/uni5947.svg)
 # 奈
+![奈](../src/JingdianCaoshuHeiti-svg/uni5948.svg)
 # 奉
+![奉](../src/JingdianCaoshuHeiti-svg/uni5949.svg)
 # 奋
+![奋](../src/JingdianCaoshuHeiti-svg/uni594B.svg)
 # 奏
+![奏](../src/JingdianCaoshuHeiti-svg/uni594F.svg)
 # 契
 # 奔
+![奔](../src/JingdianCaoshuHeiti-svg/uni5954.svg)
 # 奕
 # 奖
 # 套
 # 奠
+![奠](../src/JingdianCaoshuHeiti-svg/uni5960.svg)
 # 奢
 # 奥
+![奥](../src/JingdianCaoshuHeiti-svg/uni5965.svg)
 # 奧
+![奧](../src/JingdianCaoshuHeiti-svg/uni5967.svg)
 # 奪
-
 ![奪](../src/JingdianCaoshuHeiti-svg/uni596A.svg)
 # 奬
 # 奮
+![奮](../src/JingdianCaoshuHeiti-svg/uni596E.svg)
 # 女
-
 ![女](../src/JingdianCaoshuHeiti-svg/uni5973.svg)
 # 奴
+![奴](../src/JingdianCaoshuHeiti-svg/uni5974.svg)
 # 奶
 # 奸
 # 她
 # 好
-
 ![好](../src/JingdianCaoshuHeiti-svg/uni597D.svg)
 # 如
-
 ![如](../src/JingdianCaoshuHeiti-svg/uni5982.svg)
 # 妄
 # 妆
 # 妇
+![妇](../src/JingdianCaoshuHeiti-svg/uni5987.svg)
 # 妈
 # 妒
+![妒](../src/JingdianCaoshuHeiti-svg/uni5992.svg)
 # 妓
 # 妖
 # 妙
 # 妝
 # 妥
+![妥](../src/JingdianCaoshuHeiti-svg/uni59A5.svg)
 # 妨
 # 妳
 # 妹
 # 妻
+![妻](../src/JingdianCaoshuHeiti-svg/uni59BB.svg)
 # 姆
 # 姊
 # 始
@@ -1678,8 +1323,10 @@
 # 姑
 # 姓
 # 委
+![委](../src/JingdianCaoshuHeiti-svg/uni59D4.svg)
 # 姚
 # 姜
+![姜](../src/JingdianCaoshuHeiti-svg/uni59DC.svg)
 # 姥
 # 姦
 # 姨
@@ -1687,9 +1334,9 @@
 # 姻
 # 姿
 # 威
+![威](../src/JingdianCaoshuHeiti-svg/uni5A01.svg)
 # 娃
 # 娄
-
 ![娄](../src/JingdianCaoshuHeiti-svg/uni5A04.svg)
 # 娇
 # 娘
@@ -1699,13 +1346,14 @@
 # 娱
 # 娶
 # 婁
-
 ![婁](../src/JingdianCaoshuHeiti-svg/uni5A41.svg)
 # 婆
 # 婉
 # 婚
 # 婦
+![婦](../src/JingdianCaoshuHeiti-svg/uni5A66.svg)
 # 婴
+![婴](../src/JingdianCaoshuHeiti-svg/uni5A74.svg)
 # 婶
 # 婿
 # 媒
@@ -1718,227 +1366,259 @@
 # 嫌
 # 嫡
 # 嫩
+![嫩](../src/JingdianCaoshuHeiti-svg/uni5AE9.svg)
 # 嬉
 # 嬌
 # 嬰
+![嬰](../src/JingdianCaoshuHeiti-svg/uni5B30.svg)
 # 嬸
 # 孃
 # 子
-
 ![子](../src/JingdianCaoshuHeiti-svg/uni5B50.svg)
 # 孔
+![孔](../src/JingdianCaoshuHeiti-svg/uni5B54.svg)
 # 孕
+![孕](../src/JingdianCaoshuHeiti-svg/uni5B55.svg)
 # 字
-
 ![字](../src/JingdianCaoshuHeiti-svg/uni5B57.svg)
 # 存
+![存](../src/JingdianCaoshuHeiti-svg/uni5B58.svg)
 # 孙
+![孙](../src/JingdianCaoshuHeiti-svg/uni5B59.svg)
 # 孝
+![孝](../src/JingdianCaoshuHeiti-svg/uni5B5D.svg)
 # 孟
+![孟](../src/JingdianCaoshuHeiti-svg/uni5B5F.svg)
 # 季
+![季](../src/JingdianCaoshuHeiti-svg/uni5B63.svg)
 # 孤
 # 学
-
 ![学](../src/JingdianCaoshuHeiti-svg/uni5B66.svg)
 # 孩
 # 孫
+![孫](../src/JingdianCaoshuHeiti-svg/uni5B6B.svg)
 # 孵
 # 學
-
 ![學](../src/JingdianCaoshuHeiti-svg/uni5B78.svg)
 # 孽
 # 宁
+![宁](../src/JingdianCaoshuHeiti-svg/uni5B81.svg)
 # 它
-
 ![它](../src/JingdianCaoshuHeiti-svg/uni5B83.svg)
 # 宅
+![宅](../src/JingdianCaoshuHeiti-svg/uni5B85.svg)
 # 宇
 # 守
+![守](../src/JingdianCaoshuHeiti-svg/uni5B88.svg)
 # 安
-
 ![安](../src/JingdianCaoshuHeiti-svg/uni5B89.svg)
 # 宋
+![宋](../src/JingdianCaoshuHeiti-svg/uni5B8B.svg)
 # 完
-
 ![完](../src/JingdianCaoshuHeiti-svg/uni5B8C.svg)
 # 宏
 # 宗
+![宗](../src/JingdianCaoshuHeiti-svg/uni5B97.svg)
 # 官
-
 ![官](../src/JingdianCaoshuHeiti-svg/uni5B98.svg)
 # 宙
 # 定
-
 ![定](../src/JingdianCaoshuHeiti-svg/uni5B9A.svg)
 # 宛
+![宛](../src/JingdianCaoshuHeiti-svg/uni5B9B.svg)
 # 宜
+![宜](../src/JingdianCaoshuHeiti-svg/uni5B9C.svg)
 # 宝
-
 ![宝](../src/JingdianCaoshuHeiti-svg/uni5B9D.svg)
 # 实
-
 ![实](../src/JingdianCaoshuHeiti-svg/uni5B9E.svg)
 # 宠
 # 审
 # 客
 # 宣
+![宣](../src/JingdianCaoshuHeiti-svg/uni5BA3.svg)
 # 室
+![室](../src/JingdianCaoshuHeiti-svg/uni5BA4.svg)
 # 宦
+![宦](../src/JingdianCaoshuHeiti-svg/uni5BA6.svg)
 # 宪
 # 宫
+![宫](../src/JingdianCaoshuHeiti-svg/uni5BAB.svg)
 # 宮
 # 宰
+![宰](../src/JingdianCaoshuHeiti-svg/uni5BB0.svg)
 # 害
+![害](../src/JingdianCaoshuHeiti-svg/uni5BB3.svg)
 # 宴
 # 宵
 # 家
-
 ![家](../src/JingdianCaoshuHeiti-svg/uni5BB6.svg)
 # 容
-
 ![容](../src/JingdianCaoshuHeiti-svg/uni5BB9.svg)
 # 宽
+![宽](../src/JingdianCaoshuHeiti-svg/uni5BBD.svg)
 # 宾
+![宾](../src/JingdianCaoshuHeiti-svg/uni5BBE.svg)
 # 宿
+![宿](../src/JingdianCaoshuHeiti-svg/uni5BBF.svg)
 # 寂
 # 寄
 # 密
 # 寇
+![寇](../src/JingdianCaoshuHeiti-svg/uni5BC7.svg)
 # 富
 # 寒
+![寒](../src/JingdianCaoshuHeiti-svg/uni5BD2.svg)
 # 寓
 # 寝
 # 寞
 # 察
 # 寡
+![寡](../src/JingdianCaoshuHeiti-svg/uni5BE1.svg)
 # 寢
 # 寥
 # 實
-
 ![實](../src/JingdianCaoshuHeiti-svg/uni5BE6.svg)
 # 寧
+![寧](../src/JingdianCaoshuHeiti-svg/uni5BE7.svg)
 # 寨
 # 審
+![審](../src/JingdianCaoshuHeiti-svg/uni5BE9.svg)
 # 寫
-
 ![寫](../src/JingdianCaoshuHeiti-svg/uni5BEB.svg)
 # 寬
+![寬](../src/JingdianCaoshuHeiti-svg/uni5BEC.svg)
 # 寵
 # 寶
-
 ![寶](../src/JingdianCaoshuHeiti-svg/uni5BF6.svg)
 # 寸
+![寸](../src/JingdianCaoshuHeiti-svg/uni5BF8.svg)
 # 对
-
 ![对](../src/JingdianCaoshuHeiti-svg/uni5BF9.svg)
 # 寺
-
 ![寺](../src/JingdianCaoshuHeiti-svg/uni5BFA.svg)
 # 寻
+![寻](../src/JingdianCaoshuHeiti-svg/uni5BFB.svg)
 # 导
 # 寿
 # 封
+![封](../src/JingdianCaoshuHeiti-svg/uni5C01.svg)
 # 射
+![射](../src/JingdianCaoshuHeiti-svg/uni5C04.svg)
 # 将
-
 ![将](../src/JingdianCaoshuHeiti-svg/uni5C06.svg)
 # 將
+![將](../src/JingdianCaoshuHeiti-svg/uni5C07.svg)
 # 專
-
 ![專](../src/JingdianCaoshuHeiti-svg/uni5C08.svg)
 # 尉
+![尉](../src/JingdianCaoshuHeiti-svg/uni5C09.svg)
 # 尊
+![尊](../src/JingdianCaoshuHeiti-svg/uni5C0A.svg)
 # 尋
+![尋](../src/JingdianCaoshuHeiti-svg/uni5C0B.svg)
 # 對
-
 ![對](../src/JingdianCaoshuHeiti-svg/uni5C0D.svg)
 # 導
 # 小
-
 ![小](../src/JingdianCaoshuHeiti-svg/uni5C0F.svg)
 # 少
-
 ![少](../src/JingdianCaoshuHeiti-svg/uni5C11.svg)
 # 尔
-
 ![尔](../src/JingdianCaoshuHeiti-svg/uni5C14.svg)
 # 尖
+![尖](../src/JingdianCaoshuHeiti-svg/uni5C16.svg)
 # 尘
 # 尚
-
 ![尚](../src/JingdianCaoshuHeiti-svg/uni5C1A.svg)
 # 尝
-
 ![尝](../src/JingdianCaoshuHeiti-svg/uni5C1D.svg)
 # 尤
+![尤](../src/JingdianCaoshuHeiti-svg/uni5C24.svg)
 # 就
-
 ![就](../src/JingdianCaoshuHeiti-svg/uni5C31.svg)
 # 尸
+![尸](../src/JingdianCaoshuHeiti-svg/uni5C38.svg)
 # 尺
+![尺](../src/JingdianCaoshuHeiti-svg/uni5C3A.svg)
 # 尼
-
 ![尼](../src/JingdianCaoshuHeiti-svg/uni5C3C.svg)
 # 尽
-
 ![尽](../src/JingdianCaoshuHeiti-svg/uni5C3D.svg)
 # 尾
+![尾](../src/JingdianCaoshuHeiti-svg/uni5C3E.svg)
 # 尿
+![尿](../src/JingdianCaoshuHeiti-svg/uni5C3F.svg)
 # 局
+![局](../src/JingdianCaoshuHeiti-svg/uni5C40.svg)
 # 屁
 # 层
 # 居
+![居](../src/JingdianCaoshuHeiti-svg/uni5C45.svg)
 # 屆
+![屆](../src/JingdianCaoshuHeiti-svg/uni5C46.svg)
 # 屈
+![屈](../src/JingdianCaoshuHeiti-svg/uni5C48.svg)
 # 屉
 # 届
+![届](../src/JingdianCaoshuHeiti-svg/uni5C4A.svg)
 # 屋
+![屋](../src/JingdianCaoshuHeiti-svg/uni5C4B.svg)
 # 屍
 # 屎
 # 屏
 # 屑
+![屑](../src/JingdianCaoshuHeiti-svg/uni5C51.svg)
 # 展
+![展](../src/JingdianCaoshuHeiti-svg/uni5C55.svg)
 # 屜
 # 属
+![属](../src/JingdianCaoshuHeiti-svg/uni5C5E.svg)
 # 屠
 # 屡
 # 屢
 # 層
 # 履
+![履](../src/JingdianCaoshuHeiti-svg/uni5C65.svg)
 # 屬
+![屬](../src/JingdianCaoshuHeiti-svg/uni5C6C.svg)
 # 屯
+![屯](../src/JingdianCaoshuHeiti-svg/uni5C6F.svg)
 # 山
-
 ![山](../src/JingdianCaoshuHeiti-svg/uni5C71.svg)
 # 屹
 # 屿
 # 岁
-
 ![岁](../src/JingdianCaoshuHeiti-svg/uni5C81.svg)
 # 岂
+![岂](../src/JingdianCaoshuHeiti-svg/uni5C82.svg)
 # 岔
 # 岖
 # 岗
 # 岛
+![岛](../src/JingdianCaoshuHeiti-svg/uni5C9B.svg)
 # 岡
-
 ![岡](../src/JingdianCaoshuHeiti-svg/uni5CA1.svg)
 # 岩
 # 岭
 # 岳
 # 岸
+![岸](../src/JingdianCaoshuHeiti-svg/uni5CB8.svg)
 # 峡
 # 峦
 # 峭
 # 峯
 # 峰
 # 島
+![島](../src/JingdianCaoshuHeiti-svg/uni5CF6.svg)
 # 峻
 # 峽
 # 崇
+![崇](../src/JingdianCaoshuHeiti-svg/uni5D07.svg)
 # 崎
 # 崑
 # 崔
+![崔](../src/JingdianCaoshuHeiti-svg/uni5D14.svg)
 # 崖
 # 崗
 # 崙
@@ -1954,11 +1634,13 @@
 # 巒
 # 巖
 # 川
+![川](../src/JingdianCaoshuHeiti-svg/uni5DDD.svg)
 # 州
+![州](../src/JingdianCaoshuHeiti-svg/uni5DDE.svg)
 # 巡
 # 巢
+![巢](../src/JingdianCaoshuHeiti-svg/uni5DE2.svg)
 # 工
-
 ![工](../src/JingdianCaoshuHeiti-svg/uni5DE5.svg)
 # 左
 # 巧
@@ -1967,55 +1649,44 @@
 # 巫
 # 差
 # 己
-
 ![己](../src/JingdianCaoshuHeiti-svg/uni5DF1.svg)
 # 已
-
 ![已](../src/JingdianCaoshuHeiti-svg/uni5DF2.svg)
 # 巴
-
 ![巴](../src/JingdianCaoshuHeiti-svg/uni5DF4.svg)
 # 巷
 # 巾
-
 ![巾](../src/JingdianCaoshuHeiti-svg/uni5DFE.svg)
 # 币
 # 市
-
 ![市](../src/JingdianCaoshuHeiti-svg/uni5E02.svg)
 # 布
-
 ![布](../src/JingdianCaoshuHeiti-svg/uni5E03.svg)
 # 帅
 # 帆
 # 师
-
 ![师](../src/JingdianCaoshuHeiti-svg/uni5E08.svg)
 # 希
-
 ![希](../src/JingdianCaoshuHeiti-svg/uni5E0C.svg)
 # 帐
 # 帕
 # 帖
 # 帘
 # 帚
+![帚](../src/JingdianCaoshuHeiti-svg/uni5E1A.svg)
 # 帜
 # 帝
 # 帥
 # 带
-
 ![带](../src/JingdianCaoshuHeiti-svg/uni5E26.svg)
 # 師
-
 ![師](../src/JingdianCaoshuHeiti-svg/uni5E2B.svg)
 # 席
 # 帮
 # 帳
 # 帶
-
 ![帶](../src/JingdianCaoshuHeiti-svg/uni5E36.svg)
 # 常
-
 ![常](../src/JingdianCaoshuHeiti-svg/uni5E38.svg)
 # 帽
 # 幅
@@ -2027,16 +1698,12 @@
 # 幣
 # 幫
 # 干
-
 ![干](../src/JingdianCaoshuHeiti-svg/uni5E72.svg)
 # 平
-
 ![平](../src/JingdianCaoshuHeiti-svg/uni5E73.svg)
 # 年
-
 ![年](../src/JingdianCaoshuHeiti-svg/uni5E74.svg)
 # 并
-
 ![并](../src/JingdianCaoshuHeiti-svg/uni5E76.svg)
 # 幸
 # 幻
@@ -2051,7 +1718,6 @@
 # 庐
 # 库
 # 应
-
 ![应](../src/JingdianCaoshuHeiti-svg/uni5E94.svg)
 # 底
 # 店
@@ -2060,7 +1726,6 @@
 # 庞
 # 废
 # 度
-
 ![度](../src/JingdianCaoshuHeiti-svg/uni5EA6.svg)
 # 座
 # 庫
@@ -2076,7 +1741,6 @@
 # 廊
 # 廓
 # 廚
-
 ![廚](../src/JingdianCaoshuHeiti-svg/uni5EDA.svg)
 # 廟
 # 廢
@@ -2086,23 +1750,19 @@
 # 廷
 # 建
 # 开
-
 ![开](../src/JingdianCaoshuHeiti-svg/uni5F00.svg)
 # 异
 # 弃
 # 弄
 # 弊
 # 式
-
 ![式](../src/JingdianCaoshuHeiti-svg/uni5F0F.svg)
 # 弓
 # 弔
-
 ![弔](../src/JingdianCaoshuHeiti-svg/uni5F14.svg)
 # 引
 # 弛
 # 弟
-
 ![弟](../src/JingdianCaoshuHeiti-svg/uni5F1F.svg)
 # 张
 # 弥
@@ -2112,22 +1772,18 @@
 # 弱
 # 張
 # 強
-
 ![強](../src/JingdianCaoshuHeiti-svg/uni5F37.svg)
 # 弹
 # 强
-
 ![强](../src/JingdianCaoshuHeiti-svg/uni5F3A.svg)
 # 彈
 # 彌
 # 彎
 # 归
 # 当
-
 ![当](../src/JingdianCaoshuHeiti-svg/uni5F53.svg)
 # 录
 # 形
-
 ![形](../src/JingdianCaoshuHeiti-svg/uni5F62.svg)
 # 彤
 # 彩
@@ -2142,7 +1798,6 @@
 # 彼
 # 彿
 # 往
-
 ![往](../src/JingdianCaoshuHeiti-svg/uni5F80.svg)
 # 征
 # 径
@@ -2157,29 +1812,27 @@
 # 徘
 # 徙
 # 從
-
 ![從](../src/JingdianCaoshuHeiti-svg/uni5F9E.svg)
 # 御
 # 復
+![復](../src/JingdianCaoshuHeiti-svg/uni5FA9.svg)
 # 循
 # 徬
 # 微
 # 德
-
 ![德](../src/JingdianCaoshuHeiti-svg/uni5FB7.svg)
 # 徹
 # 徽
 # 心
-
 ![心](../src/JingdianCaoshuHeiti-svg/uni5FC3.svg)
 # 必
-
 ![必](../src/JingdianCaoshuHeiti-svg/uni5FC5.svg)
 # 忆
 # 忌
 # 忍
 # 志
 # 忘
+![忘](../src/JingdianCaoshuHeiti-svg/uni5FD8.svg)
 # 忙
 # 忠
 # 忧
@@ -2197,18 +1850,15 @@
 # 怖
 # 怜
 # 思
-
 ![思](../src/JingdianCaoshuHeiti-svg/uni601D.svg)
 # 怠
 # 急
-
 ![急](../src/JingdianCaoshuHeiti-svg/uni6025.svg)
 # 性
 # 怨
 # 怪
 # 怯
 # 总
-
 ![总](../src/JingdianCaoshuHeiti-svg/uni603B.svg)
 # 恃
 # 恆
@@ -2270,12 +1920,10 @@
 # 愈
 # 愉
 # 意
-
 ![意](../src/JingdianCaoshuHeiti-svg/uni610F.svg)
 # 愕
 # 愚
 # 愛
-
 ![愛](../src/JingdianCaoshuHeiti-svg/uni611B.svg)
 # 感
 # 愤
@@ -2326,43 +1974,36 @@
 # 懼
 # 戀
 # 戈
-
 ![戈](../src/JingdianCaoshuHeiti-svg/uni6208.svg)
 # 戏
-
 ![戏](../src/JingdianCaoshuHeiti-svg/uni620F.svg)
 # 成
-
 ![成](../src/JingdianCaoshuHeiti-svg/uni6210.svg)
 # 我
-
 ![我](../src/JingdianCaoshuHeiti-svg/uni6211.svg)
 # 戒
 # 或
-
 ![或](../src/JingdianCaoshuHeiti-svg/uni6216.svg)
 # 战
 # 戚
 # 截
 # 戰
 # 戲
-
 ![戲](../src/JingdianCaoshuHeiti-svg/uni6232.svg)
 # 戳
 # 戴
 # 戶
+![戶](../src/JingdianCaoshuHeiti-svg/uni6236.svg)
 # 户
+![户](../src/JingdianCaoshuHeiti-svg/uni6237.svg)
 # 房
 # 所
-
 ![所](../src/JingdianCaoshuHeiti-svg/uni6240.svg)
 # 扁
 # 扇
 # 手
-
 ![手](../src/JingdianCaoshuHeiti-svg/uni624B.svg)
 # 才
-
 ![才](../src/JingdianCaoshuHeiti-svg/uni624D.svg)
 # 扎
 # 扑
@@ -2373,6 +2014,7 @@
 # 扛
 # 扣
 # 执
+![执](../src/JingdianCaoshuHeiti-svg/uni6267.svg)
 # 扩
 # 扫
 # 扬
@@ -2385,7 +2027,6 @@
 # 批
 # 扼
 # 找
-
 ![找](../src/JingdianCaoshuHeiti-svg/uni627E.svg)
 # 承
 # 技
@@ -2405,7 +2046,6 @@
 # 抢
 # 护
 # 报
-
 ![报](../src/JingdianCaoshuHeiti-svg/uni62A5.svg)
 # 披
 # 抬
@@ -2451,7 +2091,6 @@
 # 拼
 # 拾
 # 拿
-
 ![拿](../src/JingdianCaoshuHeiti-svg/uni62FF.svg)
 # 持
 # 挂
@@ -2625,7 +2264,6 @@
 # 攬
 # 支
 # 收
-
 ![收](../src/JingdianCaoshuHeiti-svg/uni6536.svg)
 # 改
 # 攻
@@ -2639,32 +2277,26 @@
 # 敗
 # 敘
 # 教
-
 ![教](../src/JingdianCaoshuHeiti-svg/uni6559.svg)
 # 敛
 # 敞
-
 ![敞](../src/JingdianCaoshuHeiti-svg/uni655E.svg)
 # 敢
 # 散
 # 敦
 # 敬
-
 ![敬](../src/JingdianCaoshuHeiti-svg/uni656C.svg)
 # 数
-
 ![数](../src/JingdianCaoshuHeiti-svg/uni6570.svg)
 # 敲
 # 整
 # 敵
 # 敷
 # 數
-
 ![數](../src/JingdianCaoshuHeiti-svg/uni6578.svg)
 # 斂
 # 斃
 # 文
-
 ![文](../src/JingdianCaoshuHeiti-svg/uni6587.svg)
 # 斋
 # 斑
@@ -2673,7 +2305,6 @@
 # 斜
 # 斟
 # 斤
-
 ![斤](../src/JingdianCaoshuHeiti-svg/uni65A4.svg)
 # 斥
 # 斧
@@ -2681,12 +2312,10 @@
 # 斬
 # 断
 # 斯
-
 ![斯](../src/JingdianCaoshuHeiti-svg/uni65AF.svg)
 # 新
 # 斷
 # 方
-
 ![方](../src/JingdianCaoshuHeiti-svg/uni65B9.svg)
 # 施
 # 旁
@@ -2695,27 +2324,21 @@
 # 族
 # 旗
 # 无
-
 ![无](../src/JingdianCaoshuHeiti-svg/uni65E0.svg)
 # 既
 # 日
-
 ![日](../src/JingdianCaoshuHeiti-svg/uni65E5.svg)
 # 旦
-
 ![旦](../src/JingdianCaoshuHeiti-svg/uni65E6.svg)
 # 旧
 # 旨
-
 ![旨](../src/JingdianCaoshuHeiti-svg/uni65E8.svg)
 # 早
-
 ![早](../src/JingdianCaoshuHeiti-svg/uni65E9.svg)
 # 旬
 # 旭
 # 旱
 # 时
-
 ![时](../src/JingdianCaoshuHeiti-svg/uni65F6.svg)
 # 旷
 # 旺
@@ -2724,16 +2347,13 @@
 # 昇
 # 昌
 # 明
-
 ![明](../src/JingdianCaoshuHeiti-svg/uni660E.svg)
 # 昏
-
 ![昏](../src/JingdianCaoshuHeiti-svg/uni660F.svg)
 # 易
 # 昔
 # 昙
 # 星
-
 ![星](../src/JingdianCaoshuHeiti-svg/uni661F.svg)
 # 映
 # 春
@@ -2741,13 +2361,11 @@
 # 昨
 # 昭
 # 是
-
 ![是](../src/JingdianCaoshuHeiti-svg/uni662F.svg)
 # 昵
 # 昼
 # 显
 # 時
-
 ![時](../src/JingdianCaoshuHeiti-svg/uni6642.svg)
 # 晃
 # 晉
@@ -2763,7 +2381,6 @@
 # 晨
 # 普
 # 景
-
 ![景](../src/JingdianCaoshuHeiti-svg/uni666F.svg)
 # 晰
 # 晴
@@ -2787,34 +2404,25 @@
 # 曠
 # 曬
 # 曲
-
 ![曲](../src/JingdianCaoshuHeiti-svg/uni66F2.svg)
 # 更
-
 ![更](../src/JingdianCaoshuHeiti-svg/uni66F4.svg)
 # 書
-
 ![書](../src/JingdianCaoshuHeiti-svg/uni66F8.svg)
 # 曹
 # 曼
 # 曾
-
 ![曾](../src/JingdianCaoshuHeiti-svg/uni66FE.svg)
 # 替
 # 最
-
 ![最](../src/JingdianCaoshuHeiti-svg/uni6700.svg)
 # 會
-
 ![會](../src/JingdianCaoshuHeiti-svg/uni6703.svg)
 # 月
-
 ![月](../src/JingdianCaoshuHeiti-svg/uni6708.svg)
 # 有
-
 ![有](../src/JingdianCaoshuHeiti-svg/uni6709.svg)
 # 朋
-
 ![朋](../src/JingdianCaoshuHeiti-svg/uni670B.svg)
 # 服
 # 朗
@@ -2824,25 +2432,19 @@
 # 朦
 # 朧
 # 木
-
 ![木](../src/JingdianCaoshuHeiti-svg/uni6728.svg)
 # 未
-
 ![未](../src/JingdianCaoshuHeiti-svg/uni672A.svg)
 # 末
 # 本
-
 ![本](../src/JingdianCaoshuHeiti-svg/uni672C.svg)
 # 朮
-
 ![朮](../src/JingdianCaoshuHeiti-svg/uni672E.svg)
 # 术
-
 ![术](../src/JingdianCaoshuHeiti-svg/uni672F.svg)
 # 朱
 # 朴
 # 朵
-
 ![朵](../src/JingdianCaoshuHeiti-svg/uni6735.svg)
 # 机
 # 朽
@@ -2861,17 +2463,14 @@
 # 束
 # 杠
 # 条
-
 ![条](../src/JingdianCaoshuHeiti-svg/uni6761.svg)
 # 来
-
 ![来](../src/JingdianCaoshuHeiti-svg/uni6765.svg)
 # 杨
 # 杭
 # 杯
 # 杰
 # 東
-
 ![東](../src/JingdianCaoshuHeiti-svg/uni6771.svg)
 # 松
 # 板
@@ -2881,11 +2480,9 @@
 # 析
 # 枕
 # 林
-
 ![林](../src/JingdianCaoshuHeiti-svg/uni6797.svg)
 # 枚
 # 果
-
 ![果](../src/JingdianCaoshuHeiti-svg/uni679C.svg)
 # 枝
 # 枢
@@ -2907,7 +2504,6 @@
 # 柠
 # 查
 # 柬
-
 ![柬](../src/JingdianCaoshuHeiti-svg/uni67EC.svg)
 # 柱
 # 柳
@@ -2951,11 +2547,9 @@
 # 梆
 # 梗
 # 條
-
 ![條](../src/JingdianCaoshuHeiti-svg/uni689D.svg)
 # 梢
 # 梦
-
 ![梦](../src/JingdianCaoshuHeiti-svg/uni68A6.svg)
 # 梧
 # 梨
@@ -2996,7 +2590,6 @@
 # 楞
 # 楣
 # 業
-
 ![業](../src/JingdianCaoshuHeiti-svg/uni696D.svg)
 # 極
 # 楷
@@ -3019,7 +2612,6 @@
 # 槽
 # 樁
 # 樂
-
 ![樂](../src/JingdianCaoshuHeiti-svg/uni6A02.svg)
 # 樊
 # 樑
@@ -3058,7 +2650,6 @@
 # 欖
 # 欠
 # 次
-
 ![次](../src/JingdianCaoshuHeiti-svg/uni6B21.svg)
 # 欢
 # 欣
@@ -3075,25 +2666,20 @@
 # 歡
 # 止
 # 正
-
 ![正](../src/JingdianCaoshuHeiti-svg/uni6B63.svg)
 # 此
-
 ![此](../src/JingdianCaoshuHeiti-svg/uni6B64.svg)
 # 步
-
 ![步](../src/JingdianCaoshuHeiti-svg/uni6B65.svg)
 # 武
 # 歧
 # 歪
 # 歲
-
 ![歲](../src/JingdianCaoshuHeiti-svg/uni6B72.svg)
 # 歷
 # 歸
 # 歹
 # 死
-
 ![死](../src/JingdianCaoshuHeiti-svg/uni6B7B.svg)
 # 歼
 # 殃
@@ -3116,31 +2702,26 @@
 # 毅
 # 毆
 # 母
-
 ![母](../src/JingdianCaoshuHeiti-svg/uni6BCD.svg)
 # 每
-
 ![每](../src/JingdianCaoshuHeiti-svg/uni6BCF.svg)
 # 毒
 # 比
-
 ![比](../src/JingdianCaoshuHeiti-svg/uni6BD4.svg)
 # 毕
 # 毙
 # 毛
+![毛](../src/JingdianCaoshuHeiti-svg/uni6BDB.svg)
 # 毡
 # 毫
-
 ![毫](../src/JingdianCaoshuHeiti-svg/uni6BEB.svg)
 # 毯
 # 氈
 # 氏
 # 民
-
 ![民](../src/JingdianCaoshuHeiti-svg/uni6C11.svg)
 # 氓
 # 气
-
 ![气](../src/JingdianCaoshuHeiti-svg/uni6C14.svg)
 # 氛
 # 氢
@@ -3151,15 +2732,12 @@
 # 氮
 # 氯
 # 水
-
 ![水](../src/JingdianCaoshuHeiti-svg/uni6C34.svg)
 # 永
-
 ![永](../src/JingdianCaoshuHeiti-svg/uni6C38.svg)
 # 氾
 # 汁
 # 求
-
 ![求](../src/JingdianCaoshuHeiti-svg/uni6C42.svg)
 # 汇
 # 汉
@@ -3206,7 +2784,6 @@
 # 泊
 # 泌
 # 法
-
 ![法](../src/JingdianCaoshuHeiti-svg/uni6CD5.svg)
 # 泛
 # 泞
@@ -3227,7 +2804,6 @@
 # 洒
 # 洗
 # 洛
-
 ![洛](../src/JingdianCaoshuHeiti-svg/uni6D1B.svg)
 # 洞
 # 津
@@ -3254,7 +2830,6 @@
 # 浮
 # 浴
 # 海
-
 ![海](../src/JingdianCaoshuHeiti-svg/uni6D77.svg)
 # 浸
 # 涂
@@ -3418,7 +2993,6 @@
 # 灘
 # 灣
 # 火
-
 ![火](../src/JingdianCaoshuHeiti-svg/uni706B.svg)
 # 灭
 # 灯
@@ -3433,7 +3007,6 @@
 # 炉
 # 炊
 # 炎
-
 ![炎](../src/JingdianCaoshuHeiti-svg/uni708E.svg)
 # 炒
 # 炕
@@ -3444,14 +3017,12 @@
 # 炸
 # 点
 # 為
-
 ![為](../src/JingdianCaoshuHeiti-svg/uni70BA.svg)
 # 炼
 # 烁
 # 烂
 # 烈
 # 烏
-
 ![烏](../src/JingdianCaoshuHeiti-svg/uni70CF.svg)
 # 烘
 # 烙
@@ -3468,12 +3039,10 @@
 # 焙
 # 焚
 # 無
-
 ![無](../src/JingdianCaoshuHeiti-svg/uni7121.svg)
 # 焦
 # 焰
 # 然
-
 ![然](../src/JingdianCaoshuHeiti-svg/uni7136.svg)
 # 煉
 # 煌
@@ -3513,21 +3082,16 @@
 # 爐
 # 爛
 # 爪
-
 ![爪](../src/JingdianCaoshuHeiti-svg/uni722A.svg)
 # 爬
 # 爭
-
 ![爭](../src/JingdianCaoshuHeiti-svg/uni722D.svg)
 # 爱
-
 ![爱](../src/JingdianCaoshuHeiti-svg/uni7231.svg)
 # 爲
-
 ![爲](../src/JingdianCaoshuHeiti-svg/uni7232.svg)
 # 爵
 # 父
-
 ![父](../src/JingdianCaoshuHeiti-svg/uni7236.svg)
 # 爷
 # 爸
@@ -3535,19 +3099,16 @@
 # 爺
 # 爽
 # 爾
-
 ![爾](../src/JingdianCaoshuHeiti-svg/uni723E.svg)
 # 牀
 # 牆
 # 片
-
 ![片](../src/JingdianCaoshuHeiti-svg/uni7247.svg)
 # 版
 # 牌
 # 牍
 # 牘
 # 牙
-
 ![牙](../src/JingdianCaoshuHeiti-svg/uni7259.svg)
 # 牛
 # 牠
@@ -3607,14 +3168,12 @@
 # 獲
 # 獵
 # 獸
-
 ![獸](../src/JingdianCaoshuHeiti-svg/uni7378.svg)
 # 獻
 # 玄
 # 率
 # 玉
 # 王
-
 ![王](../src/JingdianCaoshuHeiti-svg/uni738B.svg)
 # 玖
 # 玛
@@ -3653,7 +3212,6 @@
 # 環
 # 瓊
 # 瓜
-
 ![瓜](../src/JingdianCaoshuHeiti-svg/uni74DC.svg)
 # 瓢
 # 瓣
@@ -3665,49 +3223,38 @@
 # 甕
 # 甘
 # 甚
-
 ![甚](../src/JingdianCaoshuHeiti-svg/uni751A.svg)
 # 甜
 # 生
-
 ![生](../src/JingdianCaoshuHeiti-svg/uni751F.svg)
 # 產
-
 ![產](../src/JingdianCaoshuHeiti-svg/uni7522.svg)
 # 産
-
 ![産](../src/JingdianCaoshuHeiti-svg/uni7523.svg)
 # 甥
 # 甦
 # 用
-
 ![用](../src/JingdianCaoshuHeiti-svg/uni7528.svg)
 # 甩
 # 甫
 # 田
 # 由
-
 ![由](../src/JingdianCaoshuHeiti-svg/uni7531.svg)
 # 甲
 # 申
-
 ![申](../src/JingdianCaoshuHeiti-svg/uni7533.svg)
 # 电
-
 ![电](../src/JingdianCaoshuHeiti-svg/uni7535.svg)
 # 男
-
 ![男](../src/JingdianCaoshuHeiti-svg/uni7537.svg)
 # 甸
 # 画
-
 ![画](../src/JingdianCaoshuHeiti-svg/uni753B.svg)
 # 畅
 # 界
 # 畏
 # 畔
 # 留
-
 ![留](../src/JingdianCaoshuHeiti-svg/uni7559.svg)
 # 畜
 # 畝
@@ -3715,13 +3262,12 @@
 # 略
 # 畦
 # 番
+![番](../src/JingdianCaoshuHeiti-svg/uni756A.svg)
 # 畫
-
 ![畫](../src/JingdianCaoshuHeiti-svg/uni756B.svg)
 # 異
 # 畴
 # 當
-
 ![當](../src/JingdianCaoshuHeiti-svg/uni7576.svg)
 # 畸
 # 疆
@@ -3782,20 +3328,16 @@
 # 癱
 # 登
 # 發
-
 ![發](../src/JingdianCaoshuHeiti-svg/uni767C.svg)
 # 白
-
 ![白](../src/JingdianCaoshuHeiti-svg/uni767D.svg)
 # 百
-
 ![百](../src/JingdianCaoshuHeiti-svg/uni767E.svg)
 # 皂
 # 的
 # 皆
 # 皇
 # 皮
-
 ![皮](../src/JingdianCaoshuHeiti-svg/uni76AE.svg)
 # 皱
 # 皺
@@ -3818,24 +3360,19 @@
 # 盞
 # 盟
 # 盡
-
 ![盡](../src/JingdianCaoshuHeiti-svg/uni76E1.svg)
 # 監
 # 盤
 # 盧
-
 ![盧](../src/JingdianCaoshuHeiti-svg/uni76E7.svg)
 # 盪
 # 目
-
 ![目](../src/JingdianCaoshuHeiti-svg/uni76EE.svg)
 # 盯
 # 盲
 # 直
-
 ![直](../src/JingdianCaoshuHeiti-svg/uni76F4.svg)
 # 相
-
 ![相](../src/JingdianCaoshuHeiti-svg/uni76F8.svg)
 # 盹
 # 盼
@@ -3843,10 +3380,8 @@
 # 省
 # 眉
 # 看
-
 ![看](../src/JingdianCaoshuHeiti-svg/uni770B.svg)
 # 真
-
 ![真](../src/JingdianCaoshuHeiti-svg/uni771F.svg)
 # 眠
 # 眨
@@ -3855,10 +3390,8 @@
 # 眷
 # 眼
 # 眾
-
 ![眾](../src/JingdianCaoshuHeiti-svg/uni773E.svg)
 # 着
-
 ![着](../src/JingdianCaoshuHeiti-svg/uni7740.svg)
 # 睁
 # 睛
@@ -3884,7 +3417,6 @@
 # 矛
 # 矢
 # 知
-
 ![知](../src/JingdianCaoshuHeiti-svg/uni77E5.svg)
 # 矩
 # 矫
@@ -3892,7 +3424,6 @@
 # 矮
 # 矯
 # 石
-
 ![石](../src/JingdianCaoshuHeiti-svg/uni77F3.svg)
 # 矾
 # 矿
@@ -3946,7 +3477,6 @@
 # 礫
 # 礬
 # 示
-
 ![示](../src/JingdianCaoshuHeiti-svg/uni793A.svg)
 # 礼
 # 社
@@ -3970,11 +3500,9 @@
 # 禮
 # 禱
 # 离
-
 ![离](../src/JingdianCaoshuHeiti-svg/uni79BB.svg)
 # 禽
 # 禾
-
 ![禾](../src/JingdianCaoshuHeiti-svg/uni79BE.svg)
 # 禿
 # 秀
@@ -4025,7 +3553,6 @@
 # 究
 # 穷
 # 空
-
 ![空](../src/JingdianCaoshuHeiti-svg/uni7A7A.svg)
 # 穿
 # 突
@@ -4052,7 +3579,6 @@
 # 竈
 # 竊
 # 立
-
 ![立](../src/JingdianCaoshuHeiti-svg/uni7ACB.svg)
 # 竖
 # 站
@@ -4070,7 +3596,6 @@
 # 笆
 # 笋
 # 笑
-
 ![笑](../src/JingdianCaoshuHeiti-svg/uni7B11.svg)
 # 笔
 # 笙
@@ -4082,7 +3607,6 @@
 # 笼
 # 筆
 # 等
-
 ![等](../src/JingdianCaoshuHeiti-svg/uni7B49.svg)
 # 筋
 # 筍
@@ -4091,7 +3615,6 @@
 # 筑
 # 筒
 # 答
-
 ![答](../src/JingdianCaoshuHeiti-svg/uni7B54.svg)
 # 策
 # 筛
@@ -4134,7 +3657,6 @@
 # 籬
 # 籮
 # 米
-
 ![米](../src/JingdianCaoshuHeiti-svg/uni7C73.svg)
 # 类
 # 籽
@@ -4166,7 +3688,6 @@
 # 糾
 # 紀
 # 約
-
 ![約](../src/JingdianCaoshuHeiti-svg/uni7D04.svg)
 # 紅
 # 紉
@@ -4202,7 +3723,6 @@
 # 絮
 # 統
 # 絲
-
 ![絲](../src/JingdianCaoshuHeiti-svg/uni7D72.svg)
 # 絶
 # 絹
@@ -4237,7 +3757,6 @@
 # 練
 # 縛
 # 縣
-
 ![縣](../src/JingdianCaoshuHeiti-svg/uni7E23.svg)
 # 縫
 # 縮
@@ -4268,7 +3787,6 @@
 # 红
 # 纤
 # 约
-
 ![约](../src/JingdianCaoshuHeiti-svg/uni7EA6.svg)
 # 级
 # 纪
@@ -4345,7 +3863,6 @@
 # 网
 # 罕
 # 罗
-
 ![罗](../src/JingdianCaoshuHeiti-svg/uni7F57.svg)
 # 罚
 # 罢
@@ -4357,13 +3874,10 @@
 # 罵
 # 罷
 # 羅
-
 ![羅](../src/JingdianCaoshuHeiti-svg/uni7F85.svg)
 # 羊
-
 ![羊](../src/JingdianCaoshuHeiti-svg/uni7F8A.svg)
 # 美
-
 ![美](../src/JingdianCaoshuHeiti-svg/uni7F8E.svg)
 # 羔
 # 羞
@@ -4372,7 +3886,6 @@
 # 群
 # 羨
 # 義
-
 ![義](../src/JingdianCaoshuHeiti-svg/uni7FA9.svg)
 # 羹
 # 羽
@@ -4380,7 +3893,6 @@
 # 翅
 # 翎
 # 習
-
 ![習](../src/JingdianCaoshuHeiti-svg/uni7FD2.svg)
 # 翔
 # 翘
@@ -4392,14 +3904,11 @@
 # 翼
 # 耀
 # 老
-
 ![老](../src/JingdianCaoshuHeiti-svg/uni8001.svg)
 # 考
 # 者
-
 ![者](../src/JingdianCaoshuHeiti-svg/uni8005.svg)
 # 而
-
 ![而](../src/JingdianCaoshuHeiti-svg/uni800C.svg)
 # 耍
 # 耐
@@ -4408,13 +3917,13 @@
 # 耘
 # 耙
 # 耳
-
 ![耳](../src/JingdianCaoshuHeiti-svg/uni8033.svg)
 # 耸
 # 耻
 # 耽
 # 耿
 # 聂
+![聂](../src/JingdianCaoshuHeiti-svg/uni8042.svg)
 # 聊
 # 聋
 # 职
@@ -4427,13 +3936,12 @@
 # 聯
 # 聰
 # 聲
-
 ![聲](../src/JingdianCaoshuHeiti-svg/uni8072.svg)
 # 聳
 # 聶
+![聶](../src/JingdianCaoshuHeiti-svg/uni8076.svg)
 # 職
 # 聽
-
 ![聽](../src/JingdianCaoshuHeiti-svg/uni807D.svg)
 # 聾
 # 肃
@@ -4444,13 +3952,13 @@
 # 肋
 # 肌
 # 肖
+![肖](../src/JingdianCaoshuHeiti-svg/uni8096.svg)
 # 肘
 # 肚
 # 肛
 # 肝
 # 肠
 # 股
-
 ![股](../src/JingdianCaoshuHeiti-svg/uni80A1.svg)
 # 肢
 # 肤
@@ -4482,7 +3990,6 @@
 # 胶
 # 胸
 # 能
-
 ![能](../src/JingdianCaoshuHeiti-svg/uni80FD.svg)
 # 脂
 # 脅
@@ -4544,16 +4051,14 @@
 # 臍
 # 臟
 # 臣
+![臣](../src/JingdianCaoshuHeiti-svg/uni81E3.svg)
 # 臥
 # 臨
-
 ![臨](../src/JingdianCaoshuHeiti-svg/uni81E8.svg)
 # 自
-
 ![自](../src/JingdianCaoshuHeiti-svg/uni81EA.svg)
 # 臭
 # 至
-
 ![至](../src/JingdianCaoshuHeiti-svg/uni81F3.svg)
 # 致
 # 臼
@@ -4562,17 +4067,13 @@
 # 舆
 # 與
 # 興
-
 ![興](../src/JingdianCaoshuHeiti-svg/uni8208.svg)
 # 舉
-
 ![舉](../src/JingdianCaoshuHeiti-svg/uni8209.svg)
 # 舊
 # 舌
-
 ![舌](../src/JingdianCaoshuHeiti-svg/uni820C.svg)
 # 舍
-
 ![舍](../src/JingdianCaoshuHeiti-svg/uni820D.svg)
 # 舒
 # 舔
@@ -4594,7 +4095,6 @@
 # 艰
 # 艱
 # 色
-
 ![色](../src/JingdianCaoshuHeiti-svg/uni8272.svg)
 # 艳
 # 艷
@@ -4613,7 +4113,6 @@
 # 芭
 # 芯
 # 花
-
 ![花](../src/JingdianCaoshuHeiti-svg/uni82B1.svg)
 # 芳
 # 芹
@@ -4623,7 +4122,6 @@
 # 苏
 # 苔
 # 苗
-
 ![苗](../src/JingdianCaoshuHeiti-svg/uni82D7.svg)
 # 苛
 # 苞
@@ -4632,7 +4130,6 @@
 # 苦
 # 苫
 # 英
-
 ![英](../src/JingdianCaoshuHeiti-svg/uni82F1.svg)
 # 苹
 # 茁
@@ -4651,7 +4148,6 @@
 # 茸
 # 荆
 # 草
-
 ![草](../src/JingdianCaoshuHeiti-svg/uni8349.svg)
 # 荊
 # 荐
@@ -4685,7 +4181,6 @@
 # 菠
 # 菩
 # 華
-
 ![華](../src/JingdianCaoshuHeiti-svg/uni83EF.svg)
 # 菱
 # 菲
@@ -4702,7 +4197,6 @@
 # 萨
 # 落
 # 著
-
 ![著](../src/JingdianCaoshuHeiti-svg/uni8457.svg)
 # 葛
 # 葡
@@ -4718,7 +4212,6 @@
 # 蒋
 # 蒐
 # 蒙
-
 ![蒙](../src/JingdianCaoshuHeiti-svg/uni8499.svg)
 # 蒜
 # 蒲
@@ -4780,7 +4273,6 @@
 # 虐
 # 虑
 # 處
-
 ![處](../src/JingdianCaoshuHeiti-svg/uni8655.svg)
 # 虚
 # 虛
@@ -4818,7 +4310,6 @@
 # 蛻
 # 蛾
 # 蜀
-
 ![蜀](../src/JingdianCaoshuHeiti-svg/uni8700.svg)
 # 蜂
 # 蜈
@@ -4866,10 +4357,8 @@
 # 血
 # 衅
 # 衆
-
 ![衆](../src/JingdianCaoshuHeiti-svg/uni8846.svg)
 # 行
-
 ![行](../src/JingdianCaoshuHeiti-svg/uni884C.svg)
 # 衍
 # 衔
@@ -4878,11 +4367,9 @@
 # 衛
 # 衡
 # 衣
-
 ![衣](../src/JingdianCaoshuHeiti-svg/uni8863.svg)
 # 补
 # 表
-
 ![表](../src/JingdianCaoshuHeiti-svg/uni8868.svg)
 # 衩
 # 衫
@@ -4890,7 +4377,6 @@
 # 衰
 # 衷
 # 袁
-
 ![袁](../src/JingdianCaoshuHeiti-svg/uni8881.svg)
 # 袄
 # 袋
@@ -4926,14 +4412,11 @@
 # 襯
 # 襲
 # 西
-
 ![西](../src/JingdianCaoshuHeiti-svg/uni897F.svg)
 # 要
-
 ![要](../src/JingdianCaoshuHeiti-svg/uni8981.svg)
 # 覆
 # 見
-
 ![見](../src/JingdianCaoshuHeiti-svg/uni898B.svg)
 # 規
 # 覓
@@ -4943,7 +4426,6 @@
 # 覽
 # 觀
 # 见
-
 ![见](../src/JingdianCaoshuHeiti-svg/uni89C1.svg)
 # 观
 # 规
@@ -4953,12 +4435,10 @@
 # 觉
 # 角
 # 解
-
 ![解](../src/JingdianCaoshuHeiti-svg/uni89E3.svg)
 # 触
 # 觸
 # 言
-
 ![言](../src/JingdianCaoshuHeiti-svg/uni8A00.svg)
 # 訂
 # 計
@@ -5053,7 +4533,6 @@
 # 譽
 # 讀
 # 變
-
 ![變](../src/JingdianCaoshuHeiti-svg/uni8B8A.svg)
 # 讓
 # 讚
@@ -5137,14 +4616,13 @@
 # 谿
 # 豁
 # 豆
-
 ![豆](../src/JingdianCaoshuHeiti-svg/uni8C46.svg)
 # 豈
+![豈](../src/JingdianCaoshuHeiti-svg/uni8C48.svg)
 # 豌
 # 豎
 # 豔
 # 象
-
 ![象](../src/JingdianCaoshuHeiti-svg/uni8C61.svg)
 # 豪
 # 豫
@@ -5155,7 +4633,6 @@
 # 貍
 # 貓
 # 貝
-
 ![貝](../src/JingdianCaoshuHeiti-svg/uni8C9D.svg)
 # 貞
 # 負
@@ -5172,7 +4649,6 @@
 # 貴
 # 貶
 # 買
-
 ![買](../src/JingdianCaoshuHeiti-svg/uni8CB7.svg)
 # 貸
 # 費
@@ -5187,12 +4663,12 @@
 # 賊
 # 賒
 # 賓
+![賓](../src/JingdianCaoshuHeiti-svg/uni8CD3.svg)
 # 賜
 # 賞
 # 賠
 # 賢
 # 賣
-
 ![賣](../src/JingdianCaoshuHeiti-svg/uni8CE3.svg)
 # 賤
 # 賦
@@ -5212,7 +4688,6 @@
 # 贖
 # 贜
 # 贝
-
 ![贝](../src/JingdianCaoshuHeiti-svg/uni8D1D.svg)
 # 贞
 # 负
@@ -5265,7 +4740,6 @@
 # 赦
 # 赫
 # 走
-
 ![走](../src/JingdianCaoshuHeiti-svg/uni8D70.svg)
 # 赴
 # 赵
@@ -5294,7 +4768,6 @@
 # 跨
 # 跪
 # 路
-
 ![路](../src/JingdianCaoshuHeiti-svg/uni8DEF.svg)
 # 跳
 # 践
@@ -5328,7 +4801,6 @@
 # 躏
 # 躪
 # 身
-
 ![身](../src/JingdianCaoshuHeiti-svg/uni8EAB.svg)
 # 躬
 # 躯
@@ -5336,12 +4808,10 @@
 # 躺
 # 軀
 # 車
-
 ![車](../src/JingdianCaoshuHeiti-svg/uni8ECA.svg)
 # 軋
 # 軌
 # 軍
-
 ![軍](../src/JingdianCaoshuHeiti-svg/uni8ECD.svg)
 # 軒
 # 軟
@@ -5366,7 +4836,6 @@
 # 轎
 # 轟
 # 车
-
 ![车](../src/JingdianCaoshuHeiti-svg/uni8F66.svg)
 # 轧
 # 轨
@@ -5391,6 +4860,7 @@
 # 辖
 # 辙
 # 辛
+![辛](../src/JingdianCaoshuHeiti-svg/uni8F9B.svg)
 # 辜
 # 辞
 # 辟
@@ -5405,10 +4875,8 @@
 # 辰
 # 辱
 # 農
-
 ![農](../src/JingdianCaoshuHeiti-svg/uni8FB2.svg)
 # 边
-
 ![边](../src/JingdianCaoshuHeiti-svg/uni8FB9.svg)
 # 辽
 # 达
@@ -5424,15 +4892,12 @@
 # 返
 # 还
 # 这
-
 ![这](../src/JingdianCaoshuHeiti-svg/uni8FD9.svg)
 # 进
-
 ![进](../src/JingdianCaoshuHeiti-svg/uni8FDB.svg)
 # 远
 # 违
 # 连
-
 ![连](../src/JingdianCaoshuHeiti-svg/uni8FDE.svg)
 # 迟
 # 迫
@@ -5443,7 +4908,6 @@
 # 追
 # 退
 # 送
-
 ![送](../src/JingdianCaoshuHeiti-svg/uni9001.svg)
 # 适
 # 逃
@@ -5456,7 +4920,6 @@
 # 途
 # 逗
 # 這
-
 ![這](../src/JingdianCaoshuHeiti-svg/uni9019.svg)
 # 通
 # 逛
@@ -5464,16 +4927,13 @@
 # 逞
 # 速
 # 造
-
 ![造](../src/JingdianCaoshuHeiti-svg/uni9020.svg)
 # 逢
 # 連
-
 ![連](../src/JingdianCaoshuHeiti-svg/uni9023.svg)
 # 逮
 # 週
 # 進
-
 ![進](../src/JingdianCaoshuHeiti-svg/uni9032.svg)
 # 逸
 # 逻
@@ -5502,7 +4962,6 @@
 # 遲
 # 遵
 # 遷
-
 ![遷](../src/JingdianCaoshuHeiti-svg/uni9077.svg)
 # 選
 # 遺
@@ -5512,14 +4971,12 @@
 # 邁
 # 還
 # 邊
-
 ![邊](../src/JingdianCaoshuHeiti-svg/uni908A.svg)
 # 邏
 # 邑
 # 邓
 # 邢
 # 那
-
 ![那](../src/JingdianCaoshuHeiti-svg/uni90A3.svg)
 # 邦
 # 邪
@@ -5533,13 +4990,10 @@
 # 郭
 # 郵
 # 都
-
 ![都](../src/JingdianCaoshuHeiti-svg/uni90FD.svg)
 # 鄉
-
 ![鄉](../src/JingdianCaoshuHeiti-svg/uni9109.svg)
 # 鄙
-
 ![鄙](../src/JingdianCaoshuHeiti-svg/uni9119.svg)
 # 鄧
 # 鄭
@@ -5573,18 +5027,14 @@
 # 释
 # 釋
 # 里
-
 ![里](../src/JingdianCaoshuHeiti-svg/uni91CC.svg)
 # 重
-
 ![重](../src/JingdianCaoshuHeiti-svg/uni91CD.svg)
 # 野
 # 量
-
 ![量](../src/JingdianCaoshuHeiti-svg/uni91CF.svg)
 # 釐
 # 金
-
 ![金](../src/JingdianCaoshuHeiti-svg/uni91D1.svg)
 # 釘
 # 針
@@ -5732,13 +5182,10 @@
 # 镰
 # 镶
 # 長
-
 ![長](../src/JingdianCaoshuHeiti-svg/uni9577.svg)
 # 长
-
 ![长](../src/JingdianCaoshuHeiti-svg/uni957F.svg)
 # 門
-
 ![門](../src/JingdianCaoshuHeiti-svg/uni9580.svg)
 # 閃
 # 閉
@@ -5746,10 +5193,8 @@
 # 閏
 # 閑
 # 閒
-
 ![閒](../src/JingdianCaoshuHeiti-svg/uni9592.svg)
 # 間
-
 ![間](../src/JingdianCaoshuHeiti-svg/uni9593.svg)
 # 閘
 # 閣
@@ -5765,7 +5210,6 @@
 # 關
 # 闡
 # 门
-
 ![门](../src/JingdianCaoshuHeiti-svg/uni95E8.svg)
 # 闪
 # 闭
@@ -5774,7 +5218,6 @@
 # 闰
 # 闲
 # 间
-
 ![间](../src/JingdianCaoshuHeiti-svg/uni95F4.svg)
 # 闷
 # 闸
@@ -5797,7 +5240,6 @@
 # 阶
 # 阻
 # 阿
-
 ![阿](../src/JingdianCaoshuHeiti-svg/uni963F.svg)
 # 附
 # 际
@@ -5826,7 +5268,6 @@
 # 隅
 # 隆
 # 隊
-
 ![隊](../src/JingdianCaoshuHeiti-svg/uni968A.svg)
 # 階
 # 随
@@ -5845,7 +5286,6 @@
 # 隷
 # 隸
 # 难
-
 ![难](../src/JingdianCaoshuHeiti-svg/uni96BE.svg)
 # 雀
 # 雁
@@ -5858,16 +5298,15 @@
 # 雕
 # 雖
 # 雙
-
 ![雙](../src/JingdianCaoshuHeiti-svg/uni96D9.svg)
 # 雛
 # 雜
 # 雞
 # 離
 # 難
-
 ![難](../src/JingdianCaoshuHeiti-svg/uni96E3.svg)
 # 雨
+![雨](../src/JingdianCaoshuHeiti-svg/uni96E8.svg)
 # 雪
 # 雳
 # 零
@@ -5890,18 +5329,15 @@
 # 靂
 # 靈
 # 青
-
 ![青](../src/JingdianCaoshuHeiti-svg/uni9752.svg)
 # 靖
 # 静
 # 靜
 # 非
-
 ![非](../src/JingdianCaoshuHeiti-svg/uni975E.svg)
 # 靠
 # 靡
 # 面
-
 ![面](../src/JingdianCaoshuHeiti-svg/uni9762.svg)
 # 革
 # 靴
@@ -5918,7 +5354,6 @@
 # 韩
 # 韭
 # 音
-
 ![音](../src/JingdianCaoshuHeiti-svg/uni97F3.svg)
 # 韵
 # 韻
@@ -5980,25 +5415,20 @@
 # 颠
 # 颤
 # 風
-
 ![風](../src/JingdianCaoshuHeiti-svg/uni98A8.svg)
 # 颯
 # 颺
 # 飄
 # 风
-
 ![风](../src/JingdianCaoshuHeiti-svg/uni98CE.svg)
 # 飏
 # 飒
 # 飘
 # 飛
-
 ![飛](../src/JingdianCaoshuHeiti-svg/uni98DB.svg)
 # 飞
-
 ![飞](../src/JingdianCaoshuHeiti-svg/uni98DE.svg)
 # 食
-
 ![食](../src/JingdianCaoshuHeiti-svg/uni98DF.svg)
 # 飢
 # 飯
@@ -6011,7 +5441,6 @@
 # 養
 # 餌
 # 餐
-
 ![餐](../src/JingdianCaoshuHeiti-svg/uni9910.svg)
 # 餒
 # 餓
@@ -6043,14 +5472,11 @@
 # 馏
 # 馒
 # 首
-
 ![首](../src/JingdianCaoshuHeiti-svg/uni9996.svg)
 # 香
 # 馬
-
 ![馬](../src/JingdianCaoshuHeiti-svg/uni99AC.svg)
 # 馮
-
 ![馮](../src/JingdianCaoshuHeiti-svg/uni99AE.svg)
 # 馱
 # 馳
@@ -6077,7 +5503,6 @@
 # 驟
 # 驢
 # 马
-
 ![马](../src/JingdianCaoshuHeiti-svg/uni9A6C.svg)
 # 驮
 # 驯
@@ -6106,13 +5531,13 @@
 # 髓
 # 體
 # 高
-
 ![高](../src/JingdianCaoshuHeiti-svg/uni9AD8.svg)
 # 鬓
 # 鬢
 # 鬧
 # 鬨
 # 鬼
+![鬼](../src/JingdianCaoshuHeiti-svg/uni9B3C.svg)
 # 魁
 # 魂
 # 魄
@@ -6140,17 +5565,13 @@
 # 鳖
 # 鳞
 # 鳥
-
 ![鳥](../src/JingdianCaoshuHeiti-svg/uni9CE5.svg)
 # 鳧
-
 ![鳧](../src/JingdianCaoshuHeiti-svg/uni9CE7.svg)
 # 鳩
 # 鳬
-
 ![鳬](../src/JingdianCaoshuHeiti-svg/uni9CEC.svg)
 # 鳳
-
 ![鳳](../src/JingdianCaoshuHeiti-svg/uni9CF3.svg)
 # 鳴
 # 鴉
@@ -6173,7 +5594,6 @@
 # 鷹
 # 鸚
 # 鸟
-
 ![鸟](../src/JingdianCaoshuHeiti-svg/uni9E1F.svg)
 # 鸠
 # 鸡
@@ -6195,35 +5615,31 @@
 # 鹦
 # 鹰
 # 鹵
-
 ![鹵](../src/JingdianCaoshuHeiti-svg/uni9E75.svg)
 # 鹽
 # 鹿
+![鹿](../src/JingdianCaoshuHeiti-svg/uni9E7F.svg)
 # 麗
 # 麥
 # 麦
 # 麩
 # 麸
 # 麻
-
 ![麻](../src/JingdianCaoshuHeiti-svg/uni9EBB.svg)
 # 黃
 # 黄
 # 黍
 # 黎
 # 黑
-
 ![黑](../src/JingdianCaoshuHeiti-svg/uni9ED1.svg)
 # 黔
 # 默
 # 點
 # 鼎
 # 鼓
-
 ![鼓](../src/JingdianCaoshuHeiti-svg/uni9F13.svg)
 # 鼠
 # 鼻
-
 ![鼻](../src/JingdianCaoshuHeiti-svg/uni9F3B.svg)
 # 齊
 # 齋

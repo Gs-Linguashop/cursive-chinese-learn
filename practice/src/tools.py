@@ -44,7 +44,7 @@ def format_entry(text, original_link=None, is_link=False):
     
     if is_link and original_link:
         # If it was a link, format as header with original link beneath
-        return f"{header_text}\n\n{original_link}\n"
+        return f"{header_text}\n{original_link}\n"
     else:
         # If it was plain text, just format as header
         return f"{header_text}\n"
