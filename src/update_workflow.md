@@ -13,3 +13,5 @@
 `python3 src/add_links.py practice/chars_3500_linked.md src/JingdianCaoshuHeiti-svg/ -o practice/chars_3500_linked.md --link-folder "../src/JingdianCaoshuHeiti-svg/"`
 
 `python3 practice/src/tools.py practice/chars_3500_linked.md -o practice/chars_3500_with_image.md`
+
+# 同步GitHub和Gitee
