@@ -86,6 +86,7 @@
       <point x="119" y="-62"/>
     </contour>
     <contour>
+      <point x="211" y="533" type="curve"/>
       <point x="262" y="509" type="line"/>
       <point x="322" y="582"/>
       <point x="396" y="687"/>
@@ -97,13 +98,6 @@
       <point x="321" y="714" type="line"/>
       <point x="290" y="651"/>
       <point x="246" y="582"/>
-      <point x="211" y="533" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-20 16:43:06 +0000</string>
-    </dict>
-  </lib>
 </glyph>

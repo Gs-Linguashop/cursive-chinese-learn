@@ -77,10 +77,4 @@
       <point x="497" y="336" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-27 03:40:41 +0000</string>
-    </dict>
-  </lib>
 </glyph>

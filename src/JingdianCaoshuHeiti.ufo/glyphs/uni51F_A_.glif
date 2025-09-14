@@ -24,30 +24,24 @@ cid11124
       <point x="748" y="273" type="line"/>
     </contour>
     <contour>
-      <point x="848" y="336" type="curve"/>
-      <point x="923" y="364" type="line"/>
-      <point x="900" y="459"/>
-      <point x="863" y="554"/>
-      <point x="828" y="637" type="curve"/>
-      <point x="758" y="602" type="line"/>
-      <point x="796" y="525"/>
-      <point x="827" y="428"/>
+      <point x="848" y="338" type="curve"/>
+      <point x="925" y="362" type="line"/>
+      <point x="902" y="457"/>
+      <point x="865" y="552"/>
+      <point x="830" y="635" type="curve"/>
+      <point x="758" y="604" type="line"/>
+      <point x="796" y="527"/>
+      <point x="827" y="430"/>
     </contour>
     <contour>
-      <point x="591" y="21" type="line"/>
+      <point x="591" y="23" type="line"/>
       <point x="591" y="638" type="line"/>
       <point x="512" y="638" type="line"/>
-      <point x="512" y="21" type="line"/>
-      <point x="71" y="21" type="line"/>
+      <point x="512" y="23" type="line"/>
+      <point x="71" y="23" type="line"/>
       <point x="71" y="-53" type="line"/>
       <point x="932" y="-53" type="line"/>
-      <point x="932" y="21" type="line"/>
+      <point x="932" y="23" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-09-05 00:52:10 +0000</string>
-    </dict>
-  </lib>
 </glyph>

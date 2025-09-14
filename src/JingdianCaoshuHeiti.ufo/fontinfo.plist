@@ -11,7 +11,7 @@
     <key>descender</key>
     <integer>-120</integer>
     <key>familyName</key>
-    <string>经典草书黑体</string>
+    <string>Jingdian Caoshu Heiti</string>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -21,7 +21,7 @@
     <key>openTypeHheaDescender</key>
     <integer>-260</integer>
     <key>openTypeNameDesigner</key>
-    <string>周子祺Ziqi Zhou, Latin glyphs by Ahsan Ahmadzai</string>
+    <string>周子祺 (Ziqi Zhou), Latin script based on draft by Ahsan Ahmadzai</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1.</string>
     <key>openTypeNameLicenseURL</key>

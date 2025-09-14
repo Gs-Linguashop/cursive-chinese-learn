@@ -23,6 +23,7 @@ cid40221
       <point x="616" y="-76"/>
     </contour>
     <contour>
+      <point x="207" y="147" type="curve"/>
       <point x="264" y="90" type="line"/>
       <point x="450" y="174"/>
       <point x="581" y="286"/>
@@ -42,7 +43,6 @@ cid40221
       <point x="555" y="369" type="line"/>
       <point x="456" y="274"/>
       <point x="348" y="209"/>
-      <point x="207" y="147" type="curve"/>
     </contour>
     <contour>
       <point x="821" y="67" type="curve"/>
@@ -71,6 +71,7 @@ cid40221
       <point x="150" y="653" type="line"/>
     </contour>
     <contour>
+      <point x="583" y="653" type="curve"/>
       <point x="645" y="620" type="line"/>
       <point x="697" y="688"/>
       <point x="742" y="757"/>
@@ -78,13 +79,6 @@ cid40221
       <point x="691" y="840" type="line"/>
       <point x="665" y="784"/>
       <point x="622" y="707"/>
-      <point x="583" y="653" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-20 16:43:07 +0000</string>
-    </dict>
-  </lib>
 </glyph>

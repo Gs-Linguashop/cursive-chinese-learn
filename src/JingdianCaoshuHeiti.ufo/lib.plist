@@ -11,7 +11,7 @@
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>3</integer>
     <key>com.schriftgestaltung.useGlyphOrder</key>
-    <true/>
+    <false/>
     <key>com.schriftgestaltung.useNiceNames</key>
     <true/>
     <key>public.glyphOrder</key>
@@ -68,12 +68,12 @@
       <string>x</string>
       <string>y</string>
       <string>z</string>
-      <string>ff</string>
-      <string>ffi</string>
-      <string>ffl</string>
-      <string>fi</string>
-      <string>fl</string>
-      <string>longst</string>
+      <string>f_f.liga</string>
+      <string>f_f_i.liga</string>
+      <string>f_f_l.liga</string>
+      <string>f_t.liga</string>
+      <string>fi.liga</string>
+      <string>fl.liga</string>
       <string>uni3405</string>
       <string>uni340C</string>
       <string>uni342C</string>
@@ -202,6 +202,7 @@
       <string>uni4F7F</string>
       <string>uni4F83</string>
       <string>uni4F86</string>
+      <string>uni4F8B</string>
       <string>uni4F96</string>
       <string>uni4FBF</string>
       <string>uni4FDD</string>
@@ -627,33 +628,87 @@
       <string>uni5DE2</string>
       <string>uni5DE4</string>
       <string>uni5DE5</string>
+      <string>uni5DE6</string>
+      <string>uni5DE7</string>
+      <string>uni5DE8</string>
+      <string>uni5DE9</string>
+      <string>uni5DEB</string>
+      <string>uni5DEE</string>
       <string>uni5DF1</string>
       <string>uni5DF2</string>
+      <string>uni5DF3</string>
       <string>uni5DF4</string>
+      <string>uni5DF7</string>
+      <string>uni5DF8</string>
+      <string>uni5DFD</string>
       <string>uni5DFE</string>
       <string>uni5E02</string>
       <string>uni5E03</string>
       <string>uni5E0C</string>
       <string>uni5E1A</string>
+      <string>uni5E1D</string>
+      <string>uni5E25</string>
       <string>uni5E2B</string>
+      <string>uni5E2D</string>
       <string>uni5E36</string>
       <string>uni5E38</string>
+      <string>uni5E63</string>
       <string>uni5E72</string>
       <string>uni5E73</string>
       <string>uni5E74</string>
       <string>uni5E76</string>
+      <string>uni5E78</string>
+      <string>uni5E7A</string>
+      <string>uni5E7B</string>
+      <string>uni5E7C</string>
+      <string>uni5E7D</string>
       <string>uni5E7E</string>
+      <string>uni5E9A</string>
       <string>uni5EA6</string>
+      <string>uni5EB6</string>
+      <string>uni5EB7</string>
+      <string>uni5EC9</string>
       <string>uni5EDA</string>
+      <string>uni5EDB</string>
+      <string>uni5EF6</string>
+      <string>uni5EF7</string>
+      <string>uni5EFA</string>
+      <string>uni5EFE</string>
+      <string>uni5EFF</string>
       <string>uni5F00</string>
+      <string>uni5F01</string>
+      <string>uni5F04</string>
       <string>uni5F0F</string>
+      <string>uni5F13</string>
       <string>uni5F14</string>
+      <string>uni5F15</string>
+      <string>uni5F17</string>
+      <string>uni5F18</string>
       <string>uni5F1F</string>
+      <string>uni5F2D</string>
+      <string>uni5F31</string>
       <string>uni5F3A</string>
+      <string>uni5F3C</string>
+      <string>uni5F50</string>
+      <string>uni5F54</string>
+      <string>uni5F57</string>
+      <string>uni5F58</string>
+      <string>uni5F5D</string>
+      <string>uni5F61</string>
       <string>uni5F62</string>
+      <string>uni5F64</string>
+      <string>uni5F66</string>
+      <string>uni5F6A</string>
+      <string>uni5F6C</string>
+      <string>uni5F6D</string>
+      <string>uni5F73</string>
       <string>uni5F80</string>
+      <string>uni5F8C</string>
+      <string>uni5F99</string>
       <string>uni5F9E</string>
+      <string>uni5FA1</string>
       <string>uni5FA9</string>
+      <string>uni5FB5</string>
       <string>uni5FB7</string>
       <string>uni5FC3</string>
       <string>uni5FC5</string>
@@ -662,6 +717,7 @@
       <string>uni6025</string>
       <string>uni610F</string>
       <string>uni611B</string>
+      <string>uni6176</string>
       <string>uni6208</string>
       <string>uni6209</string>
       <string>uni6210</string>
@@ -718,6 +774,7 @@
       <string>uni679C</string>
       <string>uni67EC</string>
       <string>uni689D</string>
+      <string>uni68C4</string>
       <string>uni696D</string>
       <string>uni6A02</string>
       <string>uni6B21</string>
@@ -725,6 +782,7 @@
       <string>uni6B64</string>
       <string>uni6B65</string>
       <string>uni6B72</string>
+      <string>uni6B78</string>
       <string>uni6B7B</string>
       <string>uni6BB8</string>
       <string>uni6BC4</string>
@@ -754,6 +812,7 @@
       <string>uni723B</string>
       <string>uni723E</string>
       <string>uni723F</string>
+      <string>uni7240</string>
       <string>uni7247</string>
       <string>uni7259</string>
       <string>uni7378</string>
@@ -937,6 +996,29 @@
       <string>u2B95E</string>
       <string>u2C037</string>
       <string>u2D41F</string>
+      <string>uni2E83</string>
+      <string>uni2E86</string>
+      <string>uni2E88.longarm</string>
+      <string>uni2E8C</string>
+      <string>uni2E94</string>
+      <string>uni2EA2.curve</string>
+      <string>uni2ED6</string>
+      <string>uni2F02</string>
+      <string>uni2F03</string>
+      <string>uni2F04.small</string>
+      <string>uni2F14</string>
+      <string>uni2F14.left</string>
+      <string>uni2F1C</string>
+      <string>uni2F20.small</string>
+      <string>uni2F24</string>
+      <string>uni2F26.top</string>
+      <string>uni2F2D</string>
+      <string>uni2F3A</string>
+      <string>uni2F3A.wide</string>
+      <string>uni2F3B</string>
+      <string>uni2F5F</string>
+      <string>uni2F8C.left</string>
+      <string>uni2F9B.left</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -947,11 +1029,12 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
+      <string>space</string>
       <string>nonmarkingreturn</string>
       <string>.notdef</string>
-      <string>.null</string>
-      <string>comma-han</string>
-      <string>period-han</string>
+      <string>NULL</string>
+      <string>uni3001</string>
+      <string>uni3002</string>
       <string>period</string>
       <string>comma</string>
       <string>colon</string>
@@ -962,13 +1045,13 @@
       <string>asterisk</string>
       <string>numbersign</string>
       <string>backslash</string>
-      <string>colon.full</string>
-      <string>comma.full</string>
-      <string>exclam.full</string>
-      <string>question.full</string>
-      <string>quotedbl.full</string>
-      <string>quotesingle.full</string>
-      <string>semicolon.full</string>
+      <string>uniFF1A</string>
+      <string>uniFF0C</string>
+      <string>uniFF01</string>
+      <string>uniFF1F</string>
+      <string>uniFF02</string>
+      <string>uniFF07</string>
+      <string>uniFF1B</string>
       <string>hyphen</string>
       <string>underscore</string>
       <string>parenleft</string>
@@ -977,12 +1060,12 @@
       <string>braceright</string>
       <string>bracketleft</string>
       <string>bracketright</string>
-      <string>cornerbracketleft</string>
-      <string>cornerbracketright</string>
-      <string>dblanglebracketleft</string>
-      <string>dblanglebracketright</string>
-      <string>parenleft.full</string>
-      <string>parenright.full</string>
+      <string>uni300C</string>
+      <string>uni300D</string>
+      <string>uni300A</string>
+      <string>uni300B</string>
+      <string>uniFF08</string>
+      <string>uniFF09</string>
       <string>quotedblleft</string>
       <string>quotedblright</string>
       <string>quoteleft</string>
@@ -999,7 +1082,22 @@
       <string>less</string>
       <string>asciicircum</string>
       <string>percent</string>
-      <string>space</string>
+      <string>_part.hengwangou</string>
+      <string>_part.hengzhe</string>
+      <string>_part.hengzhezhewangou</string>
+      <string>_part.idot</string>
+      <string>_part.istem</string>
+      <string>_part.lstem</string>
+      <string>_part.shoulder</string>
+      <string>_part.u2B739</string>
+      <string>_part.uni4E39</string>
+      <string>_part.uni4E95</string>
+      <string>_part.uni4EA7</string>
+      <string>_part.uni5E1A</string>
+      <string>_part.uni6797</string>
+      <string>_part.piedian.in</string>
+      <string>_part.uni4E95.nohook</string>
+      <string>_part.uni672A.left</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -1034,5 +1132,47 @@
       <key>semicolon.full</key>
       <string>uniFF1B</string>
     </dict>
+    <key>public.skipExportGlyphs</key>
+    <array>
+      <string>_part.hengwangou</string>
+      <string>_part.hengzhe</string>
+      <string>_part.hengzhezhewangou</string>
+      <string>_part.idot</string>
+      <string>_part.istem</string>
+      <string>_part.lstem</string>
+      <string>_part.piedian.in</string>
+      <string>_part.shoulder</string>
+      <string>_part.u2B739</string>
+      <string>_part.uni4E39</string>
+      <string>_part.uni4E95</string>
+      <string>_part.uni4E95.nohook</string>
+      <string>_part.uni4EA7</string>
+      <string>_part.uni5E1A</string>
+      <string>_part.uni672A.left</string>
+      <string>_part.uni6797</string>
+      <string>uni2E83</string>
+      <string>uni2E86</string>
+      <string>uni2E88.longarm</string>
+      <string>uni2E8C</string>
+      <string>uni2E94</string>
+      <string>uni2EA2.curve</string>
+      <string>uni2ED6</string>
+      <string>uni2F02</string>
+      <string>uni2F03</string>
+      <string>uni2F04.small</string>
+      <string>uni2F14</string>
+      <string>uni2F14.left</string>
+      <string>uni2F1C</string>
+      <string>uni2F20.small</string>
+      <string>uni2F24</string>
+      <string>uni2F26.top</string>
+      <string>uni2F2D</string>
+      <string>uni2F3A</string>
+      <string>uni2F3A.wide</string>
+      <string>uni2F3B</string>
+      <string>uni2F5F</string>
+      <string>uni2F8C.left</string>
+      <string>uni2F9B.left</string>
+    </array>
   </dict>
 </plist>

@@ -43,6 +43,7 @@ cid16855
       <point x="100" y="595" type="line"/>
     </contour>
     <contour>
+      <point x="116" y="762" type="curve"/>
       <point x="134" y="696" type="line"/>
       <point x="362" y="700"/>
       <point x="655" y="718"/>
@@ -50,13 +51,6 @@ cid16855
       <point x="798" y="837" type="line"/>
       <point x="645" y="794"/>
       <point x="354" y="769"/>
-      <point x="116" y="762" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-09-05 02:35:18 +0000</string>
-    </dict>
-  </lib>
 </glyph>

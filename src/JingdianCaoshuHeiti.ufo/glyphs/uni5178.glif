@@ -4,6 +4,7 @@
   <unicode hex="5178"/>
   <outline>
     <contour>
+      <point x="50" y="-18" type="curve"/>
       <point x="104" y="-70" type="line"/>
       <point x="213" y="-18"/>
       <point x="337" y="52"/>
@@ -11,7 +12,6 @@
       <point x="333" y="161" type="line"/>
       <point x="276" y="98"/>
       <point x="161" y="25"/>
-      <point x="50" y="-18" type="curve"/>
     </contour>
     <contour>
       <point x="70" y="181" type="line"/>
@@ -74,10 +74,4 @@
       <point x="650" y="512"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-20 18:48:03 +0000</string>
-    </dict>
-  </lib>
 </glyph>

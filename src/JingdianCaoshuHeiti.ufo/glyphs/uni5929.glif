@@ -7,6 +7,7 @@ uni5929
 </note>
   <outline>
     <contour>
+      <point x="354" y="145" type="curve"/>
       <point x="416" y="107" type="line"/>
       <point x="512" y="191"/>
       <point x="645" y="316"/>
@@ -26,7 +27,6 @@ uni5929
       <point x="581" y="378" type="line"/>
       <point x="530" y="311"/>
       <point x="441" y="221"/>
-      <point x="354" y="145" type="curve"/>
     </contour>
     <contour>
       <point x="875" y="-56" type="curve"/>
@@ -45,10 +45,4 @@ uni5929
       <point x="82" y="763" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-24 03:40:50 +0000</string>
-    </dict>
-  </lib>
 </glyph>

@@ -12,8 +12,8 @@ cid15499
       <point x="862" y="-78"/>
       <point x="895" y="-23"/>
       <point x="916" y="95" type="curve"/>
-      <point x="841" y="127" type="line"/>
-      <point x="825" y="33"/>
+      <point x="841" y="117" type="line"/>
+      <point x="825" y="23"/>
       <point x="796" y="-5"/>
       <point x="732" y="-5" type="curve" smooth="yes"/>
       <point x="255" y="-5" type="line" smooth="yes"/>
@@ -85,10 +85,4 @@ cid15499
       <point x="475" y="746"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-20 16:43:07 +0000</string>
-    </dict>
-  </lib>
 </glyph>

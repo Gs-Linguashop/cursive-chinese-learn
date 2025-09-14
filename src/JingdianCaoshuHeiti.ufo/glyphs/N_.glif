@@ -1,25 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="740"/>
+  <advance width="701"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="167" y="750" type="line"/>
-      <point x="77" y="750" type="line"/>
-      <point x="77" y="0" type="line"/>
-      <point x="165" y="0" type="line"/>
-      <point x="165" y="601" type="line"/>
-      <point x="573" y="0" type="line"/>
-      <point x="663" y="0" type="line"/>
-      <point x="663" y="750" type="line"/>
-      <point x="575" y="750" type="line"/>
-      <point x="575" y="150" type="line"/>
+      <point x="160" y="750" type="line"/>
+      <point x="69" y="750" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="601" type="line"/>
+      <point x="541" y="0" type="line"/>
+      <point x="632" y="0" type="line"/>
+      <point x="632" y="750" type="line"/>
+      <point x="543" y="750" type="line"/>
+      <point x="543" y="150" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-09-06 00:30:45 +0000</string>
-    </dict>
-  </lib>
 </glyph>

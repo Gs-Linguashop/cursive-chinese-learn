@@ -1,27 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="plus" format="2">
-  <advance width="668"/>
+  <advance width="634"/>
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="290" y="599" type="line"/>
-      <point x="290" y="373" type="line"/>
-      <point x="50" y="373" type="line"/>
-      <point x="50" y="289" type="line"/>
-      <point x="290" y="289" type="line"/>
-      <point x="290" y="63" type="line"/>
-      <point x="378" y="63" type="line"/>
-      <point x="378" y="289" type="line"/>
-      <point x="618" y="289" type="line"/>
-      <point x="618" y="373" type="line"/>
-      <point x="378" y="373" type="line"/>
-      <point x="378" y="599" type="line"/>
+      <point x="273" y="599" type="line"/>
+      <point x="273" y="371" type="line"/>
+      <point x="50" y="371" type="line"/>
+      <point x="50" y="291" type="line"/>
+      <point x="273" y="291" type="line"/>
+      <point x="273" y="63" type="line"/>
+      <point x="361" y="63" type="line"/>
+      <point x="361" y="291" type="line"/>
+      <point x="584" y="291" type="line"/>
+      <point x="584" y="371" type="line"/>
+      <point x="361" y="371" type="line"/>
+      <point x="361" y="599" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-09-06 00:51:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

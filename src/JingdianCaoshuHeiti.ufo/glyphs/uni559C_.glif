@@ -19,10 +19,10 @@ cid12558
       <point x="62" y="170" type="line"/>
     </contour>
     <contour>
-      <point x="108" y="-48" type="line"/>
-      <point x="892" y="-48" type="line"/>
-      <point x="892" y="23" type="line"/>
-      <point x="108" y="23" type="line"/>
+      <point x="90" y="-48" type="line"/>
+      <point x="910" y="-48" type="line"/>
+      <point x="910" y="23" type="line"/>
+      <point x="90" y="23" type="line"/>
     </contour>
     <contour>
       <point x="227" y="168" type="line"/>
@@ -67,10 +67,4 @@ cid12558
       <point x="459" y="841" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-21 23:18:31 +0000</string>
-    </dict>
-  </lib>
 </glyph>

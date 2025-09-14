@@ -8,6 +8,7 @@ uni957F
 </note>
   <outline>
     <contour>
+      <point x="207" y="-7" type="curve"/>
       <point x="238" y="-74" type="line"/>
       <point x="564" y="25" type="line"/>
       <point x="550" y="97" type="line"/>
@@ -25,7 +26,6 @@ uni957F
       <point x="248" y="55" type="line" smooth="yes"/>
       <point x="248" y="15"/>
       <point x="225" y="0"/>
-      <point x="207" y="-7" type="curve"/>
     </contour>
     <contour>
       <point x="859" y="-58" type="curve"/>
@@ -38,6 +38,7 @@ uni957F
       <point x="759" y="42"/>
     </contour>
     <contour>
+      <point x="401" y="579" type="curve"/>
       <point x="458" y="520" type="line"/>
       <point x="590" y="591"/>
       <point x="717" y="672"/>
@@ -45,13 +46,6 @@ uni957F
       <point x="758" y="818" type="line"/>
       <point x="664" y="728"/>
       <point x="539" y="641"/>
-      <point x="401" y="579" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-20 16:43:07 +0000</string>
-    </dict>
-  </lib>
 </glyph>

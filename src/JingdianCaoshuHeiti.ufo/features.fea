@@ -1,13 +1,117 @@
-# Prefix: Languagesystems
+@MMK_L_A = [A];
+@MMK_L_F = [F P];
+@MMK_L_L = [L];
+@MMK_L_O = [C D G O Q];
+@MMK_L_T = [T];
+@MMK_L_V = [V W Y];
+@MMK_L_X = [K X Z];
+@MMK_L_f = [f f_f.liga];
+@MMK_L_o = [b c e o p];
+@MMK_L_period = [period];
+@MMK_L_quote = [quotedbl quotesingle];
+@MMK_L_quoteleft = [quotedblleft quoteleft];
+@MMK_L_quoteright = [quotedblright quoteright];
+@MMK_L_r = [r];
+@MMK_L_s = [s];
+@MMK_L_v = [v w y];
+@MMK_R_A = [A];
+@MMK_R_J = [J];
+@MMK_R_O = [C G O Q];
+@MMK_R_T = [T];
+@MMK_R_V = [V W Y];
+@MMK_R_X = [X Z];
+@MMK_R_colon = [colon];
+@MMK_R_comma = [comma];
+@MMK_R_exclam = [exclam];
+@MMK_R_n = [m n p r u x z];
+@MMK_R_o = [a c d e g o q s];
+@MMK_R_period = [period];
+@MMK_R_question = [question];
+@MMK_R_quote = [quotedbl quotesingle];
+@MMK_R_quoteleft = [quotedblleft quoteleft];
+@MMK_R_quoteright = [quotedblright quoteright];
+@MMK_R_semicolon = [semicolon];
+@MMK_R_v = [v w y];
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
 languagesystem DFLT dflt;
+### close prefix 'Languagesystems' ###
 
+### feature:0:liga ###
 feature liga {
+### open feature 'liga' ###
 lookupflag IgnoreMarks;
-sub f f i by ffi;
-sub f f l by ffl;
-sub f f by ff;
-sub f i by fi;
-sub f l by fl;
-sub f t by longst;
+sub f f i by f_f_i.liga;
+sub f f l by f_f_l.liga;
+sub f f by f_f.liga;
+sub f t by f_t.liga;
+sub f i by fi.liga;
+sub f l by fl.liga;
+### close feature 'liga' ###
 } liga;
+
+### feature:-1:kern ###
+feature kern {
+### open feature 'kern' ###
+	lookup kern_DFLT {
+		lookupflag IgnoreMarks;
+		pos @MMK_L_period @MMK_R_T -70;
+		pos @MMK_L_period @MMK_R_V -50;
+		pos @MMK_L_period @MMK_R_v -20;
+		pos @MMK_L_quote @MMK_R_A -20;
+		pos @MMK_L_quoteright @MMK_R_A -30;
+		pos @MMK_L_quoteright @MMK_R_O -30;
+	} kern_DFLT;
+	lookup kern_latn {
+		lookupflag IgnoreMarks;
+		pos q j 60;
+		pos @MMK_L_A @MMK_R_O -20;
+		pos @MMK_L_A @MMK_R_T -90;
+		pos @MMK_L_A @MMK_R_V -80;
+		pos @MMK_L_A @MMK_R_v -10;
+		pos @MMK_L_F @MMK_R_A -60;
+		pos @MMK_L_F @MMK_R_J -100;
+		pos @MMK_L_F @MMK_R_comma -100;
+		pos @MMK_L_F @MMK_R_n -20;
+		pos @MMK_L_F @MMK_R_o -20;
+		pos @MMK_L_F @MMK_R_period -100;
+		pos @MMK_L_F @MMK_R_v -30;
+		pos @MMK_L_L @MMK_R_O -50;
+		pos @MMK_L_L @MMK_R_T -150;
+		pos @MMK_L_L @MMK_R_V -120;
+		pos @MMK_L_L @MMK_R_quote -80;
+		pos @MMK_L_L @MMK_R_quoteright -100;
+		pos @MMK_L_L @MMK_R_v -40;
+		pos @MMK_L_O @MMK_R_A -20;
+		pos @MMK_L_O @MMK_R_T -40;
+		pos @MMK_L_O @MMK_R_V -20;
+		pos @MMK_L_O @MMK_R_X -20;
+		pos @MMK_L_O @MMK_R_comma -10;
+		pos @MMK_L_O @MMK_R_period -10;
+		pos @MMK_L_T @MMK_R_A -90;
+		pos @MMK_L_T @MMK_R_J -120;
+		pos @MMK_L_T @MMK_R_O -40;
+		pos @MMK_L_T @MMK_R_comma -70;
+		pos @MMK_L_T @MMK_R_n -150;
+		pos @MMK_L_T @MMK_R_o -150;
+		pos @MMK_L_T @MMK_R_period -70;
+		pos @MMK_L_T @MMK_R_v -150;
+		pos @MMK_L_V @MMK_R_A -80;
+		pos @MMK_L_V @MMK_R_J -100;
+		pos @MMK_L_V @MMK_R_O -20;
+		pos @MMK_L_V @MMK_R_comma -50;
+		pos @MMK_L_V @MMK_R_n -30;
+		pos @MMK_L_V @MMK_R_o -50;
+		pos @MMK_L_V @MMK_R_period -50;
+		pos @MMK_L_X @MMK_R_O -20;
+		pos @MMK_L_f @MMK_R_o -20;
+		pos @MMK_L_r @MMK_R_comma -20;
+		pos @MMK_L_r @MMK_R_o -20;
+		pos @MMK_L_r @MMK_R_period -20;
+		pos @MMK_L_v @MMK_R_comma -20;
+		pos @MMK_L_v @MMK_R_period -20;
+	} kern_latn;
+	lookupflag 0;
+### close feature 'kern' ###
+} kern;
 

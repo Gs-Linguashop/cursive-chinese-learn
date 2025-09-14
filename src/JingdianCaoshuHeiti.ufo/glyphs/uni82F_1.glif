@@ -7,6 +7,7 @@ cid33871
 </note>
   <outline>
     <contour>
+      <point x="43" y="-13" type="curve"/>
       <point x="92" y="-81" type="line"/>
       <point x="303" y="-16"/>
       <point x="538" y="139"/>
@@ -20,7 +21,6 @@ cid33871
       <point x="460" y="364" type="line" smooth="yes"/>
       <point x="460" y="152"/>
       <point x="250" y="47"/>
-      <point x="43" y="-13" type="curve"/>
     </contour>
     <contour>
       <point x="280" y="334" type="curve"/>
@@ -59,6 +59,7 @@ cid33871
       <point x="307" y="685"/>
     </contour>
     <contour>
+      <point x="634" y="354" type="curve"/>
       <point x="697" y="325" type="line"/>
       <point x="732" y="369"/>
       <point x="777" y="436"/>
@@ -66,9 +67,9 @@ cid33871
       <point x="740" y="528" type="line"/>
       <point x="716" y="474"/>
       <point x="669" y="399"/>
-      <point x="634" y="354" type="curve"/>
     </contour>
     <contour>
+      <point x="600" y="640" type="curve"/>
       <point x="666" y="612" type="line"/>
       <point x="711" y="674"/>
       <point x="759" y="754"/>
@@ -76,13 +77,6 @@ cid33871
       <point x="711" y="836" type="line"/>
       <point x="686" y="778"/>
       <point x="640" y="696"/>
-      <point x="600" y="640" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-08-20 16:43:07 +0000</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,33 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t" format="2">
-  <advance width="401"/>
+  <advance width="348"/>
   <unicode hex="0074"/>
   <outline>
     <contour>
-      <point x="360" y="76" type="line"/>
-      <point x="262" y="79"/>
-      <point x="219" y="86"/>
-      <point x="219" y="201" type="curve"/>
-      <point x="219" y="442" type="line"/>
-      <point x="334" y="442" type="line"/>
-      <point x="334" y="526" type="line"/>
-      <point x="219" y="526" type="line"/>
-      <point x="219" y="686" type="line"/>
-      <point x="131" y="686" type="line"/>
-      <point x="131" y="526" type="line"/>
-      <point x="30" y="526" type="line"/>
-      <point x="30" y="442" type="line"/>
-      <point x="131" y="442" type="line"/>
-      <point x="131" y="211" type="line"/>
-      <point x="131" y="71"/>
-      <point x="152" y="-6"/>
-      <point x="360" y="-6" type="curve"/>
+      <point x="333" y="-6" type="curve"/>
+      <point x="333" y="74" type="line"/>
+      <point x="243" y="77"/>
+      <point x="203" y="86"/>
+      <point x="203" y="201" type="curve"/>
+      <point x="203" y="446" type="line"/>
+      <point x="309" y="446" type="line"/>
+      <point x="309" y="526" type="line"/>
+      <point x="203" y="526" type="line"/>
+      <point x="203" y="686" type="line"/>
+      <point x="115" y="686" type="line"/>
+      <point x="115" y="526" type="line"/>
+      <point x="25" y="526" type="line"/>
+      <point x="25" y="446" type="line"/>
+      <point x="115" y="446" type="line"/>
+      <point x="115" y="211" type="line"/>
+      <point x="115" y="71"/>
+      <point x="134" y="-6"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-09-06 00:25:14 +0000</string>
-    </dict>
-  </lib>
 </glyph>
