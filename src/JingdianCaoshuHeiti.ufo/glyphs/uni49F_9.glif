@@ -2,7 +2,6 @@
 <glyph name="uni49F9" format="2">
   <advance width="1000"/>
   <unicode hex="49F9"/>
-  <unicode hex="5E94"/>
   <outline>
     <contour>
       <point x="36" y="-45" type="curve"/>

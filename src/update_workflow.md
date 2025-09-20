@@ -2,6 +2,10 @@
 
 将课件链接放在系列的README.md中
 
+# 更新UFO字形
+
+保存更新文件
+
 # 更新SVG字形
 
 `python3 src/glif_to_svg.py src/JingdianCaoshuHeiti.ufo "" src/JingdianCaoshuHeiti-svg/ --all_glyphs`
