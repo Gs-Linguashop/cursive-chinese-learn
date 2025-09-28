@@ -42,10 +42,6 @@
       <point x="365" y="5"/>
     </contour>
     <contour>
-      <point x="0" y="0"/>
-      <point x="0" y="0"/>
-    </contour>
-    <contour>
       <point x="206" y="278" type="line"/>
       <point x="206" y="212" type="line"/>
       <point x="623" y="212" type="line"/>

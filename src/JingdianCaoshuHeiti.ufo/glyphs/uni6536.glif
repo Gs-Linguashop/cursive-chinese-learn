@@ -8,8 +8,8 @@ cid19909
   <outline>
     <contour>
       <point x="411" y="-2" type="curve"/>
-      <point x="440" y="-70" type="line"/>
-      <point x="695" y="99"/>
+      <point x="460" y="-70" type="line"/>
+      <point x="715" y="99"/>
       <point x="933" y="278"/>
       <point x="933" y="536" type="curve" smooth="yes"/>
       <point x="933" y="687"/>

@@ -5,6 +5,15 @@
     <key>public.kern1.A</key>
     <array>
       <string>A</string>
+      <string>Aacute</string>
+      <string>Abreve</string>
+      <string>Acircumflex</string>
+      <string>Adieresis</string>
+      <string>Agrave</string>
+      <string>Amacron</string>
+      <string>Aogonek</string>
+      <string>Aring</string>
+      <string>Atilde</string>
     </array>
     <key>public.kern1.F</key>
     <array>
@@ -14,43 +23,107 @@
     <key>public.kern1.L</key>
     <array>
       <string>L</string>
+      <string>Lacute</string>
+      <string>Lcaron</string>
+      <string>uni013B</string>
+      <string>Lslash</string>
     </array>
     <key>public.kern1.O</key>
     <array>
       <string>C</string>
+      <string>Cacute</string>
+      <string>Ccaron</string>
+      <string>Ccedilla</string>
+      <string>Cdotaccent</string>
       <string>D</string>
+      <string>Dcaron</string>
+      <string>Dcroat</string>
+      <string>Eth</string>
       <string>G</string>
+      <string>Gbreve</string>
+      <string>uni0122</string>
+      <string>Gdotaccent</string>
       <string>O</string>
+      <string>Oacute</string>
+      <string>Ocircumflex</string>
+      <string>Odieresis</string>
+      <string>Ograve</string>
+      <string>Ohungarumlaut</string>
+      <string>Oslash</string>
+      <string>Otilde</string>
       <string>Q</string>
     </array>
     <key>public.kern1.T</key>
     <array>
       <string>T</string>
+      <string>Tcaron</string>
+      <string>uni021A</string>
     </array>
     <key>public.kern1.V</key>
     <array>
       <string>V</string>
       <string>W</string>
+      <string>Wacute</string>
+      <string>Wcircumflex</string>
+      <string>Wdieresis</string>
+      <string>Wgrave</string>
       <string>Y</string>
+      <string>Yacute</string>
+      <string>Ycircumflex</string>
+      <string>Ydieresis</string>
+      <string>Ygrave</string>
     </array>
     <key>public.kern1.X</key>
     <array>
       <string>K</string>
+      <string>uni0136</string>
       <string>X</string>
       <string>Z</string>
+      <string>Zacute</string>
+      <string>Zcaron</string>
+      <string>Zdotaccent</string>
     </array>
     <key>public.kern1.f</key>
     <array>
       <string>f</string>
       <string>f_f.liga</string>
     </array>
+    <key>public.kern1.lcaron</key>
+    <array>
+      <string>Ncaron</string>
+      <string>lcaron</string>
+    </array>
     <key>public.kern1.o</key>
     <array>
+      <string>ae</string>
       <string>b</string>
       <string>c</string>
+      <string>cacute</string>
+      <string>ccaron</string>
+      <string>ccedilla</string>
+      <string>cdotaccent</string>
+      <string>eth</string>
       <string>e</string>
+      <string>eacute</string>
+      <string>ecaron</string>
+      <string>ecircumflex</string>
+      <string>edieresis</string>
+      <string>edotaccent</string>
+      <string>egrave</string>
+      <string>emacron</string>
+      <string>eogonek</string>
       <string>o</string>
+      <string>oacute</string>
+      <string>ocircumflex</string>
+      <string>odieresis</string>
+      <string>ograve</string>
+      <string>ohungarumlaut</string>
+      <string>oslash</string>
+      <string>otilde</string>
+      <string>oe</string>
       <string>p</string>
+      <string>thorn</string>
+      <string>germandbls</string>
     </array>
     <key>public.kern1.period</key>
     <array>
@@ -74,46 +147,91 @@
     <key>public.kern1.r</key>
     <array>
       <string>r</string>
-    </array>
-    <key>public.kern1.s</key>
-    <array>
-      <string>s</string>
+      <string>racute</string>
+      <string>rcaron</string>
     </array>
     <key>public.kern1.v</key>
     <array>
       <string>v</string>
       <string>w</string>
+      <string>wacute</string>
+      <string>wcircumflex</string>
+      <string>wdieresis</string>
+      <string>wgrave</string>
       <string>y</string>
+      <string>yacute</string>
+      <string>ycircumflex</string>
+      <string>ydieresis</string>
+      <string>ygrave</string>
     </array>
     <key>public.kern2.A</key>
     <array>
       <string>A</string>
+      <string>Aacute</string>
+      <string>Abreve</string>
+      <string>Acircumflex</string>
+      <string>Adieresis</string>
+      <string>Agrave</string>
+      <string>Amacron</string>
+      <string>Aogonek</string>
+      <string>Aring</string>
+      <string>Atilde</string>
+      <string>AE</string>
     </array>
     <key>public.kern2.J</key>
     <array>
       <string>J</string>
+      <string>uni004A0301</string>
     </array>
     <key>public.kern2.O</key>
     <array>
       <string>C</string>
+      <string>Cacute</string>
+      <string>Ccaron</string>
+      <string>Ccedilla</string>
+      <string>Cdotaccent</string>
       <string>G</string>
+      <string>Gbreve</string>
+      <string>uni0122</string>
+      <string>Gdotaccent</string>
       <string>O</string>
+      <string>Oacute</string>
+      <string>Ocircumflex</string>
+      <string>Odieresis</string>
+      <string>Ograve</string>
+      <string>Ohungarumlaut</string>
+      <string>Oslash</string>
+      <string>Otilde</string>
+      <string>OE</string>
       <string>Q</string>
     </array>
     <key>public.kern2.T</key>
     <array>
       <string>T</string>
+      <string>Tcaron</string>
+      <string>uni021A</string>
     </array>
     <key>public.kern2.V</key>
     <array>
       <string>V</string>
       <string>W</string>
+      <string>Wacute</string>
+      <string>Wcircumflex</string>
+      <string>Wdieresis</string>
+      <string>Wgrave</string>
       <string>Y</string>
+      <string>Yacute</string>
+      <string>Ycircumflex</string>
+      <string>Ydieresis</string>
+      <string>Ygrave</string>
     </array>
     <key>public.kern2.X</key>
     <array>
       <string>X</string>
       <string>Z</string>
+      <string>Zacute</string>
+      <string>Zcaron</string>
+      <string>Zdotaccent</string>
     </array>
     <key>public.kern2.colon</key>
     <array>
@@ -129,24 +247,81 @@
     </array>
     <key>public.kern2.n</key>
     <array>
+      <string>dotlessi</string>
       <string>m</string>
       <string>n</string>
+      <string>nacute</string>
+      <string>ncaron</string>
+      <string>uni0146</string>
+      <string>ntilde</string>
       <string>p</string>
       <string>r</string>
+      <string>racute</string>
       <string>u</string>
+      <string>uacute</string>
+      <string>ucircumflex</string>
+      <string>udieresis</string>
+      <string>ugrave</string>
+      <string>uhungarumlaut</string>
+      <string>umacron</string>
+      <string>uogonek</string>
+      <string>uring</string>
       <string>x</string>
       <string>z</string>
+      <string>zacute</string>
+      <string>zcaron</string>
+      <string>zdotaccent</string>
     </array>
     <key>public.kern2.o</key>
     <array>
       <string>a</string>
+      <string>aacute</string>
+      <string>abreve</string>
+      <string>acircumflex</string>
+      <string>adieresis</string>
+      <string>agrave</string>
+      <string>amacron</string>
+      <string>aogonek</string>
+      <string>aring</string>
+      <string>atilde</string>
+      <string>ae</string>
       <string>c</string>
+      <string>cacute</string>
+      <string>ccaron</string>
+      <string>ccedilla</string>
+      <string>cdotaccent</string>
       <string>d</string>
+      <string>dcaron</string>
+      <string>dcroat</string>
+      <string>eth</string>
       <string>e</string>
+      <string>eacute</string>
+      <string>ecaron</string>
+      <string>ecircumflex</string>
+      <string>edieresis</string>
+      <string>edotaccent</string>
+      <string>egrave</string>
+      <string>emacron</string>
+      <string>eogonek</string>
       <string>g</string>
+      <string>gbreve</string>
+      <string>uni0123</string>
+      <string>gdotaccent</string>
       <string>o</string>
+      <string>oacute</string>
+      <string>ocircumflex</string>
+      <string>odieresis</string>
+      <string>ograve</string>
+      <string>ohungarumlaut</string>
+      <string>oslash</string>
+      <string>otilde</string>
+      <string>oe</string>
       <string>q</string>
       <string>s</string>
+      <string>sacute</string>
+      <string>scaron</string>
+      <string>scedilla</string>
+      <string>uni0219</string>
     </array>
     <key>public.kern2.period</key>
     <array>
@@ -179,7 +354,15 @@
     <array>
       <string>v</string>
       <string>w</string>
+      <string>wacute</string>
+      <string>wcircumflex</string>
+      <string>wdieresis</string>
+      <string>wgrave</string>
       <string>y</string>
+      <string>yacute</string>
+      <string>ycircumflex</string>
+      <string>ydieresis</string>
+      <string>ygrave</string>
     </array>
   </dict>
 </plist>

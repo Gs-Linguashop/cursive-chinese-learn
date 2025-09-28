@@ -54,10 +54,10 @@
     </contour>
     <contour>
       <point x="206" y="517" type="curve"/>
-      <point x="280" y="560" type="line"/>
-      <point x="263" y="626"/>
-      <point x="218" y="719"/>
-      <point x="178" y="788" type="curve"/>
+      <point x="276" y="557" type="line"/>
+      <point x="259" y="623"/>
+      <point x="214" y="716"/>
+      <point x="174" y="785" type="curve"/>
       <point x="106" y="750" type="line"/>
       <point x="143" y="683"/>
       <point x="184" y="583"/>

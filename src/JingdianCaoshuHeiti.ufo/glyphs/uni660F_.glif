@@ -3,6 +3,7 @@
   <advance width="1000"/>
   <unicode hex="660F"/>
   <unicode hex="20BD1"/>
+  <unicode hex="662C"/>
   <outline>
     <contour>
       <point x="124" y="444" type="curve"/>

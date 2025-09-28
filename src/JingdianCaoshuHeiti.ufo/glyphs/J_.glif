@@ -2,6 +2,8 @@
 <glyph name="J" format="2">
   <advance width="574"/>
   <unicode hex="004A"/>
+  <anchor x="287" y="0" name="bottom"/>
+  <anchor x="461" y="750" name="top"/>
   <outline>
     <contour>
       <point x="120" y="217" type="curve"/>
@@ -16,9 +18,9 @@
       <point x="417" y="750" type="line"/>
       <point x="417" y="284" type="line"/>
       <point x="417" y="234"/>
-      <point x="420" y="63"/>
-      <point x="265" y="63" type="curve"/>
-      <point x="140" y="63"/>
+      <point x="420" y="61"/>
+      <point x="265" y="61" type="curve"/>
+      <point x="140" y="61"/>
       <point x="120" y="173"/>
     </contour>
   </outline>

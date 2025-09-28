@@ -36,10 +36,6 @@
       <point x="538" y="-61"/>
     </contour>
     <contour>
-      <point x="0" y="0"/>
-      <point x="0" y="0"/>
-    </contour>
-    <contour>
       <point x="809" y="426" type="curve"/>
       <point x="886" y="392" type="line"/>
       <point x="910" y="441"/>

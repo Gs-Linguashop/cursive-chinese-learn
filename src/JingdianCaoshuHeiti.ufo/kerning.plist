@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>l</key>
+    <dict>
+      <key>periodcentered.loclCAT.case</key>
+      <integer>-80</integer>
+    </dict>
+    <key>periodcentered.loclCAT.case</key>
+    <dict>
+      <key>l</key>
+      <integer>-80</integer>
+    </dict>
     <key>public.kern1.A</key>
     <dict>
       <key>public.kern2.O</key>
@@ -32,6 +42,8 @@
     </dict>
     <key>public.kern1.L</key>
     <dict>
+      <key>periodcentered.loclCAT</key>
+      <integer>-240</integer>
       <key>public.kern2.O</key>
       <integer>-50</integer>
       <key>public.kern2.T</key>
@@ -103,8 +115,15 @@
     </dict>
     <key>public.kern1.f</key>
     <dict>
+      <key>icircumflex</key>
+      <integer>30</integer>
       <key>public.kern2.o</key>
       <integer>-20</integer>
+    </dict>
+    <key>public.kern1.lcaron</key>
+    <dict>
+      <key>i</key>
+      <integer>80</integer>
     </dict>
     <key>public.kern1.period</key>
     <dict>

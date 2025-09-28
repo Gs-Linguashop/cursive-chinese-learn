@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth" format="2">
+  <advance width="571"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <component base="o"/>
+    <contour>
+      <point x="195" y="776" type="curve"/>
+      <point x="151" y="726" type="line"/>
+      <point x="319" y="602"/>
+      <point x="435" y="478"/>
+      <point x="435" y="354" type="curve"/>
+      <point x="530" y="284" type="line"/>
+      <point x="530" y="535"/>
+      <point x="371" y="655"/>
+    </contour>
+    <contour>
+      <point x="89" y="617" type="line"/>
+      <point x="113" y="553" type="line"/>
+      <point x="463" y="673" type="line"/>
+      <point x="439" y="737" type="line"/>
+    </contour>
+  </outline>
+</glyph>
