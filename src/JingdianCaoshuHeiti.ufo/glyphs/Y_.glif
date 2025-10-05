@@ -2,9 +2,11 @@
 <glyph name="Y" format="2">
   <advance width="648"/>
   <unicode hex="0059"/>
+  <note>
+Y
+</note>
   <anchor x="324" y="0" name="bottom"/>
   <anchor x="324" y="750" name="top"/>
-  <anchor x="20" y="750" name="topleft"/>
   <outline>
     <contour>
       <point x="641" y="750" type="line"/>

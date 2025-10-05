@@ -2,6 +2,9 @@
 <glyph name="uni300B" format="2">
   <advance width="1000"/>
   <unicode hex="300B"/>
+  <note>
+uni300B
+</note>
   <outline>
     <contour>
       <point x="412" y="-64" type="line"/>

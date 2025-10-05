@@ -2,22 +2,23 @@
 <glyph name="uniFF08" format="2">
   <advance width="1000"/>
   <unicode hex="FF08"/>
+  <note>
+uniFF08
+</note>
   <outline>
     <contour>
-      <point x="743" y="-59" type="curve"/>
       <point x="838" y="-29" type="line"/>
-      <point x="774" y="107"/>
-      <point x="741" y="237"/>
-      <point x="741" y="380" type="curve" smooth="yes"/>
-      <point x="741" y="523"/>
-      <point x="774" y="653"/>
-      <point x="838" y="789" type="curve"/>
+      <point x="789" y="75"/>
+      <point x="741" y="274"/>
+      <point x="741" y="380" type="qcurve"/>
+      <point x="741" y="486"/>
+      <point x="789" y="685"/>
+      <point x="838" y="789" type="qcurve"/>
       <point x="743" y="819" type="line"/>
-      <point x="676" y="674"/>
-      <point x="643" y="532"/>
-      <point x="643" y="380" type="curve" smooth="yes"/>
-      <point x="643" y="228"/>
-      <point x="676" y="86"/>
+      <point x="643" y="603"/>
+      <point x="643" y="380" type="qcurve"/>
+      <point x="643" y="157"/>
+      <point x="743" y="-59" type="qcurve"/>
     </contour>
   </outline>
 </glyph>

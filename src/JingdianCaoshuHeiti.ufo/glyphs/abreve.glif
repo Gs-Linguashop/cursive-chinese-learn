@@ -2,8 +2,31 @@
 <glyph name="abreve" format="2">
   <advance width="529"/>
   <unicode hex="0103"/>
+  <note>
+abreve
+</note>
+  <anchor x="265" y="0" name="bottom"/>
+  <anchor x="266" y="675" name="top"/>
+  <anchor x="419" y="0" name="ogonek"/>
   <outline>
-    <component base="a"/>
-    <component base="uni0306" xOffset="116"/>
+    <component base="a" identifier="37B2C0D3"/>
+    <component base="uni0306" xOffset="116" identifier="0818A868"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0818A868</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>37B2C0D3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

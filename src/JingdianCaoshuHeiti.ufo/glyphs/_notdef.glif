@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name=".notdef" format="2">
   <advance width="742"/>
+  <note>
+.notdef
+</note>
   <outline>
     <contour>
       <point x="652" y="0" type="line"/>

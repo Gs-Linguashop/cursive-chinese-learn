@@ -2,7 +2,22 @@
 <glyph name="grave" format="2">
   <advance width="300"/>
   <unicode hex="0060"/>
+  <note>
+grave
+</note>
   <outline>
-    <component base="gravecomb"/>
+    <component base="gravecomb" identifier="BE24D8A6"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BE24D8A6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

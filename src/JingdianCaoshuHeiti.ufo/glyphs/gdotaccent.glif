@@ -2,8 +2,30 @@
 <glyph name="gdotaccent" format="2">
   <advance width="569"/>
   <unicode hex="0121"/>
+  <note>
+gdotaccent
+</note>
+  <anchor x="285" y="-220" name="bottom"/>
+  <anchor x="285" y="718" name="top"/>
   <outline>
-    <component base="g"/>
-    <component base="uni0307" xOffset="165"/>
+    <component base="g" identifier="4D692D12"/>
+    <component base="uni0307" xOffset="165" identifier="A596B106"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4D692D12</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A596B106</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

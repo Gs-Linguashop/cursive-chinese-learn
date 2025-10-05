@@ -2,8 +2,31 @@
 <glyph name="imacron" format="2">
   <advance width="218"/>
   <unicode hex="012B"/>
+  <note>
+imacron
+</note>
+  <anchor x="109" y="0" name="bottom"/>
+  <anchor x="109" y="644" name="top"/>
+  <anchor x="109" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="uni0304" xOffset="-41"/>
+    <component base="dotlessi" identifier="62DBD624"/>
+    <component base="uni0304" xOffset="-41" identifier="D8617526"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>62DBD624</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D8617526</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

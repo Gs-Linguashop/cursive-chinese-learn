@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni672C" format="2">
-  <advance width="1000" height="1000"/>
+  <advance width="1000"/>
   <unicode hex="672C"/>
   <note>
-cid20759
+uni672C
 </note>
   <outline>
     <contour>
@@ -17,13 +17,14 @@ cid20759
       <point x="506" y="435" type="line"/>
       <point x="506" y="243" type="line"/>
       <point x="219" y="243" type="line"/>
-      <point x="332" y="384"/>
-      <point x="455" y="545"/>
-      <point x="529" y="819" type="curve"/>
+      <point x="291" y="333"/>
+      <point x="396" y="486"/>
+      <point x="494" y="691"/>
+      <point x="529" y="819" type="qcurve"/>
       <point x="450" y="839" type="line"/>
-      <point x="373" y="545"/>
-      <point x="219" y="350"/>
-      <point x="84" y="206" type="curve"/>
+      <point x="398" y="640"/>
+      <point x="209" y="339"/>
+      <point x="84" y="206" type="qcurve"/>
       <point x="144" y="148" type="line"/>
       <point x="166" y="167" type="line"/>
       <point x="506" y="167" type="line"/>
@@ -35,14 +36,12 @@ cid20759
       <point x="85" y="634" type="line"/>
     </contour>
     <contour>
-      <point x="857" y="115" type="curve"/>
       <point x="935" y="145" type="line"/>
-      <point x="917" y="233"/>
-      <point x="886" y="323"/>
-      <point x="842" y="413" type="curve"/>
+      <point x="908" y="279"/>
+      <point x="842" y="413" type="qcurve"/>
       <point x="769" y="384" type="line"/>
-      <point x="811" y="295"/>
-      <point x="841" y="203"/>
+      <point x="833" y="249"/>
+      <point x="857" y="115" type="qcurve"/>
     </contour>
   </outline>
 </glyph>

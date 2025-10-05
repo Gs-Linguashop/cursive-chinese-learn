@@ -2,8 +2,31 @@
 <glyph name="acircumflex" format="2">
   <advance width="529"/>
   <unicode hex="00E2"/>
+  <note>
+acircumflex
+</note>
+  <anchor x="265" y="0" name="bottom"/>
+  <anchor x="266" y="741" name="top"/>
+  <anchor x="419" y="0" name="ogonek"/>
   <outline>
-    <component base="a"/>
-    <component base="uni0302" xOffset="116"/>
+    <component base="a" identifier="2876993D"/>
+    <component base="uni0302" xOffset="116" identifier="52593EB1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2876993D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>52593EB1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

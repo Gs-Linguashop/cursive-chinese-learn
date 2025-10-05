@@ -2,8 +2,10 @@
 <glyph name="z" format="2">
   <advance width="506"/>
   <unicode hex="007A"/>
+  <note>
+z
+</note>
   <anchor x="253" y="0" name="bottom"/>
-  <anchor x="253" y="263" name="center"/>
   <anchor x="253" y="526" name="top"/>
   <outline>
     <contour>

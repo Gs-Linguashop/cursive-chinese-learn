@@ -2,8 +2,30 @@
 <glyph name="Wdieresis" format="2">
   <advance width="1014"/>
   <unicode hex="1E84"/>
+  <note>
+Wdieresis
+</note>
+  <anchor x="507" y="0" name="bottom"/>
+  <anchor x="507" y="923" name="top"/>
   <outline>
-    <component base="W"/>
-    <component base="uni0308" xOffset="357" yOffset="224"/>
+    <component base="W" identifier="ECADC15A"/>
+    <component base="uni0308" xOffset="357" yOffset="224" identifier="D2067E67"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>D2067E67</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>ECADC15A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

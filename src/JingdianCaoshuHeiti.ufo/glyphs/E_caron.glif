@@ -2,8 +2,31 @@
 <glyph name="Ecaron" format="2">
   <advance width="588"/>
   <unicode hex="011A"/>
+  <note>
+Ecaron
+</note>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="310" y="899" name="top"/>
+  <anchor x="529" y="10" name="ogonek"/>
   <outline>
-    <component base="E"/>
-    <component base="uni030C" xOffset="160" yOffset="224"/>
+    <component base="E" identifier="E64FA057"/>
+    <component base="uni030C" xOffset="160" yOffset="224" identifier="0B22BEF8"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0B22BEF8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E64FA057</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

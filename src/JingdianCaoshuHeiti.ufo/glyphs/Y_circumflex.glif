@@ -2,8 +2,30 @@
 <glyph name="Ycircumflex" format="2">
   <advance width="648"/>
   <unicode hex="0176"/>
+  <note>
+Ycircumflex
+</note>
+  <anchor x="324" y="0" name="bottom"/>
+  <anchor x="324" y="965" name="top"/>
   <outline>
-    <component base="Y"/>
-    <component base="uni0302" xOffset="174" yOffset="224"/>
+    <component base="Y" identifier="2A139734"/>
+    <component base="uni0302" xOffset="174" yOffset="224" identifier="24ACC2F3"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>24ACC2F3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>2A139734</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

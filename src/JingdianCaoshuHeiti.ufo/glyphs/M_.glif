@@ -2,6 +2,9 @@
 <glyph name="M" format="2">
   <advance width="886"/>
   <unicode hex="004D"/>
+  <note>
+M
+</note>
   <anchor x="443" y="0" name="bottom"/>
   <anchor x="443" y="750" name="top"/>
   <outline>

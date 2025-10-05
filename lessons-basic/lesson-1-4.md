@@ -36,7 +36,10 @@
 
 最后一类偶尔出现的「口」，因为在隶书中被写作「厶」，所以被写作「厶」，或者简化成「𠂉」「⺈」。
 
-*“喿”*
+*“喿（繁写）”*
+![喿](../src/JingdianCaoshuHeiti-svg/uni55BF.alt.svg)
+
+*“喿（简写）”*
 ![喿](../src/JingdianCaoshuHeiti-svg/uni55BF.svg)
 
 *“員员”*

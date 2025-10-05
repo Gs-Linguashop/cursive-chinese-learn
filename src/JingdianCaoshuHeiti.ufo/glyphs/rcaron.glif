@@ -2,8 +2,30 @@
 <glyph name="rcaron" format="2">
   <advance width="380"/>
   <unicode hex="0159"/>
+  <note>
+rcaron
+</note>
+  <anchor x="109" y="0" name="bottom"/>
+  <anchor x="198" y="675" name="top"/>
   <outline>
-    <component base="r"/>
-    <component base="uni030C" xOffset="48"/>
+    <component base="r" identifier="AF539CD5"/>
+    <component base="uni030C" xOffset="48" identifier="D1609451"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AF539CD5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D1609451</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -2,8 +2,30 @@
 <glyph name="scaron" format="2">
   <advance width="487"/>
   <unicode hex="0161"/>
+  <note>
+scaron
+</note>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="244" y="675" name="top"/>
   <outline>
-    <component base="s"/>
-    <component base="uni030C" xOffset="94"/>
+    <component base="s" identifier="5AFF797E"/>
+    <component base="uni030C" xOffset="94" identifier="41A5D13C"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>41A5D13C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5AFF797E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

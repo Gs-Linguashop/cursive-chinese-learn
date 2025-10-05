@@ -2,8 +2,31 @@
 <glyph name="egrave" format="2">
   <advance width="542"/>
   <unicode hex="00E8"/>
+  <note>
+egrave
+</note>
+  <anchor x="271" y="0" name="bottom"/>
+  <anchor x="277" y="737" name="top"/>
+  <anchor x="328" y="0" name="ogonek"/>
   <outline>
-    <component base="e"/>
-    <component base="gravecomb" xOffset="127"/>
+    <component base="e" identifier="CE12C586"/>
+    <component base="gravecomb" xOffset="127" identifier="2F4FCC19"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2F4FCC19</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CE12C586</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

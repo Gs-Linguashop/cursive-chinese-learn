@@ -2,6 +2,9 @@
 <glyph name="trademark" format="2">
   <advance width="1036"/>
   <unicode hex="2122"/>
+  <note>
+trademark
+</note>
   <outline>
     <contour>
       <point x="194" y="284" type="line"/>

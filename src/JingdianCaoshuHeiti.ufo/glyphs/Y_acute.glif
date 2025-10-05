@@ -2,8 +2,30 @@
 <glyph name="Yacute" format="2">
   <advance width="648"/>
   <unicode hex="00DD"/>
+  <note>
+Yacute
+</note>
+  <anchor x="324" y="0" name="bottom"/>
+  <anchor x="324" y="961" name="top"/>
   <outline>
-    <component base="Y"/>
-    <component base="acutecomb" xOffset="174" yOffset="224"/>
+    <component base="Y" identifier="0FCE076C"/>
+    <component base="acutecomb" xOffset="174" yOffset="224" identifier="CBB0EC82"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0FCE076C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CBB0EC82</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

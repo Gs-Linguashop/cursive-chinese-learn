@@ -5,7 +5,7 @@
 那么今天的内容就到这里了。欢迎您推荐给有兴趣的朋友。感谢您的观看。
 
 # Bilibili
-视频中的内容资料已经同步公开上传至Gitee：https://gitee.com/awwlang/cursive-chinese-learn.git
+视频内容资料和字体已经同步更新至Gitee：https://gitee.com/awwlang/cursive-chinese-learn.git
 
 # YouTube
-视频中的内容资料已经同步公开上传至https://github.com/Gs-Linguashop/cursive-chinese-learn.git
+视频内容资料和字体已经同步更新至GitHub：https://github.com/Gs-Linguashop/cursive-chinese-learn.git

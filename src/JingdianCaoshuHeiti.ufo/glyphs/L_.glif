@@ -2,8 +2,10 @@
 <glyph name="L" format="2">
   <advance width="587"/>
   <unicode hex="004C"/>
+  <note>
+L
+</note>
   <anchor x="294" y="0" name="bottom"/>
-  <anchor x="294" y="375" name="center"/>
   <anchor x="113" y="750" name="top"/>
   <anchor x="277" y="750" name="topright"/>
   <outline>

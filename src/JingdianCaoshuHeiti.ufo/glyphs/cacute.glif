@@ -2,8 +2,30 @@
 <glyph name="cacute" format="2">
   <advance width="540"/>
   <unicode hex="0107"/>
+  <note>
+cacute
+</note>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="276" y="737" name="top"/>
   <outline>
-    <component base="c"/>
-    <component base="acutecomb" xOffset="126"/>
+    <component base="c" identifier="31AEBC84"/>
+    <component base="acutecomb" xOffset="126" identifier="1D291A62"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1D291A62</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>31AEBC84</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -2,8 +2,31 @@
 <glyph name="dcaron" format="2">
   <advance width="567"/>
   <unicode hex="010F"/>
+  <note>
+dcaron
+</note>
+  <anchor x="284" y="0" name="bottom"/>
+  <anchor x="284" y="526" name="top"/>
+  <anchor x="622" y="800" name="topright"/>
   <outline>
-    <component base="d"/>
-    <component base="uni030C.alt" xOffset="520" yOffset="50"/>
+    <component base="d" identifier="0F458139"/>
+    <component base="uni030C.alt" xOffset="520" yOffset="50" identifier="2E689E81"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0F458139</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>2E689E81</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

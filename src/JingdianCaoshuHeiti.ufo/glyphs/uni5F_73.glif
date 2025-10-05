@@ -2,26 +2,25 @@
 <glyph name="uni5F73" format="2">
   <advance width="1000"/>
   <unicode hex="5F73"/>
+  <note>
+uni5F73
+</note>
   <outline>
     <contour>
-      <point x="163" y="317" type="curve"/>
       <point x="219" y="246" type="line"/>
-      <point x="443" y="349"/>
-      <point x="657" y="463"/>
-      <point x="829" y="583" type="curve"/>
+      <point x="591" y="417"/>
+      <point x="829" y="583" type="qcurve"/>
       <point x="771" y="640" type="line"/>
-      <point x="602" y="523"/>
-      <point x="391" y="412"/>
+      <point x="518" y="465"/>
+      <point x="163" y="317" type="qcurve"/>
     </contour>
     <contour>
-      <point x="216" y="588" type="curve"/>
       <point x="271" y="522" type="line"/>
-      <point x="451" y="596"/>
-      <point x="619" y="684"/>
-      <point x="756" y="775" type="curve"/>
+      <point x="544" y="634"/>
+      <point x="756" y="775" type="qcurve"/>
       <point x="700" y="831" type="line"/>
-      <point x="565" y="741"/>
-      <point x="399" y="658"/>
+      <point x="496" y="695"/>
+      <point x="216" y="588" type="qcurve"/>
     </contour>
     <contour>
       <point x="484" y="438" type="line"/>

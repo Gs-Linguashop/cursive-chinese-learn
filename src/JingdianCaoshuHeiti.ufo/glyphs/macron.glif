@@ -2,7 +2,22 @@
 <glyph name="macron" format="2">
   <advance width="300"/>
   <unicode hex="00AF"/>
+  <note>
+macron
+</note>
   <outline>
-    <component base="uni0304"/>
+    <component base="uni0304" identifier="CDF5A6E9"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CDF5A6E9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

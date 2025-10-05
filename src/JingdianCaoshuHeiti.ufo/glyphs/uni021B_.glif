@@ -2,8 +2,31 @@
 <glyph name="uni021B" format="2">
   <advance width="348"/>
   <unicode hex="021B"/>
+  <note>
+uni021B
+</note>
+  <anchor x="214" y="0" name="bottom"/>
+  <anchor x="174" y="686" name="top"/>
+  <anchor x="328" y="800" name="topright"/>
   <outline>
-    <component base="t"/>
-    <component base="uni0326" xOffset="98"/>
+    <component base="t" identifier="ECBE15A1"/>
+    <component base="uni0326" xOffset="98" identifier="729408BB"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>729408BB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>ECBE15A1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

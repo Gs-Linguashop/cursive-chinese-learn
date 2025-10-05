@@ -2,6 +2,9 @@
 <glyph name="x" format="2">
   <advance width="500"/>
   <unicode hex="0078"/>
+  <note>
+x
+</note>
   <anchor x="250" y="0" name="bottom"/>
   <anchor x="250" y="526" name="top"/>
   <outline>

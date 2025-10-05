@@ -14,7 +14,7 @@
     </dict>
     <key>public.kern1.A</key>
     <dict>
-      <key>public.kern2.O</key>
+      <key>public.kern2.C</key>
       <integer>-20</integer>
       <key>public.kern2.T</key>
       <integer>-90</integer>
@@ -23,41 +23,7 @@
       <key>public.kern2.v</key>
       <integer>-10</integer>
     </dict>
-    <key>public.kern1.F</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <integer>-60</integer>
-      <key>public.kern2.J</key>
-      <integer>-100</integer>
-      <key>public.kern2.comma</key>
-      <integer>-100</integer>
-      <key>public.kern2.n</key>
-      <integer>-20</integer>
-      <key>public.kern2.o</key>
-      <integer>-20</integer>
-      <key>public.kern2.period</key>
-      <integer>-100</integer>
-      <key>public.kern2.v</key>
-      <integer>-30</integer>
-    </dict>
-    <key>public.kern1.L</key>
-    <dict>
-      <key>periodcentered.loclCAT</key>
-      <integer>-240</integer>
-      <key>public.kern2.O</key>
-      <integer>-50</integer>
-      <key>public.kern2.T</key>
-      <integer>-150</integer>
-      <key>public.kern2.V</key>
-      <integer>-120</integer>
-      <key>public.kern2.quote</key>
-      <integer>-80</integer>
-      <key>public.kern2.quoteright</key>
-      <integer>-100</integer>
-      <key>public.kern2.v</key>
-      <integer>-40</integer>
-    </dict>
-    <key>public.kern1.O</key>
+    <key>public.kern1.C</key>
     <dict>
       <key>public.kern2.A</key>
       <integer>-20</integer>
@@ -72,19 +38,63 @@
       <key>public.kern2.period</key>
       <integer>-10</integer>
     </dict>
+    <key>public.kern1.F</key>
+    <dict>
+      <key>public.kern2.A</key>
+      <integer>-60</integer>
+      <key>public.kern2.J</key>
+      <integer>-100</integer>
+      <key>public.kern2.a</key>
+      <integer>-20</integer>
+      <key>public.kern2.comma</key>
+      <integer>-100</integer>
+      <key>public.kern2.dotlessi</key>
+      <integer>-20</integer>
+      <key>public.kern2.period</key>
+      <integer>-100</integer>
+      <key>public.kern2.v</key>
+      <integer>-30</integer>
+    </dict>
+    <key>public.kern1.K</key>
+    <dict>
+      <key>public.kern2.C</key>
+      <integer>-20</integer>
+    </dict>
+    <key>public.kern1.L</key>
+    <dict>
+      <key>public.kern2.C</key>
+      <integer>-50</integer>
+      <key>public.kern2.T</key>
+      <integer>-150</integer>
+      <key>public.kern2.V</key>
+      <integer>-120</integer>
+      <key>public.kern2.periodcentered.loclCAT</key>
+      <integer>-240</integer>
+      <key>public.kern2.quotedbl</key>
+      <integer>-80</integer>
+      <key>public.kern2.quotedblright</key>
+      <integer>-100</integer>
+      <key>public.kern2.v</key>
+      <integer>-40</integer>
+    </dict>
+    <key>public.kern1.Ncaron</key>
+    <dict>
+      <key>public.kern2.i</key>
+      <integer>80</integer>
+    </dict>
     <key>public.kern1.T</key>
     <dict>
       <key>public.kern2.A</key>
       <integer>-90</integer>
+      <key>public.kern2.C</key>
+      <integer>-40</integer>
       <key>public.kern2.J</key>
       <integer>-120</integer>
-      <key>public.kern2.O</key>
-      <integer>-40</integer>
+      <key>public.kern2.a</key>
+      <integer>-150</integer>
       <key>public.kern2.comma</key>
       <integer>-70</integer>
-      <key>public.kern2.n</key>
-      <integer>-150</integer>
-      <key>public.kern2.o</key>
+      <key>public.kern2.dotlessi</key>
       <integer>-150</integer>
       <key>public.kern2.period</key>
       <integer>-70</integer>
@@ -95,35 +105,25 @@
     <dict>
       <key>public.kern2.A</key>
       <integer>-80</integer>
+      <key>public.kern2.C</key>
+      <integer>-20</integer>
       <key>public.kern2.J</key>
       <integer>-100</integer>
-      <key>public.kern2.O</key>
-      <integer>-20</integer>
+      <key>public.kern2.a</key>
+      <integer>-50</integer>
       <key>public.kern2.comma</key>
       <integer>-50</integer>
-      <key>public.kern2.n</key>
+      <key>public.kern2.dotlessi</key>
       <integer>-30</integer>
-      <key>public.kern2.o</key>
-      <integer>-50</integer>
       <key>public.kern2.period</key>
       <integer>-50</integer>
     </dict>
-    <key>public.kern1.X</key>
-    <dict>
-      <key>public.kern2.O</key>
-      <integer>-20</integer>
-    </dict>
     <key>public.kern1.f</key>
     <dict>
-      <key>icircumflex</key>
-      <integer>30</integer>
-      <key>public.kern2.o</key>
+      <key>public.kern2.a</key>
       <integer>-20</integer>
-    </dict>
-    <key>public.kern1.lcaron</key>
-    <dict>
-      <key>i</key>
-      <integer>80</integer>
+      <key>public.kern2.icircumflex</key>
+      <integer>30</integer>
     </dict>
     <key>public.kern1.period</key>
     <dict>
@@ -134,23 +134,23 @@
       <key>public.kern2.v</key>
       <integer>-20</integer>
     </dict>
-    <key>public.kern1.quote</key>
+    <key>public.kern1.quotedbl</key>
     <dict>
       <key>public.kern2.A</key>
       <integer>-20</integer>
     </dict>
-    <key>public.kern1.quoteright</key>
+    <key>public.kern1.quotedblright</key>
     <dict>
       <key>public.kern2.A</key>
       <integer>-30</integer>
-      <key>public.kern2.O</key>
+      <key>public.kern2.C</key>
       <integer>-30</integer>
     </dict>
     <key>public.kern1.r</key>
     <dict>
-      <key>public.kern2.comma</key>
+      <key>public.kern2.a</key>
       <integer>-20</integer>
-      <key>public.kern2.o</key>
+      <key>public.kern2.comma</key>
       <integer>-20</integer>
       <key>public.kern2.period</key>
       <integer>-20</integer>

@@ -2,8 +2,30 @@
 <glyph name="ncaron" format="2">
   <advance width="587"/>
   <unicode hex="0148"/>
+  <note>
+ncaron
+</note>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="295" y="675" name="top"/>
   <outline>
-    <component base="n"/>
-    <component base="uni030C" xOffset="145"/>
+    <component base="n" identifier="B488A938"/>
+    <component base="uni030C" xOffset="145" identifier="5D7EE753"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5D7EE753</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B488A938</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

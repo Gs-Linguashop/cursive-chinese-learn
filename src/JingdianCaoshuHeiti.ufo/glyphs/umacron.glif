@@ -2,8 +2,32 @@
 <glyph name="umacron" format="2">
   <advance width="580"/>
   <unicode hex="016B"/>
+  <note>
+umacron
+</note>
+  <anchor x="290" y="0" name="bottom"/>
+  <anchor x="290" y="644" name="top"/>
+  <anchor x="471" y="0" name="ogonek"/>
+  <anchor x="560" y="526" name="topright"/>
   <outline>
-    <component base="u"/>
-    <component base="uni0304" xOffset="140"/>
+    <component base="u" identifier="9F0038BA"/>
+    <component base="uni0304" xOffset="140" identifier="F9327C91"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9F0038BA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F9327C91</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

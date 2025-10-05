@@ -2,8 +2,30 @@
 <glyph name="cdotaccent" format="2">
   <advance width="540"/>
   <unicode hex="010B"/>
+  <note>
+cdotaccent
+</note>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="276" y="718" name="top"/>
   <outline>
-    <component base="c"/>
-    <component base="uni0307" xOffset="156"/>
+    <component base="c" identifier="17CE1B60"/>
+    <component base="uni0307" xOffset="156" identifier="C263C69E"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>17CE1B60</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C263C69E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

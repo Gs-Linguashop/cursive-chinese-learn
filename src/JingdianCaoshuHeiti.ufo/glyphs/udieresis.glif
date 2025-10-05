@@ -2,8 +2,32 @@
 <glyph name="udieresis" format="2">
   <advance width="580"/>
   <unicode hex="00FC"/>
+  <note>
+udieresis
+</note>
+  <anchor x="290" y="0" name="bottom"/>
+  <anchor x="290" y="699" name="top"/>
+  <anchor x="471" y="0" name="ogonek"/>
+  <anchor x="560" y="526" name="topright"/>
   <outline>
-    <component base="u"/>
-    <component base="uni0308" xOffset="140"/>
+    <component base="u" identifier="577783FD"/>
+    <component base="uni0308" xOffset="140" identifier="136249B1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>136249B1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>577783FD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -2,8 +2,30 @@
 <glyph name="Ygrave" format="2">
   <advance width="648"/>
   <unicode hex="1EF2"/>
+  <note>
+Ygrave
+</note>
+  <anchor x="324" y="0" name="bottom"/>
+  <anchor x="324" y="961" name="top"/>
   <outline>
-    <component base="Y"/>
-    <component base="gravecomb" xOffset="174" yOffset="224"/>
+    <component base="Y" identifier="646E5691"/>
+    <component base="gravecomb" xOffset="174" yOffset="224" identifier="4DB1ADBF"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4DB1ADBF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>646E5691</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

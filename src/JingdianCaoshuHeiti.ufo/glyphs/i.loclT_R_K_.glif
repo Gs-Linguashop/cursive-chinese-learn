@@ -1,8 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i.loclTRK" format="2">
   <advance width="218"/>
+  <note>
+i.loclTRK
+</note>
+  <anchor x="109" y="0" name="bottom"/>
+  <anchor x="109" y="718" name="top"/>
+  <anchor x="109" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="uni0307" xOffset="-11"/>
+    <component base="dotlessi" identifier="7C36EFD4"/>
+    <component base="uni0307" xOffset="-11" identifier="44EC4D78"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>44EC4D78</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7C36EFD4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

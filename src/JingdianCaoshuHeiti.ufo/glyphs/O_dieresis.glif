@@ -2,8 +2,32 @@
 <glyph name="Odieresis" format="2">
   <advance width="770"/>
   <unicode hex="00D6"/>
+  <note>
+Odieresis
+</note>
+  <anchor x="385" y="0" name="bottom"/>
+  <anchor x="385" y="923" name="top"/>
+  <anchor x="693" y="10" name="ogonek"/>
+  <anchor x="750" y="750" name="topright"/>
   <outline>
-    <component base="O"/>
-    <component base="uni0308" xOffset="235" yOffset="224"/>
+    <component base="O" identifier="2B9A2EEA"/>
+    <component base="uni0308" xOffset="235" yOffset="224" identifier="32BD834F"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2B9A2EEA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>32BD834F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -2,6 +2,9 @@
 <glyph name="guillemotleft" format="2">
   <advance width="600"/>
   <unicode hex="00AB"/>
+  <note>
+guillemotleft
+</note>
   <outline>
     <contour>
       <point x="273" y="491" type="line"/>

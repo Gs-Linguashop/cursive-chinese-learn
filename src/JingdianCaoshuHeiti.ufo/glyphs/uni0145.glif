@@ -2,8 +2,30 @@
 <glyph name="uni0145" format="2">
   <advance width="701"/>
   <unicode hex="0145"/>
+  <note>
+uni0145
+</note>
+  <anchor x="351" y="0" name="bottom"/>
+  <anchor x="351" y="750" name="top"/>
   <outline>
-    <component base="N"/>
-    <component base="uni0326" xOffset="235"/>
+    <component base="N" identifier="21180C86"/>
+    <component base="uni0326" xOffset="235" identifier="D3A8C358"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>21180C86</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D3A8C358</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

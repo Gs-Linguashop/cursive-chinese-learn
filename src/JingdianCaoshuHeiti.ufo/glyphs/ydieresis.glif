@@ -2,8 +2,30 @@
 <glyph name="ydieresis" format="2">
   <advance width="500"/>
   <unicode hex="00FF"/>
+  <note>
+ydieresis
+</note>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="699" name="top"/>
   <outline>
-    <component base="y"/>
-    <component base="uni0308" xOffset="100"/>
+    <component base="y" identifier="6AB8F8D1"/>
+    <component base="uni0308" xOffset="100" identifier="45EB5776"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>45EB5776</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6AB8F8D1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

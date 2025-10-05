@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J_acutecomb" format="2">
+  <advance width="574"/>
+  <note>
+uni004A0301
+</note>
+  <anchor x="287" y="0" name="bottom"/>
+  <anchor x="461" y="961" name="top"/>
+  <outline>
+    <component base="J" identifier="BF16FF50"/>
+    <component base="acutecomb" xOffset="311" yOffset="224" identifier="B99F807F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B99F807F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BF16FF50</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

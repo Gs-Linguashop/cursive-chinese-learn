@@ -2,7 +2,22 @@
 <glyph name="breve" format="2">
   <advance width="300"/>
   <unicode hex="02D8"/>
+  <note>
+breve
+</note>
   <outline>
-    <component base="uni0306"/>
+    <component base="uni0306" identifier="BF670BE0"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BF670BE0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

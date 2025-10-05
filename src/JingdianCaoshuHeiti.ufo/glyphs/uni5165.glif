@@ -2,26 +2,29 @@
 <glyph name="uni5165" format="2">
   <advance width="1000"/>
   <unicode hex="5165"/>
+  <note>
+uni5165
+</note>
   <outline>
     <contour>
-      <point x="890" y="-71" type="curve"/>
       <point x="963" y="-19" type="line"/>
-      <point x="701" y="358"/>
-      <point x="482" y="646"/>
-      <point x="275" y="831" type="curve"/>
+      <point x="749" y="290"/>
+      <point x="421" y="700"/>
+      <point x="275" y="831" type="qcurve"/>
       <point x="213" y="773" type="line"/>
-      <point x="419" y="587"/>
-      <point x="631" y="312"/>
+      <point x="362" y="639"/>
+      <point x="686" y="230"/>
+      <point x="890" y="-71" type="qcurve"/>
     </contour>
     <contour>
-      <point x="53" y="-7" type="curve"/>
       <point x="104" y="-76" type="line"/>
-      <point x="296" y="77"/>
-      <point x="466" y="284"/>
-      <point x="560" y="476" type="curve"/>
+      <point x="247" y="38"/>
+      <point x="489" y="331"/>
+      <point x="560" y="476" type="qcurve"/>
       <point x="489" y="513" type="line"/>
-      <point x="395" y="323"/>
-      <point x="247" y="137"/>
+      <point x="416" y="366"/>
+      <point x="195" y="98"/>
+      <point x="53" y="-7" type="qcurve"/>
     </contour>
   </outline>
 </glyph>

@@ -2,6 +2,9 @@
 <glyph name="uniFF02" format="2">
   <advance width="1000"/>
   <unicode hex="FF02"/>
+  <note>
+uniFF02
+</note>
   <outline>
     <contour>
       <point x="549" y="498" type="line"/>

@@ -2,6 +2,9 @@
 <glyph name="underscore" format="2">
   <advance width="500"/>
   <unicode hex="005F"/>
+  <note>
+underscore
+</note>
   <outline>
     <contour>
       <point x="500" y="-40" type="line"/>

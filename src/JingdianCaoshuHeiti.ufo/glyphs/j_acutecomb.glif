@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j_acutecomb" format="2">
+  <advance width="218"/>
+  <note>
+uni006A0301
+</note>
+  <anchor x="109" y="-220" name="bottom"/>
+  <anchor x="109" y="737" name="top"/>
+  <anchor x="109" y="0" name="ogonek"/>
+  <outline>
+    <component base="uni0237" identifier="FAED213E"/>
+    <component base="acutecomb" xOffset="-41" identifier="A4111E7E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A4111E7E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FAED213E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

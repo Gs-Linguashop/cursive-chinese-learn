@@ -2,7 +2,22 @@
 <glyph name="caron" format="2">
   <advance width="300"/>
   <unicode hex="02C7"/>
+  <note>
+caron
+</note>
   <outline>
-    <component base="uni030C"/>
+    <component base="uni030C" identifier="2A7B5325"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2A7B5325</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

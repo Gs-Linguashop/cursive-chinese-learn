@@ -2,6 +2,9 @@
 <glyph name="guilsinglright" format="2">
   <advance width="400"/>
   <unicode hex="203A"/>
+  <note>
+guilsinglright
+</note>
   <outline>
     <contour>
       <point x="127" y="491" type="line"/>

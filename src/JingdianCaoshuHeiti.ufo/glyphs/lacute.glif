@@ -2,8 +2,31 @@
 <glyph name="lacute" format="2">
   <advance width="218"/>
   <unicode hex="013A"/>
+  <note>
+lacute
+</note>
+  <anchor x="109" y="0" name="bottom"/>
+  <anchor x="109" y="1011" name="top"/>
+  <anchor x="273" y="800" name="topright"/>
   <outline>
-    <component base="l"/>
-    <component base="acutecomb" xOffset="-41" yOffset="274"/>
+    <component base="l" identifier="28BC297E"/>
+    <component base="acutecomb" xOffset="-41" yOffset="274" identifier="B59CDF40"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>28BC297E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B59CDF40</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

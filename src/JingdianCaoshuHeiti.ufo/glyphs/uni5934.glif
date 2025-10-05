@@ -2,26 +2,31 @@
 <glyph name="uni5934" format="2">
   <advance width="1000"/>
   <unicode hex="5934"/>
+  <note>
+uni5934
+</note>
   <outline>
     <contour>
-      <point x="84" y="9" type="curve"/>
       <point x="124" y="-66" type="line"/>
-      <point x="578" y="44"/>
-      <point x="676" y="307"/>
-      <point x="676" y="818" type="curve"/>
+      <point x="347" y="-12"/>
+      <point x="586" y="205"/>
+      <point x="676" y="546"/>
+      <point x="676" y="818" type="qcurve"/>
       <point x="593" y="818" type="line"/>
-      <point x="593" y="334"/>
-      <point x="501" y="97"/>
+      <point x="593" y="561"/>
+      <point x="509" y="245"/>
+      <point x="290" y="52"/>
+      <point x="84" y="9" type="qcurve"/>
     </contour>
     <contour>
-      <point x="878" y="-70" type="curve"/>
       <point x="935" y="-5" type="line"/>
-      <point x="872" y="71"/>
-      <point x="764" y="161"/>
-      <point x="661" y="224" type="curve"/>
+      <point x="888" y="52"/>
+      <point x="738" y="177"/>
+      <point x="661" y="224" type="qcurve"/>
       <point x="612" y="164" type="line"/>
-      <point x="714" y="100"/>
-      <point x="817" y="10"/>
+      <point x="689" y="116"/>
+      <point x="833" y="-10"/>
+      <point x="878" y="-70" type="qcurve"/>
     </contour>
     <contour>
       <point x="71" y="329" type="line"/>

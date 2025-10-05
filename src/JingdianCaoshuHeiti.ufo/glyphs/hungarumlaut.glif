@@ -2,7 +2,22 @@
 <glyph name="hungarumlaut" format="2">
   <advance width="300"/>
   <unicode hex="02DD"/>
+  <note>
+hungarumlaut
+</note>
   <outline>
-    <component base="uni030B"/>
+    <component base="uni030B" identifier="5DB78C72"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5DB78C72</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -2,8 +2,30 @@
 <glyph name="zacute" format="2">
   <advance width="506"/>
   <unicode hex="017A"/>
+  <note>
+zacute
+</note>
+  <anchor x="253" y="0" name="bottom"/>
+  <anchor x="253" y="737" name="top"/>
   <outline>
-    <component base="z"/>
-    <component base="acutecomb" xOffset="103"/>
+    <component base="z" identifier="38C04B8A"/>
+    <component base="acutecomb" xOffset="103" identifier="A083B6AB"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>38C04B8A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A083B6AB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

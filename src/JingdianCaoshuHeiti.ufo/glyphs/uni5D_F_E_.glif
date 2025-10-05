@@ -2,30 +2,37 @@
 <glyph name="uni5DFE" format="2">
   <advance width="1000"/>
   <unicode hex="5DFE"/>
+  <note>
+uni5DFE
+</note>
   <outline>
     <contour>
       <point x="96" y="186" type="line"/>
       <point x="171" y="186" type="line"/>
       <point x="171" y="396" type="line"/>
-      <point x="295" y="523"/>
-      <point x="468" y="575"/>
-      <point x="607" y="575" type="curve" smooth="yes"/>
-      <point x="740" y="575"/>
-      <point x="817" y="530"/>
-      <point x="817" y="446" type="curve" smooth="yes"/>
-      <point x="817" y="299"/>
-      <point x="685" y="285"/>
-      <point x="496" y="320" type="curve"/>
+      <point x="259" y="486"/>
+      <point x="494" y="575"/>
+      <point x="607" y="575" type="qcurve"/>
+      <point x="707" y="575"/>
+      <point x="817" y="509"/>
+      <point x="817" y="446" type="qcurve"/>
+      <point x="817" y="370"/>
+      <point x="728" y="304"/>
+      <point x="643" y="304" type="qcurve"/>
+      <point x="582" y="304"/>
+      <point x="496" y="320" type="qcurve"/>
       <point x="496" y="232" type="line"/>
-      <point x="738" y="199"/>
-      <point x="900" y="232"/>
-      <point x="900" y="446" type="curve" smooth="yes"/>
-      <point x="900" y="595"/>
-      <point x="783" y="659"/>
-      <point x="607" y="659" type="curve" smooth="yes"/>
-      <point x="460" y="659"/>
-      <point x="297" y="609"/>
-      <point x="171" y="467" type="curve"/>
+      <point x="576" y="221"/>
+      <point x="638" y="221" type="qcurve"/>
+      <point x="766" y="221"/>
+      <point x="900" y="325"/>
+      <point x="900" y="446" type="qcurve"/>
+      <point x="900" y="554"/>
+      <point x="745" y="659"/>
+      <point x="607" y="659" type="qcurve"/>
+      <point x="487" y="659"/>
+      <point x="260" y="567"/>
+      <point x="171" y="467" type="qcurve"/>
       <point x="171" y="661" type="line"/>
       <point x="96" y="661" type="line"/>
     </contour>

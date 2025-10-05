@@ -2,8 +2,30 @@
 <glyph name="wgrave" format="2">
   <advance width="760"/>
   <unicode hex="1E81"/>
+  <note>
+wgrave
+</note>
+  <anchor x="380" y="0" name="bottom"/>
+  <anchor x="380" y="737" name="top"/>
   <outline>
-    <component base="w"/>
-    <component base="gravecomb" xOffset="230"/>
+    <component base="w" identifier="6DC46B94"/>
+    <component base="gravecomb" xOffset="230" identifier="CAABABFF"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6DC46B94</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CAABABFF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
