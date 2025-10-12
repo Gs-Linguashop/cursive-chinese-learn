@@ -62,7 +62,7 @@ uni674E
       <point x="129" y="382" type="line"/>
       <point x="129" y="313" type="line"/>
       <point x="691" y="313" type="line"/>
-      <point x="592" y="261"/>
+      <point x="595" y="262"/>
       <point x="473" y="225" type="qcurve"/>
       <point x="473" y="15" type="line" smooth="yes"/>
       <point x="473" y="2"/>
@@ -76,7 +76,7 @@ uni674E
     </contour>
     <contour>
       <point x="959" y="175" type="line"/>
-      <point x="800" y="188"/>
+      <point x="799" y="188"/>
       <point x="570" y="188" type="qcurve"/>
       <point x="328" y="188"/>
       <point x="55" y="174" type="qcurve"/>

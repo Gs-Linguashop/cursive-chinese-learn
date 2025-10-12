@@ -8,19 +8,19 @@ Gbreve
   <anchor x="389" y="0" name="bottom"/>
   <anchor x="377" y="899" name="top"/>
   <outline>
-    <component base="G" identifier="C3A4F8DA"/>
-    <component base="uni0306" xOffset="227" yOffset="224" identifier="F47A79D3"/>
+    <component base="G" identifier="F3C2D91A"/>
+    <component base="uni0306" xOffset="227" yOffset="224" identifier="C2E0D78D"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>C3A4F8DA</key>
+        <key>C2E0D78D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F47A79D3</key>
+        <key>F3C2D91A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -9,19 +9,19 @@ Adieresis
   <anchor x="353" y="923" name="top"/>
   <anchor x="635" y="10" name="ogonek"/>
   <outline>
-    <component base="A" identifier="338E7B33"/>
-    <component base="uni0308" xOffset="203" yOffset="224" identifier="4A467AA5"/>
+    <component base="A" identifier="AAC25F65"/>
+    <component base="uni0308" xOffset="203" yOffset="224" identifier="C01A5E8B"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>338E7B33</key>
+        <key>AAC25F65</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>4A467AA5</key>
+        <key>C01A5E8B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

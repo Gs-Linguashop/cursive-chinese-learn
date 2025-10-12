@@ -8,19 +8,19 @@ Yacute
   <anchor x="324" y="0" name="bottom"/>
   <anchor x="324" y="961" name="top"/>
   <outline>
-    <component base="Y" identifier="0FCE076C"/>
-    <component base="acutecomb" xOffset="174" yOffset="224" identifier="CBB0EC82"/>
+    <component base="Y" identifier="B896601E"/>
+    <component base="acutecomb" xOffset="174" yOffset="224" identifier="FC812A83"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>0FCE076C</key>
+        <key>B896601E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>CBB0EC82</key>
+        <key>FC812A83</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

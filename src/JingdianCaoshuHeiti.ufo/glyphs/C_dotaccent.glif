@@ -8,19 +8,19 @@ Cdotaccent
   <anchor x="373" y="0" name="bottom"/>
   <anchor x="364" y="942" name="top"/>
   <outline>
-    <component base="C" identifier="88645B0D"/>
-    <component base="uni0307" xOffset="244" yOffset="224" identifier="915F8B37"/>
+    <component base="C" identifier="543C1B12"/>
+    <component base="uni0307" xOffset="244" yOffset="224" identifier="2429DDFE"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>88645B0D</key>
+        <key>2429DDFE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>915F8B37</key>
+        <key>543C1B12</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

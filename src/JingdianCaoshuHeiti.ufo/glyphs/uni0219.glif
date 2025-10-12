@@ -8,19 +8,19 @@ uni0219
   <anchor x="244" y="0" name="bottom"/>
   <anchor x="244" y="526" name="top"/>
   <outline>
-    <component base="s" identifier="5F680DBC"/>
-    <component base="uni0326" xOffset="128" identifier="5DA99138"/>
+    <component base="s" identifier="5034D310"/>
+    <component base="uni0326" xOffset="128" identifier="596BB02D"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>5DA99138</key>
+        <key>5034D310</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>5F680DBC</key>
+        <key>596BB02D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

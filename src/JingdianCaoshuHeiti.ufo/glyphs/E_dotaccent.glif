@@ -9,19 +9,19 @@ Edotaccent
   <anchor x="310" y="942" name="top"/>
   <anchor x="529" y="10" name="ogonek"/>
   <outline>
-    <component base="E" identifier="0BE57BCD"/>
-    <component base="uni0307" xOffset="190" yOffset="224" identifier="26DB57A7"/>
+    <component base="E" identifier="8D44118D"/>
+    <component base="uni0307" xOffset="190" yOffset="224" identifier="5DD4A724"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>0BE57BCD</key>
+        <key>5DD4A724</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>26DB57A7</key>
+        <key>8D44118D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

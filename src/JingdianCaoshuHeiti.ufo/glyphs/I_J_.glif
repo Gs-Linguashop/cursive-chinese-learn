@@ -9,19 +9,19 @@ IJ
   <anchor x="687" y="750" name="top"/>
   <anchor x="113" y="0" name="ogonek"/>
   <outline>
-    <component base="I" identifier="25F83343"/>
-    <component base="J" xOffset="226" identifier="984DE2F1"/>
+    <component base="I" identifier="6F24F0BC"/>
+    <component base="J" xOffset="226" identifier="8C2274AE"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>25F83343</key>
+        <key>6F24F0BC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>984DE2F1</key>
+        <key>8C2274AE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

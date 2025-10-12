@@ -9,19 +9,19 @@ idieresis
   <anchor x="109" y="699" name="top"/>
   <anchor x="109" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" identifier="03B3B28C"/>
-    <component base="uni0308" xOffset="-41" identifier="90DFE0FB"/>
+    <component base="dotlessi" identifier="070F0F8F"/>
+    <component base="uni0308" xOffset="-41" identifier="EB350B82"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>03B3B28C</key>
+        <key>070F0F8F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>90DFE0FB</key>
+        <key>EB350B82</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

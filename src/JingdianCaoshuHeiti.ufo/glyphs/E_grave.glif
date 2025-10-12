@@ -9,19 +9,19 @@ Egrave
   <anchor x="310" y="961" name="top"/>
   <anchor x="529" y="10" name="ogonek"/>
   <outline>
-    <component base="E" identifier="04622140"/>
-    <component base="gravecomb" xOffset="160" yOffset="224" identifier="57D07DA2"/>
+    <component base="E" identifier="442E8D81"/>
+    <component base="gravecomb" xOffset="160" yOffset="224" identifier="B1A05E08"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>04622140</key>
+        <key>442E8D81</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>57D07DA2</key>
+        <key>B1A05E08</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -8,19 +8,19 @@ ncaron
   <anchor x="294" y="0" name="bottom"/>
   <anchor x="295" y="675" name="top"/>
   <outline>
-    <component base="n" identifier="B488A938"/>
-    <component base="uni030C" xOffset="145" identifier="5D7EE753"/>
+    <component base="n" identifier="B14CFC75"/>
+    <component base="uni030C" xOffset="145" identifier="04800969"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>5D7EE753</key>
+        <key>04800969</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B488A938</key>
+        <key>B14CFC75</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

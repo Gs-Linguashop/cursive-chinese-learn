@@ -9,19 +9,19 @@ ecircumflex
   <anchor x="277" y="741" name="top"/>
   <anchor x="328" y="0" name="ogonek"/>
   <outline>
-    <component base="e" identifier="02A6A171"/>
-    <component base="uni0302" xOffset="127" identifier="0D56FF7D"/>
+    <component base="e" identifier="71F57E6D"/>
+    <component base="uni0302" xOffset="127" identifier="BBB1B888"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>02A6A171</key>
+        <key>71F57E6D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>0D56FF7D</key>
+        <key>BBB1B888</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

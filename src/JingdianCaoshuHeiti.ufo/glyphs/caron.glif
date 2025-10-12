@@ -6,13 +6,13 @@
 caron
 </note>
   <outline>
-    <component base="uni030C" identifier="2A7B5325"/>
+    <component base="uni030C" identifier="E8386B56"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>2A7B5325</key>
+        <key>E8386B56</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

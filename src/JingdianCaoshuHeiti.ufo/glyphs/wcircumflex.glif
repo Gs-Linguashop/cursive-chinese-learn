@@ -8,19 +8,19 @@ wcircumflex
   <anchor x="380" y="0" name="bottom"/>
   <anchor x="380" y="741" name="top"/>
   <outline>
-    <component base="w" identifier="012CCF22"/>
-    <component base="uni0302" xOffset="230" identifier="25311368"/>
+    <component base="w" identifier="E7075B2A"/>
+    <component base="uni0302" xOffset="230" identifier="66572F2D"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>012CCF22</key>
+        <key>66572F2D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>25311368</key>
+        <key>E7075B2A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

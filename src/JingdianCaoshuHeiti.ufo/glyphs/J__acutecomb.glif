@@ -7,19 +7,19 @@ uni004A0301
   <anchor x="287" y="0" name="bottom"/>
   <anchor x="461" y="961" name="top"/>
   <outline>
-    <component base="J" identifier="BF16FF50"/>
-    <component base="acutecomb" xOffset="311" yOffset="224" identifier="B99F807F"/>
+    <component base="J" identifier="836E68A6"/>
+    <component base="acutecomb" xOffset="311" yOffset="224" identifier="521161B0"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>B99F807F</key>
+        <key>521161B0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>BF16FF50</key>
+        <key>836E68A6</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

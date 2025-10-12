@@ -8,19 +8,19 @@ Dcaron
   <anchor x="345" y="0" name="bottom"/>
   <anchor x="303" y="899" name="top"/>
   <outline>
-    <component base="D" identifier="EE3BCB70"/>
-    <component base="uni030C" xOffset="153" yOffset="224" identifier="A80B90C2"/>
+    <component base="D" identifier="05848FCB"/>
+    <component base="uni030C" xOffset="153" yOffset="224" identifier="1D6A1CC6"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>A80B90C2</key>
+        <key>05848FCB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>EE3BCB70</key>
+        <key>1D6A1CC6</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

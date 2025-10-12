@@ -8,19 +8,19 @@ Wdieresis
   <anchor x="507" y="0" name="bottom"/>
   <anchor x="507" y="923" name="top"/>
   <outline>
-    <component base="W" identifier="ECADC15A"/>
-    <component base="uni0308" xOffset="357" yOffset="224" identifier="D2067E67"/>
+    <component base="W" identifier="624E1524"/>
+    <component base="uni0308" xOffset="357" yOffset="224" identifier="7507E95C"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>D2067E67</key>
+        <key>624E1524</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>ECADC15A</key>
+        <key>7507E95C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

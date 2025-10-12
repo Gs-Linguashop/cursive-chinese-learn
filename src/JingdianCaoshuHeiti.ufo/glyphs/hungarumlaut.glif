@@ -6,13 +6,13 @@
 hungarumlaut
 </note>
   <outline>
-    <component base="uni030B" identifier="5DB78C72"/>
+    <component base="uni030B" identifier="FE1D5758"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>5DB78C72</key>
+        <key>FE1D5758</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

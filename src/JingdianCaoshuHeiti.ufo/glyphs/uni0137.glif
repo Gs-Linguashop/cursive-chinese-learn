@@ -8,19 +8,19 @@ uni0137
   <anchor x="267" y="0" name="bottom"/>
   <anchor x="267" y="800" name="top"/>
   <outline>
-    <component base="k" identifier="F52A1E10"/>
-    <component base="uni0326" xOffset="151" identifier="F13BE679"/>
+    <component base="k" identifier="7D8D452C"/>
+    <component base="uni0326" xOffset="151" identifier="98EF46E1"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>F13BE679</key>
+        <key>7D8D452C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F52A1E10</key>
+        <key>98EF46E1</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

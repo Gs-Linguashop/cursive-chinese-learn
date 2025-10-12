@@ -14,8 +14,7 @@ uni6241
       <point x="94" y="74"/>
       <point x="35" y="-23" type="qcurve"/>
       <point x="100" y="-60" type="line"/>
-      <point x="163" y="42"/>
-      <point x="206" y="318"/>
+      <point x="206" y="113"/>
       <point x="206" y="470" type="qcurve"/>
       <point x="206" y="720" type="line"/>
       <point x="923" y="720" type="line"/>

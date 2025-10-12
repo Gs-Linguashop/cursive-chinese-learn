@@ -9,19 +9,19 @@ Amacron
   <anchor x="353" y="868" name="top"/>
   <anchor x="635" y="10" name="ogonek"/>
   <outline>
-    <component base="A" identifier="0C2637E7"/>
-    <component base="uni0304" xOffset="203" yOffset="224" identifier="280107D1"/>
+    <component base="A" identifier="11BEAAA2"/>
+    <component base="uni0304" xOffset="203" yOffset="224" identifier="CD4FB5D9"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>0C2637E7</key>
+        <key>11BEAAA2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>280107D1</key>
+        <key>CD4FB5D9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

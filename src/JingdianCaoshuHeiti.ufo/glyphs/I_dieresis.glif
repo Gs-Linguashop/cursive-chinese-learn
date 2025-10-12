@@ -9,19 +9,19 @@ Idieresis
   <anchor x="113" y="923" name="top"/>
   <anchor x="113" y="0" name="ogonek"/>
   <outline>
-    <component base="I" identifier="A06D1A8E"/>
-    <component base="uni0308" xOffset="-37" yOffset="224" identifier="AACA8560"/>
+    <component base="I" identifier="0BC79C21"/>
+    <component base="uni0308" xOffset="-37" yOffset="224" identifier="0D4E7516"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>A06D1A8E</key>
+        <key>0BC79C21</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>AACA8560</key>
+        <key>0D4E7516</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

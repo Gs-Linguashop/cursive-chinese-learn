@@ -8,19 +8,19 @@ Tcaron
   <anchor x="351" y="0" name="bottom"/>
   <anchor x="351" y="899" name="top"/>
   <outline>
-    <component base="T" identifier="12D113F0"/>
-    <component base="uni030C" xOffset="201" yOffset="224" identifier="B751EBBA"/>
+    <component base="T" identifier="AF68CE3A"/>
+    <component base="uni030C" xOffset="201" yOffset="224" identifier="A358F731"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>12D113F0</key>
+        <key>A358F731</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B751EBBA</key>
+        <key>AF68CE3A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -9,19 +9,19 @@ Eacute
   <anchor x="310" y="961" name="top"/>
   <anchor x="529" y="10" name="ogonek"/>
   <outline>
-    <component base="E" identifier="756A924C"/>
-    <component base="acutecomb" xOffset="160" yOffset="224" identifier="2AE7D9B5"/>
+    <component base="E" identifier="6058AE36"/>
+    <component base="acutecomb" xOffset="160" yOffset="224" identifier="640CCDA4"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>2AE7D9B5</key>
+        <key>6058AE36</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>756A924C</key>
+        <key>640CCDA4</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

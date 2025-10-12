@@ -8,19 +8,19 @@ Racute
   <anchor x="339" y="0" name="bottom"/>
   <anchor x="305" y="961" name="top"/>
   <outline>
-    <component base="R" identifier="CF7FB321"/>
-    <component base="acutecomb" xOffset="155" yOffset="224" identifier="E8378379"/>
+    <component base="R" identifier="97C30E24"/>
+    <component base="acutecomb" xOffset="155" yOffset="224" identifier="FB72D97C"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>CF7FB321</key>
+        <key>97C30E24</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E8378379</key>
+        <key>FB72D97C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

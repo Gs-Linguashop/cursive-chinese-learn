@@ -10,19 +10,19 @@ ugrave
   <anchor x="471" y="0" name="ogonek"/>
   <anchor x="560" y="526" name="topright"/>
   <outline>
-    <component base="u" identifier="18B6D3D7"/>
-    <component base="gravecomb" xOffset="140" identifier="AAA60880"/>
+    <component base="u" identifier="5BA06758"/>
+    <component base="gravecomb" xOffset="140" identifier="E8E7CBE4"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>18B6D3D7</key>
+        <key>5BA06758</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>AAA60880</key>
+        <key>E8E7CBE4</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

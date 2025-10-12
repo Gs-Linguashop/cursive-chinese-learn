@@ -8,19 +8,19 @@ Wgrave
   <anchor x="507" y="0" name="bottom"/>
   <anchor x="507" y="961" name="top"/>
   <outline>
-    <component base="W" identifier="FA1EBE7C"/>
-    <component base="gravecomb" xOffset="357" yOffset="224" identifier="2951C19B"/>
+    <component base="W" identifier="A4ABB97C"/>
+    <component base="gravecomb" xOffset="357" yOffset="224" identifier="D6765E72"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>2951C19B</key>
+        <key>A4ABB97C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>FA1EBE7C</key>
+        <key>D6765E72</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

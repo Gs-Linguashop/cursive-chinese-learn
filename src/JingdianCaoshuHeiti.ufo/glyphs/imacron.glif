@@ -9,19 +9,19 @@ imacron
   <anchor x="109" y="644" name="top"/>
   <anchor x="109" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" identifier="62DBD624"/>
-    <component base="uni0304" xOffset="-41" identifier="D8617526"/>
+    <component base="dotlessi" identifier="F4A81987"/>
+    <component base="uni0304" xOffset="-41" identifier="5E617D2D"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>62DBD624</key>
+        <key>5E617D2D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D8617526</key>
+        <key>F4A81987</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

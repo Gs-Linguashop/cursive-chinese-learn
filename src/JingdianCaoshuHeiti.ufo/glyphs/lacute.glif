@@ -9,19 +9,19 @@ lacute
   <anchor x="109" y="1011" name="top"/>
   <anchor x="273" y="800" name="topright"/>
   <outline>
-    <component base="l" identifier="28BC297E"/>
-    <component base="acutecomb" xOffset="-41" yOffset="274" identifier="B59CDF40"/>
+    <component base="l" identifier="6D237A2E"/>
+    <component base="acutecomb" xOffset="-41" yOffset="274" identifier="999DDD7A"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>28BC297E</key>
+        <key>6D237A2E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B59CDF40</key>
+        <key>999DDD7A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

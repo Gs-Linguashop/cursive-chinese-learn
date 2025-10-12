@@ -57,16 +57,16 @@ uni7F8E
       <point x="568" y="-29" type="qcurve"/>
     </contour>
     <contour>
-      <point x="56" y="324" type="line"/>
-      <point x="950" y="324" type="line"/>
-      <point x="950" y="391" type="line"/>
-      <point x="56" y="391" type="line"/>
+      <point x="56" y="321" type="line"/>
+      <point x="950" y="321" type="line"/>
+      <point x="950" y="394" type="line"/>
+      <point x="56" y="394" type="line"/>
     </contour>
     <contour>
-      <point x="147" y="476" type="line"/>
-      <point x="598" y="476" type="line"/>
-      <point x="598" y="541" type="line"/>
-      <point x="147" y="541" type="line"/>
+      <point x="147" y="473" type="line"/>
+      <point x="598" y="473" type="line"/>
+      <point x="598" y="544" type="line"/>
+      <point x="147" y="544" type="line"/>
     </contour>
     <contour>
       <point x="380" y="709" type="line"/>
@@ -78,10 +78,10 @@ uni7F8E
       <point x="310" y="676" type="qcurve"/>
     </contour>
     <contour>
-      <point x="98" y="623" type="line"/>
-      <point x="903" y="623" type="line"/>
-      <point x="903" y="690" type="line"/>
-      <point x="98" y="690" type="line"/>
+      <point x="98" y="620" type="line"/>
+      <point x="903" y="620" type="line"/>
+      <point x="903" y="692" type="line"/>
+      <point x="98" y="692" type="line"/>
     </contour>
     <contour>
       <point x="670" y="665" type="line"/>

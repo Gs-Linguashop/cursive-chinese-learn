@@ -15,6 +15,8 @@
 *“合”*
 ![合](../src/JingdianCaoshuHeiti-svg/uni5408.svg)
 
+「亠」也可以写作「撇横」。
+
 # 字下方的「儿」
 
 *“充”*

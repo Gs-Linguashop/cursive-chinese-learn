@@ -6,13 +6,13 @@
 circumflex
 </note>
   <outline>
-    <component base="uni0302" identifier="CB3FDF7A"/>
+    <component base="uni0302" identifier="99967881"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>CB3FDF7A</key>
+        <key>99967881</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

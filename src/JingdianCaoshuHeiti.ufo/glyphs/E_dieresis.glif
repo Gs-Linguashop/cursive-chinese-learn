@@ -9,19 +9,19 @@ Edieresis
   <anchor x="310" y="923" name="top"/>
   <anchor x="529" y="10" name="ogonek"/>
   <outline>
-    <component base="E" identifier="374D8F84"/>
-    <component base="uni0308" xOffset="160" yOffset="224" identifier="95DE6D56"/>
+    <component base="E" identifier="3E7E5DB2"/>
+    <component base="uni0308" xOffset="160" yOffset="224" identifier="81423246"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>374D8F84</key>
+        <key>3E7E5DB2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>95DE6D56</key>
+        <key>81423246</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

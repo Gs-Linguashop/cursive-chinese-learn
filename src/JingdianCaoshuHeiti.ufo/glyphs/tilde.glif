@@ -6,13 +6,13 @@
 tilde
 </note>
   <outline>
-    <component base="tildecomb" identifier="E945DA22"/>
+    <component base="tildecomb" identifier="27FAE506"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>E945DA22</key>
+        <key>27FAE506</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -8,19 +8,19 @@ Nacute
   <anchor x="351" y="0" name="bottom"/>
   <anchor x="351" y="961" name="top"/>
   <outline>
-    <component base="N" identifier="5D482AD0"/>
-    <component base="acutecomb" xOffset="201" yOffset="224" identifier="8B1F03DC"/>
+    <component base="N" identifier="65804A57"/>
+    <component base="acutecomb" xOffset="201" yOffset="224" identifier="D065F9DA"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>5D482AD0</key>
+        <key>65804A57</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>8B1F03DC</key>
+        <key>D065F9DA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -7,19 +7,19 @@ ij
 </note>
   <anchor x="327" y="0" name="bottom"/>
   <outline>
-    <component base="i" identifier="22DBA1D4"/>
-    <component base="j" xOffset="218" identifier="D214458C"/>
+    <component base="i" identifier="B805A5FF"/>
+    <component base="j" xOffset="218" identifier="D515B894"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>22DBA1D4</key>
+        <key>B805A5FF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D214458C</key>
+        <key>D515B894</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

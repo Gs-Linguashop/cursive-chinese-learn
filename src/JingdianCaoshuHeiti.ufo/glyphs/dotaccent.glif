@@ -6,13 +6,13 @@
 dotaccent
 </note>
   <outline>
-    <component base="uni0307" identifier="C684D68A"/>
+    <component base="uni0307" identifier="3052874C"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>C684D68A</key>
+        <key>3052874C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

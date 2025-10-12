@@ -9,19 +9,19 @@ tcaron
   <anchor x="174" y="686" name="top"/>
   <anchor x="328" y="800" name="topright"/>
   <outline>
-    <component base="t" identifier="461799C8"/>
-    <component base="uni030C.alt" xOffset="226" yOffset="50" identifier="60EF9DAA"/>
+    <component base="t" identifier="3C74E3CF"/>
+    <component base="uni030C.alt" xOffset="226" yOffset="50" identifier="599BB301"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>461799C8</key>
+        <key>3C74E3CF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>60EF9DAA</key>
+        <key>599BB301</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -8,19 +8,19 @@ Ygrave
   <anchor x="324" y="0" name="bottom"/>
   <anchor x="324" y="961" name="top"/>
   <outline>
-    <component base="Y" identifier="646E5691"/>
-    <component base="gravecomb" xOffset="174" yOffset="224" identifier="4DB1ADBF"/>
+    <component base="Y" identifier="72F1DCCB"/>
+    <component base="gravecomb" xOffset="174" yOffset="224" identifier="C8201894"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>4DB1ADBF</key>
+        <key>72F1DCCB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>646E5691</key>
+        <key>C8201894</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

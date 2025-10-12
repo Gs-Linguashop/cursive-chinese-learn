@@ -6,13 +6,13 @@
 acute
 </note>
   <outline>
-    <component base="acutecomb" identifier="11F1F187"/>
+    <component base="acutecomb" identifier="06583C8B"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>11F1F187</key>
+        <key>06583C8B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

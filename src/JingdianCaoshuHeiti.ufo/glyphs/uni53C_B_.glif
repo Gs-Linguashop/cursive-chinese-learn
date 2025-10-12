@@ -63,9 +63,9 @@ uni53CB
     </contour>
     <contour>
       <point x="113" y="-44" type="line"/>
-      <point x="251" y="77"/>
-      <point x="635" y="538"/>
-      <point x="770" y="748" type="qcurve"/>
+      <point x="253" y="79"/>
+      <point x="641" y="543"/>
+      <point x="780" y="758" type="qcurve"/>
       <point x="710" y="812" type="line"/>
       <point x="687" y="799" type="line"/>
       <point x="224" y="799" type="line"/>

@@ -9,19 +9,19 @@ emacron
   <anchor x="277" y="644" name="top"/>
   <anchor x="328" y="0" name="ogonek"/>
   <outline>
-    <component base="e" identifier="2F7B1E6F"/>
-    <component base="uni0304" xOffset="127" identifier="E6A5F74A"/>
+    <component base="e" identifier="8AC5A324"/>
+    <component base="uni0304" xOffset="127" identifier="190B7C36"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>2F7B1E6F</key>
+        <key>190B7C36</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E6A5F74A</key>
+        <key>8AC5A324</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

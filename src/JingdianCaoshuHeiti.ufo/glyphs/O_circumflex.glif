@@ -10,19 +10,19 @@ Ocircumflex
   <anchor x="693" y="10" name="ogonek"/>
   <anchor x="750" y="750" name="topright"/>
   <outline>
-    <component base="O" identifier="479EB3C5"/>
-    <component base="uni0302" xOffset="235" yOffset="224" identifier="EFDC7329"/>
+    <component base="O" identifier="52D723C3"/>
+    <component base="uni0302" xOffset="235" yOffset="224" identifier="15143165"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>479EB3C5</key>
+        <key>15143165</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>EFDC7329</key>
+        <key>52D723C3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

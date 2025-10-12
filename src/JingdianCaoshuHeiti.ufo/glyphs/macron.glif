@@ -6,13 +6,13 @@
 macron
 </note>
   <outline>
-    <component base="uni0304" identifier="CDF5A6E9"/>
+    <component base="uni0304" identifier="90643E11"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>CDF5A6E9</key>
+        <key>90643E11</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

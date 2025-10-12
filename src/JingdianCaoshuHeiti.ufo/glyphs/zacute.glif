@@ -8,19 +8,19 @@ zacute
   <anchor x="253" y="0" name="bottom"/>
   <anchor x="253" y="737" name="top"/>
   <outline>
-    <component base="z" identifier="38C04B8A"/>
-    <component base="acutecomb" xOffset="103" identifier="A083B6AB"/>
+    <component base="z" identifier="C2890AD2"/>
+    <component base="acutecomb" xOffset="103" identifier="C9E121A5"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>38C04B8A</key>
+        <key>C2890AD2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>A083B6AB</key>
+        <key>C9E121A5</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

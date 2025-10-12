@@ -10,19 +10,19 @@ ograve
   <anchor x="514" y="10" name="ogonek"/>
   <anchor x="551" y="526" name="topright"/>
   <outline>
-    <component base="o" identifier="7127E316"/>
-    <component base="gravecomb" xOffset="136" identifier="6D22F0F0"/>
+    <component base="o" identifier="1D89DE88"/>
+    <component base="gravecomb" xOffset="136" identifier="EF966436"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>6D22F0F0</key>
+        <key>1D89DE88</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>7127E316</key>
+        <key>EF966436</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

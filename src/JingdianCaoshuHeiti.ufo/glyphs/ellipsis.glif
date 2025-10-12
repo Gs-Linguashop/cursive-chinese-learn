@@ -6,25 +6,25 @@
 ellipsis
 </note>
   <outline>
-    <component base="period" xOffset="230" identifier="973BDC90"/>
-    <component base="period" xOffset="460" identifier="9A22291C"/>
-    <component base="period" identifier="7B030EF9"/>
+    <component base="period" xOffset="230" identifier="EC1DFCDC"/>
+    <component base="period" xOffset="460" identifier="D0C556BE"/>
+    <component base="period" identifier="36F2A74F"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>7B030EF9</key>
+        <key>36F2A74F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>973BDC90</key>
+        <key>D0C556BE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9A22291C</key>
+        <key>EC1DFCDC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

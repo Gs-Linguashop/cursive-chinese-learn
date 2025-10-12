@@ -6,13 +6,13 @@
 breve
 </note>
   <outline>
-    <component base="uni0306" identifier="BF670BE0"/>
+    <component base="uni0306" identifier="FDC24B36"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>BF670BE0</key>
+        <key>FDC24B36</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

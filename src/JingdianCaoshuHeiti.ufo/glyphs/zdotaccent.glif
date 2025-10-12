@@ -8,19 +8,19 @@ zdotaccent
   <anchor x="253" y="0" name="bottom"/>
   <anchor x="253" y="718" name="top"/>
   <outline>
-    <component base="z" identifier="A59CA59E"/>
-    <component base="uni0307" xOffset="133" identifier="A5750E8E"/>
+    <component base="z" identifier="729C7206"/>
+    <component base="uni0307" xOffset="133" identifier="E58BD93E"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>A5750E8E</key>
+        <key>729C7206</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>A59CA59E</key>
+        <key>E58BD93E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

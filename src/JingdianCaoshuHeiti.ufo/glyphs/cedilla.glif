@@ -6,13 +6,13 @@
 cedilla
 </note>
   <outline>
-    <component base="uni0327" identifier="FB8696C2"/>
+    <component base="uni0327" identifier="EA5F42FF"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>FB8696C2</key>
+        <key>EA5F42FF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

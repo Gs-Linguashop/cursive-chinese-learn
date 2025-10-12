@@ -8,19 +8,19 @@ ntilde
   <anchor x="294" y="0" name="bottom"/>
   <anchor x="295" y="722" name="top"/>
   <outline>
-    <component base="n" identifier="8CEF57DD"/>
-    <component base="tildecomb" xOffset="145" identifier="E4F41835"/>
+    <component base="n" identifier="317DC458"/>
+    <component base="tildecomb" xOffset="145" identifier="63295EDA"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>8CEF57DD</key>
+        <key>317DC458</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E4F41835</key>
+        <key>63295EDA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

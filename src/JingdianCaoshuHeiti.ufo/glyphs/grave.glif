@@ -6,13 +6,13 @@
 grave
 </note>
   <outline>
-    <component base="gravecomb" identifier="BE24D8A6"/>
+    <component base="gravecomb" identifier="C67EA3A6"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>BE24D8A6</key>
+        <key>C67EA3A6</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

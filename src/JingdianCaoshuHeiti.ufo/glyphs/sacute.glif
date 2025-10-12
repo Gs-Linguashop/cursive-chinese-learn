@@ -8,19 +8,19 @@ sacute
   <anchor x="244" y="0" name="bottom"/>
   <anchor x="244" y="737" name="top"/>
   <outline>
-    <component base="s" identifier="C1D14DEF"/>
-    <component base="acutecomb" xOffset="94" identifier="1D52FD18"/>
+    <component base="s" identifier="28A17B89"/>
+    <component base="acutecomb" xOffset="94" identifier="F71E38D5"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>1D52FD18</key>
+        <key>28A17B89</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C1D14DEF</key>
+        <key>F71E38D5</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

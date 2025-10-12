@@ -10,19 +10,19 @@ odieresis
   <anchor x="514" y="10" name="ogonek"/>
   <anchor x="551" y="526" name="topright"/>
   <outline>
-    <component base="o" identifier="679341CD"/>
-    <component base="uni0308" xOffset="136" identifier="77E9F3E4"/>
+    <component base="o" identifier="8F31A6E3"/>
+    <component base="uni0308" xOffset="136" identifier="2B26CE35"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>679341CD</key>
+        <key>2B26CE35</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>77E9F3E4</key>
+        <key>8F31A6E3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

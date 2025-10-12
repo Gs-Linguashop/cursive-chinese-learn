@@ -8,19 +8,19 @@ rcaron
   <anchor x="109" y="0" name="bottom"/>
   <anchor x="198" y="675" name="top"/>
   <outline>
-    <component base="r" identifier="AF539CD5"/>
-    <component base="uni030C" xOffset="48" identifier="D1609451"/>
+    <component base="r" identifier="458322CC"/>
+    <component base="uni030C" xOffset="48" identifier="1070E497"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>AF539CD5</key>
+        <key>1070E497</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D1609451</key>
+        <key>458322CC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

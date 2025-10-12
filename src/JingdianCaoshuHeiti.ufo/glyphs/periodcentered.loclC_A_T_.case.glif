@@ -5,13 +5,13 @@
 periodcentered.loclCAT.case
 </note>
   <outline>
-    <component base="period" yOffset="300" identifier="484E9778"/>
+    <component base="period" yOffset="300" identifier="C5927FCC"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>484E9778</key>
+        <key>C5927FCC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

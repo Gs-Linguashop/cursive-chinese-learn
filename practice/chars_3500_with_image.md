@@ -1188,6 +1188,7 @@
 # 墮
 # 墳
 # 墻
+![墻](../src/JingdianCaoshuHeiti-svg/uni58BB.svg)
 # 墾
 # 壁
 # 壇
@@ -1756,6 +1757,7 @@
 # 康
 ![康](../src/JingdianCaoshuHeiti-svg/uni5EB7.svg)
 # 庸
+![庸](../src/JingdianCaoshuHeiti-svg/uni5EB8.svg)
 # 廁
 # 廂
 # 廈
@@ -2888,6 +2890,7 @@
 # 永
 ![永](../src/JingdianCaoshuHeiti-svg/uni6C38.svg)
 # 氾
+![氾](../src/JingdianCaoshuHeiti-svg/uni6C3E.svg)
 # 汁
 # 求
 ![求](../src/JingdianCaoshuHeiti-svg/uni6C42.svg)
@@ -2898,6 +2901,7 @@
 # 汛
 # 汞
 # 江
+![江](../src/JingdianCaoshuHeiti-svg/uni6C5F.svg)
 # 池
 # 污
 # 汤
@@ -2913,6 +2917,7 @@
 # 沒
 # 沖
 # 沙
+![沙](../src/JingdianCaoshuHeiti-svg/uni6C99.svg)
 # 沛
 # 沟
 # 没
@@ -2923,6 +2928,7 @@
 # 沫
 # 沮
 # 河
+![河](../src/JingdianCaoshuHeiti-svg/uni6CB3.svg)
 # 沸
 # 油
 # 治
@@ -2933,6 +2939,7 @@
 # 況
 # 泄
 # 泉
+![泉](../src/JingdianCaoshuHeiti-svg/uni6CC9.svg)
 # 泊
 # 泌
 # 法
@@ -2941,11 +2948,14 @@
 # 泞
 # 泡
 # 波
+![波](../src/JingdianCaoshuHeiti-svg/uni6CE2.svg)
 # 泣
+![泣](../src/JingdianCaoshuHeiti-svg/uni6CE3.svg)
 # 泥
 # 注
 # 泪
 # 泰
+![泰](../src/JingdianCaoshuHeiti-svg/uni6CF0.svg)
 # 泳
 # 泵
 # 泻
@@ -2959,6 +2969,7 @@
 ![洛](../src/JingdianCaoshuHeiti-svg/uni6D1B.svg)
 # 洞
 # 津
+![津](../src/JingdianCaoshuHeiti-svg/uni6D25.svg)
 # 洪
 # 洲
 # 洶
@@ -2987,6 +2998,7 @@
 # 涂
 # 消
 # 涉
+![涉](../src/JingdianCaoshuHeiti-svg/uni6D89.svg)
 # 涌
 # 涎
 # 涕
@@ -3022,12 +3034,14 @@
 # 深
 # 淳
 # 淵
+![淵](../src/JingdianCaoshuHeiti-svg/uni6DF5.svg)
 # 混
 # 淹
 # 淺
 # 添
 # 清
 # 渊
+![渊](../src/JingdianCaoshuHeiti-svg/uni6E0A.svg)
 # 渐
 # 渔
 # 渗
@@ -3053,6 +3067,7 @@
 # 湯
 # 湾
 # 湿
+![湿](../src/JingdianCaoshuHeiti-svg/uni6E7F.svg)
 # 溃
 # 溅
 # 溉
@@ -3066,6 +3081,7 @@
 # 溶
 # 溺
 # 溼
+![溼](../src/JingdianCaoshuHeiti-svg/uni6EBC.svg)
 # 滄
 # 滅
 # 滋
@@ -3127,6 +3143,7 @@
 # 濃
 # 濒
 # 濕
+![濕](../src/JingdianCaoshuHeiti-svg/uni6FD5.svg)
 # 濘
 # 濟
 # 濤
@@ -3149,15 +3166,19 @@
 # 灭
 # 灯
 # 灰
+![灰](../src/JingdianCaoshuHeiti-svg/uni7070.svg)
 # 灵
 # 灶
 # 灸
 # 灼
 # 災
+![災](../src/JingdianCaoshuHeiti-svg/uni707D.svg)
 # 灾
+![灾](../src/JingdianCaoshuHeiti-svg/uni707E.svg)
 # 灿
 # 炉
 # 炊
+![炊](../src/JingdianCaoshuHeiti-svg/uni708A.svg)
 # 炎
 ![炎](../src/JingdianCaoshuHeiti-svg/uni708E.svg)
 # 炒
@@ -3165,6 +3186,7 @@
 # 炫
 # 炬
 # 炭
+![炭](../src/JingdianCaoshuHeiti-svg/uni70AD.svg)
 # 炮
 # 炸
 # 点
@@ -3182,6 +3204,7 @@
 # 烟
 # 烤
 # 烦
+![烦](../src/JingdianCaoshuHeiti-svg/uni70E6.svg)
 # 烧
 # 烫
 # 热
@@ -3190,9 +3213,11 @@
 # 焕
 # 焙
 # 焚
+![焚](../src/JingdianCaoshuHeiti-svg/uni711A.svg)
 # 無
 ![無](../src/JingdianCaoshuHeiti-svg/uni7121.svg)
 # 焦
+![焦](../src/JingdianCaoshuHeiti-svg/uni7126.svg)
 # 焰
 # 然
 ![然](../src/JingdianCaoshuHeiti-svg/uni7136.svg)
@@ -3201,15 +3226,20 @@
 # 煎
 # 煙
 # 煞
+![煞](../src/JingdianCaoshuHeiti-svg/uni715E.svg)
 # 煤
 # 煥
 # 照
 # 煩
+![煩](../src/JingdianCaoshuHeiti-svg/uni7169.svg)
 # 煮
 # 熄
 # 熊
+![熊](../src/JingdianCaoshuHeiti-svg/uni718A.svg)
 # 熏
+![熏](../src/JingdianCaoshuHeiti-svg/uni718F.svg)
 # 熒
+![熒](../src/JingdianCaoshuHeiti-svg/uni7192.svg)
 # 熔
 # 熙
 # 熟
@@ -3222,6 +3252,7 @@
 # 燐
 # 燒
 # 燕
+![燕](../src/JingdianCaoshuHeiti-svg/uni71D5.svg)
 # 燙
 # 營
 # 燥
@@ -3243,6 +3274,7 @@
 # 爲
 ![爲](../src/JingdianCaoshuHeiti-svg/uni7232.svg)
 # 爵
+![爵](../src/JingdianCaoshuHeiti-svg/uni7235.svg)
 # 父
 ![父](../src/JingdianCaoshuHeiti-svg/uni7236.svg)
 # 爷
@@ -3250,11 +3282,13 @@
 # 爹
 # 爺
 # 爽
+![爽](../src/JingdianCaoshuHeiti-svg/uni723D.svg)
 # 爾
 ![爾](../src/JingdianCaoshuHeiti-svg/uni723E.svg)
 # 牀
 ![牀](../src/JingdianCaoshuHeiti-svg/uni7240.svg)
 # 牆
+![牆](../src/JingdianCaoshuHeiti-svg/uni7246.svg)
 # 片
 ![片](../src/JingdianCaoshuHeiti-svg/uni7247.svg)
 # 版
@@ -3264,21 +3298,29 @@
 # 牙
 ![牙](../src/JingdianCaoshuHeiti-svg/uni7259.svg)
 # 牛
+![牛](../src/JingdianCaoshuHeiti-svg/uni725B.svg)
 # 牠
 # 牡
+![牡](../src/JingdianCaoshuHeiti-svg/uni7261.svg)
 # 牢
+![牢](../src/JingdianCaoshuHeiti-svg/uni7262.svg)
 # 牧
+![牧](../src/JingdianCaoshuHeiti-svg/uni7267.svg)
 # 物
 # 牲
 # 牴
 # 牵
+![牵](../src/JingdianCaoshuHeiti-svg/uni7275.svg)
 # 特
 # 牺
 # 牽
+![牽](../src/JingdianCaoshuHeiti-svg/uni727D.svg)
 # 犀
+![犀](../src/JingdianCaoshuHeiti-svg/uni7280.svg)
 # 犁
 # 犧
 # 犬
+![犬](../src/JingdianCaoshuHeiti-svg/uni72AC.svg)
 # 犯
 # 状
 # 犹
@@ -4315,6 +4357,7 @@
 ![荣](../src/JingdianCaoshuHeiti-svg/uni8363.svg)
 # 荤
 # 荧
+![荧](../src/JingdianCaoshuHeiti-svg/uni8367.svg)
 # 药
 # 荷
 # 荸

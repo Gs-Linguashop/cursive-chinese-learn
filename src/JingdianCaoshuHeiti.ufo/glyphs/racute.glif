@@ -8,19 +8,19 @@ racute
   <anchor x="109" y="0" name="bottom"/>
   <anchor x="198" y="737" name="top"/>
   <outline>
-    <component base="r" identifier="D6706455"/>
-    <component base="acutecomb" xOffset="48" identifier="77E3238D"/>
+    <component base="r" identifier="8D253C21"/>
+    <component base="acutecomb" xOffset="48" identifier="A3483AF0"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>77E3238D</key>
+        <key>8D253C21</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D6706455</key>
+        <key>A3483AF0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -8,19 +8,19 @@ ycircumflex
   <anchor x="250" y="0" name="bottom"/>
   <anchor x="250" y="741" name="top"/>
   <outline>
-    <component base="y" identifier="50BBFB21"/>
-    <component base="uni0302" xOffset="100" identifier="D1E53209"/>
+    <component base="y" identifier="CB7C1894"/>
+    <component base="uni0302" xOffset="100" identifier="C997D36C"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>50BBFB21</key>
+        <key>C997D36C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D1E53209</key>
+        <key>CB7C1894</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

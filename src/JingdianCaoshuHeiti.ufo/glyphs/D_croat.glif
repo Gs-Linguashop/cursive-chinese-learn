@@ -8,13 +8,13 @@ Dcroat
   <anchor x="345" y="0" name="bottom"/>
   <anchor x="345" y="750" name="top"/>
   <outline>
-    <component base="Eth" identifier="BEBA467B"/>
+    <component base="Eth" identifier="42B2C866"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>BEBA467B</key>
+        <key>42B2C866</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

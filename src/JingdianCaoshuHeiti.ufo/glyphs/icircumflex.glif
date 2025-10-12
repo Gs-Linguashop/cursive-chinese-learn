@@ -9,19 +9,19 @@ icircumflex
   <anchor x="109" y="741" name="top"/>
   <anchor x="109" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" identifier="1A5D41DA"/>
-    <component base="uni0302" xOffset="-41" identifier="C8EF62C1"/>
+    <component base="dotlessi" identifier="C639B8B1"/>
+    <component base="uni0302" xOffset="-41" identifier="7B722CA2"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>1A5D41DA</key>
+        <key>7B722CA2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C8EF62C1</key>
+        <key>C639B8B1</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

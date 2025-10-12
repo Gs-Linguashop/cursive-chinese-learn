@@ -9,19 +9,19 @@ uni021B
   <anchor x="174" y="686" name="top"/>
   <anchor x="328" y="800" name="topright"/>
   <outline>
-    <component base="t" identifier="ECBE15A1"/>
-    <component base="uni0326" xOffset="98" identifier="729408BB"/>
+    <component base="t" identifier="85E0EFBD"/>
+    <component base="uni0326" xOffset="98" identifier="222268C0"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>729408BB</key>
+        <key>222268C0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>ECBE15A1</key>
+        <key>85E0EFBD</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

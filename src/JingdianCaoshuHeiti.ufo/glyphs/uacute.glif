@@ -10,19 +10,19 @@ uacute
   <anchor x="471" y="0" name="ogonek"/>
   <anchor x="560" y="526" name="topright"/>
   <outline>
-    <component base="u" identifier="154BFD3B"/>
-    <component base="acutecomb" xOffset="140" identifier="679E694A"/>
+    <component base="u" identifier="658CF2EE"/>
+    <component base="acutecomb" xOffset="140" identifier="55F37B44"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>154BFD3B</key>
+        <key>55F37B44</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>679E694A</key>
+        <key>658CF2EE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

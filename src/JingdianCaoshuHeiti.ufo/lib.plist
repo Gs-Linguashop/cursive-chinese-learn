@@ -534,6 +534,7 @@
       <string>uni53C9</string>
       <string>uni53CA</string>
       <string>uni53CB</string>
+      <string>uni53CB.alt</string>
       <string>uni53CD</string>
       <string>uni53D4</string>
       <string>uni53D5</string>
@@ -633,8 +634,8 @@
       <string>uni5831</string>
       <string>uni585E</string>
       <string>uni5875</string>
-      <string>uni5899</string>
       <string>uni58A8</string>
+      <string>uni58BB</string>
       <string>uni58EB</string>
       <string>uni58EC</string>
       <string>uni58F0</string>
@@ -844,6 +845,7 @@
       <string>uni5EA6</string>
       <string>uni5EB6</string>
       <string>uni5EB7</string>
+      <string>uni5EB8</string>
       <string>uni5EC9</string>
       <string>uni5EDA</string>
       <string>uni5EDB</string>
@@ -1111,26 +1113,72 @@
       <string>uni6C11</string>
       <string>uni6C14</string>
       <string>uni6C34</string>
+      <string>uni6C36</string>
       <string>uni6C38</string>
+      <string>uni6C3E</string>
       <string>uni6C42</string>
+      <string>uni6C5F</string>
+      <string>uni6C93</string>
+      <string>uni6C99</string>
+      <string>uni6CB3</string>
+      <string>uni6CC9</string>
       <string>uni6CD5</string>
+      <string>uni6CE2</string>
+      <string>uni6CE3</string>
+      <string>uni6CF0</string>
       <string>uni6D1B</string>
+      <string>uni6D25</string>
       <string>uni6D77</string>
+      <string>uni6D89</string>
+      <string>uni6DF5</string>
+      <string>uni6DFC</string>
+      <string>uni6FD5</string>
       <string>uni706B</string>
+      <string>uni7070</string>
+      <string>uni707E</string>
+      <string>uni7085</string>
       <string>uni708E</string>
+      <string>uni7099</string>
+      <string>uni70AD</string>
       <string>uni70CF</string>
+      <string>uni70D5</string>
+      <string>uni7109</string>
+      <string>uni711A</string>
       <string>uni7121</string>
+      <string>uni7126</string>
       <string>uni7136</string>
+      <string>uni715E</string>
+      <string>uni7169</string>
+      <string>uni718A</string>
+      <string>uni718F</string>
+      <string>uni7192</string>
+      <string>uni71D5</string>
+      <string>uni71EE</string>
+      <string>uni7228</string>
       <string>uni722A</string>
       <string>uni722D</string>
+      <string>uni7230</string>
       <string>uni7232</string>
+      <string>uni7235</string>
       <string>uni7236</string>
       <string>uni723B</string>
+      <string>uni723D</string>
       <string>uni723E</string>
       <string>uni723F</string>
       <string>uni7240</string>
       <string>uni7247</string>
+      <string>uni7257</string>
       <string>uni7259</string>
+      <string>uni725A</string>
+      <string>uni725B</string>
+      <string>uni725F</string>
+      <string>uni7261</string>
+      <string>uni7262</string>
+      <string>uni7267</string>
+      <string>uni727D</string>
+      <string>uni7280</string>
+      <string>uni72AC</string>
+      <string>uni72AE</string>
       <string>uni7378</string>
       <string>uni738B</string>
       <string>uni74DC</string>

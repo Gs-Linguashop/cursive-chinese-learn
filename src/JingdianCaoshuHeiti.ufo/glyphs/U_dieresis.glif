@@ -10,19 +10,19 @@ Udieresis
   <anchor x="350" y="0" name="ogonek"/>
   <anchor x="680" y="750" name="topright"/>
   <outline>
-    <component base="U" identifier="773D393A"/>
-    <component base="uni0308" xOffset="200" yOffset="224" identifier="B2E90634"/>
+    <component base="U" identifier="C09D188A"/>
+    <component base="uni0308" xOffset="200" yOffset="224" identifier="C1F7A02B"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>773D393A</key>
+        <key>C09D188A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B2E90634</key>
+        <key>C1F7A02B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

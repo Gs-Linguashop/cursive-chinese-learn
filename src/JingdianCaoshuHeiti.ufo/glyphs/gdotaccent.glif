@@ -8,19 +8,19 @@ gdotaccent
   <anchor x="285" y="-220" name="bottom"/>
   <anchor x="285" y="718" name="top"/>
   <outline>
-    <component base="g" identifier="4D692D12"/>
-    <component base="uni0307" xOffset="165" identifier="A596B106"/>
+    <component base="g" identifier="612415C9"/>
+    <component base="uni0307" xOffset="165" identifier="A94F5115"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>4D692D12</key>
+        <key>612415C9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>A596B106</key>
+        <key>A94F5115</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

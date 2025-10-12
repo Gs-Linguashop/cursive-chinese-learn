@@ -8,19 +8,19 @@ ydieresis
   <anchor x="250" y="0" name="bottom"/>
   <anchor x="250" y="699" name="top"/>
   <outline>
-    <component base="y" identifier="6AB8F8D1"/>
-    <component base="uni0308" xOffset="100" identifier="45EB5776"/>
+    <component base="y" identifier="2FE643A2"/>
+    <component base="uni0308" xOffset="100" identifier="4266C076"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>45EB5776</key>
+        <key>2FE643A2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>6AB8F8D1</key>
+        <key>4266C076</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

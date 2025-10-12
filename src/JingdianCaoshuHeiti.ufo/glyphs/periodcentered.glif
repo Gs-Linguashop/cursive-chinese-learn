@@ -6,13 +6,13 @@
 periodcentered
 </note>
   <outline>
-    <component base="period" yOffset="300" identifier="D012AA52"/>
+    <component base="period" yOffset="300" identifier="0E3C7604"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>D012AA52</key>
+        <key>0E3C7604</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

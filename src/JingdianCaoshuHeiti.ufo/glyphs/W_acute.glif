@@ -8,19 +8,19 @@ Wacute
   <anchor x="507" y="0" name="bottom"/>
   <anchor x="507" y="961" name="top"/>
   <outline>
-    <component base="W" identifier="B8AAB567"/>
-    <component base="acutecomb" xOffset="357" yOffset="224" identifier="3947FFFE"/>
+    <component base="W" identifier="4751C879"/>
+    <component base="acutecomb" xOffset="357" yOffset="224" identifier="53199BB3"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>3947FFFE</key>
+        <key>4751C879</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B8AAB567</key>
+        <key>53199BB3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

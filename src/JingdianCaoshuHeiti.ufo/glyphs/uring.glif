@@ -10,19 +10,19 @@ uring
   <anchor x="471" y="0" name="ogonek"/>
   <anchor x="560" y="526" name="topright"/>
   <outline>
-    <component base="u" identifier="0A8CEB3C"/>
-    <component base="uni030A" xOffset="140" identifier="B7F00513"/>
+    <component base="u" identifier="47B919FA"/>
+    <component base="uni030A" xOffset="140" identifier="A9AE3CA2"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>0A8CEB3C</key>
+        <key>47B919FA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B7F00513</key>
+        <key>A9AE3CA2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

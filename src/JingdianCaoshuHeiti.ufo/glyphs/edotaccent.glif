@@ -9,19 +9,19 @@ edotaccent
   <anchor x="277" y="718" name="top"/>
   <anchor x="328" y="0" name="ogonek"/>
   <outline>
-    <component base="e" identifier="9E906222"/>
-    <component base="uni0307" xOffset="157" identifier="E7490755"/>
+    <component base="e" identifier="977FD5C9"/>
+    <component base="uni0307" xOffset="157" identifier="75DAEF39"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>9E906222</key>
+        <key>75DAEF39</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E7490755</key>
+        <key>977FD5C9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

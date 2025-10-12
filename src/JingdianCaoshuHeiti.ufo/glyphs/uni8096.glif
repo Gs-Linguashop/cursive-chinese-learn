@@ -78,16 +78,16 @@ uni8096
       <point x="78" y="-32" type="qcurve"/>
     </contour>
     <contour>
-      <point x="671" y="157" type="line"/>
-      <point x="672" y="217" type="line"/>
-      <point x="343" y="220" type="line"/>
-      <point x="342" y="160" type="line"/>
+      <point x="669" y="158" type="line"/>
+      <point x="670" y="222" type="line"/>
+      <point x="341" y="225" type="line"/>
+      <point x="340" y="161" type="line"/>
     </contour>
     <contour>
-      <point x="680" y="312" type="line"/>
-      <point x="681" y="374" type="line"/>
-      <point x="360" y="377" type="line"/>
-      <point x="359" y="314" type="line"/>
+      <point x="678" y="313" type="line"/>
+      <point x="679" y="379" type="line"/>
+      <point x="358" y="382" type="line"/>
+      <point x="357" y="315" type="line"/>
     </contour>
   </outline>
 </glyph>

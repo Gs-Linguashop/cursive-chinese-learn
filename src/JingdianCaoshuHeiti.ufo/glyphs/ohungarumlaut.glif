@@ -10,19 +10,19 @@ ohungarumlaut
   <anchor x="514" y="10" name="ogonek"/>
   <anchor x="551" y="526" name="topright"/>
   <outline>
-    <component base="o" identifier="D5D58403"/>
-    <component base="uni030B" xOffset="136" identifier="34B7A7B7"/>
+    <component base="o" identifier="333DDE84"/>
+    <component base="uni030B" xOffset="136" identifier="18B3C880"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>34B7A7B7</key>
+        <key>18B3C880</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D5D58403</key>
+        <key>333DDE84</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

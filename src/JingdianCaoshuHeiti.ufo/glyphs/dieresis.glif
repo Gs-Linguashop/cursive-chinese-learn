@@ -6,13 +6,13 @@
 dieresis
 </note>
   <outline>
-    <component base="uni0308" identifier="7C5420B5"/>
+    <component base="uni0308" identifier="E625C7B1"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>7C5420B5</key>
+        <key>E625C7B1</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

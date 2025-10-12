@@ -8,19 +8,19 @@ Rcaron
   <anchor x="339" y="0" name="bottom"/>
   <anchor x="305" y="899" name="top"/>
   <outline>
-    <component base="R" identifier="D4CA177C"/>
-    <component base="uni030C" xOffset="155" yOffset="224" identifier="F2011FED"/>
+    <component base="R" identifier="DA5EB84C"/>
+    <component base="uni030C" xOffset="155" yOffset="224" identifier="2105E7A5"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>D4CA177C</key>
+        <key>2105E7A5</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F2011FED</key>
+        <key>DA5EB84C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

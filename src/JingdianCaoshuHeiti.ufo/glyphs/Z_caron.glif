@@ -8,19 +8,19 @@ Zcaron
   <anchor x="330" y="0" name="bottom"/>
   <anchor x="330" y="899" name="top"/>
   <outline>
-    <component base="Z" identifier="9932C1F6"/>
-    <component base="uni030C" xOffset="180" yOffset="224" identifier="775D0A70"/>
+    <component base="Z" identifier="8E139E45"/>
+    <component base="uni030C" xOffset="180" yOffset="224" identifier="A2D4219E"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>775D0A70</key>
+        <key>8E139E45</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9932C1F6</key>
+        <key>A2D4219E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

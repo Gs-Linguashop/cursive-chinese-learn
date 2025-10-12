@@ -44,6 +44,9 @@
 	markClass [uni0326] <anchor 116 0> @mark_bottom;
 	markClass [uni0327] <anchor 150 0> @mark_bottom;
 	markClass [uni0328] <anchor 150 0> @mark_ogonek;
+@anchor_bottom = [uni0326 uni0327];
+@anchor_ogonek = [uni0328];
+@anchor_top = [uni0308 uni0307 gravecomb acutecomb uni030B uni030C.alt uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0313];
 ### prefix:-1: ###
 ### open prefix '' ###
 languagesystem DFLT dflt;
@@ -61,25 +64,25 @@ languagesystem latn TRK;
 
 ### prefix:-1:Prefix ###
 ### open prefix 'Prefix' ###
-lookup SUB_10 {
+lookup SUB_11 {
 	lookupflag UseMarkFilteringSet [uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0313];
 	sub i by dotlessi;
 	sub j by uni0237;
-} SUB_10;
-lookup SUB_11 {
-	sub periodcentered by periodcentered.loclCAT;
 } SUB_11;
 lookup SUB_12 {
+	sub periodcentered by periodcentered.loclCAT;
+} SUB_12;
+lookup SUB_13 {
 	sub J by J_acutecomb;
 	sub j by j_acutecomb;
 	sub periodcentered by periodcentered.loclCAT.case;
-} SUB_12;
-lookup SUB_13 {
+} SUB_13;
+lookup SUB_14 {
 	sub A by ordfeminine;
 	sub O by ordmasculine;
 	sub a by ordfeminine;
 	sub o by ordmasculine;
-} SUB_13;
+} SUB_14;
 ### close prefix 'Prefix' ###
 
 ### feature:1:ccmp ###
@@ -87,34 +90,34 @@ feature ccmp {
 ### open feature 'ccmp' ###
 script DFLT;
 language dflt;
-lookup SUB_1 {
+lookup SUB_2 {
 	lookupflag UseMarkFilteringSet [uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0313];
-	@SUB_1_0_LA_0 = [uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0313];
-	sub i' lookup SUB_10 @SUB_1_0_LA_0;
-	@SUB_1_1_LA_0 = [uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0313];
-	sub j' lookup SUB_10 @SUB_1_1_LA_0;
-} SUB_1;
+	@SUB_2_0_LA_0 = [uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0313];
+	sub i' lookup SUB_11 @SUB_2_0_LA_0;
+	@SUB_2_1_LA_0 = [uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0313];
+	sub j' lookup SUB_11 @SUB_2_1_LA_0;
+} SUB_2;
 script latn;
 language dflt;
-lookup SUB_1;
+lookup SUB_2;
 language AZE;
-lookup SUB_1;
+lookup SUB_2;
 language CAT;
-lookup SUB_1;
+lookup SUB_2;
 language CRT;
-lookup SUB_1;
+lookup SUB_2;
 language KAZ;
-lookup SUB_1;
+lookup SUB_2;
 language MOL;
-lookup SUB_1;
+lookup SUB_2;
 language NLD;
-lookup SUB_1;
+lookup SUB_2;
 language ROM;
-lookup SUB_1;
+lookup SUB_2;
 language TAT;
-lookup SUB_1;
+lookup SUB_2;
 language TRK;
-lookup SUB_1;
+lookup SUB_2;
 ### close feature 'ccmp' ###
 } ccmp;
 
@@ -123,34 +126,34 @@ feature locl {
 ### open feature 'locl' ###
 script latn;
 language AZE;
-lookup SUB_2 {
-	sub i by i.loclTRK;
-} SUB_2;
-language CRT;
-lookup SUB_2;
-language KAZ;
-lookup SUB_2;
-language TAT;
-lookup SUB_2;
-language TRK;
-lookup SUB_2;
-language MOL;
 lookup SUB_3 {
+	sub i by i.loclTRK;
+} SUB_3;
+language CRT;
+lookup SUB_3;
+language KAZ;
+lookup SUB_3;
+language TAT;
+lookup SUB_3;
+language TRK;
+lookup SUB_3;
+language MOL;
+lookup SUB_4 {
 	sub Scedilla by uni0218;
 	sub scedilla by uni0219;
-} SUB_3;
-language ROM;
-lookup SUB_3;
-language CAT;
-lookup SUB_4 {
-	sub L periodcentered' lookup SUB_12 L;
-	sub l periodcentered' lookup SUB_11 l;
 } SUB_4;
-language NLD;
+language ROM;
+lookup SUB_4;
+language CAT;
 lookup SUB_5 {
-	sub Iacute J' lookup SUB_12;
-	sub iacute j' lookup SUB_12;
+	sub L periodcentered' lookup SUB_13 L;
+	sub l periodcentered' lookup SUB_12 l;
 } SUB_5;
+language NLD;
+lookup SUB_6 {
+	sub Iacute J' lookup SUB_13;
+	sub iacute j' lookup SUB_13;
+} SUB_6;
 ### close feature 'locl' ###
 } locl;
 
@@ -159,43 +162,11 @@ feature ordn {
 ### open feature 'ordn' ###
 script DFLT;
 language dflt;
-lookup SUB_6 {
-	@SUB_6_0_BT_0 = [zero one two three four five six seven eight nine];
-	sub @SUB_6_0_BT_0 [A a]' lookup SUB_13;
-	@SUB_6_1_BT_0 = [zero one two three four five six seven eight nine];
-	sub @SUB_6_1_BT_0 [O o]' lookup SUB_13;
-} SUB_6;
-script latn;
-language dflt;
-lookup SUB_6;
-language AZE;
-lookup SUB_6;
-language CAT;
-lookup SUB_6;
-language CRT;
-lookup SUB_6;
-language KAZ;
-lookup SUB_6;
-language MOL;
-lookup SUB_6;
-language NLD;
-lookup SUB_6;
-language ROM;
-lookup SUB_6;
-language TAT;
-lookup SUB_6;
-language TRK;
-lookup SUB_6;
-### close feature 'ordn' ###
-} ordn;
-
-### feature:4:case ###
-feature case {
-### open feature 'case' ###
-script DFLT;
-language dflt;
 lookup SUB_7 {
-	sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+	@SUB_7_0_BT_0 = [zero one two three four five six seven eight nine];
+	sub @SUB_7_0_BT_0 [A a]' lookup SUB_14;
+	@SUB_7_1_BT_0 = [zero one two three four five six seven eight nine];
+	sub @SUB_7_1_BT_0 [O o]' lookup SUB_14;
 } SUB_7;
 script latn;
 language dflt;
@@ -218,22 +189,16 @@ language TAT;
 lookup SUB_7;
 language TRK;
 lookup SUB_7;
-### close feature 'case' ###
-} case;
+### close feature 'ordn' ###
+} ordn;
 
-### feature:5:liga ###
-feature liga {
-### open feature 'liga' ###
+### feature:4:case ###
+feature case {
+### open feature 'case' ###
 script DFLT;
 language dflt;
 lookup SUB_8 {
-	lookupflag IgnoreMarks;
-	sub f f i by f_f_i.liga;
-	sub f f l by f_f_l.liga;
-	sub f f by f_f.liga;
-	sub f i by fi.liga;
-	sub f l by fl.liga;
-	sub f t by f_t.liga;
+	sub periodcentered.loclCAT by periodcentered.loclCAT.case;
 } SUB_8;
 script latn;
 language dflt;
@@ -256,24 +221,22 @@ language TAT;
 lookup SUB_8;
 language TRK;
 lookup SUB_8;
-### close feature 'liga' ###
-} liga;
+### close feature 'case' ###
+} case;
 
-### feature:6:fwid ###
-feature fwid {
-### open feature 'fwid' ###
+### feature:5:liga ###
+feature liga {
+### open feature 'liga' ###
 script DFLT;
 language dflt;
 lookup SUB_9 {
-	sub comma by uniFF0C;
-	sub colon by uniFF1A;
-	sub semicolon by uniFF1B;
-	sub exclam by uniFF01;
-	sub question by uniFF1F;
-	sub parenleft by uniFF08;
-	sub parenright by uniFF09;
-	sub quotedbl by uniFF02;
-	sub quotesingle by uniFF07;
+	lookupflag IgnoreMarks;
+	sub f f i by f_f_i.liga;
+	sub f f l by f_f_l.liga;
+	sub f f by f_f.liga;
+	sub f i by fi.liga;
+	sub f l by fl.liga;
+	sub f t by f_t.liga;
 } SUB_9;
 script latn;
 language dflt;
@@ -296,6 +259,46 @@ language TAT;
 lookup SUB_9;
 language TRK;
 lookup SUB_9;
+### close feature 'liga' ###
+} liga;
+
+### feature:6:fwid ###
+feature fwid {
+### open feature 'fwid' ###
+script DFLT;
+language dflt;
+lookup SUB_10 {
+	sub comma by uniFF0C;
+	sub colon by uniFF1A;
+	sub semicolon by uniFF1B;
+	sub exclam by uniFF01;
+	sub question by uniFF1F;
+	sub parenleft by uniFF08;
+	sub parenright by uniFF09;
+	sub quotedbl by uniFF02;
+	sub quotesingle by uniFF07;
+} SUB_10;
+script latn;
+language dflt;
+lookup SUB_10;
+language AZE;
+lookup SUB_10;
+language CAT;
+lookup SUB_10;
+language CRT;
+lookup SUB_10;
+language KAZ;
+lookup SUB_10;
+language MOL;
+lookup SUB_10;
+language NLD;
+lookup SUB_10;
+language ROM;
+lookup SUB_10;
+language TAT;
+lookup SUB_10;
+language TRK;
+lookup SUB_10;
 ### close feature 'fwid' ###
 } fwid;
 

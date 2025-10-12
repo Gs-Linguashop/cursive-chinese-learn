@@ -9,19 +9,19 @@ Aring
   <anchor x="353" y="984" name="top"/>
   <anchor x="635" y="10" name="ogonek"/>
   <outline>
-    <component base="A" identifier="49165B5B"/>
-    <component base="uni030A" xOffset="203" yOffset="224" identifier="F2F4BC1A"/>
+    <component base="A" identifier="95F5A458"/>
+    <component base="uni030A" xOffset="203" yOffset="224" identifier="CA32D3D7"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>49165B5B</key>
+        <key>95F5A458</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F2F4BC1A</key>
+        <key>CA32D3D7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

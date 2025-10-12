@@ -6,13 +6,13 @@
 ogonek
 </note>
   <outline>
-    <component base="uni0328" identifier="31730354"/>
+    <component base="uni0328" identifier="F96B8F98"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>31730354</key>
+        <key>F96B8F98</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

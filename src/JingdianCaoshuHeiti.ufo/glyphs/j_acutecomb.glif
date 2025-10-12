@@ -8,19 +8,19 @@ uni006A0301
   <anchor x="109" y="737" name="top"/>
   <anchor x="109" y="0" name="ogonek"/>
   <outline>
-    <component base="uni0237" identifier="FAED213E"/>
-    <component base="acutecomb" xOffset="-41" identifier="A4111E7E"/>
+    <component base="uni0237" identifier="B0DCB60B"/>
+    <component base="acutecomb" xOffset="-41" identifier="B3111360"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>A4111E7E</key>
+        <key>B0DCB60B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>FAED213E</key>
+        <key>B3111360</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

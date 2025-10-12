@@ -9,19 +9,19 @@ uni013C
   <anchor x="109" y="800" name="top"/>
   <anchor x="273" y="800" name="topright"/>
   <outline>
-    <component base="l" identifier="4D079F61"/>
-    <component base="uni0326" xOffset="-7" identifier="4406C51C"/>
+    <component base="l" identifier="48846445"/>
+    <component base="uni0326" xOffset="-7" identifier="EE6FB4F0"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>4406C51C</key>
+        <key>48846445</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>4D079F61</key>
+        <key>EE6FB4F0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

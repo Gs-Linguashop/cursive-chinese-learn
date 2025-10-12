@@ -9,19 +9,19 @@ ecaron
   <anchor x="277" y="675" name="top"/>
   <anchor x="328" y="0" name="ogonek"/>
   <outline>
-    <component base="e" identifier="06E044D1"/>
-    <component base="uni030C" xOffset="127" identifier="4D5DDF76"/>
+    <component base="e" identifier="4F052CCA"/>
+    <component base="uni030C" xOffset="127" identifier="820F613A"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>06E044D1</key>
+        <key>4F052CCA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>4D5DDF76</key>
+        <key>820F613A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

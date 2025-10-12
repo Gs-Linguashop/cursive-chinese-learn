@@ -9,19 +9,19 @@ eacute
   <anchor x="277" y="737" name="top"/>
   <anchor x="328" y="0" name="ogonek"/>
   <outline>
-    <component base="e" identifier="98515C21"/>
-    <component base="acutecomb" xOffset="127" identifier="0637CF5D"/>
+    <component base="e" identifier="FAF88DBA"/>
+    <component base="acutecomb" xOffset="127" identifier="CC888DAD"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>0637CF5D</key>
+        <key>CC888DAD</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>98515C21</key>
+        <key>FAF88DBA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

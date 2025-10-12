@@ -9,19 +9,19 @@ iacute
   <anchor x="109" y="737" name="top"/>
   <anchor x="109" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" identifier="9E98DBD5"/>
-    <component base="acutecomb" xOffset="-41" identifier="37298196"/>
+    <component base="dotlessi" identifier="79E4BB39"/>
+    <component base="acutecomb" xOffset="-41" identifier="FBDE85F9"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>37298196</key>
+        <key>79E4BB39</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9E98DBD5</key>
+        <key>FBDE85F9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

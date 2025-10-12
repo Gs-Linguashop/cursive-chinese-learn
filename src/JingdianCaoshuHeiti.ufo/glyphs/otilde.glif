@@ -10,19 +10,19 @@ otilde
   <anchor x="514" y="10" name="ogonek"/>
   <anchor x="551" y="526" name="topright"/>
   <outline>
-    <component base="o" identifier="67B06E1D"/>
-    <component base="tildecomb" xOffset="136" identifier="C16620D8"/>
+    <component base="o" identifier="C95E9E2E"/>
+    <component base="tildecomb" xOffset="136" identifier="F481A460"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>67B06E1D</key>
+        <key>C95E9E2E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C16620D8</key>
+        <key>F481A460</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

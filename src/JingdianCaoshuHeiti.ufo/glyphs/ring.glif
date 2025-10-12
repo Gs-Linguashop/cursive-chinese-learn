@@ -6,13 +6,13 @@
 ring
 </note>
   <outline>
-    <component base="uni030A" identifier="6CD522A3"/>
+    <component base="uni030A" identifier="BDEB4C38"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>6CD522A3</key>
+        <key>BDEB4C38</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

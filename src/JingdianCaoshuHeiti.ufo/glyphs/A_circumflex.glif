@@ -9,19 +9,19 @@ Acircumflex
   <anchor x="353" y="965" name="top"/>
   <anchor x="635" y="10" name="ogonek"/>
   <outline>
-    <component base="A" identifier="9F36D5AC"/>
-    <component base="uni0302" xOffset="203" yOffset="224" identifier="636EBAFF"/>
+    <component base="A" identifier="E07A360A"/>
+    <component base="uni0302" xOffset="203" yOffset="224" identifier="ADCBC2F7"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>636EBAFF</key>
+        <key>ADCBC2F7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9F36D5AC</key>
+        <key>E07A360A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

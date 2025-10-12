@@ -9,19 +9,19 @@ Agrave
   <anchor x="353" y="961" name="top"/>
   <anchor x="635" y="10" name="ogonek"/>
   <outline>
-    <component base="A" identifier="8FE1CAE6"/>
-    <component base="gravecomb" xOffset="203" yOffset="224" identifier="CD4FF6B9"/>
+    <component base="A" identifier="58C6CF2C"/>
+    <component base="gravecomb" xOffset="203" yOffset="224" identifier="F27BD00D"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>8FE1CAE6</key>
+        <key>58C6CF2C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>CD4FF6B9</key>
+        <key>F27BD00D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

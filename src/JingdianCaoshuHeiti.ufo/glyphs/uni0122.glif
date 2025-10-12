@@ -8,19 +8,19 @@ uni0122
   <anchor x="389" y="0" name="bottom"/>
   <anchor x="377" y="750" name="top"/>
   <outline>
-    <component base="G" identifier="798C817D"/>
-    <component base="uni0313" xOffset="261" yOffset="224" identifier="C39B0F1C"/>
+    <component base="G" identifier="73A16630"/>
+    <component base="uni0313" xOffset="261" yOffset="224" identifier="0593C6F2"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>798C817D</key>
+        <key>0593C6F2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C39B0F1C</key>
+        <key>73A16630</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -9,7 +9,7 @@
 | [㒼](../src/JingdianCaoshuHeiti-svg/uni34BC.svg) | 34BC | 偏旁 | 固定 | ⿱[燕字头串联]田 |
 | [㓞](../src/JingdianCaoshuHeiti-svg/uni34DE.svg) | 34DE | 偏旁（在上） | 固定 | ⿰龶⺈ |
 | [㔷](../src/JingdianCaoshuHeiti-svg/uni3537.svg) | 3537 | 偏旁 | 固定 | ⿱丙㇄ |
-| 㔾 | 353E | 偏旁 | 基本 | ⿱刀乚 |
+| [㔾](../src/JingdianCaoshuHeiti-svg/uni353E.svg) | 353E | 偏旁 | 基本 | ⿱刀乚 |
 | [㕡](../src/JingdianCaoshuHeiti-svg/uni3561.svg) | 3561 | 偏旁（在上） | 推得 | ⿰歺又 |
 | [㚒](../src/JingdianCaoshuHeiti-svg/uni3692.svg) | 3692 | 偏旁 | 固定 | ⿳[夹字头][夫字底] |
 | [㕣](../src/JingdianCaoshuHeiti-svg/uni3563.svg) | 3563 | 偏旁 | 固定 | ⿱丷厶 |
@@ -286,9 +286,9 @@
 | [别](../src/JingdianCaoshuHeiti-svg/uni522B.svg) | 522B | 字 | 同异 | 同「別」 |
 | [制](../src/JingdianCaoshuHeiti-svg/uni5236.svg) | 5236 | 字 | 固定 | ⿰⿱[牛字头]木刂 |
 | [刷](../src/JingdianCaoshuHeiti-svg/uni5237.svg) | 5237 | 字 | 推得 | ⿰⿸尸巾刂 |
-| [刺](../src/JingdianCaoshuHeiti-svg/uni523A.svg) | 523A | 字 | 固定 | ⿰⿳十[半字头][夫字底]刂 |
+| [刺](../src/JingdianCaoshuHeiti-svg/uni523A.svg) | 523A | 字 | 固定 | ⿰⿳十[夹字头][夫字底]刂 |
 | [則](../src/JingdianCaoshuHeiti-svg/uni5247.svg) | 5247 | 字 | 推得 | ⿰貝刂 |
-| [剌](../src/JingdianCaoshuHeiti-svg/uni524C.svg) | 524C | 字/偏旁 | 固定 | ⿰⿳十[半字头][夫字底]刂 |
+| [剌](../src/JingdianCaoshuHeiti-svg/uni524C.svg) | 524C | 字/偏旁 | 固定 | ⿰⿳十[夹字头][夫字底]刂 |
 | [前](../src/JingdianCaoshuHeiti-svg/uni524D.svg) | 524D | 字 | 固定 | ⿱[前字头]⿰夕刂 |
 | [劉](../src/JingdianCaoshuHeiti-svg/uni5289.svg) | 5289 | 字/偏旁 | 推得 | ⿰⿱𭕄金刂 |
 | [劓](../src/JingdianCaoshuHeiti-svg/uni5293.svg) | 5293 | 字 | 推得 | ⿰鼻刂 |
@@ -393,6 +393,7 @@
 | [友](../src/JingdianCaoshuHeiti-svg/uni53CB.svg) | 53CB | 字/偏旁 | 推得 | ⿸[又字头]又 |
 | [双](../src/JingdianCaoshuHeiti-svg/uni53CC.svg) | 53CC | 字 | 简体 | 同「雙」 |
 | [反](../src/JingdianCaoshuHeiti-svg/uni53CD.svg) | 53CD | 字/偏旁 | 推得 | ⿸厂又 |
+| 叐 | 53D0 | 字 | 推得 | ⿱千⿰丿又 |
 | [发](../src/JingdianCaoshuHeiti-svg/uni53D1.svg) | 53D1 | 字/偏旁 | 简体 | 同「發」 |
 | [叔](../src/JingdianCaoshuHeiti-svg/uni53D4.svg) | 53D4 | 字/偏旁 | 特殊 | ⿱[前字头]㇕/⿱十㇕ |
 | [叕](../src/JingdianCaoshuHeiti-svg/uni53D5.svg) | 53D5 | 字/偏旁 | 特定 | ⿸⿱又又又 |
@@ -515,6 +516,7 @@
 | [塵](../src/JingdianCaoshuHeiti-svg/uni5875.svg) | 5875 | 字 | 推得 | ⿸鹿土 |
 | [墙](../src/JingdianCaoshuHeiti-svg/uni5899.svg) | 5899 | 字 | 推得 | ⿰土啬 |
 | [墨](../src/JingdianCaoshuHeiti-svg/uni58A8.svg) | 58A8 | 字 | 特定 | ⿳田龶土/⿻⿱田龶八 |
+| [墻](../src/JingdianCaoshuHeiti-svg/uni58BB.svg) | 58BB | 字 | 推得 | ⿰土嗇 |
 | 壇 | 58C7 | 字 | 推得 | ⿰土亶 |
 | [士](../src/JingdianCaoshuHeiti-svg/uni58EB.svg) | 58EB | 字/偏旁 | 基本 | ⿱十丄 |
 | [壬](../src/JingdianCaoshuHeiti-svg/uni58EC.svg) | 58EC | 字/偏旁 | 推得 | ⿱亻土 |
@@ -557,25 +559,25 @@
 | [头](../src/JingdianCaoshuHeiti-svg/uni5934.svg) | 5934 | 偏旁 | 推得 | ⿱二大/⿱⺀大 |
 | [头](../src/JingdianCaoshuHeiti-svg/uni5934.svg) | 5934 | 字 | 简体 | 同「頭」 |
 | [夷](../src/JingdianCaoshuHeiti-svg/uni5937.svg) | 5937 | 字/偏旁 | 固定 | ⿳十[串字形]人/⿹韦丿 | 「⿹韦丿」或以「斜」贯穿 |
-| [夸](../src/JingdianCaoshuHeiti-svg/uni5938.svg) | 5938 | 字/偏旁 | 固定 | ⿱[反大头]于 |
+| [夸](../src/JingdianCaoshuHeiti-svg/uni5938.svg) | 5938 | 字/偏旁 | 固定 | ⿱[反大]于 |
 | [夹](../src/JingdianCaoshuHeiti-svg/uni5939.svg) | 5939 | 字/偏旁 | 简体 | 同「夾」「㚒」 |
 | [夺](../src/JingdianCaoshuHeiti-svg/uni593A.svg) | 593A | 字 | 简体 | 同「奪」 |
 | [夾](../src/JingdianCaoshuHeiti-svg/uni593E.svg) | 593E | 字/偏旁 | 固定 | ⿳[夹字头][夫字底] |
 | [奂](../src/JingdianCaoshuHeiti-svg/uni5942.svg) | 5942 | 字/偏旁 | 简体 | 同「奐」 |
-| [奄](../src/JingdianCaoshuHeiti-svg/uni5944.svg) | 5944 | 字/偏旁 | 推得 | ⿱[反大头]⿱中乚 |
+| [奄](../src/JingdianCaoshuHeiti-svg/uni5944.svg) | 5944 | 字/偏旁 | 推得 | ⿱[反大]⿱中乚 |
 | [奇](../src/JingdianCaoshuHeiti-svg/uni5947.svg) | 5947 | 字/偏旁 | 固定 | ⿱士可 |
-| [奈](../src/JingdianCaoshuHeiti-svg/uni5948.svg) | 5948 | 字/偏旁 | 固定 | ⿱[反大头]示/⿱[牛字头]示 |
+| [奈](../src/JingdianCaoshuHeiti-svg/uni5948.svg) | 5948 | 字/偏旁 | 固定 | ⿱[反大]示/⿱[牛字头]示 |
 | [奉](../src/JingdianCaoshuHeiti-svg/uni5949.svg) | 5949 | 字/偏旁 | 特定 | ⿱[车字头]㐄 |
 | [奋](../src/JingdianCaoshuHeiti-svg/uni594B.svg) | 594B | 字 | 简体 | 同「奮」 |
 | [奏](../src/JingdianCaoshuHeiti-svg/uni594F.svg) | 594F | 字/偏旁 | 特定 | ⿱奉大/⿳十㐄夫 |
 | [奐](../src/JingdianCaoshuHeiti-svg/uni5950.svg) | 5950 | 字/偏旁 | 特定 | ⿳⺈日[美字底]/⿱⺈⿱冖[美字底] |
-| [奔](../src/JingdianCaoshuHeiti-svg/uni5954.svg) | 5954 | 字/偏旁 | 特定 | ⿱[反大头]⿰扌十/大/⿱士⿰扌十 |
+| [奔](../src/JingdianCaoshuHeiti-svg/uni5954.svg) | 5954 | 字/偏旁 | 特定 | ⿱[反大]⿰扌十/大/⿱士⿰扌十 |
 | [奚](../src/JingdianCaoshuHeiti-svg/uni595A.svg) | 595A | 字/偏旁 | 特定 | ⿳[乎字头]⺈大 |
 | [奠](../src/JingdianCaoshuHeiti-svg/uni5960.svg) | 5960 | 字 | 特定 | ⿱⿻冂⿱[反犬头]井大 |
 | [奥](../src/JingdianCaoshuHeiti-svg/uni5965.svg) | 5965 | 字/偏旁 | 简体 | 同「奧」 |
 | [奧](../src/JingdianCaoshuHeiti-svg/uni5967.svg) | 5967 | 字/偏旁 | 固定 | ⿳丿用廾 |
 | [奪](../src/JingdianCaoshuHeiti-svg/uni596A.svg) | 596A | 字 | 特定 | ⿳𠂉⿱厂龶寸 |
-| [奮](../src/JingdianCaoshuHeiti-svg/uni596E.svg) | 596E | 字 | 特定 | ⿳[反大头]龶田/⿳𠂉⿱厂龶田 |
+| [奮](../src/JingdianCaoshuHeiti-svg/uni596E.svg) | 596E | 字 | 特定 | ⿳[反大]龶田/⿳𠂉⿱厂龶田 |
 | [女](../src/JingdianCaoshuHeiti-svg/uni5973.svg) | 5973 | 字/偏旁 | 基本 | 女 |
 | [奴](../src/JingdianCaoshuHeiti-svg/uni5974.svg) | 5974 | 字/偏旁 | 推得 | ⿰女又 |
 | [好](../src/JingdianCaoshuHeiti-svg/uni597D.svg) | 597D | 字 | 推得 | ⿰女子 |
@@ -766,7 +768,7 @@
 | [帶](../src/JingdianCaoshuHeiti-svg/uni5E36.svg) | 5E36 | 字 | 特定 | ⿱卅[虎字底] |
 | [常](../src/JingdianCaoshuHeiti-svg/uni5E38.svg) | 5E38 | 字 | 特殊 | ⿱⺌々 |
 | [幣](../src/JingdianCaoshuHeiti-svg/uni5E63.svg) | 5E63 | 字 | 特定 | ⿱敝巾/⿱一巾 |
-| [干](../src/JingdianCaoshuHeiti-svg/uni5E72.svg) | 5E72 | 字/偏旁 | 基本 | 干 |
+| [干](../src/JingdianCaoshuHeiti-svg/uni5E72.svg) | 5E72 | 字/偏旁 | 基本 | 干/⿱丅十 |
 | [平](../src/JingdianCaoshuHeiti-svg/uni5E73.svg) | 5E73 | 字/偏旁 | 特定 | ⿱干十/⿱[乐字头]十 |
 | [年](../src/JingdianCaoshuHeiti-svg/uni5E74.svg) | 5E74 | 字 | 特定 | ⿱亻丰 |
 | [并](../src/JingdianCaoshuHeiti-svg/uni5E76.svg) | 5E76 | 字/偏旁 | 推得 | ⿱丷开/⿱丷井 |
@@ -787,6 +789,7 @@
 | [度](../src/JingdianCaoshuHeiti-svg/uni5EA6.svg) | 5EA6 | 字/偏旁 | 固定 | ⿸广⿱[共字头]又 |
 | [庶](../src/JingdianCaoshuHeiti-svg/uni5EB6.svg) | 5EB6 | 字/偏旁 | 推得 | ⿸广⿱龷一 |
 | [康](../src/JingdianCaoshuHeiti-svg/uni5EB7.svg) | 5EB7 | 字/偏旁 | 固定 | ⿸广⿱肀小/⿸广⿱日小 |
+| [庸](../src/JingdianCaoshuHeiti-svg/uni5EB8.svg) | 5EB8 | 字/偏旁 | 推得 | ⿸广⿱巾用 |
 | [廉](../src/JingdianCaoshuHeiti-svg/uni5EC9.svg) | 5EC9 | 字/偏旁 | 固定 | ⿸广兼/⿸广⿻㇡龷 |
 | [廚](../src/JingdianCaoshuHeiti-svg/uni5EDA.svg) | 5EDA | 字/偏旁 | 固定 | ⿸广尌 |
 | 廟 | 5EDF | 字 | 推得 | ⿸广朝 |
@@ -1124,88 +1127,91 @@
 | [民](../src/JingdianCaoshuHeiti-svg/uni6C11.svg) | 6C11 | 字/偏旁 | 固定 | ⿰氏丶/氏 |
 | [气](../src/JingdianCaoshuHeiti-svg/uni6C14.svg) | 6C14 | 字/偏旁 | 固定 | ⿳𠂉一乙 |
 | [水](../src/JingdianCaoshuHeiti-svg/uni6C34.svg) | 6C34 | 字 | 特殊 | ⿰夕丄 |
-| 氶 |
+| [氶](../src/JingdianCaoshuHeiti-svg/uni6C36.svg) | 6C36 | 字/偏旁 | 推得 | ⿱乛氺 |
 | [永](../src/JingdianCaoshuHeiti-svg/uni6C38.svg) | 6C38 | 字/偏旁 | 特殊 | ⿱丿水 |
-| 氾 |
+| [氾](../src/JingdianCaoshuHeiti-svg/uni6C3E.svg) | 6C3E | 字/偏旁 | 推得 | ⿰氵㔾 |
 | [求](../src/JingdianCaoshuHeiti-svg/uni6C42.svg) | 6C42 | 字/偏旁 | 推得 | ⿱[反犬头]氺 |
-| 汇 |
-| 江 |
-| 沓 |
-| 沙 |
-| 河 |
-| 泉 |
+| 汇 | 6C47 | 字 | 简体 | 同「匯」「彙」 |
+| [江](../src/JingdianCaoshuHeiti-svg/uni6C5F.svg) | 6C5F | 字/偏旁 | 推得 | ⿰氵工 |
+| [沓](../src/JingdianCaoshuHeiti-svg/uni6C93.svg) | 6C93 | 字/偏旁 | 推得 | ⿱水曰 |
+| [沙](../src/JingdianCaoshuHeiti-svg/uni6C99.svg) | 6C99 | 字/偏旁 | 推得 | ⿰氵少 |
+| [河](../src/JingdianCaoshuHeiti-svg/uni6CB3.svg) | 6CB3 | 字/偏旁 | 推得 | ⿰氵可 |
+| [泉](../src/JingdianCaoshuHeiti-svg/uni6CC9.svg) | 6CC9 | 字/偏旁 | 推得 | ⿱白水/⿱白氺 |
 | [法](../src/JingdianCaoshuHeiti-svg/uni6CD5.svg) | 6CD5 | 字 | 推得 | ⿰氵去 |
-| 波 |
-| 泣 |
-| 泪 |
-| 泰 |
+| [波](../src/JingdianCaoshuHeiti-svg/uni6CE2.svg) | 6CE2 | 字/偏旁 | 推得 | ⿰氵皮 |
+| [泣](../src/JingdianCaoshuHeiti-svg/uni6CE3.svg) | 6CE3 | 字 | 推得 | ⿰氵立 |
+| 泪 | 6CEA | 字 | 同异 | 同「淚」 |
+| [泰](../src/JingdianCaoshuHeiti-svg/uni6CF0.svg) | 6CF0 | 字/偏旁 | 特定 | ⿱[车字头]氺 |
 | [洛](../src/JingdianCaoshuHeiti-svg/uni6D1B.svg) | 6D1B | 字 | 推得 | ⿰氵各 |
-| 津 |
+| [津](../src/JingdianCaoshuHeiti-svg/uni6D25.svg) | 6D25 | 字/偏旁 | 推得 | ⿰氵聿 |
 | [海](../src/JingdianCaoshuHeiti-svg/uni6D77.svg) | 6D77 | 字 | 推得 | ⿰氵每 |
-| 涉 |
-| 涩 |
-| 淵 |
-| 淼 |
-| 湿 |
-| 溼 |
+| [涉](../src/JingdianCaoshuHeiti-svg/uni6D89.svg) | 6D89 | 字/偏旁 | 推得 | ⿰氵步 |
+| 涩 | 6DA9 | 字 | 简体 | 同「澀」 |
+| [淵](../src/JingdianCaoshuHeiti-svg/uni6DF5.svg) | 6DF5 | 字 | 推得 | ⿰氵[淵之右] |
+| [淼](../src/JingdianCaoshuHeiti-svg/uni6DFC.svg) | 6DFC | 字 | 推得 | ⿱水⿰夕水 |
+| [渊](../src/JingdianCaoshuHeiti-svg/uni6E0A.svg) | 6E0A | 字 | 推得 | ⿰氵[渊之右] |
+| [湿](../src/JingdianCaoshuHeiti-svg/uni6E7F.svg) | 6E7F | 字 | 简体 | 同「濕」 |
+| [溼](../src/JingdianCaoshuHeiti-svg/uni6EBC.svg) | 6EBC | 字 | 同异 | 同「濕」 |
 | [準](../src/JingdianCaoshuHeiti-svg/uni6E96.svg) | 6E96 | 字 | 推得 | ⿱淮十/准 |
+| [濕](../src/JingdianCaoshuHeiti-svg/uni6FD5.svg) | 6FD5 | 字 | 推得 | ⿰氵㬎 |
 | [火](../src/JingdianCaoshuHeiti-svg/uni706B.svg) | 706B | 字/偏旁 | 特定 | ⿱[半字头][夫字底] |
-| 灭 |
-| 灰 |
-| 灵 |
-| 災 |
-| 灾 |
-| 炅 |
-| 炊 |
+| 灭 | 706D | 字 | 简体 | 同「滅」 |
+| [灰](../src/JingdianCaoshuHeiti-svg/uni7070.svg) | 7070 | 字/偏旁 | 特定 | ⿸厂火 |
+| 灵 | 7075 | 字 | 简体 | 同「靈」 |
+| [災](../src/JingdianCaoshuHeiti-svg/uni707D.svg) | 707D | 字 | 推得 | ⿱𭕄火/灾 |
+| [灾](../src/JingdianCaoshuHeiti-svg/uni707E.svg) | 707E | 字 | 推得 | ⿱宀火 |
+| [炅](../src/JingdianCaoshuHeiti-svg/uni7085.svg) | 7085 | 字 | 推得 | ⿱日火 |
+| [炊](../src/JingdianCaoshuHeiti-svg/uni708A.svg) | 708A | 字 | 推得 | ⿰火欠 |
 | [炎](../src/JingdianCaoshuHeiti-svg/uni708E.svg) | 708E | 字/偏旁 | 特定 | ⿳[半字头]⺈大 |
-| 炙 |
-| 炭 |
+| [炙](../src/JingdianCaoshuHeiti-svg/uni7099.svg) | 7099 | 字 | 推得 | ⿰夕火/⿰夕灬 |
+| [炭](../src/JingdianCaoshuHeiti-svg/uni70AD.svg) | 70AD | 字/偏旁 | 推得 | ⿱山灰 |
 | [為](../src/JingdianCaoshuHeiti-svg/uni70BA.svg) | 70BA | 字/偏旁 | 同异 | 同「爲」 |
 | [烏](../src/JingdianCaoshuHeiti-svg/uni70CF.svg) | 70CF | 字/偏旁 | 特定 | ⿱勹⿹㇉一 |
-| 烕 |
-| 烦 |
-| 焉 |
-| 焚 |
+| [烕](../src/JingdianCaoshuHeiti-svg/uni70D5.svg) | 70D5 | 字/偏旁 | 推得 | ⿵戌火/⿵戌士 |
+| [烦](../src/JingdianCaoshuHeiti-svg/uni70E6.svg) | 70E6 | 字 | 推得 | ⿰火页 |
+| [焉](../src/JingdianCaoshuHeiti-svg/uni7109.svg) | 7109 | 字 | 特定 | ⿸厂⿱一[乃一] |
+| [焚](../src/JingdianCaoshuHeiti-svg/uni711A.svg) | 711A | 字 | 推得 | ⿱林火/⿱井灬 |
 | [無](../src/JingdianCaoshuHeiti-svg/uni7121.svg) | 7121 | 字/偏旁 | 特定 | ⿳𠂉一[共字头]/⿳卅〇二 |
-| 焦 |
+| [焦](../src/JingdianCaoshuHeiti-svg/uni7126.svg) | 7126 | 字 | 推得 | ⿱隹灬 |
 | [然](../src/JingdianCaoshuHeiti-svg/uni7136.svg) | 7136 | 字/偏旁 | 固定 | ⿰夕⿱士一 |
-| 煞 |
-| 煩 |
-| 熊 |
-| 熏 |
-| 熒 |
-| 燕 |
-| 燮 |
-| 爨 |
+| [煞](../src/JingdianCaoshuHeiti-svg/uni715E.svg) | 715E | 字 | 推得 | ⿱⿰⿱⺈𫜹攵灬 |
+| [煩](../src/JingdianCaoshuHeiti-svg/uni7169.svg) | 7169 | 字 | 推得 | ⿰火頁 |
+| [熊](../src/JingdianCaoshuHeiti-svg/uni718A.svg) | 718A | 字 | 推得 | ⿱能灬 |
+| [熏](../src/JingdianCaoshuHeiti-svg/uni718F.svg) | 718F | 字/偏旁 | 特定 | ⿱[反犬头]⿻丷龶 |
+| [熒](../src/JingdianCaoshuHeiti-svg/uni7192.svg) | 7192 | 字 | 推得 | ⿱𤇾火 |
+| [燕](../src/JingdianCaoshuHeiti-svg/uni71D5.svg) | 71D5 | 字 | 固定 | ⿳[燕字头串联]⿰夕丄一 |
+| [燮](../src/JingdianCaoshuHeiti-svg/uni71EE.svg) | 71EE | 字/偏旁 | 推得 | ⿱⿱亠⿲火〇丄又 |
+| [爨](../src/JingdianCaoshuHeiti-svg/uni7228.svg) | 7228 | 字 | 固定 | ⿳興林一 |
 | [爪](../src/JingdianCaoshuHeiti-svg/uni722A.svg) | 722A | 字/偏旁 | 固定 | ⿱丿[三点底] |
 | [爭](../src/JingdianCaoshuHeiti-svg/uni722D.svg) | 722D | 字/偏旁 | 固定 | ⿳⺈[包圈]亅 |
-| 爯 |
-| 爰 |
+| [爯](../src/JingdianCaoshuHeiti-svg/uni722F.svg) | 722F | 字/偏旁 | 特定 | [乐字头][禸字底] |
+| [爰](../src/JingdianCaoshuHeiti-svg/uni7230.svg) | 7230 | 字/偏旁 | 推得 | ⿳爪一友/⿳⿱一𭕄一⿸厂又/⿱二⿸厂又 |
 | [爱](../src/JingdianCaoshuHeiti-svg/uni7231.svg) | 7231 | 字/偏旁 | 简体 | 同「愛」 |
 | [爲](../src/JingdianCaoshuHeiti-svg/uni7232.svg) | 7232 | 字/偏旁 | 特殊 | ⿸[为字头]⿹𠃌丶 |
-| 爵 |
+| [爵](../src/JingdianCaoshuHeiti-svg/uni7235.svg) | 7235 | 字/偏旁 | 固定 | ⿳⿱一⺌冖⿰工寸 |
 | [父](../src/JingdianCaoshuHeiti-svg/uni7236.svg) | 7236 | 字/偏旁 | 固定 | ⿱八㐅 |
-| 爷 |
+| 爷 | 7237 | 字 | 简体 | 同「爺」 |
 | [爻](../src/JingdianCaoshuHeiti-svg/uni723B.svg) | 723B | 字/偏旁 | 固定 | ⿱㐅㐅 |
-| 爽 |
+| [爽](../src/JingdianCaoshuHeiti-svg/uni723D.svg) | 723D | 字/偏旁 | 固定 | ⿳亠[工丄形]大/⿳[反犬头][工丄形]⿱一八 |
 | [爾](../src/JingdianCaoshuHeiti-svg/uni723E.svg) | 723E | 字/偏旁 | 同异 | 同「尔」 |
 | [爿](../src/JingdianCaoshuHeiti-svg/uni723F.svg) | 723F | 字 | 推得 | ⿹丩厂 |
 | [牀](../src/JingdianCaoshuHeiti-svg/uni7240.svg) | 7240 | 字 | 固定 | ⿰爿朩 |
-| 牆 |
+| [牆](../src/JingdianCaoshuHeiti-svg/uni7246.svg) | 7246 | 字 | 同异 | 同「墻」 |
 | [片](../src/JingdianCaoshuHeiti-svg/uni7247.svg) | 7247 | 字/偏旁 | 推得 | ⿰⿹亅丨㇕ |
-| 牖 |
+| [牖](../src/JingdianCaoshuHeiti-svg/uni7256.svg) | 7256 | 字 | 同异 | 同「牗」 |
+| [牗](../src/JingdianCaoshuHeiti-svg/uni7257.svg) | 7257 | 字 | 推得 | ⿰片庸 |
 | [牙](../src/JingdianCaoshuHeiti-svg/uni7259.svg) | 7259 | 字/偏旁 | 特定 | ⿱一⿱乛力 |
-| 牚 |
-| 牛 |
-| 牟 |
-| 牡 |
-| 牢 |
-| 牧 |
-| 牵 |
-| 牽 |
-| 犀 |
-| 犬 |
-| 犮 |
+| [牚](../src/JingdianCaoshuHeiti-svg/uni725A.svg) | 725A | 字/偏旁 | 推得 | ⿱⿳⺌冖一牙 |
+| [牛](../src/JingdianCaoshuHeiti-svg/uni725B.svg) | 725B | 字/偏旁 | 推得 | ⿱[牛字头]十 |
+| [牟](../src/JingdianCaoshuHeiti-svg/uni725F.svg) | 725F | 字/偏旁 | 推得 | ⿱厶牛 |
+| [牡](../src/JingdianCaoshuHeiti-svg/uni7261.svg) | 7261 | 字 | 推得 | ⿰牛土 |
+| [牢](../src/JingdianCaoshuHeiti-svg/uni7262.svg) | 7262 | 字/偏旁 | 推得 | ⿱宀牛 |
+| [牧](../src/JingdianCaoshuHeiti-svg/uni7267.svg) | 7267 | 字 | 推得 | ⿰牛攵 |
+| [牵](../src/JingdianCaoshuHeiti-svg/uni7275.svg) | 7275 | 字 | 简体 | 同「牽」 |
+| [牽](../src/JingdianCaoshuHeiti-svg/uni727D.svg) | 727D | 字/偏旁 | 固定 | ⿱⿱十⿰〇乛手 |
+| [犀](../src/JingdianCaoshuHeiti-svg/uni7280.svg) | 7280 | 字/偏旁 | 固定 | ⿱[乐字头]㐄 |
+| [犬](../src/JingdianCaoshuHeiti-svg/uni72AC.svg) | 72AC | 字/偏旁 | 固定 | ⿰大丶/⿹丶[反大]/⿰[反大]丶/[反大] |
+| [犮](../src/JingdianCaoshuHeiti-svg/uni72AE.svg) | 72AE | 字 | 推得 | ⿺⿱十⿰丿又丶/叐 |
 | 狂 |
 | 狄 |
 | 狊 |
@@ -1318,6 +1324,7 @@
 | [荅](../src/JingdianCaoshuHeiti-svg/uni8345.svg) | 8345 | 偏旁 | 特定 | ⿱艹⿱𠂉一 |
 | [草](../src/JingdianCaoshuHeiti-svg/uni8349.svg) | 8349 | 字 | 特定 | ⿳丷[分离乐字头]十 |
 | [荣](../src/JingdianCaoshuHeiti-svg/uni8363.svg) | 8363 | 字/偏旁 | 推得 | ⿱[⿱艹冖]木 |
+| [荧](../src/JingdianCaoshuHeiti-svg/uni8367.svg) | 8367 | 字 | 推得 | ⿱[⿱艹冖]火 |
 | 莊 | 838A | 字 | 推得 | ⿱艹壯 |
 | [華](../src/JingdianCaoshuHeiti-svg/uni83EF.svg) | 83EF | 字 | 特殊 | ⿻⿱艹丰八 |
 | [萬](../src/JingdianCaoshuHeiti-svg/uni842C.svg) | 842C | 字/偏旁 | 推得 | ⿳艹田禸 |

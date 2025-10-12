@@ -8,19 +8,19 @@ Ntilde
   <anchor x="351" y="0" name="bottom"/>
   <anchor x="351" y="946" name="top"/>
   <outline>
-    <component base="N" identifier="95AC649D"/>
-    <component base="tildecomb" xOffset="201" yOffset="224" identifier="B683F67A"/>
+    <component base="N" identifier="28643694"/>
+    <component base="tildecomb" xOffset="201" yOffset="224" identifier="CF3179D2"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>95AC649D</key>
+        <key>28643694</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B683F67A</key>
+        <key>CF3179D2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

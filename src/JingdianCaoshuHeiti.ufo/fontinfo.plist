@@ -85,6 +85,10 @@
     </array>
     <key>postscriptFontName</key>
     <string>JingdianCaoshuHeiti-Regular</string>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>

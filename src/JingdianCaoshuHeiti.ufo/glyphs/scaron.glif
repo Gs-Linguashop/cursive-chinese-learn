@@ -8,19 +8,19 @@ scaron
   <anchor x="244" y="0" name="bottom"/>
   <anchor x="244" y="675" name="top"/>
   <outline>
-    <component base="s" identifier="5AFF797E"/>
-    <component base="uni030C" xOffset="94" identifier="41A5D13C"/>
+    <component base="s" identifier="6F10916F"/>
+    <component base="uni030C" xOffset="94" identifier="BC1C70AD"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>41A5D13C</key>
+        <key>6F10916F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>5AFF797E</key>
+        <key>BC1C70AD</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
