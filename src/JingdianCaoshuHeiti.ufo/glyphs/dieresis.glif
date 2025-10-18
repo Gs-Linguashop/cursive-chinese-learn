@@ -2,22 +2,7 @@
 <glyph name="dieresis" format="2">
   <advance width="300"/>
   <unicode hex="00A8"/>
-  <note>
-dieresis
-</note>
   <outline>
-    <component base="uni0308" identifier="E625C7B1"/>
+    <component base="uni0308"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>E625C7B1</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

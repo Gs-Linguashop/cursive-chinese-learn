@@ -98,8 +98,6 @@
     <string>I_ogonek.glif</string>
     <key>J</key>
     <string>J_.glif</string>
-    <key>J_acutecomb</key>
-    <string>J__acutecomb.glif</string>
     <key>K</key>
     <string>K_.glif</string>
     <key>L</key>
@@ -214,6 +212,134 @@
     <string>Z_caron.glif</string>
     <key>Zdotaccent</key>
     <string>Z_dotaccent.glif</string>
+    <key>_part.diandiandian.bottom</key>
+    <string>_part.diandiandian.bottom.glif</string>
+    <key>_part.dianpie</key>
+    <string>_part.dianpie.glif</string>
+    <key>_part.hengdianpie</key>
+    <string>_part.hengdianpie.glif</string>
+    <key>_part.hengpiehengwandian</key>
+    <string>_part.hengpiehengwandian.glif</string>
+    <key>_part.hengpiezheshu</key>
+    <string>_part.hengpiezheshu.glif</string>
+    <key>_part.hengwan.bottom</key>
+    <string>_part.hengwan.bottom.glif</string>
+    <key>_part.hengwangou</key>
+    <string>_part.hengwangou.glif</string>
+    <key>_part.hengwanquan.bottomleft</key>
+    <string>_part.hengwanquan.bottomleft.glif</string>
+    <key>_part.hengzhe</key>
+    <string>_part.hengzhe.glif</string>
+    <key>_part.hengzhehengwanquan</key>
+    <string>_part.hengzhehengwanquan.glif</string>
+    <key>_part.hengzhezhewangou</key>
+    <string>_part.hengzhezhewangou.glif</string>
+    <key>_part.idot</key>
+    <string>_part.idot.glif</string>
+    <key>_part.istem</key>
+    <string>_part.istem.glif</string>
+    <key>_part.lstem</key>
+    <string>_part.lstem.glif</string>
+    <key>_part.piedian.in</key>
+    <string>_part.piedian.in.glif</string>
+    <key>_part.pieheng</key>
+    <string>_part.pieheng.glif</string>
+    <key>_part.piehengwandian</key>
+    <string>_part.piehengwandian.glif</string>
+    <key>_part.shoulder</key>
+    <string>_part.shoulder.glif</string>
+    <key>_part.u27607</key>
+    <string>_part.u27607.glif</string>
+    <key>_part.u2B739</key>
+    <string>_part.u2B_739.glif</string>
+    <key>_part.u2D80D</key>
+    <string>_part.u2D_80D_.glif</string>
+    <key>_part.uni340C</key>
+    <string>_part.uni340C_.glif</string>
+    <key>_part.uni342C</key>
+    <string>_part.uni342C_.glif</string>
+    <key>_part.uni3951</key>
+    <string>_part.uni3951.glif</string>
+    <key>_part.uni4E0D</key>
+    <string>_part.uni4E_0D_.glif</string>
+    <key>_part.uni4E39</key>
+    <string>_part.uni4E_39.glif</string>
+    <key>_part.uni4E5D</key>
+    <string>_part.uni4E_5D_.glif</string>
+    <key>_part.uni4E91</key>
+    <string>_part.uni4E_91.glif</string>
+    <key>_part.uni4E95</key>
+    <string>_part.uni4E_95.glif</string>
+    <key>_part.uni4E95.nohook</key>
+    <string>_part.uni4E_95.nohook.glif</string>
+    <key>_part.uni4EA7</key>
+    <string>_part.uni4E_A_7.glif</string>
+    <key>_part.uni4F86</key>
+    <string>_part.uni4F_86.glif</string>
+    <key>_part.uni516C</key>
+    <string>_part.uni516C_.glif</string>
+    <key>_part.uni5206</key>
+    <string>_part.uni5206.glif</string>
+    <key>_part.uni52FF</key>
+    <string>_part.uni52F_F_.glif</string>
+    <key>_part.uni534A</key>
+    <string>_part.uni534A_.glif</string>
+    <key>_part.uni5352</key>
+    <string>_part.uni5352.glif</string>
+    <key>_part.uni53EF</key>
+    <string>_part.uni53E_F_.glif</string>
+    <key>_part.uni5404</key>
+    <string>_part.uni5404.glif</string>
+    <key>_part.uni56E0</key>
+    <string>_part.uni56E_0.glif</string>
+    <key>_part.uni5929</key>
+    <string>_part.uni5929.glif</string>
+    <key>_part.uni5B89</key>
+    <string>_part.uni5B_89.glif</string>
+    <key>_part.uni5C11</key>
+    <string>_part.uni5C_11.glif</string>
+    <key>_part.uni5E1A</key>
+    <string>_part.uni5E_1A_.glif</string>
+    <key>_part.uni5EB8</key>
+    <string>_part.uni5E_B_8.glif</string>
+    <key>_part.uni5F0B</key>
+    <string>_part.uni5F_0B_.glif</string>
+    <key>_part.uni6025</key>
+    <string>_part.uni6025.glif</string>
+    <key>_part.uni6729</key>
+    <string>_part.uni6729.glif</string>
+    <key>_part.uni672A.left</key>
+    <string>_part.uni672A_.left.glif</string>
+    <key>_part.uni6797</key>
+    <string>_part.uni6797.glif</string>
+    <key>_part.uni6B64</key>
+    <string>_part.uni6B_64.glif</string>
+    <key>_part.uni6B65</key>
+    <string>_part.uni6B_65.glif</string>
+    <key>_part.uni6BCD</key>
+    <string>_part.uni6B_C_D_.glif</string>
+    <key>_part.uni6BCF</key>
+    <string>_part.uni6B_C_F_.glif</string>
+    <key>_part.uni6C38</key>
+    <string>_part.uni6C_38.glif</string>
+    <key>_part.uni738B</key>
+    <string>_part.uni738B_.glif</string>
+    <key>_part.uni738B.right</key>
+    <string>_part.uni738B_.right.glif</string>
+    <key>_part.uni73A8</key>
+    <string>_part.uni73A_8.glif</string>
+    <key>_part.uni7528</key>
+    <string>_part.uni7528.glif</string>
+    <key>_part.uni821B</key>
+    <string>_part.uni821B_.glif</string>
+    <key>_part.uni83EF</key>
+    <string>_part.uni83E_F_.glif</string>
+    <key>_part.uni96F2</key>
+    <string>_part.uni96F_2.glif</string>
+    <key>_part.uni9FB6</key>
+    <string>_part.uni9F_B_6.glif</string>
+    <key>_part.uni9FBA</key>
+    <string>_part.uni9F_B_A_.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>aacute</key>
@@ -414,8 +540,6 @@
     <string>iogonek.glif</string>
     <key>j</key>
     <string>j.glif</string>
-    <key>j_acutecomb</key>
-    <string>j_acutecomb.glif</string>
     <key>k</key>
     <string>k.glif</string>
     <key>l</key>
@@ -612,6 +736,10 @@
     <string>umacron.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
+    <key>uni004A0301</key>
+    <string>uni004A_0301.glif</string>
+    <key>uni006A0301</key>
+    <string>uni006A_0301.glif</string>
     <key>uni0122</key>
     <string>uni0122.glif</string>
     <key>uni0123</key>
@@ -666,6 +794,206 @@
     <string>uni0328.glif</string>
     <key>uni1E9E</key>
     <string>uni1E_9E_.glif</string>
+    <key>uni2E83</key>
+    <string>uni2E_83.glif</string>
+    <key>uni2E86</key>
+    <string>uni2E_86.glif</string>
+    <key>uni2E88.longarm</key>
+    <string>uni2E_88.longarm.glif</string>
+    <key>uni2E8B</key>
+    <string>uni2E_8B_.glif</string>
+    <key>uni2E8C</key>
+    <string>uni2E_8C_.glif</string>
+    <key>uni2E8D</key>
+    <string>uni2E_8D_.glif</string>
+    <key>uni2E94</key>
+    <string>uni2E_94.glif</string>
+    <key>uni2E98</key>
+    <string>uni2E_98.glif</string>
+    <key>uni2E99</key>
+    <string>uni2E_99.glif</string>
+    <key>uni2EA1</key>
+    <string>uni2E_A_1.glif</string>
+    <key>uni2EA2</key>
+    <string>uni2E_A_2.glif</string>
+    <key>uni2EA2.curve</key>
+    <string>uni2E_A_2.curve.glif</string>
+    <key>uni2EA8</key>
+    <string>uni2E_A_8.glif</string>
+    <key>uni2EBA</key>
+    <string>uni2E_B_A_.glif</string>
+    <key>uni2EC3</key>
+    <string>uni2E_C_3.glif</string>
+    <key>uni2EC8</key>
+    <string>uni2E_C_8.glif</string>
+    <key>uni2ED6</key>
+    <string>uni2E_D_6.glif</string>
+    <key>uni2ED7</key>
+    <string>uni2E_D_7.glif</string>
+    <key>uni2F02</key>
+    <string>uni2F_02.glif</string>
+    <key>uni2F03</key>
+    <string>uni2F_03.glif</string>
+    <key>uni2F03.alt</key>
+    <string>uni2F_03.alt.glif</string>
+    <key>uni2F04</key>
+    <string>uni2F_04.glif</string>
+    <key>uni2F04.small</key>
+    <string>uni2F_04.small.glif</string>
+    <key>uni2F05</key>
+    <string>uni2F_05.glif</string>
+    <key>uni2F08</key>
+    <string>uni2F_08.glif</string>
+    <key>uni2F0B</key>
+    <string>uni2F_0B_.glif</string>
+    <key>uni2F0D</key>
+    <string>uni2F_0D_.glif</string>
+    <key>uni2F12</key>
+    <string>uni2F_12.glif</string>
+    <key>uni2F14</key>
+    <string>uni2F_14.glif</string>
+    <key>uni2F14.left</key>
+    <string>uni2F_14.left.glif</string>
+    <key>uni2F1A</key>
+    <string>uni2F_1A_.glif</string>
+    <key>uni2F1B</key>
+    <string>uni2F_1B_.glif</string>
+    <key>uni2F1C</key>
+    <string>uni2F_1C_.glif</string>
+    <key>uni2F1C.alt</key>
+    <string>uni2F_1C_.alt.glif</string>
+    <key>uni2F1D.bottom</key>
+    <string>uni2F_1D_.bottom.glif</string>
+    <key>uni2F20</key>
+    <string>uni2F_20.glif</string>
+    <key>uni2F20.small</key>
+    <string>uni2F_20.small.glif</string>
+    <key>uni2F23</key>
+    <string>uni2F_23.glif</string>
+    <key>uni2F23.left</key>
+    <string>uni2F_23.left.glif</string>
+    <key>uni2F24</key>
+    <string>uni2F_24.glif</string>
+    <key>uni2F24.alt</key>
+    <string>uni2F_24.alt.glif</string>
+    <key>uni2F24.bottom.alt</key>
+    <string>uni2F_24.bottom.alt.glif</string>
+    <key>uni2F26</key>
+    <string>uni2F_26.glif</string>
+    <key>uni2F26.left</key>
+    <string>uni2F_26.left.glif</string>
+    <key>uni2F26.top</key>
+    <string>uni2F_26.top.glif</string>
+    <key>uni2F27</key>
+    <string>uni2F_27.glif</string>
+    <key>uni2F2D</key>
+    <string>uni2F_2D_.glif</string>
+    <key>uni2F2F</key>
+    <string>uni2F_2F_.glif</string>
+    <key>uni2F31</key>
+    <string>uni2F_31.glif</string>
+    <key>uni2F33</key>
+    <string>uni2F_33.glif</string>
+    <key>uni2F34</key>
+    <string>uni2F_34.glif</string>
+    <key>uni2F3A</key>
+    <string>uni2F_3A_.glif</string>
+    <key>uni2F3B</key>
+    <string>uni2F_3B_.glif</string>
+    <key>uni2F3C</key>
+    <string>uni2F_3C_.glif</string>
+    <key>uni2F3D</key>
+    <string>uni2F_3D_.glif</string>
+    <key>uni2F3D.alt</key>
+    <string>uni2F_3D_.alt.glif</string>
+    <key>uni2F3F</key>
+    <string>uni2F_3F_.glif</string>
+    <key>uni2F43</key>
+    <string>uni2F_43.glif</string>
+    <key>uni2F44</key>
+    <string>uni2F_44.glif</string>
+    <key>uni2F44.narrow</key>
+    <string>uni2F_44.narrow.glif</string>
+    <key>uni2F45</key>
+    <string>uni2F_45.glif</string>
+    <key>uni2F47</key>
+    <string>uni2F_47.glif</string>
+    <key>uni2F47.alt</key>
+    <string>uni2F_47.alt.glif</string>
+    <key>uni2F47.left</key>
+    <string>uni2F_47.left.glif</string>
+    <key>uni2F47.top</key>
+    <string>uni2F_47.top.glif</string>
+    <key>uni2F47.top.alt</key>
+    <string>uni2F_47.top.alt.glif</string>
+    <key>uni2F47.top.alt2</key>
+    <string>uni2F_47.top.alt2.glif</string>
+    <key>uni2F4A</key>
+    <string>uni2F_4A_.glif</string>
+    <key>uni2F4A.left</key>
+    <string>uni2F_4A_.left.glif</string>
+    <key>uni2F4C</key>
+    <string>uni2F_4C_.glif</string>
+    <key>uni2F4C.left</key>
+    <string>uni2F_4C_.left.glif</string>
+    <key>uni2F50</key>
+    <string>uni2F_50.glif</string>
+    <key>uni2F51</key>
+    <string>uni2F_51.glif</string>
+    <key>uni2F54</key>
+    <string>uni2F_54.glif</string>
+    <key>uni2F55</key>
+    <string>uni2F_55.glif</string>
+    <key>uni2F55.left</key>
+    <string>uni2F_55.left.glif</string>
+    <key>uni2F5B</key>
+    <string>uni2F_5B_.glif</string>
+    <key>uni2F5C</key>
+    <string>uni2F_5C_.glif</string>
+    <key>uni2F5C.left</key>
+    <string>uni2F_5C_.left.glif</string>
+    <key>uni2F5F</key>
+    <string>uni2F_5F_.glif</string>
+    <key>uni2F61</key>
+    <string>uni2F_61.glif</string>
+    <key>uni2F62</key>
+    <string>uni2F_62.glif</string>
+    <key>uni2F65</key>
+    <string>uni2F_65.glif</string>
+    <key>uni2F65.alt</key>
+    <string>uni2F_65.alt.glif</string>
+    <key>uni2F67</key>
+    <string>uni2F_67.glif</string>
+    <key>uni2F69</key>
+    <string>uni2F_69.glif</string>
+    <key>uni2F6A.right</key>
+    <string>uni2F_6A_.right.glif</string>
+    <key>uni2F6B</key>
+    <string>uni2F_6B_.glif</string>
+    <key>uni2F70</key>
+    <string>uni2F_70.glif</string>
+    <key>uni2F74</key>
+    <string>uni2F_74.glif</string>
+    <key>uni2F76.left</key>
+    <string>uni2F_76.left.glif</string>
+    <key>uni2F80</key>
+    <string>uni2F_80.glif</string>
+    <key>uni2F89</key>
+    <string>uni2F_89.glif</string>
+    <key>uni2F8C.left</key>
+    <string>uni2F_8C_.left.glif</string>
+    <key>uni2F99</key>
+    <string>uni2F_99.glif</string>
+    <key>uni2F9B.left</key>
+    <string>uni2F_9B_.left.glif</string>
+    <key>uni2F9E</key>
+    <string>uni2F_9E_.glif</string>
+    <key>uni2FA1</key>
+    <string>uni2F_A_1.glif</string>
+    <key>uni2FAB</key>
+    <string>uni2F_A_B_.glif</string>
+    <key>uni2FAB.right</key>
+    <string>uni2F_A_B_.right.glif</string>
     <key>uni3000</key>
     <string>uni3000.glif</string>
     <key>uni3001</key>
@@ -2544,48 +2872,152 @@
     <string>uni72A_C_.glif</string>
     <key>uni72AE</key>
     <string>uni72A_E_.glif</string>
+    <key>uni72C2</key>
+    <string>uni72C_2.glif</string>
+    <key>uni72C4</key>
+    <string>uni72C_4.glif</string>
+    <key>uni72CA</key>
+    <string>uni72C_A_.glif</string>
+    <key>uni730B</key>
+    <string>uni730B_.glif</string>
+    <key>uni7344</key>
+    <string>uni7344.glif</string>
     <key>uni7378</key>
     <string>uni7378.glif</string>
+    <key>uni7384</key>
+    <string>uni7384.glif</string>
+    <key>uni7387</key>
+    <string>uni7387.glif</string>
     <key>uni738B</key>
     <string>uni738B_.glif</string>
+    <key>uni73A8</key>
+    <string>uni73A_8.glif</string>
+    <key>uni73CF</key>
+    <string>uni73C_F_.glif</string>
+    <key>uni73ED</key>
+    <string>uni73E_D_.glif</string>
+    <key>uni745F</key>
+    <string>uni745F_.glif</string>
     <key>uni74DC</key>
     <string>uni74D_C_.glif</string>
+    <key>uni74E6</key>
+    <string>uni74E_6.glif</string>
+    <key>uni750D</key>
+    <string>uni750D_.glif</string>
+    <key>uni7518</key>
+    <string>uni7518.glif</string>
     <key>uni751A</key>
     <string>uni751A_.glif</string>
+    <key>uni751C</key>
+    <string>uni751C_.glif</string>
     <key>uni751F</key>
     <string>uni751F_.glif</string>
     <key>uni7523</key>
     <string>uni7523.glif</string>
+    <key>uni7524</key>
+    <string>uni7524.glif</string>
     <key>uni7528</key>
     <string>uni7528.glif</string>
+    <key>uni752B</key>
+    <string>uni752B_.glif</string>
     <key>uni752C</key>
     <string>uni752C_.glif</string>
     <key>uni7530</key>
     <string>uni7530.glif</string>
     <key>uni7531</key>
     <string>uni7531.glif</string>
+    <key>uni7532</key>
+    <string>uni7532.glif</string>
     <key>uni7533</key>
     <string>uni7533.glif</string>
     <key>uni7535</key>
     <string>uni7535.glif</string>
     <key>uni7537</key>
     <string>uni7537.glif</string>
+    <key>uni7539</key>
+    <string>uni7539.glif</string>
+    <key>uni753D</key>
+    <string>uni753D_.glif</string>
+    <key>uni753E</key>
+    <string>uni753E_.glif</string>
+    <key>uni7540</key>
+    <string>uni7540.glif</string>
+    <key>uni754F</key>
+    <string>uni754F_.glif</string>
+    <key>uni7550</key>
+    <string>uni7550.glif</string>
     <key>uni7559</key>
     <string>uni7559.glif</string>
+    <key>uni755C</key>
+    <string>uni755C_.glif</string>
+    <key>uni755D</key>
+    <string>uni755D_.glif</string>
+    <key>uni755F</key>
+    <string>uni755F_.glif</string>
+    <key>uni7562</key>
+    <string>uni7562.glif</string>
+    <key>uni7565</key>
+    <string>uni7565.glif</string>
+    <key>uni7567</key>
+    <string>uni7567.glif</string>
     <key>uni756A</key>
     <string>uni756A_.glif</string>
     <key>uni756B</key>
     <string>uni756B_.glif</string>
+    <key>uni7570</key>
+    <string>uni7570.glif</string>
     <key>uni7576</key>
     <string>uni7576.glif</string>
+    <key>uni757A</key>
+    <string>uni757A_.glif</string>
+    <key>uni757E</key>
+    <string>uni757E_.glif</string>
+    <key>uni758A</key>
+    <string>uni758A_.glif</string>
+    <key>uni758B</key>
+    <string>uni758B_.glif</string>
+    <key>uni758C</key>
+    <string>uni758C_.glif</string>
+    <key>uni758F</key>
+    <string>uni758F_.glif</string>
+    <key>uni7590</key>
+    <string>uni7590.glif</string>
+    <key>uni7591</key>
+    <string>uni7591.glif</string>
+    <key>uni7592</key>
+    <string>uni7592.glif</string>
+    <key>uni75BE</key>
+    <string>uni75B_E_.glif</string>
+    <key>uni765F</key>
+    <string>uni765F_.glif</string>
+    <key>uni7678</key>
+    <string>uni7678.glif</string>
+    <key>uni767B</key>
+    <string>uni767B_.glif</string>
     <key>uni767C</key>
     <string>uni767C_.glif</string>
     <key>uni767D</key>
     <string>uni767D_.glif</string>
     <key>uni767E</key>
     <string>uni767E_.glif</string>
+    <key>uni7680</key>
+    <string>uni7680.glif</string>
+    <key>uni7681</key>
+    <string>uni7681.glif</string>
+    <key>uni7683</key>
+    <string>uni7683.glif</string>
+    <key>uni7686</key>
+    <string>uni7686.glif</string>
+    <key>uni7687</key>
+    <string>uni7687.glif</string>
+    <key>uni7690</key>
+    <string>uni7690.glif</string>
     <key>uni76AE</key>
     <string>uni76A_E_.glif</string>
+    <key>uni76BF</key>
+    <string>uni76B_F_.glif</string>
+    <key>uni76C3</key>
+    <string>uni76C_3.glif</string>
     <key>uni76E1</key>
     <string>uni76E_1.glif</string>
     <key>uni76E7</key>

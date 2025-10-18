@@ -2,32 +2,8 @@
 <glyph name="Uring" format="2">
   <advance width="700"/>
   <unicode hex="016E"/>
-  <note>
-Uring
-</note>
-  <anchor x="350" y="0" name="bottom"/>
-  <anchor x="350" y="984" name="top"/>
-  <anchor x="350" y="0" name="ogonek"/>
-  <anchor x="680" y="750" name="topright"/>
   <outline>
-    <component base="U" identifier="272A2FBE"/>
-    <component base="uni030A" xOffset="200" yOffset="224" identifier="B4147ED6"/>
+    <component base="U"/>
+    <component base="uni030A" xOffset="200" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>272A2FBE</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>B4147ED6</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

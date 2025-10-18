@@ -1,22 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered.loclCAT" format="2">
   <advance width="240"/>
-  <note>
-periodcentered.loclCAT
-</note>
   <outline>
-    <component base="period" yOffset="300" identifier="5995F9BA"/>
+    <component base="period" yOffset="300"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>5995F9BA</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

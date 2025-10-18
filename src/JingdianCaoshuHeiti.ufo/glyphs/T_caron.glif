@@ -2,30 +2,8 @@
 <glyph name="Tcaron" format="2">
   <advance width="701"/>
   <unicode hex="0164"/>
-  <note>
-Tcaron
-</note>
-  <anchor x="351" y="0" name="bottom"/>
-  <anchor x="351" y="899" name="top"/>
   <outline>
-    <component base="T" identifier="AF68CE3A"/>
-    <component base="uni030C" xOffset="201" yOffset="224" identifier="A358F731"/>
+    <component base="T"/>
+    <component base="uni030C" xOffset="201" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>A358F731</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>AF68CE3A</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

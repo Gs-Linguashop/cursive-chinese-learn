@@ -2,22 +2,7 @@
 <glyph name="dotaccent" format="2">
   <advance width="240"/>
   <unicode hex="02D9"/>
-  <note>
-dotaccent
-</note>
   <outline>
-    <component base="uni0307" identifier="3052874C"/>
+    <component base="uni0307"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>3052874C</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -2,22 +2,7 @@
 <glyph name="circumflex" format="2">
   <advance width="300"/>
   <unicode hex="02C6"/>
-  <note>
-circumflex
-</note>
   <outline>
-    <component base="uni0302" identifier="99967881"/>
+    <component base="uni0302"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>99967881</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -2,9 +2,6 @@
 <glyph name="uni5485" format="2">
   <advance width="1000"/>
   <unicode hex="5485"/>
-  <note>
-uni5485
-</note>
   <outline>
     <contour>
       <point x="163" y="426" type="line"/>
@@ -25,14 +22,14 @@ uni5485
       <point x="163" y="501" type="line"/>
     </contour>
     <contour>
+      <point x="50" y="-8" type="curve"/>
       <point x="106" y="-67" type="line"/>
-      <point x="199" y="-15"/>
-      <point x="362" y="104"/>
-      <point x="414" y="165" type="qcurve"/>
+      <point x="215" y="-6"/>
+      <point x="339" y="77"/>
+      <point x="414" y="165" type="curve"/>
       <point x="333" y="204" type="line"/>
-      <point x="290" y="148"/>
-      <point x="133" y="30"/>
-      <point x="50" y="-8" type="qcurve"/>
+      <point x="276" y="129"/>
+      <point x="161" y="43"/>
     </contour>
     <contour>
       <point x="80" y="249" type="line"/>
@@ -41,12 +38,14 @@ uni5485
       <point x="80" y="326" type="line"/>
     </contour>
     <contour>
+      <point x="878" y="-64" type="curve"/>
       <point x="945" y="-10" type="line"/>
-      <point x="856" y="75"/>
-      <point x="656" y="211" type="qcurve"/>
+      <point x="877" y="55"/>
+      <point x="756" y="143"/>
+      <point x="656" y="211" type="curve"/>
       <point x="596" y="161" type="line"/>
-      <point x="800" y="15"/>
-      <point x="878" y="-64" type="qcurve"/>
+      <point x="694" y="91"/>
+      <point x="813" y="2"/>
     </contour>
   </outline>
 </glyph>

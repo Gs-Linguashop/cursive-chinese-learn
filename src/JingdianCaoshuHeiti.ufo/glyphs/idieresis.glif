@@ -2,31 +2,8 @@
 <glyph name="idieresis" format="2">
   <advance width="218"/>
   <unicode hex="00EF"/>
-  <note>
-idieresis
-</note>
-  <anchor x="109" y="0" name="bottom"/>
-  <anchor x="109" y="699" name="top"/>
-  <anchor x="109" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" identifier="070F0F8F"/>
-    <component base="uni0308" xOffset="-41" identifier="EB350B82"/>
+    <component base="dotlessi"/>
+    <component base="uni0308" xOffset="-41"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>070F0F8F</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>EB350B82</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -2,31 +2,8 @@
 <glyph name="edieresis" format="2">
   <advance width="542"/>
   <unicode hex="00EB"/>
-  <note>
-edieresis
-</note>
-  <anchor x="271" y="0" name="bottom"/>
-  <anchor x="277" y="699" name="top"/>
-  <anchor x="328" y="0" name="ogonek"/>
   <outline>
-    <component base="e" identifier="C02BBFBE"/>
-    <component base="uni0308" xOffset="127" identifier="9A3B3A5B"/>
+    <component base="e"/>
+    <component base="uni0308" xOffset="127"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>9A3B3A5B</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>C02BBFBE</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

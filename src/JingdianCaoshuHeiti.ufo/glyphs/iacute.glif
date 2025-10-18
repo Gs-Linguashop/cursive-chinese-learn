@@ -2,31 +2,8 @@
 <glyph name="iacute" format="2">
   <advance width="218"/>
   <unicode hex="00ED"/>
-  <note>
-iacute
-</note>
-  <anchor x="109" y="0" name="bottom"/>
-  <anchor x="109" y="737" name="top"/>
-  <anchor x="109" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" identifier="79E4BB39"/>
-    <component base="acutecomb" xOffset="-41" identifier="FBDE85F9"/>
+    <component base="dotlessi"/>
+    <component base="acutecomb" xOffset="-41"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>79E4BB39</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>FBDE85F9</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

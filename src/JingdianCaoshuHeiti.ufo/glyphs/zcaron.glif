@@ -2,30 +2,8 @@
 <glyph name="zcaron" format="2">
   <advance width="506"/>
   <unicode hex="017E"/>
-  <note>
-zcaron
-</note>
-  <anchor x="253" y="0" name="bottom"/>
-  <anchor x="253" y="675" name="top"/>
   <outline>
-    <component base="z" identifier="853D3DE5"/>
-    <component base="uni030C" xOffset="103" identifier="AC9115B8"/>
+    <component base="z"/>
+    <component base="uni030C" xOffset="103"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>853D3DE5</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>AC9115B8</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

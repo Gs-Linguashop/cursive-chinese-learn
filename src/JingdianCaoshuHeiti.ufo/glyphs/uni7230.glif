@@ -2,9 +2,6 @@
 <glyph name="uni7230" format="2">
   <advance width="1000"/>
   <unicode hex="7230"/>
-  <note>
-uni7230
-</note>
   <outline>
     <contour>
       <point x="94" y="449" type="line"/>
@@ -13,36 +10,38 @@ uni7230
       <point x="94" y="524" type="line"/>
     </contour>
     <contour>
+      <point x="45" y="-2" type="curve"/>
       <point x="94" y="-59" type="line"/>
-      <point x="236" y="32"/>
-      <point x="361" y="317"/>
-      <point x="375" y="496" type="qcurve"/>
+      <point x="300" y="73"/>
+      <point x="359" y="291"/>
+      <point x="375" y="496" type="curve"/>
       <point x="299" y="496" type="line"/>
-      <point x="292" y="343"/>
-      <point x="177" y="78"/>
-      <point x="45" y="-2" type="qcurve"/>
+      <point x="291" y="324"/>
+      <point x="238" y="115"/>
     </contour>
     <contour>
+      <point x="216" y="-18" type="curve"/>
       <point x="258" y="-85" type="line"/>
-      <point x="475" y="-37"/>
-      <point x="764" y="178"/>
-      <point x="817" y="353" type="qcurve"/>
+      <point x="533" y="-24"/>
+      <point x="743" y="110"/>
+      <point x="817" y="353" type="curve"/>
       <point x="756" y="376" type="line"/>
       <point x="742" y="369" type="line"/>
       <point x="326" y="369" type="line"/>
       <point x="326" y="296" type="line"/>
       <point x="709" y="295" type="line"/>
-      <point x="653" y="170"/>
-      <point x="396" y="16"/>
-      <point x="216" y="-18" type="qcurve"/>
+      <point x="631" y="120"/>
+      <point x="441" y="25"/>
     </contour>
     <contour>
+      <point x="885" y="-97" type="curve"/>
       <point x="946" y="-41" type="line"/>
-      <point x="696" y="129"/>
-      <point x="405" y="236" type="qcurve"/>
+      <point x="802" y="57"/>
+      <point x="620" y="157"/>
+      <point x="405" y="236" type="curve"/>
       <point x="371" y="176" type="line"/>
-      <point x="647" y="68"/>
-      <point x="885" y="-97" type="qcurve"/>
+      <point x="586" y="92"/>
+      <point x="751" y="-4"/>
     </contour>
     <contour>
       <point x="135" y="804" type="line"/>

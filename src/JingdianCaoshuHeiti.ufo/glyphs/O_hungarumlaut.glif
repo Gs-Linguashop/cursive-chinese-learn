@@ -2,32 +2,8 @@
 <glyph name="Ohungarumlaut" format="2">
   <advance width="770"/>
   <unicode hex="0150"/>
-  <note>
-Ohungarumlaut
-</note>
-  <anchor x="385" y="0" name="bottom"/>
-  <anchor x="385" y="961" name="top"/>
-  <anchor x="693" y="10" name="ogonek"/>
-  <anchor x="750" y="750" name="topright"/>
   <outline>
-    <component base="O" identifier="C5A17AC6"/>
-    <component base="uni030B" xOffset="235" yOffset="224" identifier="DA61C4D6"/>
+    <component base="O"/>
+    <component base="uni030B" xOffset="235" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>C5A17AC6</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>DA61C4D6</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

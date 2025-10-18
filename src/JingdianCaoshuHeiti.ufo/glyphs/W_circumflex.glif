@@ -2,30 +2,8 @@
 <glyph name="Wcircumflex" format="2">
   <advance width="1014"/>
   <unicode hex="0174"/>
-  <note>
-Wcircumflex
-</note>
-  <anchor x="507" y="0" name="bottom"/>
-  <anchor x="507" y="965" name="top"/>
   <outline>
-    <component base="W" identifier="5BE2BC1C"/>
-    <component base="uni0302" xOffset="357" yOffset="224" identifier="5881AE8A"/>
+    <component base="W"/>
+    <component base="uni0302" xOffset="357" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>5881AE8A</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>5BE2BC1C</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

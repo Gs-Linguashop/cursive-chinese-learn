@@ -2,31 +2,8 @@
 <glyph name="Aring" format="2">
   <advance width="706"/>
   <unicode hex="00C5"/>
-  <note>
-Aring
-</note>
-  <anchor x="353" y="0" name="bottom"/>
-  <anchor x="353" y="984" name="top"/>
-  <anchor x="635" y="10" name="ogonek"/>
   <outline>
-    <component base="A" identifier="95F5A458"/>
-    <component base="uni030A" xOffset="203" yOffset="224" identifier="CA32D3D7"/>
+    <component base="A"/>
+    <component base="uni030A" xOffset="203" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>95F5A458</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>CA32D3D7</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

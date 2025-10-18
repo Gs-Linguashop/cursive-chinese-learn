@@ -2,30 +2,8 @@
 <glyph name="Gbreve" format="2">
   <advance width="725"/>
   <unicode hex="011E"/>
-  <note>
-Gbreve
-</note>
-  <anchor x="389" y="0" name="bottom"/>
-  <anchor x="377" y="899" name="top"/>
   <outline>
-    <component base="G" identifier="F3C2D91A"/>
-    <component base="uni0306" xOffset="227" yOffset="224" identifier="C2E0D78D"/>
+    <component base="G"/>
+    <component base="uni0306" xOffset="227" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>C2E0D78D</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>F3C2D91A</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

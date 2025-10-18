@@ -2,31 +2,8 @@
 <glyph name="emacron" format="2">
   <advance width="542"/>
   <unicode hex="0113"/>
-  <note>
-emacron
-</note>
-  <anchor x="271" y="0" name="bottom"/>
-  <anchor x="277" y="644" name="top"/>
-  <anchor x="328" y="0" name="ogonek"/>
   <outline>
-    <component base="e" identifier="8AC5A324"/>
-    <component base="uni0304" xOffset="127" identifier="190B7C36"/>
+    <component base="e"/>
+    <component base="uni0304" xOffset="127"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>190B7C36</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>8AC5A324</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

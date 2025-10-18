@@ -2,30 +2,8 @@
 <glyph name="racute" format="2">
   <advance width="380"/>
   <unicode hex="0155"/>
-  <note>
-racute
-</note>
-  <anchor x="109" y="0" name="bottom"/>
-  <anchor x="198" y="737" name="top"/>
   <outline>
-    <component base="r" identifier="8D253C21"/>
-    <component base="acutecomb" xOffset="48" identifier="A3483AF0"/>
+    <component base="r"/>
+    <component base="acutecomb" xOffset="48"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>8D253C21</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>A3483AF0</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

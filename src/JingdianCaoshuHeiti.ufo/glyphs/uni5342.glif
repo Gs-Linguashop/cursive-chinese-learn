@@ -2,9 +2,6 @@
 <glyph name="uni5342" format="2">
   <advance width="1000"/>
   <unicode hex="5342"/>
-  <note>
-uni5342
-</note>
   <outline>
     <contour>
       <point x="738" y="439" type="line"/>

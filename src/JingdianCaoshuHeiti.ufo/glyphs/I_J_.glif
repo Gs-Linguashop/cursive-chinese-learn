@@ -2,31 +2,8 @@
 <glyph name="IJ" format="2">
   <advance width="800"/>
   <unicode hex="0132"/>
-  <note>
-IJ
-</note>
-  <anchor x="513" y="0" name="bottom"/>
-  <anchor x="687" y="750" name="top"/>
-  <anchor x="113" y="0" name="ogonek"/>
   <outline>
-    <component base="I" identifier="6F24F0BC"/>
-    <component base="J" xOffset="226" identifier="8C2274AE"/>
+    <component base="I"/>
+    <component base="J" xOffset="226"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>6F24F0BC</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>8C2274AE</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

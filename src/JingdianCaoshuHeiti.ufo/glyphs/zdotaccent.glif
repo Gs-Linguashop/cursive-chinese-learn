@@ -2,30 +2,8 @@
 <glyph name="zdotaccent" format="2">
   <advance width="506"/>
   <unicode hex="017C"/>
-  <note>
-zdotaccent
-</note>
-  <anchor x="253" y="0" name="bottom"/>
-  <anchor x="253" y="718" name="top"/>
   <outline>
-    <component base="z" identifier="729C7206"/>
-    <component base="uni0307" xOffset="133" identifier="E58BD93E"/>
+    <component base="z"/>
+    <component base="uni0307" xOffset="133"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>729C7206</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>E58BD93E</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

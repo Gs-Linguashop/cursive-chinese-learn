@@ -2,31 +2,8 @@
 <glyph name="Idotaccent" format="2">
   <advance width="226"/>
   <unicode hex="0130"/>
-  <note>
-Idotaccent
-</note>
-  <anchor x="113" y="0" name="bottom"/>
-  <anchor x="113" y="942" name="top"/>
-  <anchor x="113" y="0" name="ogonek"/>
   <outline>
-    <component base="I" identifier="B68DA118"/>
-    <component base="uni0307" xOffset="-7" yOffset="224" identifier="2D8F06AC"/>
+    <component base="I"/>
+    <component base="uni0307" xOffset="-7" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>2D8F06AC</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>B68DA118</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

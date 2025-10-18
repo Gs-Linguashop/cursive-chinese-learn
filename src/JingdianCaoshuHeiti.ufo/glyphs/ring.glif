@@ -2,22 +2,7 @@
 <glyph name="ring" format="2">
   <advance width="300"/>
   <unicode hex="02DA"/>
-  <note>
-ring
-</note>
   <outline>
-    <component base="uni030A" identifier="BDEB4C38"/>
+    <component base="uni030A"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>BDEB4C38</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

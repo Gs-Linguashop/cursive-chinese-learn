@@ -2,34 +2,9 @@
 <glyph name="ellipsis" format="2">
   <advance width="700"/>
   <unicode hex="2026"/>
-  <note>
-ellipsis
-</note>
   <outline>
-    <component base="period" xOffset="230" identifier="EC1DFCDC"/>
-    <component base="period" xOffset="460" identifier="D0C556BE"/>
-    <component base="period" identifier="36F2A74F"/>
+    <component base="period" xOffset="230"/>
+    <component base="period" xOffset="460"/>
+    <component base="period"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>36F2A74F</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>D0C556BE</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>EC1DFCDC</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

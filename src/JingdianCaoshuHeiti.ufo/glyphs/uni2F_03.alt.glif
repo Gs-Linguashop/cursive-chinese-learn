@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2F03.alt" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="122" y="769" type="curve"/>
+      <point x="136" y="692" type="line"/>
+      <point x="377" y="698"/>
+      <point x="661" y="723"/>
+      <point x="855" y="755" type="curve"/>
+      <point x="825" y="826" type="line"/>
+      <point x="651" y="797"/>
+      <point x="365" y="772"/>
+    </contour>
+  </outline>
+</glyph>

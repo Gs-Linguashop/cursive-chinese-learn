@@ -2,9 +2,6 @@
 <glyph name="emdash" format="2">
   <advance width="840"/>
   <unicode hex="2014"/>
-  <note>
-emdash
-</note>
   <outline>
     <contour>
       <point x="790" y="313" type="line"/>

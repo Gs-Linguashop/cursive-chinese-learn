@@ -2,21 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>com.schriftgestaltung.appVersion</key>
+    <string>3434</string>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
-    <true/>
+    <false/>
     <key>com.schriftgestaltung.fontMasterID</key>
     <string>m01</string>
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>3</integer>
     <key>com.schriftgestaltung.useGlyphOrder</key>
-    <true/>
-    <key>com.schriftgestaltung.useNiceNames</key>
     <false/>
+    <key>com.schriftgestaltung.useNiceNames</key>
+    <true/>
     <key>public.glyphOrder</key>
     <array>
-      <string>.notdef</string>
-      <string>NULL</string>
-      <string>space</string>
       <string>A</string>
       <string>Aacute</string>
       <string>Abreve</string>
@@ -64,7 +63,7 @@
       <string>Imacron</string>
       <string>Iogonek</string>
       <string>J</string>
-      <string>J_acutecomb</string>
+      <string>uni004A0301</string>
       <string>K</string>
       <string>uni0136</string>
       <string>L</string>
@@ -176,7 +175,7 @@
       <string>ij</string>
       <string>j</string>
       <string>uni0237</string>
-      <string>j_acutecomb</string>
+      <string>uni006A0301</string>
       <string>k</string>
       <string>uni0137</string>
       <string>l</string>
@@ -1179,27 +1178,79 @@
       <string>uni7280</string>
       <string>uni72AC</string>
       <string>uni72AE</string>
+      <string>uni72C2</string>
+      <string>uni72C4</string>
+      <string>uni72CA</string>
+      <string>uni730B</string>
+      <string>uni7344</string>
       <string>uni7378</string>
+      <string>uni7384</string>
+      <string>uni7387</string>
       <string>uni738B</string>
+      <string>uni73A8</string>
+      <string>uni73CF</string>
+      <string>uni73ED</string>
+      <string>uni745F</string>
       <string>uni74DC</string>
+      <string>uni74E6</string>
+      <string>uni750D</string>
+      <string>uni7518</string>
       <string>uni751A</string>
+      <string>uni751C</string>
       <string>uni751F</string>
       <string>uni7523</string>
+      <string>uni7524</string>
       <string>uni7528</string>
+      <string>uni752B</string>
       <string>uni752C</string>
       <string>uni7530</string>
       <string>uni7531</string>
+      <string>uni7532</string>
       <string>uni7533</string>
       <string>uni7535</string>
       <string>uni7537</string>
+      <string>uni7539</string>
+      <string>uni753D</string>
+      <string>uni753E</string>
+      <string>uni7540</string>
+      <string>uni754F</string>
+      <string>uni7550</string>
       <string>uni7559</string>
+      <string>uni755C</string>
+      <string>uni755D</string>
+      <string>uni755F</string>
+      <string>uni7562</string>
+      <string>uni7565</string>
+      <string>uni7567</string>
       <string>uni756A</string>
       <string>uni756B</string>
+      <string>uni7570</string>
       <string>uni7576</string>
+      <string>uni757A</string>
+      <string>uni757E</string>
+      <string>uni758A</string>
+      <string>uni758B</string>
+      <string>uni758C</string>
+      <string>uni758F</string>
+      <string>uni7590</string>
+      <string>uni7591</string>
+      <string>uni7592</string>
+      <string>uni75BE</string>
+      <string>uni765F</string>
+      <string>uni7678</string>
+      <string>uni767B</string>
       <string>uni767C</string>
       <string>uni767D</string>
       <string>uni767E</string>
+      <string>uni7680</string>
+      <string>uni7681</string>
+      <string>uni7683</string>
+      <string>uni7686</string>
+      <string>uni7687</string>
+      <string>uni7690</string>
       <string>uni76AE</string>
+      <string>uni76BF</string>
+      <string>uni76C3</string>
       <string>uni76E1</string>
       <string>uni76E7</string>
       <string>uni76EE</string>
@@ -1365,6 +1416,106 @@
       <string>u2B95E</string>
       <string>u2C037</string>
       <string>u2D41F</string>
+      <string>uni2E83</string>
+      <string>uni2E86</string>
+      <string>uni2E88.longarm</string>
+      <string>uni2E8B</string>
+      <string>uni2E8C</string>
+      <string>uni2E8D</string>
+      <string>uni2E94</string>
+      <string>uni2E98</string>
+      <string>uni2E99</string>
+      <string>uni2EA1</string>
+      <string>uni2EA2</string>
+      <string>uni2EA2.curve</string>
+      <string>uni2EA8</string>
+      <string>uni2EBA</string>
+      <string>uni2EC3</string>
+      <string>uni2EC8</string>
+      <string>uni2ED6</string>
+      <string>uni2ED7</string>
+      <string>uni2F02</string>
+      <string>uni2F03</string>
+      <string>uni2F03.alt</string>
+      <string>uni2F04</string>
+      <string>uni2F04.small</string>
+      <string>uni2F05</string>
+      <string>uni2F08</string>
+      <string>uni2F0B</string>
+      <string>uni2F0D</string>
+      <string>uni2F12</string>
+      <string>uni2F14</string>
+      <string>uni2F14.left</string>
+      <string>uni2F1A</string>
+      <string>uni2F1B</string>
+      <string>uni2F1C</string>
+      <string>uni2F1C.alt</string>
+      <string>uni2F1D.bottom</string>
+      <string>uni2F20</string>
+      <string>uni2F20.small</string>
+      <string>uni2F23</string>
+      <string>uni2F23.left</string>
+      <string>uni2F24</string>
+      <string>uni2F24.alt</string>
+      <string>uni2F24.bottom.alt</string>
+      <string>uni2F26</string>
+      <string>uni2F26.left</string>
+      <string>uni2F26.top</string>
+      <string>uni2F27</string>
+      <string>uni2F2D</string>
+      <string>uni2F2F</string>
+      <string>uni2F31</string>
+      <string>uni2F33</string>
+      <string>uni2F34</string>
+      <string>uni2F3A</string>
+      <string>uni2F3B</string>
+      <string>uni2F3C</string>
+      <string>uni2F3D</string>
+      <string>uni2F3D.alt</string>
+      <string>uni2F3F</string>
+      <string>uni2F43</string>
+      <string>uni2F44</string>
+      <string>uni2F44.narrow</string>
+      <string>uni2F45</string>
+      <string>uni2F47</string>
+      <string>uni2F47.alt</string>
+      <string>uni2F47.left</string>
+      <string>uni2F47.top</string>
+      <string>uni2F47.top.alt</string>
+      <string>uni2F47.top.alt2</string>
+      <string>uni2F4A</string>
+      <string>uni2F4A.left</string>
+      <string>uni2F4C</string>
+      <string>uni2F4C.left</string>
+      <string>uni2F50</string>
+      <string>uni2F51</string>
+      <string>uni2F54</string>
+      <string>uni2F55</string>
+      <string>uni2F55.left</string>
+      <string>uni2F5B</string>
+      <string>uni2F5C</string>
+      <string>uni2F5C.left</string>
+      <string>uni2F5F</string>
+      <string>uni2F61</string>
+      <string>uni2F62</string>
+      <string>uni2F65</string>
+      <string>uni2F65.alt</string>
+      <string>uni2F67</string>
+      <string>uni2F69</string>
+      <string>uni2F6A.right</string>
+      <string>uni2F6B</string>
+      <string>uni2F70</string>
+      <string>uni2F74</string>
+      <string>uni2F76.left</string>
+      <string>uni2F80</string>
+      <string>uni2F89</string>
+      <string>uni2F8C.left</string>
+      <string>uni2F99</string>
+      <string>uni2F9B.left</string>
+      <string>uni2F9E</string>
+      <string>uni2FA1</string>
+      <string>uni2FAB</string>
+      <string>uni2FAB.right</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -1375,6 +1526,9 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
+      <string>space</string>
+      <string>.notdef</string>
+      <string>NULL</string>
       <string>nonmarkingreturn</string>
       <string>uni3000</string>
       <string>uni3001</string>
@@ -1485,6 +1639,270 @@
       <string>macron</string>
       <string>cedilla</string>
       <string>ogonek</string>
+      <string>_part.dianpie</string>
+      <string>_part.hengdianpie</string>
+      <string>_part.hengpiehengwandian</string>
+      <string>_part.hengpiezheshu</string>
+      <string>_part.hengwangou</string>
+      <string>_part.hengzhe</string>
+      <string>_part.hengzhehengwanquan</string>
+      <string>_part.hengzhezhewangou</string>
+      <string>_part.idot</string>
+      <string>_part.istem</string>
+      <string>_part.lstem</string>
+      <string>_part.pieheng</string>
+      <string>_part.piehengwandian</string>
+      <string>_part.shoulder</string>
+      <string>_part.u27607</string>
+      <string>_part.u2B739</string>
+      <string>_part.u2D80D</string>
+      <string>_part.uni340C</string>
+      <string>_part.uni342C</string>
+      <string>_part.uni3951</string>
+      <string>_part.uni4E0D</string>
+      <string>_part.uni4E39</string>
+      <string>_part.uni4E5D</string>
+      <string>_part.uni4E91</string>
+      <string>_part.uni4E95</string>
+      <string>_part.uni4EA7</string>
+      <string>_part.uni4F86</string>
+      <string>_part.uni516C</string>
+      <string>_part.uni5206</string>
+      <string>_part.uni52FF</string>
+      <string>_part.uni534A</string>
+      <string>_part.uni5352</string>
+      <string>_part.uni53EF</string>
+      <string>_part.uni5404</string>
+      <string>_part.uni56E0</string>
+      <string>_part.uni5929</string>
+      <string>_part.uni5B89</string>
+      <string>_part.uni5C11</string>
+      <string>_part.uni5E1A</string>
+      <string>_part.uni5EB8</string>
+      <string>_part.uni5F0B</string>
+      <string>_part.uni6025</string>
+      <string>_part.uni6729</string>
+      <string>_part.uni6797</string>
+      <string>_part.uni6B64</string>
+      <string>_part.uni6B65</string>
+      <string>_part.uni6BCD</string>
+      <string>_part.uni6BCF</string>
+      <string>_part.uni6C38</string>
+      <string>_part.uni738B</string>
+      <string>_part.uni73A8</string>
+      <string>_part.uni7528</string>
+      <string>_part.uni821B</string>
+      <string>_part.uni83EF</string>
+      <string>_part.uni96F2</string>
+      <string>_part.uni9FB6</string>
+      <string>_part.uni9FBA</string>
+      <string>_part.diandiandian.bottom</string>
+      <string>_part.hengwan.bottom</string>
+      <string>_part.hengwanquan.bottomleft</string>
+      <string>_part.piedian.in</string>
+      <string>_part.uni4E95.nohook</string>
+      <string>_part.uni672A.left</string>
+      <string>_part.uni738B.right</string>
+    </array>
+    <key>public.postscriptNames</key>
+    <dict>
+      <key>colon.full</key>
+      <string>uniFF1A</string>
+      <key>comma-han</key>
+      <string>uni3001</string>
+      <key>comma.full</key>
+      <string>uniFF0C</string>
+      <key>cornerbracketleft</key>
+      <string>uni300C</string>
+      <key>cornerbracketright</key>
+      <string>uni300D</string>
+      <key>dblanglebracketleft</key>
+      <string>uni300A</string>
+      <key>dblanglebracketright</key>
+      <string>uni300B</string>
+      <key>exclam.full</key>
+      <string>uniFF01</string>
+      <key>parenleft.full</key>
+      <string>uniFF08</string>
+      <key>parenright.full</key>
+      <string>uniFF09</string>
+      <key>period-han</key>
+      <string>uni3002</string>
+      <key>question.full</key>
+      <string>uniFF1F</string>
+      <key>quotedbl.full</key>
+      <string>uniFF02</string>
+      <key>quotesingle.full</key>
+      <string>uniFF07</string>
+      <key>semicolon.full</key>
+      <string>uniFF1B</string>
+    </dict>
+    <key>public.skipExportGlyphs</key>
+    <array>
+      <string>_part.diandiandian.bottom</string>
+      <string>_part.dianpie</string>
+      <string>_part.hengdianpie</string>
+      <string>_part.hengpiehengwandian</string>
+      <string>_part.hengpiezheshu</string>
+      <string>_part.hengwan.bottom</string>
+      <string>_part.hengwangou</string>
+      <string>_part.hengwanquan.bottomleft</string>
+      <string>_part.hengzhe</string>
+      <string>_part.hengzhehengwanquan</string>
+      <string>_part.hengzhezhewangou</string>
+      <string>_part.idot</string>
+      <string>_part.istem</string>
+      <string>_part.lstem</string>
+      <string>_part.piedian.in</string>
+      <string>_part.pieheng</string>
+      <string>_part.piehengwandian</string>
+      <string>_part.shoulder</string>
+      <string>_part.u27607</string>
+      <string>_part.u2B739</string>
+      <string>_part.u2D80D</string>
+      <string>_part.uni340C</string>
+      <string>_part.uni342C</string>
+      <string>_part.uni3951</string>
+      <string>_part.uni4E0D</string>
+      <string>_part.uni4E39</string>
+      <string>_part.uni4E5D</string>
+      <string>_part.uni4E91</string>
+      <string>_part.uni4E95</string>
+      <string>_part.uni4E95.nohook</string>
+      <string>_part.uni4EA7</string>
+      <string>_part.uni4F86</string>
+      <string>_part.uni516C</string>
+      <string>_part.uni5206</string>
+      <string>_part.uni52FF</string>
+      <string>_part.uni534A</string>
+      <string>_part.uni5352</string>
+      <string>_part.uni53EF</string>
+      <string>_part.uni5404</string>
+      <string>_part.uni56E0</string>
+      <string>_part.uni5929</string>
+      <string>_part.uni5B89</string>
+      <string>_part.uni5C11</string>
+      <string>_part.uni5E1A</string>
+      <string>_part.uni5EB8</string>
+      <string>_part.uni5F0B</string>
+      <string>_part.uni6025</string>
+      <string>_part.uni6729</string>
+      <string>_part.uni672A.left</string>
+      <string>_part.uni6797</string>
+      <string>_part.uni6B64</string>
+      <string>_part.uni6B65</string>
+      <string>_part.uni6BCD</string>
+      <string>_part.uni6BCF</string>
+      <string>_part.uni6C38</string>
+      <string>_part.uni738B</string>
+      <string>_part.uni738B.right</string>
+      <string>_part.uni73A8</string>
+      <string>_part.uni7528</string>
+      <string>_part.uni821B</string>
+      <string>_part.uni83EF</string>
+      <string>_part.uni96F2</string>
+      <string>_part.uni9FB6</string>
+      <string>_part.uni9FBA</string>
+      <string>uni2E83</string>
+      <string>uni2E86</string>
+      <string>uni2E88.longarm</string>
+      <string>uni2E8B</string>
+      <string>uni2E8C</string>
+      <string>uni2E8D</string>
+      <string>uni2E94</string>
+      <string>uni2E98</string>
+      <string>uni2E99</string>
+      <string>uni2EA1</string>
+      <string>uni2EA2</string>
+      <string>uni2EA2.curve</string>
+      <string>uni2EA8</string>
+      <string>uni2EBA</string>
+      <string>uni2EC3</string>
+      <string>uni2EC8</string>
+      <string>uni2ED6</string>
+      <string>uni2ED7</string>
+      <string>uni2F02</string>
+      <string>uni2F03</string>
+      <string>uni2F03.alt</string>
+      <string>uni2F04</string>
+      <string>uni2F04.small</string>
+      <string>uni2F05</string>
+      <string>uni2F08</string>
+      <string>uni2F0B</string>
+      <string>uni2F0D</string>
+      <string>uni2F12</string>
+      <string>uni2F14</string>
+      <string>uni2F14.left</string>
+      <string>uni2F1A</string>
+      <string>uni2F1B</string>
+      <string>uni2F1C</string>
+      <string>uni2F1C.alt</string>
+      <string>uni2F1D.bottom</string>
+      <string>uni2F20</string>
+      <string>uni2F20.small</string>
+      <string>uni2F23</string>
+      <string>uni2F23.left</string>
+      <string>uni2F24</string>
+      <string>uni2F24.alt</string>
+      <string>uni2F24.bottom.alt</string>
+      <string>uni2F26</string>
+      <string>uni2F26.left</string>
+      <string>uni2F26.top</string>
+      <string>uni2F27</string>
+      <string>uni2F2D</string>
+      <string>uni2F2F</string>
+      <string>uni2F31</string>
+      <string>uni2F33</string>
+      <string>uni2F34</string>
+      <string>uni2F3A</string>
+      <string>uni2F3B</string>
+      <string>uni2F3C</string>
+      <string>uni2F3D</string>
+      <string>uni2F3D.alt</string>
+      <string>uni2F3F</string>
+      <string>uni2F43</string>
+      <string>uni2F44</string>
+      <string>uni2F44.narrow</string>
+      <string>uni2F45</string>
+      <string>uni2F47</string>
+      <string>uni2F47.alt</string>
+      <string>uni2F47.left</string>
+      <string>uni2F47.top</string>
+      <string>uni2F47.top.alt</string>
+      <string>uni2F47.top.alt2</string>
+      <string>uni2F4A</string>
+      <string>uni2F4A.left</string>
+      <string>uni2F4C</string>
+      <string>uni2F4C.left</string>
+      <string>uni2F50</string>
+      <string>uni2F51</string>
+      <string>uni2F54</string>
+      <string>uni2F55</string>
+      <string>uni2F55.left</string>
+      <string>uni2F5B</string>
+      <string>uni2F5C</string>
+      <string>uni2F5C.left</string>
+      <string>uni2F5F</string>
+      <string>uni2F61</string>
+      <string>uni2F62</string>
+      <string>uni2F65</string>
+      <string>uni2F65.alt</string>
+      <string>uni2F67</string>
+      <string>uni2F69</string>
+      <string>uni2F6A.right</string>
+      <string>uni2F6B</string>
+      <string>uni2F70</string>
+      <string>uni2F74</string>
+      <string>uni2F76.left</string>
+      <string>uni2F80</string>
+      <string>uni2F89</string>
+      <string>uni2F8C.left</string>
+      <string>uni2F99</string>
+      <string>uni2F9B.left</string>
+      <string>uni2F9E</string>
+      <string>uni2FA1</string>
+      <string>uni2FAB</string>
+      <string>uni2FAB.right</string>
     </array>
   </dict>
 </plist>

@@ -2,32 +2,8 @@
 <glyph name="ograve" format="2">
   <advance width="571"/>
   <unicode hex="00F2"/>
-  <note>
-ograve
-</note>
-  <anchor x="286" y="0" name="bottom"/>
-  <anchor x="286" y="737" name="top"/>
-  <anchor x="514" y="10" name="ogonek"/>
-  <anchor x="551" y="526" name="topright"/>
   <outline>
-    <component base="o" identifier="1D89DE88"/>
-    <component base="gravecomb" xOffset="136" identifier="EF966436"/>
+    <component base="o"/>
+    <component base="gravecomb" xOffset="136"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>1D89DE88</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>EF966436</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

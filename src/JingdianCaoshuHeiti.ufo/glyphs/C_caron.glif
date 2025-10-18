@@ -2,30 +2,8 @@
 <glyph name="Ccaron" format="2">
   <advance width="727"/>
   <unicode hex="010C"/>
-  <note>
-Ccaron
-</note>
-  <anchor x="373" y="0" name="bottom"/>
-  <anchor x="364" y="899" name="top"/>
   <outline>
-    <component base="C" identifier="7CBB3CF5"/>
-    <component base="uni030C" xOffset="214" yOffset="224" identifier="5DE224D6"/>
+    <component base="C"/>
+    <component base="uni030C" xOffset="214" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>5DE224D6</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>7CBB3CF5</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

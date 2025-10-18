@@ -2,31 +2,8 @@
 <glyph name="amacron" format="2">
   <advance width="529"/>
   <unicode hex="0101"/>
-  <note>
-amacron
-</note>
-  <anchor x="265" y="0" name="bottom"/>
-  <anchor x="266" y="644" name="top"/>
-  <anchor x="419" y="0" name="ogonek"/>
   <outline>
-    <component base="a" identifier="D2832F60"/>
-    <component base="uni0304" xOffset="116" identifier="50EB2448"/>
+    <component base="a"/>
+    <component base="uni0304" xOffset="116"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>50EB2448</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>D2832F60</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

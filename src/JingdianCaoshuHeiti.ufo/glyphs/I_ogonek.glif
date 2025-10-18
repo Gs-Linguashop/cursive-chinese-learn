@@ -2,39 +2,8 @@
 <glyph name="Iogonek" format="2">
   <advance width="226"/>
   <unicode hex="012E"/>
-  <note>
-Iogonek
-</note>
-  <anchor x="113" y="0" name="bottom"/>
-  <anchor x="113" y="750" name="top"/>
-  <anchor x="113" y="0" name="ogonek"/>
   <outline>
-    <contour>
-      <point x="69" y="0" type="line"/>
-      <point x="157" y="0" type="line"/>
-      <point x="157" y="750" type="line"/>
-      <point x="69" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="201" y="-158" type="line"/>
-      <point x="193" y="-163"/>
-      <point x="151" y="-168"/>
-      <point x="130" y="-168" type="qcurve"/>
-      <point x="105" y="-168"/>
-      <point x="75" y="-148"/>
-      <point x="75" y="-128" type="qcurve"/>
-      <point x="75" y="-85"/>
-      <point x="148" y="16" type="qcurve"/>
-      <point x="108" y="36" type="line"/>
-      <point x="54" y="-18"/>
-      <point x="-2" y="-99"/>
-      <point x="-2" y="-134" type="qcurve"/>
-      <point x="-2" y="-176"/>
-      <point x="60" y="-232"/>
-      <point x="128" y="-232" type="qcurve"/>
-      <point x="156" y="-232"/>
-      <point x="210" y="-222"/>
-      <point x="227" y="-213" type="qcurve"/>
-    </contour>
+    <component base="I"/>
+    <component base="uni0328" xOffset="-37"/>
   </outline>
 </glyph>

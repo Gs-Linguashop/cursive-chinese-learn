@@ -2,30 +2,8 @@
 <glyph name="Ncaron" format="2">
   <advance width="701"/>
   <unicode hex="0147"/>
-  <note>
-Ncaron
-</note>
-  <anchor x="351" y="0" name="bottom"/>
-  <anchor x="351" y="899" name="top"/>
   <outline>
-    <component base="N" identifier="1EFEEBED"/>
-    <component base="uni030C" xOffset="201" yOffset="224" identifier="056E5AAB"/>
+    <component base="N"/>
+    <component base="uni030C" xOffset="201" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>056E5AAB</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>1EFEEBED</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

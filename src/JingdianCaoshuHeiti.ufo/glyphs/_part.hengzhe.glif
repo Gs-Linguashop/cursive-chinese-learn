@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.hengzhe" format="2">
+  <advance width="1000"/>
+  <anchor x="500" y="203" name="Arm"/>
+  <outline>
+    <contour>
+      <point x="461" y="225" type="curve"/>
+      <point x="541" y="181" type="line"/>
+      <point x="666" y="294"/>
+      <point x="773" y="439"/>
+      <point x="837" y="578" type="curve"/>
+      <point x="790" y="623" type="line"/>
+      <point x="774" y="616" type="line"/>
+      <point x="199" y="616" type="line"/>
+      <point x="199" y="532" type="line"/>
+      <point x="717" y="532" type="line"/>
+      <point x="674" y="443"/>
+      <point x="577" y="327"/>
+    </contour>
+  </outline>
+</glyph>

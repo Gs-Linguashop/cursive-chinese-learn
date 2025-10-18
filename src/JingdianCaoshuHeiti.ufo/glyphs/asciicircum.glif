@@ -2,9 +2,6 @@
 <glyph name="asciicircum" format="2">
   <advance width="524"/>
   <unicode hex="005E"/>
-  <note>
-asciicircum
-</note>
   <outline>
     <contour>
       <point x="36" y="394" type="line"/>

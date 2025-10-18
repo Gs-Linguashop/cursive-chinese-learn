@@ -2,22 +2,7 @@
 <glyph name="cedilla" format="2">
   <advance width="300"/>
   <unicode hex="00B8"/>
-  <note>
-cedilla
-</note>
   <outline>
-    <component base="uni0327" identifier="EA5F42FF"/>
+    <component base="uni0327"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>EA5F42FF</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

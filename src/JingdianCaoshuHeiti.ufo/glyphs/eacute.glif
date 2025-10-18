@@ -2,31 +2,8 @@
 <glyph name="eacute" format="2">
   <advance width="542"/>
   <unicode hex="00E9"/>
-  <note>
-eacute
-</note>
-  <anchor x="271" y="0" name="bottom"/>
-  <anchor x="277" y="737" name="top"/>
-  <anchor x="328" y="0" name="ogonek"/>
   <outline>
-    <component base="e" identifier="FAF88DBA"/>
-    <component base="acutecomb" xOffset="127" identifier="CC888DAD"/>
+    <component base="e"/>
+    <component base="acutecomb" xOffset="127"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>CC888DAD</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>FAF88DBA</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

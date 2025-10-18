@@ -2,22 +2,7 @@
 <glyph name="breve" format="2">
   <advance width="300"/>
   <unicode hex="02D8"/>
-  <note>
-breve
-</note>
   <outline>
-    <component base="uni0306" identifier="FDC24B36"/>
+    <component base="uni0306"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>FDC24B36</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

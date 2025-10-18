@@ -2,30 +2,8 @@
 <glyph name="yacute" format="2">
   <advance width="500"/>
   <unicode hex="00FD"/>
-  <note>
-yacute
-</note>
-  <anchor x="250" y="0" name="bottom"/>
-  <anchor x="250" y="737" name="top"/>
   <outline>
-    <component base="y" identifier="8D91EB5A"/>
-    <component base="acutecomb" xOffset="100" identifier="5112E27D"/>
+    <component base="y"/>
+    <component base="acutecomb" xOffset="100"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>5112E27D</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>8D91EB5A</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

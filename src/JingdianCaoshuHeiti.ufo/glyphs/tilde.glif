@@ -2,22 +2,7 @@
 <glyph name="tilde" format="2">
   <advance width="300"/>
   <unicode hex="02DC"/>
-  <note>
-tilde
-</note>
   <outline>
-    <component base="tildecomb" identifier="27FAE506"/>
+    <component base="tildecomb"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>27FAE506</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

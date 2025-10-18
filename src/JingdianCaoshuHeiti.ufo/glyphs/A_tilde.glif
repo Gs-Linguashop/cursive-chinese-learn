@@ -2,31 +2,8 @@
 <glyph name="Atilde" format="2">
   <advance width="706"/>
   <unicode hex="00C3"/>
-  <note>
-Atilde
-</note>
-  <anchor x="353" y="0" name="bottom"/>
-  <anchor x="353" y="946" name="top"/>
-  <anchor x="635" y="10" name="ogonek"/>
   <outline>
-    <component base="A" identifier="3F8295F9"/>
-    <component base="tildecomb" xOffset="203" yOffset="224" identifier="42A6A811"/>
+    <component base="A"/>
+    <component base="tildecomb" xOffset="203" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>3F8295F9</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>42A6A811</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -2,31 +2,8 @@
 <glyph name="edotaccent" format="2">
   <advance width="542"/>
   <unicode hex="0117"/>
-  <note>
-edotaccent
-</note>
-  <anchor x="271" y="0" name="bottom"/>
-  <anchor x="277" y="718" name="top"/>
-  <anchor x="328" y="0" name="ogonek"/>
   <outline>
-    <component base="e" identifier="977FD5C9"/>
-    <component base="uni0307" xOffset="157" identifier="75DAEF39"/>
+    <component base="e"/>
+    <component base="uni0307" xOffset="157"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>75DAEF39</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>977FD5C9</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

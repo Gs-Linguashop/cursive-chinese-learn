@@ -2,30 +2,8 @@
 <glyph name="Ntilde" format="2">
   <advance width="701"/>
   <unicode hex="00D1"/>
-  <note>
-Ntilde
-</note>
-  <anchor x="351" y="0" name="bottom"/>
-  <anchor x="351" y="946" name="top"/>
   <outline>
-    <component base="N" identifier="28643694"/>
-    <component base="tildecomb" xOffset="201" yOffset="224" identifier="CF3179D2"/>
+    <component base="N"/>
+    <component base="tildecomb" xOffset="201" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>28643694</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>CF3179D2</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

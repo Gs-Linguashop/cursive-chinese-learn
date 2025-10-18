@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.istem" format="2">
+  <advance width="218"/>
+  <anchor x="153" y="0" name="#exit"/>
+  <anchor x="109" y="702" name="idot"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="153" y="526" type="line"/>
+      <point x="65" y="526" type="line"/>
+    </contour>
+  </outline>
+</glyph>

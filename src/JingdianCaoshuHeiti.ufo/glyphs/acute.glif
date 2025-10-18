@@ -2,22 +2,7 @@
 <glyph name="acute" format="2">
   <advance width="300"/>
   <unicode hex="00B4"/>
-  <note>
-acute
-</note>
   <outline>
-    <component base="acutecomb" identifier="06583C8B"/>
+    <component base="acutecomb"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>06583C8B</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

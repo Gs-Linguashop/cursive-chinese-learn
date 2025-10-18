@@ -2,9 +2,6 @@
 <glyph name="uni5DE5" format="2">
   <advance width="1000"/>
   <unicode hex="5DE5"/>
-  <note>
-uni5DE5
-</note>
   <outline>
     <contour>
       <point x="63" y="-13" type="line"/>

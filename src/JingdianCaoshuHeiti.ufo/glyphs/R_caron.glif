@@ -2,30 +2,8 @@
 <glyph name="Rcaron" format="2">
   <advance width="678"/>
   <unicode hex="0158"/>
-  <note>
-Rcaron
-</note>
-  <anchor x="339" y="0" name="bottom"/>
-  <anchor x="305" y="899" name="top"/>
   <outline>
-    <component base="R" identifier="DA5EB84C"/>
-    <component base="uni030C" xOffset="155" yOffset="224" identifier="2105E7A5"/>
+    <component base="R"/>
+    <component base="uni030C" xOffset="155" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>2105E7A5</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>DA5EB84C</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

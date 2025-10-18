@@ -2,32 +2,8 @@
 <glyph name="Uacute" format="2">
   <advance width="700"/>
   <unicode hex="00DA"/>
-  <note>
-Uacute
-</note>
-  <anchor x="350" y="0" name="bottom"/>
-  <anchor x="350" y="961" name="top"/>
-  <anchor x="350" y="0" name="ogonek"/>
-  <anchor x="680" y="750" name="topright"/>
   <outline>
-    <component base="U" identifier="BAA3AC1E"/>
-    <component base="acutecomb" xOffset="200" yOffset="224" identifier="07D902A9"/>
+    <component base="U"/>
+    <component base="acutecomb" xOffset="200" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>07D902A9</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>BAA3AC1E</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

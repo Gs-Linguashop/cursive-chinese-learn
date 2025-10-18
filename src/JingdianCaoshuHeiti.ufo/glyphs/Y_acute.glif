@@ -2,30 +2,8 @@
 <glyph name="Yacute" format="2">
   <advance width="648"/>
   <unicode hex="00DD"/>
-  <note>
-Yacute
-</note>
-  <anchor x="324" y="0" name="bottom"/>
-  <anchor x="324" y="961" name="top"/>
   <outline>
-    <component base="Y" identifier="B896601E"/>
-    <component base="acutecomb" xOffset="174" yOffset="224" identifier="FC812A83"/>
+    <component base="Y"/>
+    <component base="acutecomb" xOffset="174" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>B896601E</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>FC812A83</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

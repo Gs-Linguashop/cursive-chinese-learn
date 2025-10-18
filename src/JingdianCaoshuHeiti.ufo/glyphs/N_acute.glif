@@ -2,30 +2,8 @@
 <glyph name="Nacute" format="2">
   <advance width="701"/>
   <unicode hex="0143"/>
-  <note>
-Nacute
-</note>
-  <anchor x="351" y="0" name="bottom"/>
-  <anchor x="351" y="961" name="top"/>
   <outline>
-    <component base="N" identifier="65804A57"/>
-    <component base="acutecomb" xOffset="201" yOffset="224" identifier="D065F9DA"/>
+    <component base="N"/>
+    <component base="acutecomb" xOffset="201" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>65804A57</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>D065F9DA</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

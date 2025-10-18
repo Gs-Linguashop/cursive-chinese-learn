@@ -2,9 +2,6 @@
 <glyph name="k" format="2">
   <advance width="534"/>
   <unicode hex="006B"/>
-  <note>
-k
-</note>
   <anchor x="267" y="0" name="bottom"/>
   <anchor x="267" y="800" name="top"/>
   <outline>

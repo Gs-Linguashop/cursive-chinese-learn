@@ -2,31 +2,8 @@
 <glyph name="igrave" format="2">
   <advance width="218"/>
   <unicode hex="00EC"/>
-  <note>
-igrave
-</note>
-  <anchor x="109" y="0" name="bottom"/>
-  <anchor x="109" y="737" name="top"/>
-  <anchor x="109" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" identifier="A0BFCF45"/>
-    <component base="gravecomb" xOffset="-41" identifier="3489B9B4"/>
+    <component base="dotlessi"/>
+    <component base="gravecomb" xOffset="-41"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>3489B9B4</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>A0BFCF45</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

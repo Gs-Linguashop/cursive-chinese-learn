@@ -2,30 +2,8 @@
 <glyph name="ntilde" format="2">
   <advance width="587"/>
   <unicode hex="00F1"/>
-  <note>
-ntilde
-</note>
-  <anchor x="294" y="0" name="bottom"/>
-  <anchor x="295" y="722" name="top"/>
   <outline>
-    <component base="n" identifier="317DC458"/>
-    <component base="tildecomb" xOffset="145" identifier="63295EDA"/>
+    <component base="n"/>
+    <component base="tildecomb" xOffset="145"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>317DC458</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>63295EDA</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

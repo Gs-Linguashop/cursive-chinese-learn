@@ -2,25 +2,22 @@
 <glyph name="parenleft" format="2">
   <advance width="328"/>
   <unicode hex="0028"/>
-  <note>
-parenleft
-</note>
   <outline>
     <contour>
+      <point x="288" y="750" type="curve"/>
       <point x="190" y="750" type="line"/>
-      <point x="121" y="661"/>
-      <point x="55" y="408"/>
-      <point x="55" y="292" type="qcurve"/>
-      <point x="55" y="155"/>
-      <point x="118" y="-73"/>
-      <point x="190" y="-166" type="qcurve"/>
+      <point x="90" y="621"/>
+      <point x="55" y="426"/>
+      <point x="55" y="292" type="curve"/>
+      <point x="55" y="119"/>
+      <point x="90" y="-37"/>
+      <point x="190" y="-166" type="curve"/>
       <point x="288" y="-166" type="line"/>
-      <point x="209" y="-73"/>
-      <point x="143" y="174"/>
-      <point x="143" y="292" type="qcurve"/>
-      <point x="143" y="405"/>
-      <point x="209" y="658"/>
-      <point x="288" y="750" type="qcurve"/>
+      <point x="171" y="-29"/>
+      <point x="143" y="164"/>
+      <point x="143" y="292" type="curve"/>
+      <point x="143" y="411"/>
+      <point x="171" y="613"/>
     </contour>
   </outline>
 </glyph>

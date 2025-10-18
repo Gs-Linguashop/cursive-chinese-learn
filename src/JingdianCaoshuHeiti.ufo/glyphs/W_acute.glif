@@ -2,30 +2,8 @@
 <glyph name="Wacute" format="2">
   <advance width="1014"/>
   <unicode hex="1E82"/>
-  <note>
-Wacute
-</note>
-  <anchor x="507" y="0" name="bottom"/>
-  <anchor x="507" y="961" name="top"/>
   <outline>
-    <component base="W" identifier="4751C879"/>
-    <component base="acutecomb" xOffset="357" yOffset="224" identifier="53199BB3"/>
+    <component base="W"/>
+    <component base="acutecomb" xOffset="357" yOffset="224"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>4751C879</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>53199BB3</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -2,31 +2,8 @@
 <glyph name="Lcaron" format="2">
   <advance width="587"/>
   <unicode hex="013D"/>
-  <note>
-Lcaron
-</note>
-  <anchor x="294" y="0" name="bottom"/>
-  <anchor x="113" y="750" name="top"/>
-  <anchor x="277" y="750" name="topright"/>
   <outline>
-    <component base="L" identifier="D58BE270"/>
-    <component base="uni030C.alt" xOffset="175" identifier="45BCD7A5"/>
+    <component base="L"/>
+    <component base="uni030C.alt" xOffset="175"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>45BCD7A5</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>D58BE270</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

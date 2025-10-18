@@ -2,29 +2,8 @@
 <glyph name="ij" format="2">
   <advance width="436"/>
   <unicode hex="0133"/>
-  <note>
-ij
-</note>
-  <anchor x="327" y="0" name="bottom"/>
   <outline>
-    <component base="i" identifier="B805A5FF"/>
-    <component base="j" xOffset="218" identifier="D515B894"/>
+    <component base="i"/>
+    <component base="j" xOffset="218"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>B805A5FF</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>D515B894</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

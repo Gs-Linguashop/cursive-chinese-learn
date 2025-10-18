@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.hengdianpie" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="97" y="468" type="line"/>
+      <point x="97" y="387" type="line"/>
+      <point x="903" y="387" type="line"/>
+      <point x="903" y="468" type="line"/>
+    </contour>
+    <contour>
+      <point x="333" y="243" type="curve"/>
+      <point x="415" y="279" type="line"/>
+      <point x="389" y="371"/>
+      <point x="335" y="511"/>
+      <point x="286" y="611" type="curve"/>
+      <point x="209" y="581" type="line"/>
+      <point x="257" y="483"/>
+      <point x="309" y="338"/>
+    </contour>
+    <contour>
+      <point x="571" y="272" type="curve"/>
+      <point x="643" y="243" type="line"/>
+      <point x="687" y="328"/>
+      <point x="746" y="466"/>
+      <point x="789" y="581" type="curve"/>
+      <point x="708" y="611" type="line"/>
+      <point x="675" y="502"/>
+      <point x="616" y="362"/>
+    </contour>
+  </outline>
+</glyph>

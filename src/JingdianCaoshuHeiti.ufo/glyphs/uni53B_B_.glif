@@ -1,19 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni53BB" format="2">
-  <advance width="1000"/>
+  <advance width="1000" height="1000"/>
   <unicode hex="53BB"/>
   <note>
-uni53BB
+cid11836
 </note>
   <outline>
     <contour>
+      <point x="129" y="19" type="curve"/>
       <point x="155" y="-56" type="line"/>
       <point x="184" y="-43" type="line"/>
       <point x="785" y="9" type="line"/>
       <point x="763" y="79" type="line"/>
       <point x="255" y="38" type="line"/>
-      <point x="373" y="168"/>
-      <point x="473" y="334" type="qcurve"/>
+      <point x="330" y="121"/>
+      <point x="407" y="225"/>
+      <point x="473" y="334" type="curve"/>
       <point x="891" y="334" type="line"/>
       <point x="891" y="409" type="line"/>
       <point x="539" y="409" type="line"/>
@@ -31,22 +33,21 @@ uni53BB
       <point x="113" y="409" type="line"/>
       <point x="113" y="334" type="line"/>
       <point x="380" y="334" type="line"/>
-      <point x="338" y="259"/>
-      <point x="233" y="115"/>
-      <point x="204" y="83" type="qcurve"/>
-      <point x="179" y="54"/>
-      <point x="145" y="23"/>
-      <point x="129" y="19" type="qcurve"/>
+      <point x="316" y="221"/>
+      <point x="231" y="113"/>
+      <point x="204" y="83" type="curve" smooth="yes"/>
+      <point x="174" y="47"/>
+      <point x="151" y="24"/>
     </contour>
     <contour>
+      <point x="824" y="-80" type="curve"/>
       <point x="896" y="-41" type="line"/>
-      <point x="861" y="25"/>
-      <point x="730" y="205"/>
-      <point x="662" y="279" type="qcurve"/>
+      <point x="850" y="47"/>
+      <point x="753" y="180"/>
+      <point x="662" y="279" type="curve"/>
       <point x="595" y="247" type="line"/>
-      <point x="657" y="177"/>
-      <point x="785" y="-7"/>
-      <point x="824" y="-80" type="qcurve"/>
+      <point x="680" y="152"/>
+      <point x="774" y="15"/>
     </contour>
   </outline>
 </glyph>

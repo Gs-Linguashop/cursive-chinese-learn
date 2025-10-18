@@ -2,30 +2,8 @@
 <glyph name="ycircumflex" format="2">
   <advance width="500"/>
   <unicode hex="0177"/>
-  <note>
-ycircumflex
-</note>
-  <anchor x="250" y="0" name="bottom"/>
-  <anchor x="250" y="741" name="top"/>
   <outline>
-    <component base="y" identifier="CB7C1894"/>
-    <component base="uni0302" xOffset="100" identifier="C997D36C"/>
+    <component base="y"/>
+    <component base="uni0302" xOffset="100"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>C997D36C</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>CB7C1894</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
