@@ -7,14 +7,14 @@ cid16854
 </note>
   <outline>
     <contour>
-      <point x="939" y="145" type="curve"/>
-      <point x="959" y="226" type="line"/>
-      <point x="738" y="255"/>
-      <point x="444" y="256"/>
-      <point x="55" y="225" type="curve"/>
-      <point x="55" y="151" type="line"/>
-      <point x="439" y="179"/>
-      <point x="734" y="172"/>
+      <point x="939" y="160" type="curve"/>
+      <point x="959" y="241" type="line"/>
+      <point x="738" y="270"/>
+      <point x="444" y="271"/>
+      <point x="55" y="240" type="curve"/>
+      <point x="55" y="166" type="line"/>
+      <point x="439" y="194"/>
+      <point x="734" y="187"/>
     </contour>
     <contour>
       <point x="84" y="463" type="curve"/>

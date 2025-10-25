@@ -45,42 +45,42 @@ cid32007
       <point x="664" y="54"/>
     </contour>
     <contour>
-      <point x="56" y="321" type="line"/>
-      <point x="950" y="321" type="line"/>
-      <point x="950" y="394" type="line"/>
-      <point x="56" y="394" type="line"/>
+      <point x="56" y="320" type="line"/>
+      <point x="950" y="320" type="line"/>
+      <point x="950" y="395" type="line"/>
+      <point x="56" y="395" type="line"/>
     </contour>
     <contour>
-      <point x="147" y="473" type="line"/>
-      <point x="598" y="473" type="line"/>
-      <point x="598" y="544" type="line"/>
-      <point x="147" y="544" type="line"/>
+      <point x="147" y="472" type="line"/>
+      <point x="598" y="472" type="line"/>
+      <point x="598" y="545" type="line"/>
+      <point x="147" y="545" type="line"/>
     </contour>
     <contour>
       <point x="310" y="676" type="curve"/>
       <point x="380" y="709" type="line"/>
-      <point x="364" y="749"/>
-      <point x="328" y="806"/>
+      <point x="360" y="753"/>
+      <point x="328" y="805"/>
       <point x="292" y="849" type="curve"/>
       <point x="226" y="818" type="line"/>
       <point x="261" y="775"/>
       <point x="289" y="728"/>
     </contour>
     <contour>
-      <point x="98" y="620" type="line"/>
-      <point x="903" y="620" type="line"/>
-      <point x="903" y="692" type="line"/>
-      <point x="98" y="692" type="line"/>
+      <point x="98" y="619" type="line"/>
+      <point x="903" y="619" type="line"/>
+      <point x="903" y="693" type="line"/>
+      <point x="98" y="693" type="line"/>
     </contour>
     <contour>
       <point x="608" y="696" type="curve"/>
       <point x="670" y="665" type="line"/>
-      <point x="708" y="714"/>
-      <point x="743" y="773"/>
+      <point x="707" y="714"/>
+      <point x="744" y="773"/>
       <point x="773" y="823" type="curve"/>
       <point x="695" y="849" type="line"/>
       <point x="675" y="803"/>
-      <point x="638" y="739"/>
+      <point x="639" y="739"/>
     </contour>
   </outline>
 </glyph>

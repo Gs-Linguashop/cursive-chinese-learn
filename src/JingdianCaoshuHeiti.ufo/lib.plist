@@ -662,6 +662,7 @@
       <string>uni592B</string>
       <string>uni592C</string>
       <string>uni592D</string>
+      <string>uni592E</string>
       <string>uni5931</string>
       <string>uni5934</string>
       <string>uni5937</string>
@@ -1251,39 +1252,148 @@
       <string>uni76AE</string>
       <string>uni76BF</string>
       <string>uni76C3</string>
+      <string>uni76C8</string>
+      <string>uni76CA</string>
+      <string>uni76CD</string>
+      <string>uni76CE</string>
+      <string>uni76D6</string>
+      <string>uni76DC</string>
       <string>uni76E1</string>
+      <string>uni76E3</string>
+      <string>uni76E5</string>
       <string>uni76E7</string>
       <string>uni76EE</string>
       <string>uni76F4</string>
       <string>uni76F8</string>
+      <string>uni76FE</string>
+      <string>uni7701</string>
+      <string>uni7709</string>
       <string>uni770B</string>
+      <string>uni7714</string>
       <string>uni771F</string>
       <string>uni7758</string>
       <string>uni776A</string>
+      <string>uni777F</string>
+      <string>uni77A2</string>
+      <string>uni77BF</string>
+      <string>uni77CD</string>
+      <string>uni77DB</string>
+      <string>uni77DE</string>
+      <string>uni77E2</string>
+      <string>uni77E3</string>
       <string>uni77E5</string>
       <string>uni77E6</string>
       <string>uni77F3</string>
+      <string>uni7809</string>
+      <string>uni78CA</string>
       <string>uni793A</string>
+      <string>uni7958</string>
+      <string>uni795D</string>
+      <string>uni795F</string>
+      <string>uni7968</string>
+      <string>uni796D</string>
+      <string>uni7980</string>
+      <string>uni7981</string>
+      <string>uni79B9</string>
+      <string>uni79BA</string>
       <string>uni79BB</string>
+      <string>uni79BC</string>
+      <string>uni79BD</string>
       <string>uni79BE</string>
+      <string>uni79C0</string>
+      <string>uni79C3</string>
+      <string>uni79C9</string>
+      <string>uni79CB</string>
+      <string>uni79E6</string>
+      <string>uni79FB</string>
+      <string>uni7A1A</string>
+      <string>uni7A1F</string>
+      <string>uni7A3D</string>
+      <string>uni7A4C</string>
+      <string>uni7A74</string>
+      <string>uni7A79</string>
       <string>uni7A7A</string>
+      <string>uni7A7F</string>
+      <string>uni7A81</string>
+      <string>uni7AC4</string>
       <string>uni7ACB</string>
+      <string>uni7ADF</string>
+      <string>uni7AE0</string>
+      <string>uni7AE5</string>
+      <string>uni7AEA</string>
+      <string>uni7AF6</string>
+      <string>uni7AF9</string>
+      <string>uni7B46</string>
       <string>uni7B49</string>
+      <string>uni7B4B</string>
       <string>uni7B54</string>
+      <string>uni7B6E</string>
+      <string>uni7B8D</string>
+      <string>uni7B97</string>
+      <string>uni7BC0</string>
+      <string>uni7C43</string>
       <string>uni7C73</string>
+      <string>uni7C74</string>
+      <string>uni7C9C</string>
+      <string>uni7C9F</string>
+      <string>uni7CA5</string>
+      <string>uni7CA6</string>
+      <string>uni7CAA</string>
+      <string>uni7CB1</string>
+      <string>uni7CB5</string>
+      <string>uni7CDE</string>
+      <string>uni7CF8</string>
+      <string>uni7CFB</string>
       <string>uni7D04</string>
+      <string>uni7D20</string>
+      <string>uni7D22</string>
+      <string>uni7D2F</string>
+      <string>uni7D30</string>
+      <string>uni7D55</string>
+      <string>uni7D5C</string>
       <string>uni7D72</string>
+      <string>uni7DBF</string>
+      <string>uni7DD0</string>
+      <string>uni7DDC</string>
       <string>uni7E23</string>
+      <string>uni7E6D</string>
+      <string>uni7E7C</string>
+      <string>uni7F36</string>
+      <string>uni7F4C</string>
+      <string>uni7F51</string>
       <string>uni7F59</string>
+      <string>uni7F61</string>
+      <string>uni7F6A</string>
+      <string>uni7F70</string>
+      <string>uni7F77</string>
       <string>uni7F85</string>
+      <string>uni7F88</string>
       <string>uni7F8A</string>
+      <string>uni7F8C</string>
       <string>uni7F8E</string>
+      <string>uni7F94</string>
       <string>uni7F95</string>
+      <string>uni7FA8</string>
       <string>uni7FA9</string>
+      <string>uni7FB2</string>
+      <string>uni7FB4</string>
+      <string>uni7FB8</string>
+      <string>uni7FB9</string>
+      <string>uni7FBD</string>
+      <string>uni7FBF</string>
+      <string>uni7FC1</string>
+      <string>uni7FCC</string>
+      <string>uni7FCF</string>
       <string>uni7FD2</string>
+      <string>uni7FD5</string>
+      <string>uni7FDF</string>
       <string>uni8001</string>
+      <string>uni8003</string>
       <string>uni8005</string>
+      <string>uni8006</string>
       <string>uni800C</string>
+      <string>uni8011</string>
+      <string>uni8012</string>
       <string>uni8033</string>
       <string>uni8072</string>
       <string>uni807D</string>
@@ -1314,6 +1424,7 @@
       <string>uni8457</string>
       <string>uni8499</string>
       <string>uni8655</string>
+      <string>uni866B</string>
       <string>uni8700</string>
       <string>uni8846</string>
       <string>uni884C</string>
@@ -1396,10 +1507,12 @@
       <string>uni9CE7</string>
       <string>uni9CF3</string>
       <string>uni9E75</string>
+      <string>uni9E7D</string>
       <string>uni9E7F</string>
       <string>uni9EBB</string>
       <string>uni9ED1</string>
       <string>uni9F13</string>
+      <string>uni9F20</string>
       <string>uni9F3B</string>
       <string>u20A7A</string>
       <string>u20B1B</string>
@@ -1418,6 +1531,7 @@
       <string>u2D41F</string>
       <string>uni2E83</string>
       <string>uni2E86</string>
+      <string>uni2E88</string>
       <string>uni2E88.longarm</string>
       <string>uni2E8B</string>
       <string>uni2E8C</string>
@@ -1429,6 +1543,7 @@
       <string>uni2EA2</string>
       <string>uni2EA2.curve</string>
       <string>uni2EA8</string>
+      <string>uni2EAD</string>
       <string>uni2EBA</string>
       <string>uni2EC3</string>
       <string>uni2EC8</string>
@@ -1440,9 +1555,12 @@
       <string>uni2F04</string>
       <string>uni2F04.small</string>
       <string>uni2F05</string>
+      <string>uni2F07</string>
       <string>uni2F08</string>
+      <string>uni2F09</string>
       <string>uni2F0B</string>
       <string>uni2F0D</string>
+      <string>uni2F0F</string>
       <string>uni2F12</string>
       <string>uni2F14</string>
       <string>uni2F14.left</string>
@@ -1450,6 +1568,7 @@
       <string>uni2F1B</string>
       <string>uni2F1C</string>
       <string>uni2F1C.alt</string>
+      <string>uni2F1D.alt</string>
       <string>uni2F1D.bottom</string>
       <string>uni2F20</string>
       <string>uni2F20.small</string>
@@ -1464,6 +1583,7 @@
       <string>uni2F27</string>
       <string>uni2F2D</string>
       <string>uni2F2F</string>
+      <string>uni2F30</string>
       <string>uni2F31</string>
       <string>uni2F33</string>
       <string>uni2F34</string>
@@ -1493,6 +1613,7 @@
       <string>uni2F55</string>
       <string>uni2F55.left</string>
       <string>uni2F5B</string>
+      <string>uni2F5B.alt</string>
       <string>uni2F5C</string>
       <string>uni2F5C.left</string>
       <string>uni2F5F</string>
@@ -1504,18 +1625,41 @@
       <string>uni2F69</string>
       <string>uni2F6A.right</string>
       <string>uni2F6B</string>
+      <string>uni2F6B.alt</string>
+      <string>uni2F6C</string>
+      <string>uni2F6F</string>
+      <string>uni2F6F.left</string>
       <string>uni2F70</string>
+      <string>uni2F72</string>
+      <string>uni2F72.left</string>
+      <string>uni2F73</string>
       <string>uni2F74</string>
+      <string>uni2F76</string>
+      <string>uni2F76.bottom</string>
       <string>uni2F76.left</string>
+      <string>uni2F77</string>
+      <string>uni2F78</string>
+      <string>uni2F7A</string>
+      <string>uni2F7B</string>
+      <string>uni2F7B.top</string>
       <string>uni2F80</string>
+      <string>uni2F82</string>
+      <string>uni2F87</string>
       <string>uni2F89</string>
+      <string>uni2F8B</string>
       <string>uni2F8C.left</string>
+      <string>uni2F8D</string>
+      <string>uni2F94.left</string>
       <string>uni2F99</string>
       <string>uni2F9B.left</string>
       <string>uni2F9E</string>
       <string>uni2FA1</string>
       <string>uni2FAB</string>
       <string>uni2FAB.right</string>
+      <string>uni2FB0</string>
+      <string>uni2FBA</string>
+      <string>uni2FC2.left</string>
+      <string>uni2FCF</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -1639,6 +1783,7 @@
       <string>macron</string>
       <string>cedilla</string>
       <string>ogonek</string>
+      <string>_part.diandian</string>
       <string>_part.dianpie</string>
       <string>_part.hengdianpie</string>
       <string>_part.hengpiehengwandian</string>
@@ -1658,23 +1803,31 @@
       <string>_part.u2D80D</string>
       <string>_part.uni340C</string>
       <string>_part.uni342C</string>
+      <string>_part.uni34DE</string>
       <string>_part.uni3951</string>
       <string>_part.uni4E0D</string>
       <string>_part.uni4E39</string>
+      <string>_part.uni4E43</string>
       <string>_part.uni4E5D</string>
       <string>_part.uni4E91</string>
       <string>_part.uni4E95</string>
       <string>_part.uni4EA7</string>
       <string>_part.uni4F86</string>
+      <string>_part.uni5144</string>
       <string>_part.uni516C</string>
       <string>_part.uni5206</string>
       <string>_part.uni52FF</string>
       <string>_part.uni534A</string>
       <string>_part.uni5352</string>
+      <string>_part.uni5373</string>
+      <string>_part.uni53BB</string>
       <string>_part.uni53EF</string>
       <string>_part.uni5404</string>
       <string>_part.uni56E0</string>
+      <string>_part.uni591A</string>
       <string>_part.uni5929</string>
+      <string>_part.uni592B</string>
+      <string>_part.uni592E</string>
       <string>_part.uni5B89</string>
       <string>_part.uni5C11</string>
       <string>_part.uni5E1A</string>
@@ -1683,6 +1836,7 @@
       <string>_part.uni6025</string>
       <string>_part.uni6729</string>
       <string>_part.uni6797</string>
+      <string>_part.uni6B63</string>
       <string>_part.uni6B64</string>
       <string>_part.uni6B65</string>
       <string>_part.uni6BCD</string>
@@ -1691,9 +1845,11 @@
       <string>_part.uni738B</string>
       <string>_part.uni73A8</string>
       <string>_part.uni7528</string>
-      <string>_part.uni821B</string>
+      <string>_part.uni7FA9</string>
+      <string>_part.uni81E4</string>
       <string>_part.uni83EF</string>
       <string>_part.uni96F2</string>
+      <string>_part.uni975E</string>
       <string>_part.uni9FB6</string>
       <string>_part.uni9FBA</string>
       <string>_part.diandiandian.bottom</string>
@@ -1739,6 +1895,7 @@
     </dict>
     <key>public.skipExportGlyphs</key>
     <array>
+      <string>_part.diandian</string>
       <string>_part.diandiandian.bottom</string>
       <string>_part.dianpie</string>
       <string>_part.hengdianpie</string>
@@ -1762,24 +1919,32 @@
       <string>_part.u2D80D</string>
       <string>_part.uni340C</string>
       <string>_part.uni342C</string>
+      <string>_part.uni34DE</string>
       <string>_part.uni3951</string>
       <string>_part.uni4E0D</string>
       <string>_part.uni4E39</string>
+      <string>_part.uni4E43</string>
       <string>_part.uni4E5D</string>
       <string>_part.uni4E91</string>
       <string>_part.uni4E95</string>
       <string>_part.uni4E95.nohook</string>
       <string>_part.uni4EA7</string>
       <string>_part.uni4F86</string>
+      <string>_part.uni5144</string>
       <string>_part.uni516C</string>
       <string>_part.uni5206</string>
       <string>_part.uni52FF</string>
       <string>_part.uni534A</string>
       <string>_part.uni5352</string>
+      <string>_part.uni5373</string>
+      <string>_part.uni53BB</string>
       <string>_part.uni53EF</string>
       <string>_part.uni5404</string>
       <string>_part.uni56E0</string>
+      <string>_part.uni591A</string>
       <string>_part.uni5929</string>
+      <string>_part.uni592B</string>
+      <string>_part.uni592E</string>
       <string>_part.uni5B89</string>
       <string>_part.uni5C11</string>
       <string>_part.uni5E1A</string>
@@ -1789,6 +1954,7 @@
       <string>_part.uni6729</string>
       <string>_part.uni672A.left</string>
       <string>_part.uni6797</string>
+      <string>_part.uni6B63</string>
       <string>_part.uni6B64</string>
       <string>_part.uni6B65</string>
       <string>_part.uni6BCD</string>
@@ -1798,13 +1964,16 @@
       <string>_part.uni738B.right</string>
       <string>_part.uni73A8</string>
       <string>_part.uni7528</string>
-      <string>_part.uni821B</string>
+      <string>_part.uni7FA9</string>
+      <string>_part.uni81E4</string>
       <string>_part.uni83EF</string>
       <string>_part.uni96F2</string>
+      <string>_part.uni975E</string>
       <string>_part.uni9FB6</string>
       <string>_part.uni9FBA</string>
       <string>uni2E83</string>
       <string>uni2E86</string>
+      <string>uni2E88</string>
       <string>uni2E88.longarm</string>
       <string>uni2E8B</string>
       <string>uni2E8C</string>
@@ -1816,6 +1985,7 @@
       <string>uni2EA2</string>
       <string>uni2EA2.curve</string>
       <string>uni2EA8</string>
+      <string>uni2EAD</string>
       <string>uni2EBA</string>
       <string>uni2EC3</string>
       <string>uni2EC8</string>
@@ -1827,9 +1997,12 @@
       <string>uni2F04</string>
       <string>uni2F04.small</string>
       <string>uni2F05</string>
+      <string>uni2F07</string>
       <string>uni2F08</string>
+      <string>uni2F09</string>
       <string>uni2F0B</string>
       <string>uni2F0D</string>
+      <string>uni2F0F</string>
       <string>uni2F12</string>
       <string>uni2F14</string>
       <string>uni2F14.left</string>
@@ -1837,6 +2010,7 @@
       <string>uni2F1B</string>
       <string>uni2F1C</string>
       <string>uni2F1C.alt</string>
+      <string>uni2F1D.alt</string>
       <string>uni2F1D.bottom</string>
       <string>uni2F20</string>
       <string>uni2F20.small</string>
@@ -1851,6 +2025,7 @@
       <string>uni2F27</string>
       <string>uni2F2D</string>
       <string>uni2F2F</string>
+      <string>uni2F30</string>
       <string>uni2F31</string>
       <string>uni2F33</string>
       <string>uni2F34</string>
@@ -1880,6 +2055,7 @@
       <string>uni2F55</string>
       <string>uni2F55.left</string>
       <string>uni2F5B</string>
+      <string>uni2F5B.alt</string>
       <string>uni2F5C</string>
       <string>uni2F5C.left</string>
       <string>uni2F5F</string>
@@ -1891,18 +2067,41 @@
       <string>uni2F69</string>
       <string>uni2F6A.right</string>
       <string>uni2F6B</string>
+      <string>uni2F6B.alt</string>
+      <string>uni2F6C</string>
+      <string>uni2F6F</string>
+      <string>uni2F6F.left</string>
       <string>uni2F70</string>
+      <string>uni2F72</string>
+      <string>uni2F72.left</string>
+      <string>uni2F73</string>
       <string>uni2F74</string>
+      <string>uni2F76</string>
+      <string>uni2F76.bottom</string>
       <string>uni2F76.left</string>
+      <string>uni2F77</string>
+      <string>uni2F78</string>
+      <string>uni2F7A</string>
+      <string>uni2F7B</string>
+      <string>uni2F7B.top</string>
       <string>uni2F80</string>
+      <string>uni2F82</string>
+      <string>uni2F87</string>
       <string>uni2F89</string>
+      <string>uni2F8B</string>
       <string>uni2F8C.left</string>
+      <string>uni2F8D</string>
+      <string>uni2F94.left</string>
       <string>uni2F99</string>
       <string>uni2F9B.left</string>
       <string>uni2F9E</string>
       <string>uni2FA1</string>
       <string>uni2FAB</string>
       <string>uni2FAB.right</string>
+      <string>uni2FB0</string>
+      <string>uni2FBA</string>
+      <string>uni2FC2.left</string>
+      <string>uni2FCF</string>
     </array>
   </dict>
 </plist>

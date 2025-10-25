@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="_part.uni821B" format="2">
+<glyph name="uni2F87" format="2">
   <advance width="1000"/>
+  <unicode hex="2F87"/>
   <outline>
     <contour>
       <point x="213" y="-62" type="curve" smooth="yes"/>
@@ -53,10 +54,10 @@
       <point x="960" y="360" type="line"/>
     </contour>
     <contour>
-      <point x="687" y="837" type="line"/>
-      <point x="687" y="-67" type="line"/>
-      <point x="769" y="-67" type="line"/>
-      <point x="769" y="837" type="line"/>
+      <point x="687" y="827" type="line"/>
+      <point x="687" y="-77" type="line"/>
+      <point x="769" y="-77" type="line"/>
+      <point x="769" y="827" type="line"/>
     </contour>
   </outline>
 </glyph>

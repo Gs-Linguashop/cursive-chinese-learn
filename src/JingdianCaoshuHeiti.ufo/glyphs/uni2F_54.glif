@@ -40,14 +40,14 @@
       <point x="126" y="-68"/>
     </contour>
     <contour>
-      <point x="147" y="625" type="curve"/>
-      <point x="179" y="550" type="line"/>
-      <point x="362" y="603"/>
-      <point x="541" y="678"/>
-      <point x="717" y="774" type="curve"/>
-      <point x="651" y="840" type="line"/>
-      <point x="512" y="762"/>
-      <point x="314" y="674"/>
+      <point x="137" y="625" type="curve"/>
+      <point x="169" y="550" type="line"/>
+      <point x="352" y="603"/>
+      <point x="531" y="678"/>
+      <point x="707" y="774" type="curve"/>
+      <point x="641" y="840" type="line"/>
+      <point x="502" y="762"/>
+      <point x="304" y="674"/>
     </contour>
   </outline>
 </glyph>
