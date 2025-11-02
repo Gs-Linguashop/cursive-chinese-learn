@@ -22,23 +22,23 @@
       <point x="387" y="-78"/>
     </contour>
     <contour>
-      <point x="53" y="245" type="line"/>
-      <point x="947" y="245" type="line"/>
-      <point x="947" y="321" type="line"/>
-      <point x="53" y="321" type="line"/>
+      <point x="53" y="243" type="line"/>
+      <point x="947" y="243" type="line"/>
+      <point x="947" y="323" type="line"/>
+      <point x="53" y="323" type="line"/>
     </contour>
     <contour>
-      <point x="116" y="478" type="line"/>
-      <point x="884" y="478" type="line"/>
-      <point x="884" y="552" type="line"/>
-      <point x="116" y="552" type="line"/>
+      <point x="116" y="476" type="line"/>
+      <point x="884" y="476" type="line"/>
+      <point x="884" y="554" type="line"/>
+      <point x="116" y="554" type="line"/>
     </contour>
     <contour>
       <point x="117" y="746" type="curve"/>
-      <point x="135" y="678" type="line"/>
-      <point x="344" y="685"/>
-      <point x="654" y="708"/>
-      <point x="854" y="768" type="curve"/>
+      <point x="135" y="674" type="line"/>
+      <point x="344" y="681"/>
+      <point x="654" y="704"/>
+      <point x="854" y="764" type="curve"/>
       <point x="806" y="832" type="line"/>
       <point x="641" y="780"/>
       <point x="337" y="755"/>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni8A2D" format="2">
+  <advance width="1000"/>
+  <unicode hex="8A2D"/>
+  <unicode hex="8BBE"/>
+  <outline>
+    <contour>
+      <point x="118" y="750" type="line"/>
+      <point x="118" y="-22" type="line"/>
+      <point x="198" y="-22" type="line"/>
+      <point x="198" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="509" y="450" type="curve"/>
+      <point x="577" y="412" type="line"/>
+      <point x="677" y="499"/>
+      <point x="776" y="607"/>
+      <point x="856" y="718" type="curve"/>
+      <point x="789" y="757" type="line"/>
+      <point x="775" y="744" type="line"/>
+      <point x="480" y="744" type="line"/>
+      <point x="479" y="666" type="line"/>
+      <point x="719" y="666" type="line"/>
+      <point x="675" y="608"/>
+      <point x="597" y="523"/>
+    </contour>
+    <contour>
+      <point x="280" y="567" type="curve"/>
+      <point x="334" y="507" type="line"/>
+      <point x="431" y="591"/>
+      <point x="534" y="695"/>
+      <point x="611" y="809" type="curve"/>
+      <point x="539" y="841" type="line"/>
+      <point x="471" y="736"/>
+      <point x="378" y="642"/>
+    </contour>
+    <contour>
+      <point x="279" y="4" type="curve"/>
+      <point x="333" y="-60" type="line"/>
+      <point x="584" y="28"/>
+      <point x="809" y="157"/>
+      <point x="911" y="449" type="curve"/>
+      <point x="855" y="486" type="line"/>
+      <point x="834" y="476" type="line"/>
+      <point x="335" y="476" type="line"/>
+      <point x="335" y="400" type="line"/>
+      <point x="793" y="400" type="line"/>
+      <point x="717" y="200"/>
+      <point x="516" y="86"/>
+    </contour>
+    <contour>
+      <point x="880" y="-74" type="curve"/>
+      <point x="943" y="-12" type="line"/>
+      <point x="745" y="119"/>
+      <point x="584" y="207"/>
+      <point x="399" y="277" type="curve"/>
+      <point x="353" y="220" type="line"/>
+      <point x="536" y="147"/>
+      <point x="690" y="60"/>
+    </contour>
+  </outline>
+</glyph>

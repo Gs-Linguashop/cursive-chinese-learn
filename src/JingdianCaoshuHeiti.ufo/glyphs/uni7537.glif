@@ -64,11 +64,11 @@ cid27072
       <point x="833" y="807"/>
       <point x="593" y="807" type="curve" smooth="yes"/>
       <point x="396" y="807"/>
-      <point x="253" y="715"/>
-      <point x="206" y="636" type="curve"/>
+      <point x="253" y="720"/>
+      <point x="206" y="645" type="curve"/>
       <point x="206" y="773" type="line"/>
-      <point x="131" y="773" type="line"/>
-      <point x="131" y="444" type="line"/>
+      <point x="128" y="773" type="line"/>
+      <point x="128" y="444" type="line"/>
       <point x="206" y="444" type="line"/>
       <point x="206" y="573" type="line"/>
       <point x="289" y="665"/>

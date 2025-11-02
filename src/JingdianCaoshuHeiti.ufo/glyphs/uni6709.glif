@@ -29,26 +29,26 @@ cid20695
       <point x="770" y="596" type="line"/>
       <point x="755" y="588" type="line"/>
       <point x="183" y="566"/>
-      <point x="53" y="434"/>
-      <point x="53" y="340" type="curve" smooth="yes"/>
-      <point x="53" y="238"/>
-      <point x="122" y="193"/>
-      <point x="203" y="193" type="curve" smooth="yes"/>
-      <point x="354" y="193"/>
-      <point x="549" y="470"/>
-      <point x="714" y="755" type="curve"/>
+      <point x="53" y="396"/>
+      <point x="53" y="312" type="curve" smooth="yes"/>
+      <point x="53" y="244"/>
+      <point x="107" y="193"/>
+      <point x="183" y="193" type="curve" smooth="yes"/>
+      <point x="334" y="193"/>
+      <point x="554" y="470"/>
+      <point x="724" y="765" type="curve"/>
       <point x="657" y="813" type="line"/>
       <point x="631" y="799" type="line"/>
       <point x="113" y="799" type="line"/>
       <point x="113" y="719" type="line"/>
       <point x="601" y="719" type="line"/>
       <point x="485" y="505"/>
-      <point x="303" y="272"/>
-      <point x="203" y="272" type="curve" smooth="yes"/>
-      <point x="157" y="272"/>
-      <point x="131" y="295"/>
-      <point x="131" y="340" type="curve" smooth="yes"/>
-      <point x="131" y="383"/>
+      <point x="283" y="272"/>
+      <point x="183" y="272" type="curve" smooth="yes"/>
+      <point x="147" y="272"/>
+      <point x="131" y="285"/>
+      <point x="131" y="312" type="curve" smooth="yes"/>
+      <point x="131" y="351"/>
       <point x="227" y="487"/>
     </contour>
     <contour>

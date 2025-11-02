@@ -21,9 +21,6 @@
 *“泉”*
 ![泉](../src/JingdianCaoshuHeiti-svg/uni6CC9.svg)
 
-*“原”*
-![原](../src/JingdianCaoshuHeiti-svg/uni539F.svg)
-
 # 「木」
 
 「木」字有两类写法，取决于与上方的连接关系。

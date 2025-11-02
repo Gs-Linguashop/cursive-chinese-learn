@@ -49,10 +49,10 @@
       <point x="479" y="109"/>
     </contour>
     <contour>
-      <point x="78" y="-39" type="line"/>
-      <point x="922" y="-39" type="line"/>
-      <point x="922" y="36" type="line"/>
-      <point x="78" y="36" type="line"/>
+      <point x="78" y="-43" type="line"/>
+      <point x="922" y="-43" type="line"/>
+      <point x="922" y="39" type="line"/>
+      <point x="78" y="39" type="line"/>
     </contour>
   </outline>
 </glyph>
