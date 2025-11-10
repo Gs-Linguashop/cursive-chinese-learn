@@ -5,24 +5,24 @@
 # 下方的「十」「㐄」「丰」
 
 *“草”*
-![草](../src/JingdianCaoshuHeiti-svg/uni8349.svg)
+![草](../src/MingjianCaoshuHeiti-svg/uni8349.svg)
 
 *“奉”*
-![奉](../src/JingdianCaoshuHeiti-svg/uni5949.svg)
+![奉](../src/MingjianCaoshuHeiti-svg/uni5949.svg)
 
 *“解”*
-![解](../src/JingdianCaoshuHeiti-svg/uni89E3.svg)
+![解](../src/MingjianCaoshuHeiti-svg/uni89E3.svg)
 
 *“年”*
-![年](../src/JingdianCaoshuHeiti-svg/uni5E74.svg)
+![年](../src/MingjianCaoshuHeiti-svg/uni5E74.svg)
 
 # 下方的「丄」「土」「龶」
 
 *“在”*
-[在](../src/JingdianCaoshuHeiti-svg/uni5728.svg)
+[在](../src/MingjianCaoshuHeiti-svg/uni5728.svg)
 
 *“壬”*
-![壬](../src/JingdianCaoshuHeiti-svg/uni58EC.svg)
+![壬](../src/MingjianCaoshuHeiti-svg/uni58EC.svg)
 
 *“愛爱”*
-![愛爱](../src/JingdianCaoshuHeiti-svg/uni611B.svg)
+![愛爱](../src/MingjianCaoshuHeiti-svg/uni611B.svg)
