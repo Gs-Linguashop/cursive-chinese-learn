@@ -13,7 +13,7 @@
 
 # 获取链接
 
-[此处](font/MingjianCaoshuHeiti.ufo)获取最新版本ufo字体源文件。您可以简单通过常用的转换工具转换成ttf、otf等格式。
+[此处](MingjianCaoshuHeiti.ufo)获取最新版本ufo字体源文件。您可以简单通过常用的转换工具转换成ttf、otf等格式。
 
 ## 完成进度
 
