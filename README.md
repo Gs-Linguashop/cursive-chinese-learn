@@ -2,7 +2,7 @@
 
 # 嗷呜的草书字形学习资料
 
-这是一个面向一般对草书字形感兴趣、想快速学习草书字形的课件项目。还包含了一款[用于学习草书的字体](font/README.md)。
+这是一个面向一般对草书字形感兴趣、想快速学习草书字形的课件项目。还包含了一款用于学习草书的字体（链接在本页下方）。
 
 在这里，我们专注于探究草书的字形和字形的来源，了解草书的基本笔画和行笔逻辑，并学习如何利用楷书字形类推草书的字形。这是一套由基础理论到例字字典的系统性地认识和学习草书的方法。学习之后，您可以自如地再日常生活中使用草书。
 
@@ -23,14 +23,18 @@
 * 字形库（完善中）：
 	* [草书字形结构索引](dictionary/README.md)（可查询字形）：这是一个系统化的草书结构和字形索引，您可以检索字形关系和结构。
 	* 字形采用[明鉴草书黑体](font/README.md)呈现。
-* [明鉴草书黑体](font/README.md)（完善中）
-	* 这是一款用于草书学习参考和日常电子设备使用的开源字体。连接在[这里](font/README.md)。
+* 明鉴草书黑体（完善中，链接在本页下方）
+	* 这是一款用于草书学习参考和日常电子设备使用的开源字体。
 
-资料获取
-* Git镜像
+# 资料获取
+
+* 本资料库镜像
 	* [GitHub](https://github.com/Gs-Linguashop/cursive-chinese-learn.git)
 	* [Gitee（国内）](https://gitee.com/awwlang/cursive-chinese-learn.git)
-* 视频版请在视频平台搜索“嗷呜草书字形”，持续更新中
+* “明鉴草书黑体”获取
+	* [GitHub](https://github.com/Gs-Linguashop/MingjianCaoshuHeiti.git)
+	* [Gitee（国内）](https://gitee.com/awwlang/MingjianCaoshuHeiti.git)
+* 配套视频请在视频平台搜索“嗷呜草书字形”，持续更新中
 	* Bilibili账号：喔喔喔嗷嗚
 	* Youtube账号：Aww Linguistics
 

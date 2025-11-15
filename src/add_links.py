@@ -113,9 +113,6 @@ def add_glyph_links_to_markdown(input_md_file, svg_folder_path, output_file=None
                     
                     if clean_glyph_name:
                         svg_file = find_glyph_svg(clean_glyph_name, svg_folder)
-                        if clean_glyph_name == "函":
-                            print(f"Debug: Looking for SVG for glyph '{clean_glyph_name}'")
-                            print(f"Debug: Found SVG file: {svg_file}")
                         if svg_file:
                             # Determine the link path
                             if link_svg_folder:

@@ -49,16 +49,16 @@
 
 位置组合关系是决定一个汉字结构在具体草形中怎样呈现的重要因素。同样的符号在字的上、下、左、右时，由于书写连贯的需要，往往会呈现出不同的草形。
 
-![口](../src/JingdianCaoshuHeiti-svg/uni53E3.svg)
-![哈](../src/JingdianCaoshuHeiti-svg/uni54C8.svg)
-![品](../src/JingdianCaoshuHeiti-svg/uni54C1.svg)
+![口](../font/MingjianCaoshuHeiti-svg/uni53E3.svg)
+![哈](../font/MingjianCaoshuHeiti-svg/uni54C8.svg)
+![品](../font/MingjianCaoshuHeiti-svg/uni54C1.svg)
 *（图：“口”形在“口”、“哈”、“品”字中的变化）*
 
 同时，草形结构在组合时也会发生字形的变化。
 
-![千](../src/JingdianCaoshuHeiti-svg/uni5343.svg)
-![里](../src/JingdianCaoshuHeiti-svg/uni91CC.svg)
-![重](../src/JingdianCaoshuHeiti-svg/uni91CD.svg)
+![千](../font/MingjianCaoshuHeiti-svg/uni5343.svg)
+![里](../font/MingjianCaoshuHeiti-svg/uni91CC.svg)
+![重](../font/MingjianCaoshuHeiti-svg/uni91CD.svg)
 *（图：“千”与“里”结合成“重”字时的变化）*
 
 ## 简化程度
@@ -68,8 +68,8 @@
 常见的决定草形的简化程度的因素有
 * 在字中的位置
 	* 字形由繁复到简化：字的主体（右侧、非部首）>部首中（左、上、下）>字中间
-![信](../src/JingdianCaoshuHeiti-svg/uni4FE1.svg)
-![語](../src/JingdianCaoshuHeiti-svg/uni8A9E.alt.svg)
+![信](../font/MingjianCaoshuHeiti-svg/uni4FE1.svg)
+![語](../font/MingjianCaoshuHeiti-svg/uni8A9E.alt.svg)
 *（图：“言”旁在“信”、语”字中的变化）*
 * 字本身结构的拥挤程度：越拥挤越简化
 * 常用还是罕见：常用的更简化，罕见的更繁复
@@ -127,7 +127,7 @@
 		* 「十」「㐄」
 		* 「㇀」「𠄌」「丄」「之字底」
 		* 「夕」「勹」「口」「禸/巾」
-	* 「勹」「㇡」相关的组合结构
+	* [「勹」「㇡」相关的组合结构](lesson-1-12.md)
 	* 「之字底」相关
 	* 「止/正」「且」「丿（上）」「井/林/开」「刀字头/艮字头」「廾」
 	* 「工字框」相关

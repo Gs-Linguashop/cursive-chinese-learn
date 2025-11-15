@@ -1,6 +1,10 @@
+![明鉴草书黑体](../src/font_logo.svg)
+
 # 明鉴草书黑体
 
-这是一款笔画清晰明确的开源草书黑体字库（繁体）。字库为下列用途精心设计：
+*提醒：明鉴草书黑体主页已移出，请访问[此页（GitHub）](https://github.com/Gs-Linguashop/MingjianCaoshuHeiti)或[此页（Gitee国内）](https://gitee.com/awwlang/MingjianCaoshuHeiti)。*
+
+这是一款笔画清晰明确的开源草书黑体字库。字库为下列用途精心设计：
 * **书法参考**
 	* 字形**清晰明了**，以黑体作为表现形式，呈现今草字形。具有传统字帖和书法字典无法相比的**清晰性**、**系统性**和**规范性**。
 	* 字形**严谨考究**，字字用形参考两千年各代书法名家，兼逐字严格分析构型结构，呈现最为地道规范草书字形，规避了以往字帖和参考资料中充斥的异写形和讹形。一些有多种写法的字，还补充有额外的可选字形。
@@ -15,7 +19,7 @@
 
 目前字体尚在完成中，已经进入批量生产阶段，持续更新。
 
-[此处](https://github.com/Gs-Linguashop/MingjianCaoshuHeiti)查看字体最新进度。
+[此处](https://github.com/Gs-Linguashop/MingjianCaoshuHeiti)或[此处（国内）](https://gitee.com/awwlang/MingjianCaoshuHeiti)查看字体最新进度。
 
 如您急需已完整的字库，可以在[方正字库官网](https://www.foundertype.com)获取「方正巴龙草书黑体」。这是一款之前由我主导设计的字库。它不是开源的，请与版权方沟通具体使用条款。
 

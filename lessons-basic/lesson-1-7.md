@@ -7,76 +7,76 @@
 # 上方的「十」「㐄」「丰」
 
 *“來来”*
-![來来](../src/MingjianCaoshuHeiti-svg/uni4F86.svg)
+![來来](../font/MingjianCaoshuHeiti-svg/uni4F86.svg)
 
 *“未”*
-![未](../src/MingjianCaoshuHeiti-svg/uni672A.svg)
+![未](../font/MingjianCaoshuHeiti-svg/uni672A.svg)
 
 *“軍军”*
-![軍军](../src/MingjianCaoshuHeiti-svg/uni8ECD.svg)
+![軍军](../font/MingjianCaoshuHeiti-svg/uni8ECD.svg)
 
 # 上方的「丅」「干」
 
 *“丁”*
-[丁](../src/MingjianCaoshuHeiti-svg/uni4E01.svg)
+[丁](../font/MingjianCaoshuHeiti-svg/uni4E01.svg)
 
 *“其”*
-![其](../src/MingjianCaoshuHeiti-svg/uni5176.svg)
+![其](../font/MingjianCaoshuHeiti-svg/uni5176.svg)
 
 # 上方的「亻」「千」「牛字头」「午字头」
 
 *“手”*
-![手](../src/MingjianCaoshuHeiti-svg/uni624B.svg)
+![手](../font/MingjianCaoshuHeiti-svg/uni624B.svg)
 
 *“我”*
-![我](../src/MingjianCaoshuHeiti-svg/uni6211.svg)
+![我](../font/MingjianCaoshuHeiti-svg/uni6211.svg)
 
 *“生”*
-![生](../src/MingjianCaoshuHeiti-svg/uni751F.svg)
+![生](../font/MingjianCaoshuHeiti-svg/uni751F.svg)
 
 *“午”*
-![午](../src/MingjianCaoshuHeiti-svg/uni5348.svg)
+![午](../font/MingjianCaoshuHeiti-svg/uni5348.svg)
 
 # 「平字头」「乎字头」「夹字头」「娄字头」「半字头」
 
 *“巠”*
-![巠](../src/MingjianCaoshuHeiti-svg/uni5DE0.svg)
+![巠](../font/MingjianCaoshuHeiti-svg/uni5DE0.svg)
 
 *“妥”*
-![妥](../src/MingjianCaoshuHeiti-svg/uni59A5.svg)
+![妥](../font/MingjianCaoshuHeiti-svg/uni59A5.svg)
 
 *“夹”*
-![夾夹](../src/MingjianCaoshuHeiti-svg/uni593E.svg)
+![夾夹](../font/MingjianCaoshuHeiti-svg/uni593E.svg)
 
 *“婁娄”*
-![婁娄](../src/MingjianCaoshuHeiti-svg/uni5A41.svg)
+![婁娄](../font/MingjianCaoshuHeiti-svg/uni5A41.svg)
 
 *“米”*
-![米](../src/MingjianCaoshuHeiti-svg/uni7C73.svg)
+![米](../font/MingjianCaoshuHeiti-svg/uni7C73.svg)
 
 这里我们没有提到「⺌」，因为这个部件的笔顺是「竖-点-撇」，并不是最后写竖的。
 
 这种结构中的左右两点经常被简写成一横。
 
 *“平”*
-![平](../src/MingjianCaoshuHeiti-svg/uni5E73.svg)
+![平](../font/MingjianCaoshuHeiti-svg/uni5E73.svg)
 
 *“炎”*
-![炎](../src/MingjianCaoshuHeiti-svg/uni708E.svg)
+![炎](../font/MingjianCaoshuHeiti-svg/uni708E.svg)
 
 # 「反犬头」
 
 「反犬头」经常作为「十」或者「犬字头」的简写。
 
 *“求”*
-![求](../src/MingjianCaoshuHeiti-svg/uni6C42.svg)
+![求](../font/MingjianCaoshuHeiti-svg/uni6C42.svg)
 
 # 「⺊」
 
 *“占”*
-![占](../src/MingjianCaoshuHeiti-svg/uni5360.svg)
+![占](../font/MingjianCaoshuHeiti-svg/uni5360.svg)
 
 # 「弔」
 
 *“弟”*
-![弟](../src/MingjianCaoshuHeiti-svg/uni5F1F.svg)
+![弟](../font/MingjianCaoshuHeiti-svg/uni5F1F.svg)
