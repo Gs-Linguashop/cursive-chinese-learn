@@ -32,6 +32,9 @@ def main():
                 print(f"Warning: skipped malformed row: {row}")
                 continue
             md_row = f"| {row[0]} | {row[1]} | {row[2]} | {row[3]} | {row[4]} |"
+            if md_row in rows_md:
+                print(f"Warning: skipped duplicate row: {md_row}")
+                continue
             rows_md.append(md_row)
 
     # Write Markdown output

@@ -565,6 +565,7 @@
 # 別
 ![別](../font/MingjianCaoshuHeiti-svg/uni5225.svg)
 # 刨
+![刨](../font/MingjianCaoshuHeiti-svg/uni5228.svg)
 # 利
 ![利](../font/MingjianCaoshuHeiti-svg/uni5229.svg)
 # 刪
@@ -647,6 +648,7 @@
 ![務](../font/MingjianCaoshuHeiti-svg/uni52D9.svg)
 # 勛
 # 勝
+![勝](../font/MingjianCaoshuHeiti-svg/uni52DD.svg)
 # 勞
 ![勞](../font/MingjianCaoshuHeiti-svg/uni52DE.svg)
 # 募
@@ -749,6 +751,7 @@
 # 卸
 ![卸](../font/MingjianCaoshuHeiti-svg/uni5378.svg)
 # 卹
+![卹](../font/MingjianCaoshuHeiti-svg/uni5379.svg)
 # 卻
 ![卻](../font/MingjianCaoshuHeiti-svg/uni537B.svg)
 # 卿
@@ -896,7 +899,9 @@
 # 吭
 # 吮
 # 启
+![启](../font/MingjianCaoshuHeiti-svg/uni542F.svg)
 # 吱
+![吱](../font/MingjianCaoshuHeiti-svg/uni5431.svg)
 # 吳
 ![吳](../font/MingjianCaoshuHeiti-svg/uni5433.svg)
 # 吴
@@ -934,6 +939,7 @@
 # 命
 ![命](../font/MingjianCaoshuHeiti-svg/uni547D.svg)
 # 咆
+![咆](../font/MingjianCaoshuHeiti-svg/uni5486.svg)
 # 和
 # 咏
 # 咐
@@ -979,6 +985,7 @@
 # 哺
 # 哼
 # 唁
+![唁](../font/MingjianCaoshuHeiti-svg/uni5501.svg)
 # 唆
 # 唇
 ![唇](../font/MingjianCaoshuHeiti-svg/uni5507.svg)
@@ -1002,8 +1009,10 @@
 # 啊
 # 問
 # 啓
+![啓](../font/MingjianCaoshuHeiti-svg/uni5553.svg)
 # 啞
 # 啟
+![啟](../font/MingjianCaoshuHeiti-svg/uni555F.svg)
 # 啡
 # 啣
 # 啤
@@ -1143,6 +1152,7 @@
 # 坟
 # 坠
 # 坡
+![坡](../font/MingjianCaoshuHeiti-svg/uni5761.svg)
 # 坤
 ![坤](../font/MingjianCaoshuHeiti-svg/uni5764.svg)
 # 坦
@@ -1160,6 +1170,7 @@
 # 垦
 # 垫
 # 垮
+![垮](../font/MingjianCaoshuHeiti-svg/uni57AE.svg)
 # 埂
 # 埃
 # 埋
@@ -1171,6 +1182,7 @@
 ![執](../font/MingjianCaoshuHeiti-svg/uni57F7.svg)
 # 培
 # 基
+![基](../font/MingjianCaoshuHeiti-svg/uni57FA.svg)
 # 堂
 ![堂](../font/MingjianCaoshuHeiti-svg/uni5802.svg)
 # 堅
@@ -1301,6 +1313,7 @@
 ![奔](../font/MingjianCaoshuHeiti-svg/uni5954.svg)
 # 奕
 # 奖
+![奖](../font/MingjianCaoshuHeiti-svg/uni5956.svg)
 # 套
 ![套](../font/MingjianCaoshuHeiti-svg/uni5957.svg)
 # 奠
@@ -1313,6 +1326,7 @@
 # 奪
 ![奪](../font/MingjianCaoshuHeiti-svg/uni596A.svg)
 # 奬
+![奬](../font/MingjianCaoshuHeiti-svg/uni596C.svg)
 # 奮
 ![奮](../font/MingjianCaoshuHeiti-svg/uni596E.svg)
 # 女
@@ -1334,6 +1348,7 @@
 # 妒
 ![妒](../font/MingjianCaoshuHeiti-svg/uni5992.svg)
 # 妓
+![妓](../font/MingjianCaoshuHeiti-svg/uni5993.svg)
 # 妖
 # 妙
 # 妝
@@ -1421,6 +1436,7 @@
 # 季
 ![季](../font/MingjianCaoshuHeiti-svg/uni5B63.svg)
 # 孤
+![孤](../font/MingjianCaoshuHeiti-svg/uni5B64.svg)
 # 学
 ![学](../font/MingjianCaoshuHeiti-svg/uni5B66.svg)
 # 孩
@@ -1832,6 +1848,7 @@
 # 弥
 # 弦
 # 弧
+![弧](../font/MingjianCaoshuHeiti-svg/uni5F27.svg)
 # 弯
 # 弱
 ![弱](../font/MingjianCaoshuHeiti-svg/uni5F31.svg)
@@ -1867,6 +1884,7 @@
 # 役
 # 彻
 # 彼
+![彼](../font/MingjianCaoshuHeiti-svg/uni5F7C.svg)
 # 彿
 # 往
 ![往](../font/MingjianCaoshuHeiti-svg/uni5F80.svg)
@@ -1895,6 +1913,7 @@
 # 德
 ![德](../font/MingjianCaoshuHeiti-svg/uni5FB7.svg)
 # 徹
+![徹](../font/MingjianCaoshuHeiti-svg/uni5FB9.svg)
 # 徽
 # 心
 ![心](../font/MingjianCaoshuHeiti-svg/uni5FC3.svg)
@@ -1945,6 +1964,7 @@
 # 恕
 # 恢
 # 恤
+![恤](../font/MingjianCaoshuHeiti-svg/uni6064.svg)
 # 恥
 # 恨
 # 恩
@@ -2126,12 +2146,14 @@
 ![找](../font/MingjianCaoshuHeiti-svg/uni627E.svg)
 # 承
 # 技
+![技](../font/MingjianCaoshuHeiti-svg/uni6280.svg)
 # 抄
 # 把
 # 抑
 # 抒
 # 抓
 # 投
+![投](../font/MingjianCaoshuHeiti-svg/uni6295.svg)
 # 抖
 # 抗
 # 折
@@ -2146,8 +2168,10 @@
 # 报
 ![报](../font/MingjianCaoshuHeiti-svg/uni62A5.svg)
 # 披
+![披](../font/MingjianCaoshuHeiti-svg/uni62AB.svg)
 # 抬
 # 抱
+![抱](../font/MingjianCaoshuHeiti-svg/uni62B1.svg)
 # 抵
 # 抹
 # 押
@@ -2200,6 +2224,7 @@
 # 指
 # 按
 # 挎
+![挎](../font/MingjianCaoshuHeiti-svg/uni630E.svg)
 # 挑
 # 挖
 # 挚
@@ -2209,6 +2234,7 @@
 # 挣
 # 挤
 # 挥
+![挥](../font/MingjianCaoshuHeiti-svg/uni6325.svg)
 # 挨
 # 挪
 # 挫
@@ -2274,6 +2300,7 @@
 # 描
 # 提
 # 插
+![插](../font/MingjianCaoshuHeiti-svg/uni63D2.svg)
 # 揖
 # 揚
 # 換
@@ -2283,6 +2310,7 @@
 # 揪
 # 揭
 # 揮
+![揮](../font/MingjianCaoshuHeiti-svg/uni63EE.svg)
 # 援
 # 揽
 # 搀
@@ -2328,6 +2356,7 @@
 # 撞
 # 撣
 # 撤
+![撤](../font/MingjianCaoshuHeiti-svg/uni64A4.svg)
 # 撥
 # 撩
 # 撫
@@ -2451,6 +2480,7 @@
 # 族
 ![族](../font/MingjianCaoshuHeiti-svg/uni65CF.svg)
 # 旗
+![旗](../font/MingjianCaoshuHeiti-svg/uni65D7.svg)
 # 无
 ![无](../font/MingjianCaoshuHeiti-svg/uni65E0.svg)
 # 既
@@ -2515,6 +2545,7 @@
 # 晒
 # 晓
 # 晕
+![晕](../font/MingjianCaoshuHeiti-svg/uni6655.svg)
 # 晚
 # 晝
 ![晝](../font/MingjianCaoshuHeiti-svg/uni665D.svg)
@@ -2535,6 +2566,7 @@
 # 暂
 # 暇
 # 暈
+![暈](../font/MingjianCaoshuHeiti-svg/uni6688.svg)
 # 暑
 # 暖
 # 暗
@@ -2582,6 +2614,7 @@
 # 朝
 ![朝](../font/MingjianCaoshuHeiti-svg/uni671D.svg)
 # 期
+![期](../font/MingjianCaoshuHeiti-svg/uni671F.svg)
 # 朦
 # 朧
 # 木
@@ -2649,6 +2682,7 @@
 # 果
 ![果](../font/MingjianCaoshuHeiti-svg/uni679C.svg)
 # 枝
+![枝](../font/MingjianCaoshuHeiti-svg/uni679D.svg)
 # 枢
 # 枣
 ![枣](../font/MingjianCaoshuHeiti-svg/uni67A3.svg)
@@ -2660,6 +2694,7 @@
 # 架
 # 枷
 # 柄
+![柄](../font/MingjianCaoshuHeiti-svg/uni67C4.svg)
 # 柏
 # 某
 ![某](../font/MingjianCaoshuHeiti-svg/uni67D0.svg)
@@ -2677,6 +2712,7 @@
 ![柬](../font/MingjianCaoshuHeiti-svg/uni67EC.svg)
 # 柱
 # 柳
+![柳](../font/MingjianCaoshuHeiti-svg/uni67F3.svg)
 # 柴
 ![柴](../font/MingjianCaoshuHeiti-svg/uni67F4.svg)
 # 柵
@@ -2714,12 +2750,14 @@
 # 桥
 # 桦
 # 桨
+![桨](../font/MingjianCaoshuHeiti-svg/uni6868.svg)
 # 桩
 # 桶
 # 桿
 # 梁
 # 梅
 # 梆
+![梆](../font/MingjianCaoshuHeiti-svg/uni6886.svg)
 # 梗
 # 條
 ![條](../font/MingjianCaoshuHeiti-svg/uni689D.svg)
@@ -2739,6 +2777,7 @@
 # 棉
 ![棉](../font/MingjianCaoshuHeiti-svg/uni68C9.svg)
 # 棋
+![棋](../font/MingjianCaoshuHeiti-svg/uni68CB.svg)
 # 棍
 # 棒
 # 棕
@@ -2793,6 +2832,7 @@
 # 槐
 # 槓
 # 槳
+![槳](../font/MingjianCaoshuHeiti-svg/uni69F3.svg)
 # 槽
 # 樁
 # 樂
@@ -2842,6 +2882,7 @@
 # 欧
 # 欲
 # 欺
+![欺](../font/MingjianCaoshuHeiti-svg/uni6B3A.svg)
 # 欽
 # 款
 ![款](../font/MingjianCaoshuHeiti-svg/uni6B3E.svg)
@@ -2862,6 +2903,7 @@
 # 武
 ![武](../font/MingjianCaoshuHeiti-svg/uni6B66.svg)
 # 歧
+![歧](../font/MingjianCaoshuHeiti-svg/uni6B67.svg)
 # 歪
 ![歪](../font/MingjianCaoshuHeiti-svg/uni6B6A.svg)
 # 歲
@@ -2994,6 +3036,7 @@
 # 泛
 # 泞
 # 泡
+![泡](../font/MingjianCaoshuHeiti-svg/uni6CE1.svg)
 # 波
 ![波](../font/MingjianCaoshuHeiti-svg/uni6CE2.svg)
 # 泣
@@ -3029,11 +3072,13 @@
 # 流
 # 浅
 # 浆
+![浆](../font/MingjianCaoshuHeiti-svg/uni6D46.svg)
 # 浇
 # 浊
 # 测
 # 济
 # 浑
+![浑](../font/MingjianCaoshuHeiti-svg/uni6D51.svg)
 # 浓
 # 浙
 # 浦
@@ -3111,6 +3156,7 @@
 ![游](../font/MingjianCaoshuHeiti-svg/uni6E38.svg)
 # 渺
 # 渾
+![渾](../font/MingjianCaoshuHeiti-svg/uni6E3E.svg)
 # 湃
 # 湊
 # 湖
@@ -3170,6 +3216,7 @@
 # 漸
 # 漾
 # 漿
+![漿](../font/MingjianCaoshuHeiti-svg/uni6F3F.svg)
 # 潑
 # 潔
 # 潘
@@ -3185,6 +3232,7 @@
 # 澆
 # 澇
 # 澈
+![澈](../font/MingjianCaoshuHeiti-svg/uni6F88.svg)
 # 澎
 # 澗
 # 澜
@@ -3243,6 +3291,7 @@
 # 炭
 ![炭](../font/MingjianCaoshuHeiti-svg/uni70AD.svg)
 # 炮
+![炮](../font/MingjianCaoshuHeiti-svg/uni70AE.svg)
 # 炸
 # 点
 # 為
@@ -3384,6 +3433,7 @@
 ![狂](../font/MingjianCaoshuHeiti-svg/uni72C2.svg)
 # 狈
 # 狐
+![狐](../font/MingjianCaoshuHeiti-svg/uni72D0.svg)
 # 狗
 # 狞
 # 狠
@@ -3417,6 +3467,7 @@
 ![獄](../font/MingjianCaoshuHeiti-svg/uni7344.svg)
 # 獅
 # 獎
+![獎](../font/MingjianCaoshuHeiti-svg/uni734E.svg)
 # 獨
 # 獰
 # 獲
@@ -3441,6 +3492,7 @@
 # 玲
 # 玷
 # 玻
+![玻](../font/MingjianCaoshuHeiti-svg/uni73BB.svg)
 # 珊
 # 珍
 # 珠
@@ -3455,6 +3507,7 @@
 # 琉
 # 琍
 # 琐
+![琐](../font/MingjianCaoshuHeiti-svg/uni7410.svg)
 # 琢
 # 琳
 # 琴
@@ -3463,6 +3516,7 @@
 # 瑟
 ![瑟](../font/MingjianCaoshuHeiti-svg/uni745F.svg)
 # 瑣
+![瑣](../font/MingjianCaoshuHeiti-svg/uni7463.svg)
 # 瑩
 # 瑪
 # 瑯
@@ -3496,6 +3550,7 @@
 ![産](../font/MingjianCaoshuHeiti-svg/uni7523.svg)
 # 甥
 # 甦
+![甦](../font/MingjianCaoshuHeiti-svg/uni7526.svg)
 # 用
 ![用](../font/MingjianCaoshuHeiti-svg/uni7528.svg)
 # 甩
@@ -3561,16 +3616,20 @@
 # 疮
 # 疯
 # 疲
+![疲](../font/MingjianCaoshuHeiti-svg/uni75B2.svg)
 # 疹
 # 疼
+![疼](../font/MingjianCaoshuHeiti-svg/uni75BC.svg)
 # 疾
 ![疾](../font/MingjianCaoshuHeiti-svg/uni75BE.svg)
 # 病
+![病](../font/MingjianCaoshuHeiti-svg/uni75C5.svg)
 # 症
 # 痊
 # 痒
 # 痕
 # 痘
+![痘](../font/MingjianCaoshuHeiti-svg/uni75D8.svg)
 # 痛
 # 痢
 # 痪
@@ -3721,6 +3780,7 @@
 # 矩
 # 矫
 # 短
+![短](../font/MingjianCaoshuHeiti-svg/uni77ED.svg)
 # 矮
 # 矯
 # 石
@@ -3736,6 +3796,7 @@
 # 砚
 # 砰
 # 破
+![破](../font/MingjianCaoshuHeiti-svg/uni7834.svg)
 # 砸
 # 砾
 # 础
@@ -3965,6 +4026,7 @@
 ![箍](../font/MingjianCaoshuHeiti-svg/uni7B8D.svg)
 # 箏
 # 箕
+![箕](../font/MingjianCaoshuHeiti-svg/uni7B95.svg)
 # 算
 ![算](../font/MingjianCaoshuHeiti-svg/uni7B97.svg)
 # 管
@@ -3984,11 +4046,13 @@
 # 篱
 # 篷
 # 簇
+![簇](../font/MingjianCaoshuHeiti-svg/uni7C07.svg)
 # 簍
 # 簡
 # 簫
 # 簷
 # 簸
+![簸](../font/MingjianCaoshuHeiti-svg/uni7C38.svg)
 # 簽
 # 簿
 # 籃
@@ -3996,6 +4060,7 @@
 # 籌
 # 籍
 # 籐
+![籐](../font/MingjianCaoshuHeiti-svg/uni7C50.svg)
 # 籠
 # 籬
 # 籮
@@ -4067,6 +4132,7 @@
 # 紳
 # 紹
 # 終
+![終](../font/MingjianCaoshuHeiti-svg/uni7D42.svg)
 # 絃
 # 組
 # 絆
@@ -4085,6 +4151,7 @@
 ![絶](../font/MingjianCaoshuHeiti-svg/uni7D76.svg)
 # 絹
 # 綁
+![綁](../font/MingjianCaoshuHeiti-svg/uni7D81.svg)
 # 綉
 # 綑
 # 經
@@ -4173,11 +4240,13 @@
 ![细](../font/MingjianCaoshuHeiti-svg/uni7EC6.svg)
 # 织
 # 终
+![终](../font/MingjianCaoshuHeiti-svg/uni7EC8.svg)
 # 绊
 # 绍
 # 绎
 # 经
 # 绑
+![绑](../font/MingjianCaoshuHeiti-svg/uni7ED1.svg)
 # 绒
 # 结
 # 绕
@@ -4270,6 +4339,7 @@
 # 翁
 ![翁](../font/MingjianCaoshuHeiti-svg/uni7FC1.svg)
 # 翅
+![翅](../font/MingjianCaoshuHeiti-svg/uni7FC5.svg)
 # 翎
 # 習
 ![習](../font/MingjianCaoshuHeiti-svg/uni7FD2.svg)
@@ -4308,6 +4378,7 @@
 # 聂
 ![聂](../font/MingjianCaoshuHeiti-svg/uni8042.svg)
 # 聊
+![聊](../font/MingjianCaoshuHeiti-svg/uni804A.svg)
 # 聋
 # 职
 # 联
@@ -4352,6 +4423,7 @@
 # 股
 ![股](../font/MingjianCaoshuHeiti-svg/uni80A1.svg)
 # 肢
+![肢](../font/MingjianCaoshuHeiti-svg/uni80A2.svg)
 # 肤
 ![肤](../font/MingjianCaoshuHeiti-svg/uni80A4.svg)
 # 肥
@@ -4379,11 +4451,14 @@
 # 胖
 # 胚
 # 胜
+![胜](../font/MingjianCaoshuHeiti-svg/uni80DC.svg)
 # 胞
+![胞](../font/MingjianCaoshuHeiti-svg/uni80DE.svg)
 # 胡
 ![胡](../font/MingjianCaoshuHeiti-svg/uni80E1.svg)
 # 胧
 # 胯
+![胯](../font/MingjianCaoshuHeiti-svg/uni80EF.svg)
 # 胰
 # 胳
 # 胶
@@ -4434,6 +4509,7 @@
 # 腺
 # 腻
 # 腾
+![腾](../font/MingjianCaoshuHeiti-svg/uni817E.svg)
 # 腿
 # 膀
 # 膊
@@ -4539,11 +4615,13 @@
 # 苇
 # 苍
 # 苏
+![苏](../font/MingjianCaoshuHeiti-svg/uni82CF.svg)
 # 苔
 # 苗
 ![苗](../font/MingjianCaoshuHeiti-svg/uni82D7.svg)
 # 苛
 # 苞
+![苞](../font/MingjianCaoshuHeiti-svg/uni82DE.svg)
 # 苟
 # 若
 ![若](../font/MingjianCaoshuHeiti-svg/uni82E5.svg)
@@ -4583,6 +4661,7 @@
 # 荣
 ![荣](../font/MingjianCaoshuHeiti-svg/uni8363.svg)
 # 荤
+![荤](../font/MingjianCaoshuHeiti-svg/uni8364.svg)
 # 荧
 ![荧](../font/MingjianCaoshuHeiti-svg/uni8367.svg)
 # 药
@@ -4637,8 +4716,10 @@
 # 葱
 # 葵
 # 葷
+![葷](../font/MingjianCaoshuHeiti-svg/uni8477.svg)
 # 蒂
 # 蒋
+![蒋](../font/MingjianCaoshuHeiti-svg/uni848B.svg)
 # 蒐
 # 蒙
 ![蒙](../font/MingjianCaoshuHeiti-svg/uni8499.svg)
@@ -4664,6 +4745,7 @@
 # 蔘
 # 蔚
 # 蔣
+![蔣](../font/MingjianCaoshuHeiti-svg/uni8523.svg)
 # 蔥
 # 蔫
 # 蔬
@@ -4693,11 +4775,13 @@
 # 藕
 # 藝
 # 藤
+![藤](../font/MingjianCaoshuHeiti-svg/uni85E4.svg)
 # 藴
 # 藹
 # 藻
 # 蘆
 # 蘇
+![蘇](../font/MingjianCaoshuHeiti-svg/uni8607.svg)
 # 蘊
 # 蘑
 # 蘭
@@ -4836,10 +4920,12 @@
 # 袄
 # 袋
 # 袍
+![袍](../font/MingjianCaoshuHeiti-svg/uni888D.svg)
 # 袒
 # 袖
 # 袜
 # 被
+![被](../font/MingjianCaoshuHeiti-svg/uni88AB.svg)
 # 袭
 ![袭](../font/MingjianCaoshuHeiti-svg/uni88AD.svg)
 # 袱
@@ -4938,6 +5024,7 @@
 # 詳
 # 誉
 # 誊
+![誊](../font/MingjianCaoshuHeiti-svg/uni8A8A.svg)
 # 誌
 # 認
 # 誓
@@ -4974,6 +5061,7 @@
 # 謁
 # 謂
 # 謄
+![謄](../font/MingjianCaoshuHeiti-svg/uni8B04.svg)
 # 謊
 # 謎
 # 謗
@@ -5135,6 +5223,7 @@
 # 費
 # 貼
 # 貿
+![貿](../font/MingjianCaoshuHeiti-svg/uni8CBF.svg)
 # 賀
 # 賂
 # 賃
@@ -5210,6 +5299,7 @@
 ![贵](../font/MingjianCaoshuHeiti-svg/uni8D35.svg)
 # 贷
 # 贸
+![贸](../font/MingjianCaoshuHeiti-svg/uni8D38.svg)
 # 费
 # 贺
 # 贼
@@ -5268,12 +5358,15 @@
 # 跋
 # 跌
 # 跑
+![跑](../font/MingjianCaoshuHeiti-svg/uni8DD1.svg)
 # 跛
+![跛](../font/MingjianCaoshuHeiti-svg/uni8DDB.svg)
 # 距
 # 跟
 # 跡
 ![跡](../font/MingjianCaoshuHeiti-svg/uni8DE1.svg)
 # 跨
+![跨](../font/MingjianCaoshuHeiti-svg/uni8DE8.svg)
 # 跪
 # 路
 ![路](../font/MingjianCaoshuHeiti-svg/uni8DEF.svg)
@@ -5333,6 +5426,7 @@
 # 輕
 # 輛
 # 輝
+![輝](../font/MingjianCaoshuHeiti-svg/uni8F1D.svg)
 # 輩
 # 輪
 # 輯
@@ -5343,6 +5437,7 @@
 # 轅
 # 轉
 # 轍
+![轍](../font/MingjianCaoshuHeiti-svg/uni8F4D.svg)
 # 轎
 # 轟
 ![轟](../font/MingjianCaoshuHeiti-svg/uni8F5F.svg)
@@ -5366,12 +5461,14 @@
 # 辆
 # 辈
 # 辉
+![辉](../font/MingjianCaoshuHeiti-svg/uni8F89.svg)
 # 辐
 # 辑
 # 输
 # 辕
 # 辖
 # 辙
+![辙](../font/MingjianCaoshuHeiti-svg/uni8F99.svg)
 # 辛
 ![辛](../font/MingjianCaoshuHeiti-svg/uni8F9B.svg)
 # 辜
@@ -5407,6 +5504,7 @@
 # 迈
 # 迎
 # 运
+![运](../font/MingjianCaoshuHeiti-svg/uni8FD0.svg)
 # 近
 # 返
 # 还
@@ -5442,6 +5540,7 @@
 # 递
 # 途
 # 逗
+![逗](../font/MingjianCaoshuHeiti-svg/uni9017.svg)
 # 這
 ![這](../font/MingjianCaoshuHeiti-svg/uni9019.svg)
 # 通
@@ -5470,6 +5569,7 @@
 # 遊
 ![遊](../font/MingjianCaoshuHeiti-svg/uni904A.svg)
 # 運
+![運](../font/MingjianCaoshuHeiti-svg/uni904B.svg)
 # 遍
 # 過
 # 遏
@@ -5550,6 +5650,7 @@
 # 酪
 # 酬
 # 酱
+![酱](../font/MingjianCaoshuHeiti-svg/uni9171.svg)
 # 酵
 # 酷
 # 酸
@@ -5563,6 +5664,7 @@
 # 醞
 # 醫
 # 醬
+![醬](../font/MingjianCaoshuHeiti-svg/uni91AC.svg)
 # 釀
 # 釁
 ![釁](../font/MingjianCaoshuHeiti-svg/uni91C1.svg)
@@ -5595,8 +5697,10 @@
 # 鈴
 # 鉀
 # 鉋
+![鉋](../font/MingjianCaoshuHeiti-svg/uni924B.svg)
 # 鉗
 # 鉚
+![鉚](../font/MingjianCaoshuHeiti-svg/uni925A.svg)
 # 鉛
 # 鉤
 # 鉴
@@ -5643,6 +5747,7 @@
 # 鍵
 # 鎔
 # 鎖
+![鎖](../font/MingjianCaoshuHeiti-svg/uni9396.svg)
 # 鎬
 # 鎮
 # 鏈
@@ -5688,6 +5793,7 @@
 # 铃
 # 铅
 # 铆
+![铆](../font/MingjianCaoshuHeiti-svg/uni94C6.svg)
 # 铐
 # 铛
 # 铜
@@ -5702,6 +5808,7 @@
 # 链
 # 销
 # 锁
+![锁](../font/MingjianCaoshuHeiti-svg/uni9501.svg)
 # 锄
 # 锅
 # 锈
@@ -5893,6 +6000,7 @@
 # 雷
 ![雷](../font/MingjianCaoshuHeiti-svg/uni96F7.svg)
 # 雹
+![雹](../font/MingjianCaoshuHeiti-svg/uni96F9.svg)
 # 電
 # 雾
 # 需
@@ -5963,8 +6071,10 @@
 # 頒
 # 頓
 # 頗
+![頗](../font/MingjianCaoshuHeiti-svg/uni9817.svg)
 # 領
 # 頭
+![頭](../font/MingjianCaoshuHeiti-svg/uni982D.svg)
 # 頰
 # 頸
 # 頹
@@ -6004,6 +6114,7 @@
 # 颅
 # 领
 # 颇
+![颇](../font/MingjianCaoshuHeiti-svg/uni9887.svg)
 # 颈
 # 颊
 # 频
@@ -6038,6 +6149,7 @@
 # 飲
 # 飼
 # 飽
+![飽](../font/MingjianCaoshuHeiti-svg/uni98FD.svg)
 # 飾
 # 餃
 # 餅
@@ -6061,6 +6173,7 @@
 # 饮
 # 饰
 # 饱
+![饱](../font/MingjianCaoshuHeiti-svg/uni9971.svg)
 # 饲
 # 饵
 # 饶
@@ -6099,6 +6212,7 @@
 # 騎
 # 騙
 # 騰
+![騰](../font/MingjianCaoshuHeiti-svg/uni9A30.svg)
 # 騷
 # 騾
 # 驅
@@ -6210,6 +6324,7 @@
 # 鷄
 # 鷗
 # 鷹
+![鷹](../font/MingjianCaoshuHeiti-svg/uni9DF9.svg)
 # 鸚
 # 鸟
 ![鸟](../font/MingjianCaoshuHeiti-svg/uni9E1F.svg)
@@ -6233,6 +6348,7 @@
 # 鹤
 # 鹦
 # 鹰
+![鹰](../font/MingjianCaoshuHeiti-svg/uni9E70.svg)
 # 鹵
 ![鹵](../font/MingjianCaoshuHeiti-svg/uni9E75.svg)
 # 鹽
