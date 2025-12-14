@@ -38,4 +38,6 @@
 	* Bilibili账号：喔喔喔嗷嗚
 	* Youtube账号：Aww Linguistics
 
-使用本资料库内容请注明出处，谢谢。
+# 引用须知
+
+本库内容受[CC BY 4.0](LICENSE.txt)条款保护。您可以自由使用本库内容，使用本库内容时请注明出处，谢谢。
