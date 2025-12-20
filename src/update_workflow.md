@@ -8,9 +8,9 @@
 
 # 更新.md文件中的字形链接
 
-`python3 src/add_links.py dictionary/dictionary.md font/MingjianCaoshuHeiti-svg/ -o dictionary/dictionary.md --link-folder "../font/MingjianCaoshuHeiti-svg/"`
+`python3 src/add_links.py dictionary/dictionary.md font/MingjianCaoshuHeiti-svg/ -o dictionary/dictionary.md --link-folder "../font/MingjianCaoshuHeiti-svg/" --exceptions-file ../MingjianCaoshuHeiti/src/dictionary.txt`
 
-`python3 src/add_links.py practice/chars_3500_linked.md font/MingjianCaoshuHeiti-svg/ -o practice/chars_3500_linked.md --link-folder "../font/MingjianCaoshuHeiti-svg/"`
+`python3 src/add_links.py practice/chars_3500_linked.md font/MingjianCaoshuHeiti-svg/ -o practice/chars_3500_linked.md --link-folder "../font/MingjianCaoshuHeiti-svg/" --exceptions-file ../MingjianCaoshuHeiti/src/dictionary.txt`
 
 `python3 practice/src/tools.py practice/chars_3500_linked.md -o practice/chars_3500_with_image.md`
 

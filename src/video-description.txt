@@ -2,12 +2,12 @@
 大家好，我是嗷呜。今天我们来学习...学习资料已经同步上传，需要请看简介链接。
 
 # 结束语
-那么今天的内容就到这里了。欢迎您推荐给感兴趣的朋友。感谢您的观看。
+今天的内容就到这里了。欢迎您推荐给感兴趣的朋友。感谢您的观看。
 
 # Bilibili
-视频内容资料已经同步更新至Gitee：https://gitee.com/awwlang/cursive-chinese-learn.git
-视频用字体：Gitee：https://gitee.com/awwlang/MingjianCaoshuHeiti.git
+视频内容资料已经同步更新至Gitee：https://gitee.com/awwlang/cursive-chinese-learn
+视频用字体：Gitee：https://gitee.com/awwlang/MingjianCaoshuHeiti
 
 # YouTube
-视频内容资料已经同步更新至GitHub：https://github.com/Gs-Linguashop/cursive-chinese-learn.git
-视频用字体：Gitee：https://github.com/Gs-Linguashop/MingjianCaoshuHeiti.git
+视频内容资料已经同步更新至GitHub：https://github.com/Gs-Linguashop/cursive-chinese-learn
+视频用字体：Gitee：https://github.com/Gs-Linguashop/MingjianCaoshuHeiti

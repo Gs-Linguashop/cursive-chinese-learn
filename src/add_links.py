@@ -3,6 +3,7 @@ from pathlib import Path
 import re
 import os
 import sys
+import csv
 
 def find_glyph_svg(glyph_name, svg_folder):
     """
@@ -39,8 +40,30 @@ def find_glyph_svg(glyph_name, svg_folder):
     
     return None
 
+def import_exceptions(input_file, svg_folder):
+    # Returns a dictionary {glyph_name: svg_path}
+
+    return_dict = dict()
+
+    if not os.path.exists(input_file):
+        print(f"Error: input file '{input_file}' does not exist.")
+        sys.exit(1)
+
+    # Read TSV input
+    with open(input_file, "r", encoding="utf-8") as f:
+        reader = csv.reader(f, delimiter="\t")
+        for row in reader:
+            if len(row) < 6: continue
+            m = re.search(r'显示用"([^"]*)"', row[5])
+            if not m: continue
+            svg_path = svg_folder / (m.group(1) + ".svg")
+            if svg_path.exists():
+                return_dict[row[0]] = (svg_path, row[1], row[2], row[3], row[4])
+
+    return return_dict
+
 def add_glyph_links_to_markdown(input_md_file, svg_folder_path, output_file=None, 
-                               glyph_column=0, link_svg_folder=None):
+                               glyph_column=0, link_svg_folder=None, exceptions_file=None):
     """
     Add SVG hyperlinks to glyph names in a Markdown table
     
@@ -75,6 +98,11 @@ def add_glyph_links_to_markdown(input_md_file, svg_folder_path, output_file=None
     
     # Ensure output directory exists
     output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    # Load exceptions if provided
+    exceptions_dict = dict()
+    if exceptions_file:
+        exceptions_dict = import_exceptions(exceptions_file, svg_folder)
     
     try:
         with open(input_path, 'r', encoding='utf-8') as f:
@@ -112,7 +140,12 @@ def add_glyph_links_to_markdown(input_md_file, svg_folder_path, output_file=None
                     clean_glyph_name = re.sub(r'\[.*?\]\(.*?\)', '', glyph_name).strip()
                     
                     if clean_glyph_name:
+                        # Check exceptions first
                         svg_file = find_glyph_svg(clean_glyph_name, svg_folder)
+                        if clean_glyph_name in exceptions_dict:
+                            exception_line_info = exceptions_dict[clean_glyph_name]
+                            if cells[1] == exception_line_info[1] and cells[2] == exception_line_info[2] and cells[3] == exception_line_info[3] and cells[4] == exception_line_info[4]:
+                                svg_file = exception_line_info[0]
                         if svg_file:
                             # Determine the link path
                             if link_svg_folder:
@@ -161,6 +194,7 @@ def main():
     parser.add_argument('-o', '--output', help='Path to the output markdown file (relative to current directory, optional)')
     parser.add_argument('--glyph-col', type=int, default=0, help='Column index containing glyph names (0-based, default: 0)')
     parser.add_argument('--link-folder', help='Folder path to use in the hyperlinks (e.g., "https://example.com/glyphs" or "../assets/glyphs")')
+    parser.add_argument('--exceptions-file', help='Path to TSV file containing exceptions for glyph to SVG mapping (optional)')
     
     args = parser.parse_args()
     
@@ -172,7 +206,8 @@ def main():
         args.svg_folder, 
         args.output, 
         args.glyph_col,
-        args.link_folder
+        args.link_folder,
+        args.exceptions_file
     )
     
     if success:

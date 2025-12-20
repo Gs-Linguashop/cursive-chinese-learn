@@ -22,17 +22,7 @@
 
 ![直](../font/MingjianCaoshuHeiti-svg/uni76F4.svg)
 
-# 「丿」在字上方
-
-*“白”*
-
-![白](../font/MingjianCaoshuHeiti-svg/uni767D.svg)
-
-*“印”*
-
-![印](../font/MingjianCaoshuHeiti-svg/uni5370.svg)
-
-# 「井」「林」「开」
+# 「井」「林」
 
 「井」笔顺「竖-竖-横-横」。
 
@@ -52,11 +42,15 @@
 
 ![麻](../font/MingjianCaoshuHeiti-svg/uni9EBB.svg)
 
-「开（偏旁）」笔顺「横-竖-竖-横」。
+# 「丿」在字上方
 
-*“开”*
+*“白”*
 
-![开](../font/MingjianCaoshuHeiti-svg/uni5F00.svg)
+![白](../font/MingjianCaoshuHeiti-svg/uni767D.svg)
+
+*“印”*
+
+![印](../font/MingjianCaoshuHeiti-svg/uni5370.svg)
 
 # 「刀字头」「艮字头」
 
@@ -68,7 +62,9 @@
 
 ![食](../font/MingjianCaoshuHeiti-svg/uni98DF.svg)
 
-# 「廾」字底
+注意这种「刀字头」和「色字头/兔字头」并不是一种字形。
+
+# 「升」字底
 
 *“升”*
 
