@@ -52,6 +52,18 @@
 
 ![印](../font/MingjianCaoshuHeiti-svg/uni5370.svg)
 
+# 「亠」
+
+一般来讲，「亠」可以保留楷书的写法，也可以写作「撇横」。
+
+*“商”*
+
+![商](../font/MingjianCaoshuHeiti-svg/uni5546.svg)
+
+*“亶”*
+
+![亶](../font/MingjianCaoshuHeiti-svg/uni4EB6.svg)
+
 # 「刀字头」「艮字头」
 
 *“沒没”*

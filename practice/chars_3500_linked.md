@@ -890,7 +890,7 @@
 | [奏](../font/MingjianCaoshuHeiti-svg/uni594F.svg) |
 | 契 |
 | [奔](../font/MingjianCaoshuHeiti-svg/uni5954.svg) |
-| 奕 |
+| [奕](../font/MingjianCaoshuHeiti-svg/uni5955.svg) |
 | [奖](../font/MingjianCaoshuHeiti-svg/uni5956.svg) |
 | [套](../font/MingjianCaoshuHeiti-svg/uni5957.svg) |
 | [奠](../font/MingjianCaoshuHeiti-svg/uni5960.svg) |
@@ -1321,11 +1321,11 @@
 | 怯 |
 | [总](../font/MingjianCaoshuHeiti-svg/uni603B.svg) |
 | 恃 |
-| 恆 |
+| [恆](../font/MingjianCaoshuHeiti-svg/uni6046.svg) |
 | [恋](../font/MingjianCaoshuHeiti-svg/uni604B.svg) |
 | 恍 |
 | 恐 |
-| 恒 |
+| [恒](../font/MingjianCaoshuHeiti-svg/uni6052.svg) |
 | 恕 |
 | 恢 |
 | [恤](../font/MingjianCaoshuHeiti-svg/uni6064.svg) |
@@ -4049,7 +4049,7 @@
 | 蹄 |
 | 蹈 |
 | [蹋](../font/MingjianCaoshuHeiti-svg/uni8E4B.svg) |
-| 蹟 |
+| [蹟](../font/MingjianCaoshuHeiti-svg/uni8E5F.svg) |
 | 蹤 |
 | 蹦 |
 | 蹬 |
@@ -4461,7 +4461,7 @@
 | 阐 |
 | 阔 |
 | [队](../font/MingjianCaoshuHeiti-svg/uni961F.svg) |
-| 阱 |
+| [阱](../font/MingjianCaoshuHeiti-svg/uni9631.svg) |
 | 防 |
 | [阳](../font/MingjianCaoshuHeiti-svg/uni9633.svg) |
 | 阴 |

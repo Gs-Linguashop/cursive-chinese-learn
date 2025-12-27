@@ -1,4 +1,4 @@
-# 部首：夕、歹歺、子、糸糹纟、角、示礻、馬马、骨、身
+# 部首：夕、歹歺、子、糸糹纟、馬马、角、示礻、骨、身
 
 这类部首的共同特点是：在左侧书写是，下方都有标志性的「横弯圈」。这个「横弯圈」通常来自于部首下方的
 * 半包围结构、
@@ -46,7 +46,7 @@
 
 *“歹”*
 
-![夕](../font/MingjianCaoshuHeiti-svg/uni6B79.svg)
+![歹](../font/MingjianCaoshuHeiti-svg/uni6B79.svg)
 
 左侧的「歹」和「子」写法相同。
 
@@ -54,9 +54,9 @@
 
 ![歹（左）](../font/MingjianCaoshuHeiti-svg/uni2F26.left.svg)
 
-*“歿”*
+*“歿殁”*
 
-![歿](../font/MingjianCaoshuHeiti-svg/uni6B7F.svg)
+![歿殁](../font/MingjianCaoshuHeiti-svg/uni6B7F.svg)
 
 # 绞丝旁
 
@@ -79,6 +79,20 @@
 *“絕绝”*
 
 ![絕绝](../font/MingjianCaoshuHeiti-svg/uni7D55.svg)
+
+# 「馬马」
+
+*“馬马”*
+
+![馬马](../font/MingjianCaoshuHeiti-svg/uni99AC.svg)
+
+*左侧的“馬马”*
+
+![馬马（左）](../font/MingjianCaoshuHeiti-svg/uni2FBA.left.svg)
+
+*“騏骐”*
+
+![騏骐](../font/MingjianCaoshuHeiti-svg/uni9A0F.svg)
 
 # 「角」
 
@@ -123,20 +137,6 @@
 *“票”*
 
 ![票](../font/MingjianCaoshuHeiti-svg/uni7968.svg)
-
-# 「馬马」
-
-*“馬马”*
-
-![馬马](../font/MingjianCaoshuHeiti-svg/uni99AC.svg)
-
-*左侧的“馬马”*
-
-![馬马（左）](../font/MingjianCaoshuHeiti-svg/uni2FBA.left.svg)
-
-*“騏”*
-
-![騏](../font/MingjianCaoshuHeiti-svg/uni99AC.svg)
 
 # 「骨」
 
