@@ -2,7 +2,7 @@
 
 # 嗷呜的草书字形学习资料
 
-*（感谢[NaitLee](https://unseen-site.fun/about/#reach-out)搬运维护了本站资料的网页版，您可以[点击此处](https://草书.unseen-site.fun)浏览。）*
+*（感谢[NaitLee](https://unseen-site.fun/about/#reach-out)基于本站制作了网页版，您可以[点击此处](https://草书.unseen-site.fun)浏览。）*
 
 这是一个面向一般对草书字形感兴趣、想快速学习草书字形的初学者的课件项目。在课程资料外，还包含了一款用于学习草书的字体（链接在本页下方）。
 
@@ -29,6 +29,8 @@
 	* 这是一款用于草书学习参考和日常电子设备使用的开源字体。
 
 ## 资料获取
+
+本站资料由[Gs-Linguashop（GitHub）](https://github.com/Gs-Linguashop)制作。
 
 * 本资料库镜像
 	* [GitHub](https://github.com/Gs-Linguashop/cursive-chinese-learn.git)
