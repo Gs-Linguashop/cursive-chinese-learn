@@ -1,4 +1,4 @@
-Copyright (c) 2025, 周子祺 Ziqi Zhou (ziqiphyzhou@gmail.com).
+Copyright (c) 2026, 周子祺 Ziqi Zhou (ziqiphyzhou@gmail.com).
 
 This repository is licensed under the Creative Commons Attribution 4.0 International.
 This license is copied below, and is also available with a FAQ at:

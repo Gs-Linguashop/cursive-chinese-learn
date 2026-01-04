@@ -1,13 +1,13 @@
 # 开场白
-大家好，我是嗷呜。今天我们来学习...学习资料已经公开上传，请看简介链接，课尾还付有一图流的总结。
+大家好，我是嗷呜。今天我们来学习...学习资料已经公开上传，请看简介链接。
 
 # 结束语
 本期的内容就到这里了。欢迎您推荐给感兴趣的朋友。感谢您的观看。
 
 # Bilibili
 视频内容资料已经同步更新至Gitee：https://gitee.com/awwlang/cursive-chinese-learn
-视频用字体：Gitee：https://gitee.com/awwlang/MingjianCaoshuHeiti
+视频用字体：https://gitee.com/awwlang/MingjianCaoshuHeiti
 
 # YouTube
 视频内容资料已经同步更新至GitHub：https://github.com/Gs-Linguashop/cursive-chinese-learn
-视频用字体：Gitee：https://github.com/Gs-Linguashop/MingjianCaoshuHeiti
+视频用字体：https://github.com/Gs-Linguashop/MingjianCaoshuHeiti

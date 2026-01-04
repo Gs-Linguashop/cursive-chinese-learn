@@ -1,8 +1,8 @@
-![明鉴草书黑体](../src/font_logo.svg)
+<img src="../src/font_logo.svg" width="144" style="max-width:100%; height:auto;">
 
 # 明鉴草书黑体
 
-*提醒：明鉴草书黑体主页已移出，请访问[此页（GitHub）](https://github.com/Gs-Linguashop/MingjianCaoshuHeiti)或[此页（Gitee国内）](https://gitee.com/awwlang/MingjianCaoshuHeiti)。*
+*提醒：明鉴草书黑体的主页已移出，请访问[此页（GitHub）](https://github.com/Gs-Linguashop/MingjianCaoshuHeiti)或[此页（Gitee国内）](https://gitee.com/awwlang/MingjianCaoshuHeiti)。*
 
 这是一款笔画清晰明确的开源草书黑体字库。字库为下列用途精心设计：
 * **书法参考**
@@ -15,7 +15,7 @@
 * **艺术设计**
 	* 字形**现代简约**，适合取代楷书黑体字出现在各种应用场景。字库完全开源，可以免费自用商用。
 
-# 获取
+## 获取
 
 目前字体尚在完成中，已经进入批量生产阶段，持续更新。
 

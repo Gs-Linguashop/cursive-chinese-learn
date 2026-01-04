@@ -1,11 +1,12 @@
 # 草书基础：基本概念与常见草书部件
 
-基础篇课件目录见[此页](index.md)。
+*（基础篇课件目录见[此页](index.md)。）*
 
-# 草书是什么，不是什么？
+## 草书是什么，不是什么？
 
-![楷书中的“草书”](src/caoshu-SourceHanSans.svg)
-![草书中的“草书”](src/caoshu-cursive.svg)
+<img src="src/caoshu-SourceHanSans.svg" width="144" style="max-width:100%; height:auto;">
+<img src="src/caoshu-cursive.svg" width="144" style="max-width:100%; height:auto;">
+
 *（图：“草书”在楷书和草书中字形的对比）*
 
 * 草书是一套汉字的书体，地位等同于“篆书”“楷书”“行书”等其他书体。它是汉字符号由具象到抽象，由繁复到便捷发展的自然延伸。
@@ -13,13 +14,13 @@
 * 草书不是“把笔画连起来写”。许多草书的符号与日常使用的楷书大相径庭。
 * 草书不是现代信息技术意义上的“字体”，它的地位不同于“黑体”“宋体”等字体形式。
 
-# 草书的字形来源
+## 草书的字形来源
 
 * 早起草书起源于汉代，其字形主要基于隶书。这种草书称作“章草”，其笔画相对保守，没有后来的草书书体抽象。
 * 汉代以后，草书逐渐形成了“今草”、“狂草”等书体，它们笔画更加圆润连贯，书写更为快捷，但实与“章草”笔法无本质不同。在此我们主要学习“今草”字形。
 * 草书是一种在简化字以前形成的书体，所以严格来讲它基于“繁体字”。由于近代以前对正字、俗字区分也不甚明晰，所以有一部分字形来源于现代规范汉字以外的“异体字”。同时，很多简体字可以按照草法进行草书化书写，甚至很多简体字字形本身就脱胎于草书。我们这里主要介绍基于传统字形（隶书、繁体楷书）的草书字形，但是您在日常使用中完全可以对简体字进行草化使用。
 
-# 什么是“草法”
+## 什么是“草法”
 
 “草法”是草书对隶书、楷书字形进行抽象、转化，使字形符合草书规律的章法。它决定了怎么样写一个字是符合草书规律的。
 
@@ -32,50 +33,54 @@
 
 下面我们简单介绍这些概念。
 
-## 草书的符号
+### 草书的符号
 
 汉字的结构由整到零可以总结为
 * 字&larr;偏旁/部首&larr;组件/部件&larr;笔画
 
 其中，草书在“笔画/组件/部件”的层次就形成了有别于楷书的独特系统。楷书中的“笔画/组件/部件”以有机的方式被打乱、重组，形成了对应的草书基本的“笔画/组件/部件”。这些重组和对应关系都是特定的、抽象的。因此，我们学习草书，需要先系统性地学习常见的草书基本符号。
 
-## 自由度
+### 自由度
 
 同一个草书结构或偏旁在草书中往往由多种书写形式，取决于它的位置、组合、以及具体用字等多重的因素。在这些因素影响下，一个结构的具体写法中，一些是符合草法的，一些是不合草法的，而一些是模棱两可的。学习如何在不同情况下采用同一个汉字结构的不同的草形是草书学习的重点所在。
 
 因为很多不同的结构在草书中可以简化成相同的样子，所以一些不同的字是可能存在同形的写法的。汉字的字形在其使用的历史上不乏各种混用、挪用、重形的现象，所以在使用草书遇到这些情况时，既可以利用草书的自由度进行解决，也大可不必纠结。即使两个字重形，一般也可以通过上下文分辨出来。
 
-## 位置组合关系
+### 位置组合关系
 
 位置组合关系是决定一个汉字结构在具体草形中怎样呈现的重要因素。同样的符号在字的上、下、左、右时，由于书写连贯的需要，往往会呈现出不同的草形。
 
-![口](../font/MingjianCaoshuHeiti-svg/uni53E3.svg)
-![哈](../font/MingjianCaoshuHeiti-svg/uni54C8.svg)
-![品](../font/MingjianCaoshuHeiti-svg/uni54C1.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni53E3.svg" width="144" style="max-width:100%; height:auto;">
+<img src="../font/MingjianCaoshuHeiti-svg/uni54C8.svg" width="144" style="max-width:100%; height:auto;">
+<img src="../font/MingjianCaoshuHeiti-svg/uni54C1.svg" width="144" style="max-width:100%; height:auto;">
+
 *（图：“口”形在“口”、“哈”、“品”字中的变化）*
 
 同时，草形结构在组合时也会发生字形的变化。
 
-![千](../font/MingjianCaoshuHeiti-svg/uni5343.svg)
-![里](../font/MingjianCaoshuHeiti-svg/uni91CC.svg)
-![重](../font/MingjianCaoshuHeiti-svg/uni91CD.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5343.svg" width="144" style="max-width:100%; height:auto;">
+<img src="../font/MingjianCaoshuHeiti-svg/uni91CC.svg" width="144" style="max-width:100%; height:auto;">
+<img src="../font/MingjianCaoshuHeiti-svg/uni91CD.svg" width="144" style="max-width:100%; height:auto;">
+
 *（图：“千”与“里”结合成“重”字时的变化）*
 
-## 简化程度
+### 简化程度
 
 草形自由度的一个很重要的体现之处是其简化程度。同一个字形往往有着从繁到简的一系列草书写法，而字形出现的具体情况决定了它应当用更繁复的写法还是更简化的写法。
 
 常见的决定草形的简化程度的因素有
 * 在字中的位置
 	* 字形由繁复到简化：字的主体（右侧、非部首）>部首中（左、上、下）>字中间
-![信](../font/MingjianCaoshuHeiti-svg/uni4FE1.svg)
-![語](../font/MingjianCaoshuHeiti-svg/uni8A9E.alt.svg)
+
+<img src="../font/MingjianCaoshuHeiti-svg/uni4FE1.svg" width="144" style="max-width:100%; height:auto;">
+<img src="../font/MingjianCaoshuHeiti-svg/uni8A9E.alt.svg" width="144" style="max-width:100%; height:auto;">
+
 *（图：“言”旁在“信”、语”字中的变化）*
 * 字本身结构的拥挤程度：越拥挤越简化
 * 常用还是罕见：常用的更简化，罕见的更繁复
 * 避免和其它字撞字形：如果其它字（尤其是其它常用字）会撞字形，那么用更繁复的草书字形避免
 * 约定俗成
 
-## 笔顺
+### 笔顺
 
 由于草书是一个注重书写流畅的书体，笔顺是字形的重要组成部分。因此，我们会比其它书体更认真的学习正确的草书笔顺。所幸的是，草书的笔顺往往符合自然书写流畅规律，因此并不难学习。

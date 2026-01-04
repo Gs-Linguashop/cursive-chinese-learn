@@ -6,7 +6,7 @@
 
 我们来看一个例子。这是“例子”的“例”字，它由哪些部件组成呢？
 
-![例](../font/MingjianCaoshuHeiti-svg/uni4F8B.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni4F8B.svg" width="144" style="max-width:100%; height:auto;">
 
 * 首先是「亻」，它和楷书的写法是一样的。
 * 然后是「列」，它是由「歹」和「刂」组成的。
@@ -21,58 +21,58 @@
 
 这里我们先学习几个最为基本的草书部件。
 
-# 「二」「⺀」「乙」形
+## 「二」「⺀」「乙」形
 
 这是一类以两个横笔组成的基本部件。它们之间联系紧密，常常可以示情况互相转化。它们常被用来省略书写楷书中以横向笔画为主的结构。
 
 *“受”*
 
-![受](../font/MingjianCaoshuHeiti-svg/uni53D7.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni53D7.svg" width="144" style="max-width:100%; height:auto;">
 
 *“天”*
 
-![天](../font/MingjianCaoshuHeiti-svg/uni5929.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5929.svg" width="144" style="max-width:100%; height:auto;">
 
 观察发现，其实草书当中出现这类「二」形部件的字，其楷书字形和「二」「⺀」「乙」等等笔画没有直接联系。所以我们再一次强调，草书部件只是描述草书字形符号的语言，它不能直接用来把楷书字形翻译成草书字形。随着我们学习越来越多的部件，以及它们是在什么情况下怎样组合的，我们才能逐渐掌握把楷书字形翻译成草书字形的规律。
 
-# 「八」「丷」形
+## 「八」「丷」形
 
 *“草”*
 
-![草](../font/MingjianCaoshuHeiti-svg/uni8349.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni8349.svg" width="144" style="max-width:100%; height:auto;">
 
 除了类似楷书的情况，也常作为方框结构的省略。
 
 *“古”*
 
-![古](../font/MingjianCaoshuHeiti-svg/uni53E4.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni53E4.svg" width="144" style="max-width:100%; height:auto;">
 
-# 「工」「丄」形
+## 「工」「丄」形
 
 这是两个常见的省略符号。左侧的是「工」形，右侧的是「丄」（撇折）形。
 
 *“寶宝”*
 
-![寶宝](../font/MingjianCaoshuHeiti-svg/uni5BF6.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5BF6.svg" width="144" style="max-width:100%; height:auto;">
 
-# 「乛」「𠃌」形
+## 「乛」「𠃌」形
 
 一类常见的半包围部件。「乛」常出现在上方。
 
 *“高”*
 
-![高](../font/MingjianCaoshuHeiti-svg/uni9AD8.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni9AD8.svg" width="144" style="max-width:100%; height:auto;">
 
-# 「⺈」「勹」形
+## 「⺈」「勹」形
 
 就是「丿」衔接「乛」「𠃌」。因为起笔「丿」经常用来代表方框结构的第一笔竖，所以「⺈」「勹」形比「乛」「𠃌」形还要常见。
 
 *“多”*
 
-![多](../font/MingjianCaoshuHeiti-svg/uni591A.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni591A.svg" width="144" style="max-width:100%; height:auto;">
 
 我们也用「⺈」（撇折撇/闪电）来代表一种极常见的上下衔接结构。
 
 *“兑”*
 
-![兑](../font/MingjianCaoshuHeiti-svg/uni5151.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5151.svg" width="144" style="max-width:100%; height:auto;">

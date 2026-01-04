@@ -4,68 +4,68 @@
 
 今天我们学习这类字形中上方的结构，也就是书写竖之前书写的结构。
 
-# 上方的「十」「㐄」「丰」
+## 上方的「十」「㐄」「丰」
 
 *“來来”*
 
-![來来](../font/MingjianCaoshuHeiti-svg/uni4F86.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni4F86.svg" width="144" style="max-width:100%; height:auto;">
 
 *“未”*
 
-![未](../font/MingjianCaoshuHeiti-svg/uni672A.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni672A.svg" width="144" style="max-width:100%; height:auto;">
 
 *“軍军”*
 
-![軍军](../font/MingjianCaoshuHeiti-svg/uni8ECD.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni8ECD.svg" width="144" style="max-width:100%; height:auto;">
 
-# 上方的「丅」「干」
+## 上方的「丅」「干」
 
 *“丁”*
 [丁](../font/MingjianCaoshuHeiti-svg/uni4E01.svg)
 
 *“其”*
 
-![其](../font/MingjianCaoshuHeiti-svg/uni5176.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5176.svg" width="144" style="max-width:100%; height:auto;">
 
-# 上方的「亻」「千」「牛字头」「午字头」
+## 上方的「亻」「千」「牛字头」「午字头」
 
 *“手”*
 
-![手](../font/MingjianCaoshuHeiti-svg/uni624B.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni624B.svg" width="144" style="max-width:100%; height:auto;">
 
 *“我”*
 
-![我](../font/MingjianCaoshuHeiti-svg/uni6211.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni6211.svg" width="144" style="max-width:100%; height:auto;">
 
 *“生”*
 
-![生](../font/MingjianCaoshuHeiti-svg/uni751F.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni751F.svg" width="144" style="max-width:100%; height:auto;">
 
 *“午”*
 
-![午](../font/MingjianCaoshuHeiti-svg/uni5348.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5348.svg" width="144" style="max-width:100%; height:auto;">
 
-# 「平字头」「乎字头」「夹字头」「娄字头」「半字头」
+## 「平字头」「乎字头」「夹字头」「娄字头」「半字头」
 
 *“巠”*
 
-![巠](../font/MingjianCaoshuHeiti-svg/uni5DE0.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5DE0.svg" width="144" style="max-width:100%; height:auto;">
 
 *“妥”*
 
-![妥](../font/MingjianCaoshuHeiti-svg/uni59A5.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni59A5.svg" width="144" style="max-width:100%; height:auto;">
 
 *“夹”*
 
-![夾夹](../font/MingjianCaoshuHeiti-svg/uni593E.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni593E.svg" width="144" style="max-width:100%; height:auto;">
 
 *“婁娄”*
 
-![婁娄](../font/MingjianCaoshuHeiti-svg/uni5A41.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5A41.svg" width="144" style="max-width:100%; height:auto;">
 
 *“米”*
 
-![米](../font/MingjianCaoshuHeiti-svg/uni7C73.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni7C73.svg" width="144" style="max-width:100%; height:auto;">
 
 这里我们没有提到「⺌」，因为这个部件的笔顺是「竖-点-撇」，并不是最后写竖的。
 
@@ -73,28 +73,28 @@
 
 *“平”*
 
-![平](../font/MingjianCaoshuHeiti-svg/uni5E73.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E73.svg" width="144" style="max-width:100%; height:auto;">
 
 *“炎”*
 
-![炎](../font/MingjianCaoshuHeiti-svg/uni708E.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni708E.svg" width="144" style="max-width:100%; height:auto;">
 
-# 「反犬头」
+## 「反犬头」
 
 「反犬头」经常作为「十」或者「犬字头」的简写。
 
 *“求”*
 
-![求](../font/MingjianCaoshuHeiti-svg/uni6C42.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni6C42.svg" width="144" style="max-width:100%; height:auto;">
 
-# 「⺊」
+## 「⺊」
 
 *“占”*
 
-![占](../font/MingjianCaoshuHeiti-svg/uni5360.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5360.svg" width="144" style="max-width:100%; height:auto;">
 
-# 「弔」
+## 「弔」
 
 *“弟”*
 
-![弟](../font/MingjianCaoshuHeiti-svg/uni5F1F.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F1F.svg" width="144" style="max-width:100%; height:auto;">

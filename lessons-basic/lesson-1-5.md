@@ -2,45 +2,45 @@
 
 「日」字形以及其类似的部件是一种很常见的草书部件。我们来学习它们不同的书写形式。
 
-# 完整的「日」「田」
+## 完整的「日」「田」
 
 *“日”*
 
-![日](../font/MingjianCaoshuHeiti-svg/uni65E5.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni65E5.svg" width="144" style="max-width:100%; height:auto;">
 
 和大部分部件一样，只有在字的主体出现，才会被完整书写。
 
 *“田”*
 
-![田](../font/MingjianCaoshuHeiti-svg/uni7530.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni7530.svg" width="144" style="max-width:100%; height:auto;">
 
 「甲」「申」「由」等字形，在先书写「田」，再书写贯穿的竖时，都按照比较完整的方式书写。
 
 *“曳”*
 
-![曳](../font/MingjianCaoshuHeiti-svg/uni66F3.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni66F3.svg" width="144" style="max-width:100%; height:auto;">
 
-# 字上方的「日」相关部件
+## 字上方的「日」相关部件
 
-## 字上方的「日」「田」「罒」「⺜」
+#### 字上方的「日」「田」「罒」「⺜」
 
 字上方的「日」「田」有几乎相同的写法，及「竖-横弯圈」连接下方书写。（出于数字化的美观性限制，有时本资料库的数字化字形中这类部件中的圈是断开呈现的。）
 
 *“里”*
 
-![里](../font/MingjianCaoshuHeiti-svg/uni91CC.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni91CC.svg" width="144" style="max-width:100%; height:auto;">
 
 当「日」「田」出现在字的右上侧或下侧时，因为连贯书写的需要，它们左侧的起笔「竖」会省略。我们将这种在结构右侧或下侧书写时可以省略的起笔「竖」或者「撇」成为**“弱起笔”**。
 
 *“埋”*
 
-![埋](../font/MingjianCaoshuHeiti-svg/uni57CB.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni57CB.svg" width="144" style="max-width:100%; height:auto;">
 
 字上方的「日」简化可以作「龴」。
 
 *“景”*
 
-![景](../font/MingjianCaoshuHeiti-svg/uni666F.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni666F.svg" width="144" style="max-width:100%; height:auto;">
 
 一般「罒」在汉字中有两个来源。一个是来自「网」，这在草书中被解析成「⿱冖䒑」。一个是来自横写的「目」。
 
@@ -48,122 +48,122 @@
 
 *“冒”*
 
-![冒](../font/MingjianCaoshuHeiti-svg/uni5192.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5192.svg" width="144" style="max-width:100%; height:auto;">
 
 *“蜀”*
 
-![蜀](../font/MingjianCaoshuHeiti-svg/uni8700.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni8700.svg" width="144" style="max-width:100%; height:auto;">
 
-## 字上方的「𫜹/彑」「尔字头」
+#### 字上方的「𫜹/彑」「尔字头」
 
 字上方的「𫜹/彑」可以视为「日」去掉起笔的「竖」。
 
 *“彘”*
 
-![彘](../font/MingjianCaoshuHeiti-svg/uni5F58.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F58.svg" width="144" style="max-width:100%; height:auto;">
 
 *“彔录”*
 
-![彔录](../font/MingjianCaoshuHeiti-svg/uni5F54.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F54.svg" width="144" style="max-width:100%; height:auto;">
 
 「尔字头」即「撇-横弯圈-连接下方」，它常用来表示类似「日」「田」，但是以「撇」起笔的部件，比如「白」。同时，他也用来表示由「冖」结合下方一些简单笔画形成的字形，比如「深」字的右上字形。
 
 *“罙”*
 
-![罙](../font/MingjianCaoshuHeiti-svg/uni7F59.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni7F59.svg" width="144" style="max-width:100%; height:auto;">
 
 *“戟”*
 
-![戟](../font/MingjianCaoshuHeiti-svg/uni621F.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni621F.svg" width="144" style="max-width:100%; height:auto;">
 
-# 「中」「巾」「肀」「尹」
+## 「中」「巾」「肀」「尹」
 
 「中」「巾」在草书中写法十分自然，即「竖-横弯-竖」。它们的起笔「竖」也是“弱起笔”，但是「巾」会有保留起笔「竖」的倾向。
 
 *“史”*
 
-![史](../font/MingjianCaoshuHeiti-svg/uni53F2.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni53F2.svg" width="144" style="max-width:100%; height:auto;">
 
 *“席”*
 
-![席](../font/MingjianCaoshuHeiti-svg/uni5E2D.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E2D.svg" width="144" style="max-width:100%; height:auto;">
 
 「肀」「尹」可以解析为「⿻⿹㇕二丨」。在字上方出现时，一般书写为「横弯-提-竖」。有时「中」也会这样写。
 
 *“君”*
 
-![君](../font/MingjianCaoshuHeiti-svg/uni541B.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni541B.svg" width="144" style="max-width:100%; height:auto;">
 
 *“晝昼”*
 
-![晝昼](../font/MingjianCaoshuHeiti-svg/uni665D.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni665D.svg" width="144" style="max-width:100%; height:auto;">
 
-# 「日」形在上下之中
+## 「日」形在上下之中
 
 在上下之中的「中」「申」和类似的结构，可以被简化成「竖」两旁的两个「点」，一般先于「竖」书写。
 
 *“量”*
 
-![量](../font/MingjianCaoshuHeiti-svg/uni91CF.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni91CF.svg" width="144" style="max-width:100%; height:auto;">
 
 这两个点进一步简化成「一」，并与上下方的结构联系，形成「横-撇折-竖」的写法，也就是简体字中「车」类似的形态（上面出头与否取决于原本的楷书笔画）。很多时候这与上述的两个点的处理方法是可以互为备选的。
 
 *“重”*
 
-![重](../font/MingjianCaoshuHeiti-svg/uni91CD.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni91CD.svg" width="144" style="max-width:100%; height:auto;">
 
 *“難难”*
 
-![難难](../font/MingjianCaoshuHeiti-svg/uni96E3.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni96E3.svg" width="144" style="max-width:100%; height:auto;">
 
-# 下方的「田」「皿」「𫜹」
+## 下方的「田」「皿」「𫜹」
 
 下方的「田」写成「⿹勹㐅」。
 
 *“留”*
 
-![留](../font/MingjianCaoshuHeiti-svg/uni7559.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni7559.svg" width="144" style="max-width:100%; height:auto;">
 
 「皿」「𫜹」，尤其在字下方时，在草书中解析为「⿹㇕二」。具体呈现为「横弯-横-横」。
 
 *“昷”*
 
-![昷](../font/MingjianCaoshuHeiti-svg/uni6637.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni6637.svg" width="144" style="max-width:100%; height:auto;">
 
 「皿」有时会类似「己」的笔顺书写，但是形态仍然是「横弯（钩）」笼罩下方的结构。在极端简化的情况，其下方会化作纵向的两个点。
 
 *“盡尽”*
 
-![盡尽](../font/MingjianCaoshuHeiti-svg/uni76E1.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni76E1.svg" width="144" style="max-width:100%; height:auto;">
 
 「𫜹」也草书中解析为「⿹㇕二」，在字下方呈现为「横弯-横-横」或「横弯-圈-横」。
 
 *“彗”*
 
-![彗](../font/MingjianCaoshuHeiti-svg/uni5F57.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F57.svg" width="144" style="max-width:100%; height:auto;">
 
-# 下方的「日」「目」
+## 下方的「日」「目」
 
 下方的「日」可以完整书写，习惯上写得倾斜一点。
 
 *“旨”*
 
-![旨](../font/MingjianCaoshuHeiti-svg/uni65E8.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni65E8.svg" width="144" style="max-width:100%; height:auto;">
 
 下方的「日」有时简化成「撇弯钩-点」。这是一种比较特色的简化形式，出现在固定的一些字形中。相比之下，进一步简化的「撇-横弯」这种类似「口」的处理更加常见。
 
 *“春”*
 
-![春](../font/MingjianCaoshuHeiti-svg/uni6625.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni6625.svg" width="144" style="max-width:100%; height:auto;">
 
 下方的「目」类似「日」，但是简化会更保守一些。
 
-# 左侧的「日」「目」
+## 左侧的「日」「目」
 
 左侧的「日」写作「竖-横弯圈」连接右上方书写。
 
 *“明”*
 
-![明](../font/MingjianCaoshuHeiti-svg/uni660E.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni660E.svg" width="144" style="max-width:100%; height:auto;">
 
 左侧的「目」类似「日」，但是字形在书写的时候会上下拉长一些。

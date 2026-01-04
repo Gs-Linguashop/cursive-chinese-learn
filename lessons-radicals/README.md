@@ -1,6 +1,6 @@
 # 草书的部首
 
-课程目录请看[这里](index.md)。
+*（课程目录请看[这里](index.md)。）*
 
 这里我们系统性地介绍常见的草书部首。有别于简单的字形罗列，我们将部首以互相关联的组为单位进行介绍。
 
@@ -10,7 +10,7 @@
 
 这里我们先介绍（复习）一点基础知识。
 
-# 草书部首的字形变化
+## 草书部首的字形变化
 
 草书部首就是一般意义上汉字的部首在草书中的写法。与隶书（或楷书）类似，同一个部首在不同的汉字中可能会呈现出不同的写法（例如楷书中左侧偏旁写法往往略微变形）。在草书中，同一部首的不同写法比隶书（楷书）展现出更丰富的变化。
 
@@ -29,38 +29,38 @@
 
 可见草书部首的字形变化十分丰富。一般来说，只有在特定的高频出现的位置时，部首的写法才尤其与其本身写法不同。因此，我们会重点介绍这些特定的部首写法。在其它位置出现时，部首与其本身写法类似。在一些特定组合中出现的固定写法，我们将留到实战篇介绍。
 
-# 「月」：草书部首字形变化案例
+## 「月」：草书部首字形变化案例
 
 「月」部首的写法受其位置影响。
 
 *“月”*
 
-![月](../font/MingjianCaoshuHeiti-svg/uni6708.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni6708.svg" width="144" style="max-width:100%; height:auto;">
 
 *“朕”*
 
-![朕](../font/MingjianCaoshuHeiti-svg/uni6715.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni6715.svg" width="144" style="max-width:100%; height:auto;">
 
 *“朝”*
 
-![朝](../font/MingjianCaoshuHeiti-svg/uni671D.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni671D.svg" width="144" style="max-width:100%; height:auto;">
 
 *“育”*
 
-![育](../font/MingjianCaoshuHeiti-svg/uni80B2.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni80B2.svg" width="144" style="max-width:100%; height:auto;">
 
 *“前”*
 
-![前](../font/MingjianCaoshuHeiti-svg/uni524D.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni524D.svg" width="144" style="max-width:100%; height:auto;">
 
 在一些常见字中，下方的「月」会有所简化。
 
 *“肯”*
 
-![肯](../font/MingjianCaoshuHeiti-svg/uni80AF.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni80AF.svg" width="144" style="max-width:100%; height:auto;">
 
 在一些常见偏旁中，「月」会采用固定的写法。
 
 *“有”*
 
-![有](../font/MingjianCaoshuHeiti-svg/uni6709.svg)
+<img src="../font/MingjianCaoshuHeiti-svg/uni6709.svg" width="144" style="max-width:100%; height:auto;">
