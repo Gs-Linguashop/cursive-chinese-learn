@@ -14,9 +14,8 @@
 	* [表21](chars_3500_with_image-21.md)，[表22](chars_3500_with_image-22.md)，[表23](chars_3500_with_image-23.md)，[表24](chars_3500_with_image-24.md)，[表25](chars_3500_with_image-25.md)，[表26](chars_3500_with_image-26.md)，[表27](chars_3500_with_image-27.md)，[表28](chars_3500_with_image-28.md)，[表29](chars_3500_with_image-29.md)，[表30](chars_3500_with_image-30.md)，
 	* [表31](chars_3500_with_image-31.md)，[表32](chars_3500_with_image-32.md)，[表33](chars_3500_with_image-33.md)，[表34](chars_3500_with_image-34.md)，[表35](chars_3500_with_image-35.md)，[表36](chars_3500_with_image-36.md)，[表37](chars_3500_with_image-37.md)，[表38](chars_3500_with_image-38.md)，[表39](chars_3500_with_image-39.md)，[表40](chars_3500_with_image-40.md)，
 	* [表41](chars_3500_with_image-41.md)，[表42](chars_3500_with_image-42.md)，[表43](chars_3500_with_image-43.md)，[表44](chars_3500_with_image-44.md)，[表45](chars_3500_with_image-45.md)，[表46](chars_3500_with_image-46.md)，[表47](chars_3500_with_image-47.md)，[表48](chars_3500_with_image-48.md)，[表49](chars_3500_with_image-49.md)
-* 默写用表（含字形提示链接，每表500字）
-	* [表1](chars_3500_linked_split-1.md)，[表2](chars_3500_linked_split-2.md)，[表3](chars_3500_linked_split-3.md)，[表4](chars_3500_linked_split-4.md)，[表5](chars_3500_linked_split-5.md)，[表6](chars_3500_linked_split-6.md)，[表7](chars_3500_linked_split-7.md)，[表8](chars_3500_linked_split-8.md)，[表9](chars_3500_linked_split-9.md)，[表10](chars_3500_linked_split-10.md)，
-* [默写用表](chars_3500.txt)（不含提示）
+* [默写用表](chars_3500_linked.md)（含字形提示链接）
+* [默写用表](chars_3500.md)（不含提示）
 
 ## 拼好字（待办）
 

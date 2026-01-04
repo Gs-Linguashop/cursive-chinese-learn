@@ -54,6 +54,7 @@ def split_and_write(entries, output_base: Path):
         )
 
         with open(output_path, "w", encoding="utf-8") as f:
+            f.write(f"# 常用草书字表{index:02d}\n\n")
             f.writelines(chunk)
 
         print(f"Wrote {output_path}")

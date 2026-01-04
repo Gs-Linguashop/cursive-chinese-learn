@@ -1,3 +1,5 @@
+# 常用草书字表42
+
 ### 轰
 <img src="../font/MingjianCaoshuHeiti-svg/uni8F70.svg" width="160" style="max-width:100%; height:auto;">
 

@@ -1,3 +1,5 @@
+# 常用草书字表31
+
 ### 糞
 <img src="../font/MingjianCaoshuHeiti-svg/uni7CDE.svg" width="160" style="max-width:100%; height:auto;">
 
