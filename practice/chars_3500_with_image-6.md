@@ -1,4 +1,4 @@
-# 常用草书字表06
+# 常用草书字形表06
 
 ### 厉
 <img src="../font/MingjianCaoshuHeiti-svg/uni5389.svg" width="160" style="max-width:100%; height:auto;">

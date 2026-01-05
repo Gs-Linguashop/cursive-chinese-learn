@@ -1,4 +1,4 @@
-# 常用草书字表12
+# 常用草书字形表12
 
 ### 岔
 <img src="../font/MingjianCaoshuHeiti-svg/uni5C94.svg" width="160" style="max-width:100%; height:auto;">

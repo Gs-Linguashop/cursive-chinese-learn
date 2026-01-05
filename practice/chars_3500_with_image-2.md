@@ -1,4 +1,4 @@
-# 常用草书字表02
+# 常用草书字形表02
 
 ### 从
 <img src="../font/MingjianCaoshuHeiti-svg/uni4ECE.svg" width="160" style="max-width:100%; height:auto;">

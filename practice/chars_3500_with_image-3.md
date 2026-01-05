@@ -1,4 +1,4 @@
-# 常用草书字表03
+# 常用草书字形表03
 
 ### 倉
 <img src="../font/MingjianCaoshuHeiti-svg/uni5009.svg" width="160" style="max-width:100%; height:auto;">

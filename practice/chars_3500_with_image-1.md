@@ -1,4 +1,4 @@
-# 常用草书字表01
+# 常用草书字形表01
 
 ### 一
 <img src="../font/MingjianCaoshuHeiti-svg/uni4E00.svg" width="160" style="max-width:100%; height:auto;">

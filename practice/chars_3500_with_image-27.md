@@ -1,4 +1,4 @@
-# 常用草书字表27
+# 常用草书字形表27
 
 ### 畅
 <img src="../font/MingjianCaoshuHeiti-svg/uni7545.svg" width="160" style="max-width:100%; height:auto;">
