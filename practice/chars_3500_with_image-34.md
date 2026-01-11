@@ -46,6 +46,7 @@
 ### 腥
 
 ### 腦
+<img src="../font/MingjianCaoshuHeiti-svg/uni8166.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 腫
 
@@ -210,6 +211,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8277.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 艺
+<img src="../font/MingjianCaoshuHeiti-svg/uni827A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 艾
 

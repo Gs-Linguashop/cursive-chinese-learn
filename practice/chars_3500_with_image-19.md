@@ -53,6 +53,7 @@
 ### 曙
 
 ### 曠
+<img src="../font/MingjianCaoshuHeiti-svg/uni66E0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 曬
 
@@ -164,6 +165,7 @@
 ### 材
 
 ### 村
+<img src="../font/MingjianCaoshuHeiti-svg/uni6751.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 杖
 

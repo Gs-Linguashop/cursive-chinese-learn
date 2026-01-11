@@ -26,6 +26,7 @@
 ### 讥
 
 ### 讨
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BA8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 让
 
@@ -36,6 +37,7 @@
 ### 讯
 
 ### 记
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BB0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 讲
 
@@ -71,8 +73,10 @@
 ### 诈
 
 ### 诉
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BC9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 诊
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BCA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 词
 
@@ -86,6 +90,7 @@
 ### 诚
 
 ### 话
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BDD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 诞
 <img src="../font/MingjianCaoshuHeiti-svg/uni8BDE.svg" width="160" style="max-width:100%; height:auto;">

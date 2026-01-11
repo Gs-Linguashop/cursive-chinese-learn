@@ -103,6 +103,7 @@
 ### 摩
 
 ### 摯
+<img src="../font/MingjianCaoshuHeiti-svg/uni646F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 摳
 
@@ -183,12 +184,14 @@
 ### 擬
 
 ### 擰
+<img src="../font/MingjianCaoshuHeiti-svg/uni64F0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 擱
 
 ### 擲
 
 ### 擴
+<img src="../font/MingjianCaoshuHeiti-svg/uni64F4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 擺
 

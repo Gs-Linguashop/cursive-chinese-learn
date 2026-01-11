@@ -12,6 +12,7 @@
 ### 仔
 
 ### 他
+<img src="../font/MingjianCaoshuHeiti-svg/uni4ED6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 仗
 
@@ -92,6 +93,7 @@
 ### 伦
 
 ### 伪
+<img src="../font/MingjianCaoshuHeiti-svg/uni4F2A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 伯
 
@@ -110,6 +112,7 @@
 ### 佃
 
 ### 但
+<img src="../font/MingjianCaoshuHeiti-svg/uni4F46.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 佈
 

@@ -32,6 +32,7 @@
 ### 氮
 
 ### 氯
+<img src="../font/MingjianCaoshuHeiti-svg/uni6C2F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 水
 <img src="../font/MingjianCaoshuHeiti-svg/uni6C34.svg" width="160" style="max-width:100%; height:auto;">
@@ -64,6 +65,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6C5F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 池
+<img src="../font/MingjianCaoshuHeiti-svg/uni6C60.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 污
 
@@ -151,6 +153,7 @@
 ### 泛
 
 ### 泞
+<img src="../font/MingjianCaoshuHeiti-svg/uni6CDE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 泡
 <img src="../font/MingjianCaoshuHeiti-svg/uni6CE1.svg" width="160" style="max-width:100%; height:auto;">
@@ -205,6 +208,7 @@
 ### 洶
 
 ### 活
+<img src="../font/MingjianCaoshuHeiti-svg/uni6D3B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 洼
 <img src="../font/MingjianCaoshuHeiti-svg/uni6D3C.svg" width="160" style="max-width:100%; height:auto;">
@@ -214,6 +218,7 @@
 ### 派
 
 ### 流
+<img src="../font/MingjianCaoshuHeiti-svg/uni6D41.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 浅
 
@@ -223,6 +228,7 @@
 ### 浇
 
 ### 浊
+<img src="../font/MingjianCaoshuHeiti-svg/uni6D4A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 测
 

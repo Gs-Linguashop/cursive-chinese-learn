@@ -15,8 +15,10 @@
 ### 赶
 
 ### 起
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D77.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 趁
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D81.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 超
 

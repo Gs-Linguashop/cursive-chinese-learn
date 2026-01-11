@@ -19,6 +19,7 @@
 ### 糾
 
 ### 紀
+<img src="../font/MingjianCaoshuHeiti-svg/uni7D00.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 約
 <img src="../font/MingjianCaoshuHeiti-svg/uni7D04.svg" width="160" style="max-width:100%; height:auto;">
@@ -118,6 +119,7 @@
 ### 綜
 
 ### 綠
+<img src="../font/MingjianCaoshuHeiti-svg/uni7DA0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 綢
 
@@ -147,6 +149,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7DCA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 緑
+<img src="../font/MingjianCaoshuHeiti-svg/uni7DD1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 緒
 
@@ -157,6 +160,7 @@
 ### 締
 
 ### 緣
+<img src="../font/MingjianCaoshuHeiti-svg/uni7DE3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 編
 

@@ -77,6 +77,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni75B2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 疹
+<img src="../font/MingjianCaoshuHeiti-svg/uni75B9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 疼
 <img src="../font/MingjianCaoshuHeiti-svg/uni75BC.svg" width="160" style="max-width:100%; height:auto;">
@@ -121,6 +122,7 @@
 ### 瘓
 
 ### 瘟
+<img src="../font/MingjianCaoshuHeiti-svg/uni761F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瘡
 
@@ -140,6 +142,7 @@
 ### 瘸
 
 ### 瘾
+<img src="../font/MingjianCaoshuHeiti-svg/uni763E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 療
 
@@ -163,6 +166,7 @@
 ### 癬
 
 ### 癮
+<img src="../font/MingjianCaoshuHeiti-svg/uni766E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 癱
 

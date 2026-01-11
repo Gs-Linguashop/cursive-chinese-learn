@@ -16,6 +16,7 @@
 ### 级
 
 ### 纪
+<img src="../font/MingjianCaoshuHeiti-svg/uni7EAA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 纫
 
@@ -124,6 +125,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7EFD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 绿
+<img src="../font/MingjianCaoshuHeiti-svg/uni7EFF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 缀
 
@@ -144,6 +146,7 @@
 ### 编
 
 ### 缘
+<img src="../font/MingjianCaoshuHeiti-svg/uni7F18.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 缚
 

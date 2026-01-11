@@ -3,6 +3,7 @@
 ### 担
 
 ### 拆
+<img src="../font/MingjianCaoshuHeiti-svg/uni62C6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 拇
 
@@ -26,6 +27,7 @@
 ### 拔
 
 ### 拖
+<img src="../font/MingjianCaoshuHeiti-svg/uni62D6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 拗
 
@@ -50,12 +52,14 @@
 ### 拦
 
 ### 拧
+<img src="../font/MingjianCaoshuHeiti-svg/uni62E7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 拨
 
 ### 择
 
 ### 括
+<img src="../font/MingjianCaoshuHeiti-svg/uni62EC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 拭
 
@@ -93,6 +97,7 @@
 ### 挖
 
 ### 挚
+<img src="../font/MingjianCaoshuHeiti-svg/uni631A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 挟
 <img src="../font/MingjianCaoshuHeiti-svg/uni631F.svg" width="160" style="max-width:100%; height:auto;">
@@ -102,6 +107,7 @@
 ### 挡
 
 ### 挣
+<img src="../font/MingjianCaoshuHeiti-svg/uni6323.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 挤
 
@@ -195,6 +201,7 @@
 ### 掘
 
 ### 掙
+<img src="../font/MingjianCaoshuHeiti-svg/uni6399.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 掛
 <img src="../font/MingjianCaoshuHeiti-svg/uni639B.svg" width="160" style="max-width:100%; height:auto;">

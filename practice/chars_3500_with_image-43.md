@@ -108,6 +108,7 @@
 ### 酗
 
 ### 酝
+<img src="../font/MingjianCaoshuHeiti-svg/uni915D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 酣
 
@@ -141,8 +142,10 @@
 ### 醒
 
 ### 醖
+<img src="../font/MingjianCaoshuHeiti-svg/uni9196.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 醞
+<img src="../font/MingjianCaoshuHeiti-svg/uni919E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 醫
 

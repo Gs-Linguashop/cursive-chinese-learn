@@ -89,6 +89,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5F15.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 弛
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F1B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 弟
 <img src="../font/MingjianCaoshuHeiti-svg/uni5F1F.svg" width="160" style="max-width:100%; height:auto;">

@@ -78,6 +78,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6069.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恬
+<img src="../font/MingjianCaoshuHeiti-svg/uni606C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恭
 
@@ -92,6 +93,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6076.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恼
+<img src="../font/MingjianCaoshuHeiti-svg/uni607C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 悄
 
@@ -168,6 +170,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni60F0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 惱
+<img src="../font/MingjianCaoshuHeiti-svg/uni60F1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 想
 
@@ -204,6 +207,7 @@
 ### 慇
 
 ### 慈
+<img src="../font/MingjianCaoshuHeiti-svg/uni6148.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 態
 
@@ -224,4 +228,5 @@
 ### 慧
 
 ### 慨
+<img src="../font/MingjianCaoshuHeiti-svg/uni6168.svg" width="160" style="max-width:100%; height:auto;">
 

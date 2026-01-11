@@ -1,6 +1,7 @@
 # 常用草书字形表47
 
 ### 顔
+<img src="../font/MingjianCaoshuHeiti-svg/uni9854.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 顛
 
@@ -70,6 +71,7 @@
 ### 题
 
 ### 颜
+<img src="../font/MingjianCaoshuHeiti-svg/uni989C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 额
 
@@ -206,6 +208,7 @@
 ### 馱
 
 ### 馳
+<img src="../font/MingjianCaoshuHeiti-svg/uni99B3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 馴
 

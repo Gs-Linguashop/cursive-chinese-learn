@@ -6,6 +6,7 @@
 ### 柜
 
 ### 柠
+<img src="../font/MingjianCaoshuHeiti-svg/uni67E0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 查
 <img src="../font/MingjianCaoshuHeiti-svg/uni67E5.svg" width="160" style="max-width:100%; height:auto;">
@@ -127,6 +128,7 @@
 ### 梱
 
 ### 梳
+<img src="../font/MingjianCaoshuHeiti-svg/uni68B3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 检
 
@@ -211,6 +213,7 @@
 ### 楼
 
 ### 概
+<img src="../font/MingjianCaoshuHeiti-svg/uni6982.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 榄
 

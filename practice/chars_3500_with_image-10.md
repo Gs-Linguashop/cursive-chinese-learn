@@ -11,6 +11,7 @@
 ### 奸
 
 ### 她
+<img src="../font/MingjianCaoshuHeiti-svg/uni5979.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 好
 <img src="../font/MingjianCaoshuHeiti-svg/uni597D.svg" width="160" style="max-width:100%; height:auto;">
@@ -72,6 +73,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni59DC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 姥
+<img src="../font/MingjianCaoshuHeiti-svg/uni59E5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 姦
 

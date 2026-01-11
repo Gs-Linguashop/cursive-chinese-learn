@@ -98,10 +98,12 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6FA4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 澳
+<img src="../font/MingjianCaoshuHeiti-svg/uni6FB3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 激
 
 ### 濁
+<img src="../font/MingjianCaoshuHeiti-svg/uni6FC1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 濃
 
@@ -111,6 +113,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6FD5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 濘
+<img src="../font/MingjianCaoshuHeiti-svg/uni6FD8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 濟
 
@@ -221,4 +224,5 @@
 ### 烙
 
 ### 烛
+<img src="../font/MingjianCaoshuHeiti-svg/uni70DB.svg" width="160" style="max-width:100%; height:auto;">
 

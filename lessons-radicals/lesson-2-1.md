@@ -210,7 +210,7 @@
 
 <img src="../font/MingjianCaoshuHeiti-svg/uni2F7F.left.svg" width="144" style="max-width:100%; height:auto;">
 
-左侧的「骨」也可以简化书写。
+左侧的「耳」也可以简化书写。
 
 *左侧的“耳”（简）*
 

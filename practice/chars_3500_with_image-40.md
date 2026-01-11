@@ -29,6 +29,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CAC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 貯
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CAF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 貳
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CB3.svg" width="160" style="max-width:100%; height:auto;">
@@ -166,6 +167,7 @@
 ### 购
 
 ### 贮
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D2E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 贯
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D2F.svg" width="160" style="max-width:100%; height:auto;">

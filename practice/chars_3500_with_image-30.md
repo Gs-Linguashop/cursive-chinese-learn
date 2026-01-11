@@ -99,6 +99,7 @@
 ### 筛
 
 ### 筝
+<img src="../font/MingjianCaoshuHeiti-svg/uni7B5D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 筷
 
@@ -112,6 +113,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7B8D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 箏
+<img src="../font/MingjianCaoshuHeiti-svg/uni7B8F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 箕
 <img src="../font/MingjianCaoshuHeiti-svg/uni7B95.svg" width="160" style="max-width:100%; height:auto;">

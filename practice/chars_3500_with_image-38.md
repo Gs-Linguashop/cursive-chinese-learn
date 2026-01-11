@@ -27,8 +27,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni89E3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 触
+<img src="../font/MingjianCaoshuHeiti-svg/uni89E6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 觸
+<img src="../font/MingjianCaoshuHeiti-svg/uni89F8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 言
 <img src="../font/MingjianCaoshuHeiti-svg/uni8A00.svg" width="160" style="max-width:100%; height:auto;">
@@ -40,12 +42,14 @@
 ### 訊
 
 ### 討
+<img src="../font/MingjianCaoshuHeiti-svg/uni8A0E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 訓
 
 ### 託
 
 ### 記
+<img src="../font/MingjianCaoshuHeiti-svg/uni8A18.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 訛
 
@@ -63,8 +67,10 @@
 ### 許
 
 ### 訴
+<img src="../font/MingjianCaoshuHeiti-svg/uni8A34.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 診
+<img src="../font/MingjianCaoshuHeiti-svg/uni8A3A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 註
 
@@ -90,6 +96,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8A6D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 話
+<img src="../font/MingjianCaoshuHeiti-svg/uni8A71.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 該
 
@@ -165,6 +172,7 @@
 ### 諸
 
 ### 諺
+<img src="../font/MingjianCaoshuHeiti-svg/uni8AFA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 諾
 

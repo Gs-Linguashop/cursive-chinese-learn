@@ -12,6 +12,7 @@
 ### 障
 
 ### 隧
+<img src="../font/MingjianCaoshuHeiti-svg/uni96A7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 隨
 <img src="../font/MingjianCaoshuHeiti-svg/uni96A8.svg" width="160" style="max-width:100%; height:auto;">
@@ -19,6 +20,7 @@
 ### 險
 
 ### 隱
+<img src="../font/MingjianCaoshuHeiti-svg/uni96B1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 隶
 <img src="../font/MingjianCaoshuHeiti-svg/uni96B6.svg" width="160" style="max-width:100%; height:auto;">
@@ -237,4 +239,5 @@
 ### 額
 
 ### 顏
+<img src="../font/MingjianCaoshuHeiti-svg/uni984F.svg" width="160" style="max-width:100%; height:auto;">
 

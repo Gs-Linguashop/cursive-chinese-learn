@@ -1,6 +1,7 @@
 # 常用草书字形表29
 
 ### 磺
+<img src="../font/MingjianCaoshuHeiti-svg/uni78FA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 礁
 
@@ -9,6 +10,7 @@
 ### 礙
 
 ### 礦
+<img src="../font/MingjianCaoshuHeiti-svg/uni7926.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 礫
 
@@ -157,6 +159,7 @@
 ### 稱
 
 ### 稳
+<img src="../font/MingjianCaoshuHeiti-svg/uni7A33.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 稻
 
@@ -178,6 +181,7 @@
 ### 穢
 
 ### 穩
+<img src="../font/MingjianCaoshuHeiti-svg/uni7A69.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 穴
 <img src="../font/MingjianCaoshuHeiti-svg/uni7A74.svg" width="160" style="max-width:100%; height:auto;">

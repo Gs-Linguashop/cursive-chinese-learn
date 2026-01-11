@@ -84,6 +84,7 @@
 ### 淤
 
 ### 淨
+<img src="../font/MingjianCaoshuHeiti-svg/uni6DE8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 淩
 
@@ -135,6 +136,7 @@
 ### 渦
 
 ### 温
+<img src="../font/MingjianCaoshuHeiti-svg/uni6E29.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 測
 
@@ -174,6 +176,7 @@
 ### 溅
 
 ### 溉
+<img src="../font/MingjianCaoshuHeiti-svg/uni6E89.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 源
 
@@ -186,6 +189,7 @@
 ### 溪
 
 ### 溫
+<img src="../font/MingjianCaoshuHeiti-svg/uni6EAB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 溯
 
@@ -201,6 +205,7 @@
 ### 滅
 
 ### 滋
+<img src="../font/MingjianCaoshuHeiti-svg/uni6ECB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 滌
 

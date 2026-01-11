@@ -62,6 +62,7 @@
 ### 偺
 
 ### 偽
+<img src="../font/MingjianCaoshuHeiti-svg/uni507D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 偿
 
@@ -109,6 +110,7 @@
 ### 僚
 
 ### 僞
+<img src="../font/MingjianCaoshuHeiti-svg/uni50DE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 僥
 

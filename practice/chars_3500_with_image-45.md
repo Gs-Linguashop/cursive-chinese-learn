@@ -87,6 +87,7 @@
 ### 閻
 
 ### 闊
+<img src="../font/MingjianCaoshuHeiti-svg/uni95CA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 闖
 <img src="../font/MingjianCaoshuHeiti-svg/uni95D6.svg" width="160" style="max-width:100%; height:auto;">
@@ -145,6 +146,7 @@
 ### 阐
 
 ### 阔
+<img src="../font/MingjianCaoshuHeiti-svg/uni9614.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 队
 <img src="../font/MingjianCaoshuHeiti-svg/uni961F.svg" width="160" style="max-width:100%; height:auto;">
@@ -179,6 +181,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9648.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 陋
+<img src="../font/MingjianCaoshuHeiti-svg/uni964B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 陌
 
@@ -238,6 +241,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni968F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 隐
+<img src="../font/MingjianCaoshuHeiti-svg/uni9690.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 隔
 

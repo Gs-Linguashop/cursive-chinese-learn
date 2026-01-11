@@ -21,6 +21,7 @@
 ### 鋼
 
 ### 錄
+<img src="../font/MingjianCaoshuHeiti-svg/uni9304.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 錐
 
@@ -40,6 +41,7 @@
 ### 錯
 
 ### 録
+<img src="../font/MingjianCaoshuHeiti-svg/uni9332.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 錳
 

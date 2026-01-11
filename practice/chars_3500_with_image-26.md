@@ -1,6 +1,7 @@
 # 常用草书字形表26
 
 ### 独
+<img src="../font/MingjianCaoshuHeiti-svg/uni72EC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 狭
 <img src="../font/MingjianCaoshuHeiti-svg/uni72ED.svg" width="160" style="max-width:100%; height:auto;">
@@ -8,6 +9,7 @@
 ### 狮
 
 ### 狰
+<img src="../font/MingjianCaoshuHeiti-svg/uni72F0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 狱
 <img src="../font/MingjianCaoshuHeiti-svg/uni72F1.svg" width="160" style="max-width:100%; height:auto;">
@@ -27,6 +29,7 @@
 ### 猖
 
 ### 猙
+<img src="../font/MingjianCaoshuHeiti-svg/uni7319.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 猛
 
@@ -59,8 +62,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni734E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 獨
+<img src="../font/MingjianCaoshuHeiti-svg/uni7368.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 獰
+<img src="../font/MingjianCaoshuHeiti-svg/uni7370.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 獲
 
@@ -107,6 +112,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni73CA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 珍
+<img src="../font/MingjianCaoshuHeiti-svg/uni73CD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 珠
 
@@ -125,6 +131,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7406.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 琉
+<img src="../font/MingjianCaoshuHeiti-svg/uni7409.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 琍
 

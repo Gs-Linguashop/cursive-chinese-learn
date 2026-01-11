@@ -80,6 +80,7 @@
 ### 熬
 
 ### 熱
+<img src="../font/MingjianCaoshuHeiti-svg/uni71B1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 燃
 
@@ -109,6 +110,7 @@
 ### 燬
 
 ### 燭
+<img src="../font/MingjianCaoshuHeiti-svg/uni71ED.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 燻
 
@@ -180,6 +182,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni725B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 牠
+<img src="../font/MingjianCaoshuHeiti-svg/uni7260.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 牡
 <img src="../font/MingjianCaoshuHeiti-svg/uni7261.svg" width="160" style="max-width:100%; height:auto;">
@@ -217,6 +220,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni72AC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 犯
+<img src="../font/MingjianCaoshuHeiti-svg/uni72AF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 状
 
@@ -235,6 +239,7 @@
 ### 狗
 
 ### 狞
+<img src="../font/MingjianCaoshuHeiti-svg/uni72DE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 狠
 

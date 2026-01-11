@@ -148,6 +148,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5728.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 地
+<img src="../font/MingjianCaoshuHeiti-svg/uni5730.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 场
 <img src="../font/MingjianCaoshuHeiti-svg/uni573A.svg" width="160" style="max-width:100%; height:auto;">
@@ -185,6 +186,7 @@
 ### 坟
 
 ### 坠
+<img src="../font/MingjianCaoshuHeiti-svg/uni5760.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 坡
 <img src="../font/MingjianCaoshuHeiti-svg/uni5761.svg" width="160" style="max-width:100%; height:auto;">
@@ -193,6 +195,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5764.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 坦
+<img src="../font/MingjianCaoshuHeiti-svg/uni5766.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 坪
 
@@ -219,6 +222,7 @@
 ### 垦
 
 ### 垫
+<img src="../font/MingjianCaoshuHeiti-svg/uni57AB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 垮
 <img src="../font/MingjianCaoshuHeiti-svg/uni57AE.svg" width="160" style="max-width:100%; height:auto;">

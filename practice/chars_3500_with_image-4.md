@@ -65,6 +65,7 @@
 ### 冻
 
 ### 净
+<img src="../font/MingjianCaoshuHeiti-svg/uni51C0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 凄
 
@@ -72,6 +73,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni51C6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 凈
+<img src="../font/MingjianCaoshuHeiti-svg/uni51C8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 凉
 
@@ -190,6 +192,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni522B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 刮
+<img src="../font/MingjianCaoshuHeiti-svg/uni522E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 到
 

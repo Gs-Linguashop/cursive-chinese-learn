@@ -52,6 +52,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni61C9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 懊
+<img src="../font/MingjianCaoshuHeiti-svg/uni61CA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 懒
 
@@ -150,6 +151,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6267.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扩
+<img src="../font/MingjianCaoshuHeiti-svg/uni6269.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扫
 <img src="../font/MingjianCaoshuHeiti-svg/uni626B.svg" width="160" style="max-width:100%; height:auto;">

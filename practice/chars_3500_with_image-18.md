@@ -175,6 +175,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni65F6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 旷
+<img src="../font/MingjianCaoshuHeiti-svg/uni65F7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 旺
 

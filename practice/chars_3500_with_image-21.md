@@ -38,6 +38,7 @@
 ### 樣
 
 ### 横
+<img src="../font/MingjianCaoshuHeiti-svg/uni6A2A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 樱
 
@@ -61,6 +62,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6A62.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 橫
+<img src="../font/MingjianCaoshuHeiti-svg/uni6A6B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 橱
 
@@ -79,6 +81,7 @@
 ### 檬
 
 ### 檸
+<img src="../font/MingjianCaoshuHeiti-svg/uni6AB8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 櫃
 

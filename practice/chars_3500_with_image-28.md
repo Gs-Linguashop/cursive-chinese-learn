@@ -67,10 +67,12 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7740.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 睁
+<img src="../font/MingjianCaoshuHeiti-svg/uni7741.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 睛
 
 ### 睜
+<img src="../font/MingjianCaoshuHeiti-svg/uni775C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 睡
 
@@ -89,8 +91,10 @@
 ### 瞎
 
 ### 瞒
+<img src="../font/MingjianCaoshuHeiti-svg/uni7792.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瞞
+<img src="../font/MingjianCaoshuHeiti-svg/uni779E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瞧
 
@@ -135,6 +139,7 @@
 ### 矾
 
 ### 矿
+<img src="../font/MingjianCaoshuHeiti-svg/uni77FF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 码
 
@@ -171,6 +176,7 @@
 ### 硝
 
 ### 硫
+<img src="../font/MingjianCaoshuHeiti-svg/uni786B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 硬
 
@@ -183,6 +189,7 @@
 ### 碉
 
 ### 碌
+<img src="../font/MingjianCaoshuHeiti-svg/uni788C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 碍
 
@@ -214,6 +221,7 @@
 ### 碾
 
 ### 磁
+<img src="../font/MingjianCaoshuHeiti-svg/uni78C1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 磅
 

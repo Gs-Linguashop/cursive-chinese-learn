@@ -55,6 +55,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni52B3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 势
+<img src="../font/MingjianCaoshuHeiti-svg/uni52BF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 勁
 <img src="../font/MingjianCaoshuHeiti-svg/uni52C1.svg" width="160" style="max-width:100%; height:auto;">
@@ -88,6 +89,7 @@
 ### 募
 
 ### 勢
+<img src="../font/MingjianCaoshuHeiti-svg/uni52E2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 勤
 

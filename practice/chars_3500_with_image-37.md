@@ -117,6 +117,7 @@
 ### 衫
 
 ### 衬
+<img src="../font/MingjianCaoshuHeiti-svg/uni886C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 衰
 <img src="../font/MingjianCaoshuHeiti-svg/uni8870.svg" width="160" style="max-width:100%; height:auto;">
@@ -134,6 +135,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni888D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 袒
+<img src="../font/MingjianCaoshuHeiti-svg/uni8892.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 袖
 
@@ -186,6 +188,7 @@
 ### 褲
 
 ### 襖
+<img src="../font/MingjianCaoshuHeiti-svg/uni8956.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 襟
 

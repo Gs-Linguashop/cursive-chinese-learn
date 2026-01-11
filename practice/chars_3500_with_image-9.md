@@ -66,6 +66,7 @@
 ### 墅
 
 ### 墊
+<img src="../font/MingjianCaoshuHeiti-svg/uni588A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 墓
 
@@ -73,6 +74,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5899.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 墜
+<img src="../font/MingjianCaoshuHeiti-svg/uni589C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 增
 
