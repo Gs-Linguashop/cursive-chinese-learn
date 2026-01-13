@@ -24,8 +24,8 @@
 
 ### 字形资料
 
+* [草书字形速查器](https://gs-linguashop.github.io/cursive-chinese-learn/dictionary/search.html)：输入汉字，显示草书字形。（国内可能用不了。）
 * [草书字形结构索引](dictionary/README.md)（完善中）：
-	* [草书字形速查器](https://gs-linguashop.github.io/cursive-chinese-learn/dictionary/search.html)：输入汉字，显示草书字形。（国内可能用不了。）
 	* 草书字形结构索引：这是一个系统化的草书结构和字形索引，包含详细草书字形关系和结构信息。
 	* 字形采用[明鉴草书黑体](font/README.md)呈现。
 * [复习字表](practice/README.md)（完善中）
