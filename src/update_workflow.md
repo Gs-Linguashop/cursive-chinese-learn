@@ -12,9 +12,9 @@
 
 `python3 src/add_links.py practice/chars_3500_linked.md font/MingjianCaoshuHeiti-svg/ -o practice/chars_3500_linked.md --link-folder "../font/MingjianCaoshuHeiti-svg/" --exceptions-file ../MingjianCaoshuHeiti/src/dictionary.txt`
 
-（跳过此步）`python3 practice/src/split_md_table.py practice/chars_3500_linked.md`
-
 `python3 practice/src/tools.py practice/chars_3500_linked.md -o practice/chars_3500_with_image.md`
+
+`python3 src/md_to_json.py`
 
 ## 做视频
 
