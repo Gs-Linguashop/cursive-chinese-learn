@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(res => res.json())
     .then(data => {
       CHAR_MAP = data;
-      hint.textContent = "请输入一个汉字";
+      hint.textContent = "";
       console.log("Loaded CHAR_MAP:", CHAR_MAP);
     })
     .catch(err => {
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function search() {
     const c = input.value.trim();
     if (!c) {
-      hint.textContent = "请输入一个汉字";
+      hint.textContent = "";
       output.innerHTML = "";
       return;
     }

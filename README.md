@@ -2,9 +2,7 @@
 
 # 嗷呜的草书字形学习资料
 
-*（[网页版](https://Gs-Linguashop.github.io/cursive-chinese-learn/)）*
-*（[网页版（国内）](https://Gs-Linguashop.gitee.io/cursive-chinese-learn/)）*
-*（[NaitLee](https://unseen-site.fun/about/#reach-out)维护的[网页版](https://草书.unseen-site.fun)）*
+*（感谢[NaitLee](https://unseen-site.fun/about/#reach-out)维护的[网页版](https://草书.unseen-site.fun)）*
 
 这是一个面向一般对草书字形感兴趣、想快速学习草书字形的初学者的课件项目。在课程资料外，还包含了一款用于学习草书的字体（链接在本页下方）。
 
@@ -27,7 +25,7 @@
 ### 字形资料
 
 * [草书字形结构索引](dictionary/README.md)（完善中）：
-	* [草书字形速查器](dictionary/search.html)：输入汉字，显示草书字形。（请登陆网页版使用。）
+	* [草书字形速查器](https://gs-linguashop.github.io/cursive-chinese-learn/dictionary/search.html)：输入汉字，显示草书字形。（国内可能用不了。）
 	* 草书字形结构索引：这是一个系统化的草书结构和字形索引，包含详细草书字形关系和结构信息。
 	* 字形采用[明鉴草书黑体](font/README.md)呈现。
 * [复习字表](practice/README.md)（完善中）
@@ -42,10 +40,6 @@
 * 本资料库镜像
 	* [GitHub](https://github.com/Gs-Linguashop/cursive-chinese-learn.git)
 	* [Gitee（国内）](https://gitee.com/awwlang/cursive-chinese-learn.git)
-* 网页版
-	* [GitHub网页版](https://Gs-Linguashop.github.io/cursive-chinese-learn/)
-	* [Gitee网页版（国内）](https://Gs-Linguashop.gitee.io/cursive-chinese-learn/)
-	* 更好UI的[网页版](https://草书.unseen-site.fun)（[NaitLee](https://unseen-site.fun/about/#reach-out)维护）
 * “明鉴草书黑体”获取
 	* [GitHub](https://github.com/Gs-Linguashop/MingjianCaoshuHeiti.git)
 	* [Gitee（国内）](https://gitee.com/awwlang/MingjianCaoshuHeiti.git)
