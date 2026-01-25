@@ -7,6 +7,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5974.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 奶
+<img src="../font/MingjianCaoshuHeiti-svg/uni5976.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 奸
 
@@ -59,6 +60,7 @@
 ### 始
 
 ### 姐
+<img src="../font/MingjianCaoshuHeiti-svg/uni59D0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 姑
 
@@ -95,6 +97,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5A04.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 娇
+<img src="../font/MingjianCaoshuHeiti-svg/uni5A07.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 娘
 
@@ -153,6 +156,7 @@
 ### 嬉
 
 ### 嬌
+<img src="../font/MingjianCaoshuHeiti-svg/uni5B0C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嬰
 <img src="../font/MingjianCaoshuHeiti-svg/uni5B30.svg" width="160" style="max-width:100%; height:auto;">

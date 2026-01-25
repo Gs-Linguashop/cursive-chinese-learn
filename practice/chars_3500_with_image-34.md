@@ -143,6 +143,7 @@
 ### 舆
 
 ### 與
+<img src="../font/MingjianCaoshuHeiti-svg/uni8207.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 興
 <img src="../font/MingjianCaoshuHeiti-svg/uni8208.svg" width="160" style="max-width:100%; height:auto;">
@@ -184,6 +185,7 @@
 ### 舷
 
 ### 船
+<img src="../font/MingjianCaoshuHeiti-svg/uni8239.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 艇
 
@@ -230,6 +232,7 @@
 ### 芜
 
 ### 芝
+<img src="../font/MingjianCaoshuHeiti-svg/uni829D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 芥
 

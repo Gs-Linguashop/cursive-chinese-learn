@@ -32,6 +32,7 @@
 ### 邀
 
 ### 邁
+<img src="../font/MingjianCaoshuHeiti-svg/uni9081.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 還
 <img src="../font/MingjianCaoshuHeiti-svg/uni9084.svg" width="160" style="max-width:100%; height:auto;">
@@ -184,6 +185,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni91D1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 釘
+<img src="../font/MingjianCaoshuHeiti-svg/uni91D8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 針
 
@@ -201,11 +203,13 @@
 ### 鈔
 
 ### 鈕
+<img src="../font/MingjianCaoshuHeiti-svg/uni9215.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鈞
 <img src="../font/MingjianCaoshuHeiti-svg/uni921E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鈣
+<img src="../font/MingjianCaoshuHeiti-svg/uni9223.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鈴
 
@@ -220,6 +224,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni925A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鉛
+<img src="../font/MingjianCaoshuHeiti-svg/uni925B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鉤
 

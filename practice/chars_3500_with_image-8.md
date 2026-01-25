@@ -96,6 +96,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni56E0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 团
+<img src="../font/MingjianCaoshuHeiti-svg/uni56E2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 囤
 
@@ -137,6 +138,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5716.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 團
+<img src="../font/MingjianCaoshuHeiti-svg/uni5718.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 土
 <img src="../font/MingjianCaoshuHeiti-svg/uni571F.svg" width="160" style="max-width:100%; height:auto;">
@@ -182,6 +184,7 @@
 ### 坝
 
 ### 坞
+<img src="../font/MingjianCaoshuHeiti-svg/uni575E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 坟
 
@@ -200,6 +203,7 @@
 ### 坪
 
 ### 坯
+<img src="../font/MingjianCaoshuHeiti-svg/uni576F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 坷
 

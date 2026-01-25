@@ -15,6 +15,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni67EC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 柱
+<img src="../font/MingjianCaoshuHeiti-svg/uni67F1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 柳
 <img src="../font/MingjianCaoshuHeiti-svg/uni67F3.svg" width="160" style="max-width:100%; height:auto;">
@@ -38,6 +39,7 @@
 ### 栈
 
 ### 栋
+<img src="../font/MingjianCaoshuHeiti-svg/uni680B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 栏
 
@@ -86,6 +88,7 @@
 ### 档
 
 ### 桥
+<img src="../font/MingjianCaoshuHeiti-svg/uni6865.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 桦
 
@@ -156,6 +159,7 @@
 ### 棚
 
 ### 棟
+<img src="../font/MingjianCaoshuHeiti-svg/uni68DF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 棠
 <img src="../font/MingjianCaoshuHeiti-svg/uni68E0.svg" width="160" style="max-width:100%; height:auto;">
@@ -228,6 +232,7 @@
 ### 榜
 
 ### 榨
+<img src="../font/MingjianCaoshuHeiti-svg/uni69A8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 榮
 <img src="../font/MingjianCaoshuHeiti-svg/uni69AE.svg" width="160" style="max-width:100%; height:auto;">

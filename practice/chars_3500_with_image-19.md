@@ -56,6 +56,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni66E0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 曬
+<img src="../font/MingjianCaoshuHeiti-svg/uni66EC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 曲
 <img src="../font/MingjianCaoshuHeiti-svg/uni66F2.svg" width="160" style="max-width:100%; height:auto;">
@@ -140,6 +141,7 @@
 ### 机
 
 ### 朽
+<img src="../font/MingjianCaoshuHeiti-svg/uni673D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 杀
 <img src="../font/MingjianCaoshuHeiti-svg/uni6740.svg" width="160" style="max-width:100%; height:auto;">
@@ -168,6 +170,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6751.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 杖
+<img src="../font/MingjianCaoshuHeiti-svg/uni6756.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 杜
 
@@ -188,6 +191,7 @@
 ### 杭
 
 ### 杯
+<img src="../font/MingjianCaoshuHeiti-svg/uni676F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 杰
 <img src="../font/MingjianCaoshuHeiti-svg/uni6770.svg" width="160" style="max-width:100%; height:auto;">
@@ -252,6 +256,7 @@
 ### 柑
 
 ### 柒
+<img src="../font/MingjianCaoshuHeiti-svg/uni67D2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 染
 <img src="../font/MingjianCaoshuHeiti-svg/uni67D3.svg" width="160" style="max-width:100%; height:auto;">

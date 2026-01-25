@@ -20,6 +20,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni76EE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 盯
+<img src="../font/MingjianCaoshuHeiti-svg/uni76EF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 盲
 
@@ -51,6 +52,7 @@
 ### 眠
 
 ### 眨
+<img src="../font/MingjianCaoshuHeiti-svg/uni7728.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 眯
 
@@ -125,6 +127,7 @@
 ### 矩
 
 ### 矫
+<img src="../font/MingjianCaoshuHeiti-svg/uni77EB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 短
 <img src="../font/MingjianCaoshuHeiti-svg/uni77ED.svg" width="160" style="max-width:100%; height:auto;">
@@ -132,6 +135,7 @@
 ### 矮
 
 ### 矯
+<img src="../font/MingjianCaoshuHeiti-svg/uni77EF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 石
 <img src="../font/MingjianCaoshuHeiti-svg/uni77F3.svg" width="160" style="max-width:100%; height:auto;">
@@ -153,6 +157,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7814.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 砖
+<img src="../font/MingjianCaoshuHeiti-svg/uni7816.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 砚
 
@@ -164,6 +169,7 @@
 ### 砸
 
 ### 砾
+<img src="../font/MingjianCaoshuHeiti-svg/uni783E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 础
 
@@ -209,6 +215,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni78A9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 碰
+<img src="../font/MingjianCaoshuHeiti-svg/uni78B0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 碱
 
@@ -228,8 +235,10 @@
 ### 磕
 
 ### 磚
+<img src="../font/MingjianCaoshuHeiti-svg/uni78DA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 磨
+<img src="../font/MingjianCaoshuHeiti-svg/uni78E8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 磷
 

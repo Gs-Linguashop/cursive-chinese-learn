@@ -20,6 +20,7 @@
 ### 计
 
 ### 订
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BA2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 认
 
@@ -33,6 +34,7 @@
 ### 训
 
 ### 议
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BAE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 讯
 
@@ -52,6 +54,7 @@
 ### 论
 
 ### 讼
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BBC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 讽
 
@@ -67,10 +70,12 @@
 ### 评
 
 ### 诅
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BC5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 识
 
 ### 诈
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BC8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 诉
 <img src="../font/MingjianCaoshuHeiti-svg/uni8BC9.svg" width="160" style="max-width:100%; height:auto;">
@@ -219,6 +224,7 @@
 ### 豺
 
 ### 貌
+<img src="../font/MingjianCaoshuHeiti-svg/uni8C8C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 貍
 <img src="../font/MingjianCaoshuHeiti-svg/uni8C8D.svg" width="160" style="max-width:100%; height:auto;">

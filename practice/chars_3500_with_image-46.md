@@ -188,6 +188,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9801.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 頂
+<img src="../font/MingjianCaoshuHeiti-svg/uni9802.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 頃
 <img src="../font/MingjianCaoshuHeiti-svg/uni9803.svg" width="160" style="max-width:100%; height:auto;">
@@ -200,6 +201,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9808.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 頌
+<img src="../font/MingjianCaoshuHeiti-svg/uni980C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 預
 

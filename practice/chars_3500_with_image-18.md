@@ -216,6 +216,7 @@
 ### 昧
 
 ### 昨
+<img src="../font/MingjianCaoshuHeiti-svg/uni6628.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 昭
 
@@ -244,6 +245,7 @@
 ### 晌
 
 ### 晒
+<img src="../font/MingjianCaoshuHeiti-svg/uni6652.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 晓
 

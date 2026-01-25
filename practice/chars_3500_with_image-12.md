@@ -71,6 +71,7 @@
 ### 嶺
 
 ### 嶼
+<img src="../font/MingjianCaoshuHeiti-svg/uni5DBC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嶽
 
@@ -80,6 +81,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5DD2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 巖
+<img src="../font/MingjianCaoshuHeiti-svg/uni5DD6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 川
 <img src="../font/MingjianCaoshuHeiti-svg/uni5DDD.svg" width="160" style="max-width:100%; height:auto;">

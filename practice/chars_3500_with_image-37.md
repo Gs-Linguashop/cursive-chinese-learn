@@ -44,6 +44,7 @@
 ### 螞
 
 ### 螟
+<img src="../font/MingjianCaoshuHeiti-svg/uni879F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 螢
 <img src="../font/MingjianCaoshuHeiti-svg/uni87A2.svg" width="160" style="max-width:100%; height:auto;">
@@ -64,6 +65,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni87F9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蟻
+<img src="../font/MingjianCaoshuHeiti-svg/uni87FB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蠅
 
@@ -123,6 +125,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8870.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 衷
+<img src="../font/MingjianCaoshuHeiti-svg/uni8877.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 袁
 <img src="../font/MingjianCaoshuHeiti-svg/uni8881.svg" width="160" style="max-width:100%; height:auto;">

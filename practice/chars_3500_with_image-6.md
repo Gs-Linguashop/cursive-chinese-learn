@@ -43,6 +43,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni53BF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 叁
+<img src="../font/MingjianCaoshuHeiti-svg/uni53C1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 参
 <img src="../font/MingjianCaoshuHeiti-svg/uni53C2.svg" width="160" style="max-width:100%; height:auto;">
@@ -51,6 +52,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni53C3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 叄
+<img src="../font/MingjianCaoshuHeiti-svg/uni53C4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 又
 <img src="../font/MingjianCaoshuHeiti-svg/uni53C8.svg" width="160" style="max-width:100%; height:auto;">
@@ -113,6 +115,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni53EA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 叫
+<img src="../font/MingjianCaoshuHeiti-svg/uni53EB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 召
 <img src="../font/MingjianCaoshuHeiti-svg/uni53EC.svg" width="160" style="max-width:100%; height:auto;">
@@ -120,6 +123,7 @@
 ### 叭
 
 ### 叮
+<img src="../font/MingjianCaoshuHeiti-svg/uni53EE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 可
 <img src="../font/MingjianCaoshuHeiti-svg/uni53EF.svg" width="160" style="max-width:100%; height:auto;">

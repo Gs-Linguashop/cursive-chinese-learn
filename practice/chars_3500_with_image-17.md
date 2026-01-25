@@ -82,6 +82,7 @@
 ### 携
 
 ### 搾
+<img src="../font/MingjianCaoshuHeiti-svg/uni643E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 摄
 
@@ -101,6 +102,7 @@
 ### 摧
 
 ### 摩
+<img src="../font/MingjianCaoshuHeiti-svg/uni6469.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 摯
 <img src="../font/MingjianCaoshuHeiti-svg/uni646F.svg" width="160" style="max-width:100%; height:auto;">
@@ -147,6 +149,7 @@
 ### 播
 
 ### 撮
+<img src="../font/MingjianCaoshuHeiti-svg/uni64AE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 撰
 

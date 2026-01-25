@@ -1,6 +1,7 @@
 # 常用草书字形表36
 
 ### 蒸
+<img src="../font/MingjianCaoshuHeiti-svg/uni84B8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蒼
 
@@ -55,6 +56,7 @@
 ### 蕊
 
 ### 蕎
+<img src="../font/MingjianCaoshuHeiti-svg/uni854E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蕩
 <img src="../font/MingjianCaoshuHeiti-svg/uni8569.svg" width="160" style="max-width:100%; height:auto;">
@@ -90,6 +92,7 @@
 ### 藏
 
 ### 藐
+<img src="../font/MingjianCaoshuHeiti-svg/uni85D0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 藕
 
@@ -115,6 +118,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni860A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蘑
+<img src="../font/MingjianCaoshuHeiti-svg/uni8611.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蘭
 
@@ -165,12 +169,14 @@
 ### 蚀
 
 ### 蚁
+<img src="../font/MingjianCaoshuHeiti-svg/uni8681.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蚂
 
 ### 蚊
 
 ### 蚌
+<img src="../font/MingjianCaoshuHeiti-svg/uni868C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蚓
 
@@ -179,6 +185,7 @@
 ### 蚜
 
 ### 蚣
+<img src="../font/MingjianCaoshuHeiti-svg/uni86A3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蚤
 <img src="../font/MingjianCaoshuHeiti-svg/uni86A4.svg" width="160" style="max-width:100%; height:auto;">
@@ -186,10 +193,13 @@
 ### 蚪
 
 ### 蚯
+<img src="../font/MingjianCaoshuHeiti-svg/uni86AF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蛀
+<img src="../font/MingjianCaoshuHeiti-svg/uni86C0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蛆
+<img src="../font/MingjianCaoshuHeiti-svg/uni86C6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蛇
 

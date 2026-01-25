@@ -62,6 +62,7 @@
 ### 疙
 
 ### 疚
+<img src="../font/MingjianCaoshuHeiti-svg/uni759A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 疟
 
@@ -108,6 +109,7 @@
 ### 痰
 
 ### 痲
+<img src="../font/MingjianCaoshuHeiti-svg/uni75F2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 痴
 
@@ -207,6 +209,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni76C3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 盅
+<img src="../font/MingjianCaoshuHeiti-svg/uni76C5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 盆
 

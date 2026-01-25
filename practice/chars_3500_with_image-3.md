@@ -90,6 +90,7 @@
 ### 傲
 
 ### 傳
+<img src="../font/MingjianCaoshuHeiti-svg/uni50B3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 債
 
@@ -106,6 +107,7 @@
 ### 像
 
 ### 僑
+<img src="../font/MingjianCaoshuHeiti-svg/uni50D1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 僚
 
@@ -123,6 +125,7 @@
 ### 僻
 
 ### 儀
+<img src="../font/MingjianCaoshuHeiti-svg/uni5100.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 億
 
@@ -135,6 +138,7 @@
 ### 儡
 
 ### 優
+<img src="../font/MingjianCaoshuHeiti-svg/uni512A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 儲
 

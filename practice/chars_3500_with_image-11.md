@@ -216,6 +216,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5C48.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 屉
+<img src="../font/MingjianCaoshuHeiti-svg/uni5C49.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 届
 <img src="../font/MingjianCaoshuHeiti-svg/uni5C4A.svg" width="160" style="max-width:100%; height:auto;">
@@ -236,6 +237,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5C55.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 屜
+<img src="../font/MingjianCaoshuHeiti-svg/uni5C5C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 属
 <img src="../font/MingjianCaoshuHeiti-svg/uni5C5E.svg" width="160" style="max-width:100%; height:auto;">
@@ -263,6 +265,7 @@
 ### 屹
 
 ### 屿
+<img src="../font/MingjianCaoshuHeiti-svg/uni5C7F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 岁
 <img src="../font/MingjianCaoshuHeiti-svg/uni5C81.svg" width="160" style="max-width:100%; height:auto;">

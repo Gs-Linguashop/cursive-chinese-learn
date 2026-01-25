@@ -191,6 +191,7 @@
 ### 徒
 
 ### 得
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F97.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 徘
 
@@ -241,6 +242,7 @@
 ### 忙
 
 ### 忠
+<img src="../font/MingjianCaoshuHeiti-svg/uni5FE0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 忧
 

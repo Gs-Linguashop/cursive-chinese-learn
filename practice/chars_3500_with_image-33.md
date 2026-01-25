@@ -203,6 +203,7 @@
 ### 胖
 
 ### 胚
+<img src="../font/MingjianCaoshuHeiti-svg/uni80DA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 胜
 <img src="../font/MingjianCaoshuHeiti-svg/uni80DC.svg" width="160" style="max-width:100%; height:auto;">

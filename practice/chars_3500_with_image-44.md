@@ -116,10 +116,12 @@
 ### 针
 
 ### 钉
+<img src="../font/MingjianCaoshuHeiti-svg/uni9489.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 钓
 
 ### 钙
+<img src="../font/MingjianCaoshuHeiti-svg/uni9499.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 钝
 
@@ -142,6 +144,7 @@
 ### 钩
 
 ### 钮
+<img src="../font/MingjianCaoshuHeiti-svg/uni94AE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 钱
 
@@ -156,6 +159,7 @@
 ### 铃
 
 ### 铅
+<img src="../font/MingjianCaoshuHeiti-svg/uni94C5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 铆
 <img src="../font/MingjianCaoshuHeiti-svg/uni94C6.svg" width="160" style="max-width:100%; height:auto;">

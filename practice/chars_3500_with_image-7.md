@@ -22,6 +22,7 @@
 ### 呻
 
 ### 呼
+<img src="../font/MingjianCaoshuHeiti-svg/uni547C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 命
 <img src="../font/MingjianCaoshuHeiti-svg/uni547D.svg" width="160" style="max-width:100%; height:auto;">

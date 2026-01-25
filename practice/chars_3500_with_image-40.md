@@ -38,6 +38,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CB4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 貶
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CB6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 買
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CB7.svg" width="160" style="max-width:100%; height:auto;">
@@ -163,6 +164,7 @@
 ### 贫
 
 ### 贬
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D2C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 购
 

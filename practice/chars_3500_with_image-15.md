@@ -138,10 +138,13 @@
 ### 扒
 
 ### 打
+<img src="../font/MingjianCaoshuHeiti-svg/uni6253.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扔
+<img src="../font/MingjianCaoshuHeiti-svg/uni6254.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 托
+<img src="../font/MingjianCaoshuHeiti-svg/uni6258.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扛
 
@@ -160,6 +163,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni626C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扭
+<img src="../font/MingjianCaoshuHeiti-svg/uni626D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扮
 
@@ -238,4 +242,5 @@
 ### 拂
 
 ### 拄
+<img src="../font/MingjianCaoshuHeiti-svg/uni62C4.svg" width="160" style="max-width:100%; height:auto;">
 

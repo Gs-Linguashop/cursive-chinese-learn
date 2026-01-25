@@ -53,6 +53,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni51B0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 冲
+<img src="../font/MingjianCaoshuHeiti-svg/uni51B2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 决
 
@@ -63,6 +64,7 @@
 ### 冷
 
 ### 冻
+<img src="../font/MingjianCaoshuHeiti-svg/uni51BB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 净
 <img src="../font/MingjianCaoshuHeiti-svg/uni51C0.svg" width="160" style="max-width:100%; height:auto;">
@@ -80,6 +82,7 @@
 ### 凌
 
 ### 凍
+<img src="../font/MingjianCaoshuHeiti-svg/uni51CD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 减
 

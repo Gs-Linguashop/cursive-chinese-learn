@@ -49,6 +49,7 @@
 ### 橄
 
 ### 橋
+<img src="../font/MingjianCaoshuHeiti-svg/uni6A4B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 橘
 
@@ -198,6 +199,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6BBA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 殻
+<img src="../font/MingjianCaoshuHeiti-svg/uni6BBB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 殼
 <img src="../font/MingjianCaoshuHeiti-svg/uni6BBC.svg" width="160" style="max-width:100%; height:auto;">

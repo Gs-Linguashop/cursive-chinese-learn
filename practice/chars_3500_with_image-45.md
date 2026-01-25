@@ -167,6 +167,7 @@
 ### 阶
 
 ### 阻
+<img src="../font/MingjianCaoshuHeiti-svg/uni963B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 阿
 <img src="../font/MingjianCaoshuHeiti-svg/uni963F.svg" width="160" style="max-width:100%; height:auto;">
@@ -231,6 +232,7 @@
 ### 隅
 
 ### 隆
+<img src="../font/MingjianCaoshuHeiti-svg/uni9686.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 隊
 <img src="../font/MingjianCaoshuHeiti-svg/uni968A.svg" width="160" style="max-width:100%; height:auto;">

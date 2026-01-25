@@ -117,6 +117,7 @@
 ### 爆
 
 ### 爍
+<img src="../font/MingjianCaoshuHeiti-svg/uni720D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 爐
 

@@ -55,6 +55,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni585E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 塢
+<img src="../font/MingjianCaoshuHeiti-svg/uni5862.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 填
 
@@ -123,6 +124,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni58F0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 壳
+<img src="../font/MingjianCaoshuHeiti-svg/uni58F3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 壶
 <img src="../font/MingjianCaoshuHeiti-svg/uni58F6.svg" width="160" style="max-width:100%; height:auto;">

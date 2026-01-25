@@ -96,6 +96,7 @@
 ### 踪
 
 ### 踫
+<img src="../font/MingjianCaoshuHeiti-svg/uni8E2B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 踱
 
@@ -178,6 +179,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8F15.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 輛
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F1B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 輝
 <img src="../font/MingjianCaoshuHeiti-svg/uni8F1D.svg" width="160" style="max-width:100%; height:auto;">
@@ -199,11 +201,13 @@
 ### 轅
 
 ### 轉
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F49.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 轍
 <img src="../font/MingjianCaoshuHeiti-svg/uni8F4D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 轎
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F4E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 轟
 <img src="../font/MingjianCaoshuHeiti-svg/uni8F5F.svg" width="160" style="max-width:100%; height:auto;">
@@ -218,6 +222,7 @@
 ### 轩
 
 ### 转
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F6C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 轮
 

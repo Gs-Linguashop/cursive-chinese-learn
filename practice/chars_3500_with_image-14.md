@@ -16,6 +16,7 @@
 ### 态
 
 ### 怎
+<img src="../font/MingjianCaoshuHeiti-svg/uni600E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 怒
 

@@ -7,6 +7,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni72ED.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 狮
+<img src="../font/MingjianCaoshuHeiti-svg/uni72EE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 狰
 <img src="../font/MingjianCaoshuHeiti-svg/uni72F0.svg" width="160" style="max-width:100%; height:auto;">
@@ -57,6 +58,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7344.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 獅
+<img src="../font/MingjianCaoshuHeiti-svg/uni7345.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 獎
 <img src="../font/MingjianCaoshuHeiti-svg/uni734E.svg" width="160" style="max-width:100%; height:auto;">
@@ -89,6 +91,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni738B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 玖
+<img src="../font/MingjianCaoshuHeiti-svg/uni7396.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 玛
 
@@ -185,6 +188,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni74E6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瓮
+<img src="../font/MingjianCaoshuHeiti-svg/uni74EE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瓶
 

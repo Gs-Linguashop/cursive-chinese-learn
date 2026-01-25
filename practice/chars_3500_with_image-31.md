@@ -17,6 +17,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7CFB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 糾
+<img src="../font/MingjianCaoshuHeiti-svg/uni7CFE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 紀
 <img src="../font/MingjianCaoshuHeiti-svg/uni7D00.svg" width="160" style="max-width:100%; height:auto;">
@@ -36,6 +37,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7D0D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 紐
+<img src="../font/MingjianCaoshuHeiti-svg/uni7D10.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 純
 
@@ -78,6 +80,7 @@
 ### 絃
 
 ### 組
+<img src="../font/MingjianCaoshuHeiti-svg/uni7D44.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 絆
 
@@ -226,6 +229,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7E8C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 纏
+<img src="../font/MingjianCaoshuHeiti-svg/uni7E8F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 纓
 

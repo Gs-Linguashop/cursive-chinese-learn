@@ -13,6 +13,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7926.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 礫
+<img src="../font/MingjianCaoshuHeiti-svg/uni792B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 礬
 
@@ -31,6 +32,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7955.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 祖
+<img src="../font/MingjianCaoshuHeiti-svg/uni7956.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 祝
 <img src="../font/MingjianCaoshuHeiti-svg/uni795D.svg" width="160" style="max-width:100%; height:auto;">
@@ -109,6 +111,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni79D8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 租
+<img src="../font/MingjianCaoshuHeiti-svg/uni79DF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 秤
 
@@ -171,6 +174,7 @@
 ### 稿
 
 ### 穆
+<img src="../font/MingjianCaoshuHeiti-svg/uni7A46.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 積
 
@@ -202,6 +206,7 @@
 ### 窃
 
 ### 窄
+<img src="../font/MingjianCaoshuHeiti-svg/uni7A84.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 窍
 

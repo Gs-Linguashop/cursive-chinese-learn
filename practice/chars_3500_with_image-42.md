@@ -11,12 +11,14 @@
 ### 载
 
 ### 轿
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F7F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 较
 
 ### 辅
 
 ### 辆
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F86.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 辈
 
@@ -82,6 +84,7 @@
 ### 达
 
 ### 迁
+<img src="../font/MingjianCaoshuHeiti-svg/uni8FC1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 迂
 
@@ -92,6 +95,7 @@
 ### 过
 
 ### 迈
+<img src="../font/MingjianCaoshuHeiti-svg/uni8FC8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 迎
 

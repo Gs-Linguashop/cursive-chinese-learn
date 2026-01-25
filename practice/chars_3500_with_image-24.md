@@ -142,6 +142,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni704C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 灑
+<img src="../font/MingjianCaoshuHeiti-svg/uni7051.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 灕
 
@@ -166,6 +167,7 @@
 ### 灶
 
 ### 灸
+<img src="../font/MingjianCaoshuHeiti-svg/uni7078.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 灼
 
@@ -200,6 +202,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni70AE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 炸
+<img src="../font/MingjianCaoshuHeiti-svg/uni70B8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 点
 
@@ -210,6 +213,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni70BC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 烁
+<img src="../font/MingjianCaoshuHeiti-svg/uni70C1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 烂
 
