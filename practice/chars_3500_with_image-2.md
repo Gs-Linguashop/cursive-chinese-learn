@@ -61,6 +61,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F0A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 伍
+<img src="../font/MingjianCaoshuHeiti-svg/uni4F0D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 伏
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F0F.svg" width="160" style="max-width:100%; height:auto;">

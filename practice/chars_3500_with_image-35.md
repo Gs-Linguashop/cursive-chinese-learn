@@ -68,6 +68,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8327.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 茫
+<img src="../font/MingjianCaoshuHeiti-svg/uni832B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 茬
 

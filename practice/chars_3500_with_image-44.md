@@ -77,6 +77,7 @@
 ### 鏈
 
 ### 鏟
+<img src="../font/MingjianCaoshuHeiti-svg/uni93DF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鏡
 
@@ -180,6 +181,7 @@
 ### 铭
 
 ### 铲
+<img src="../font/MingjianCaoshuHeiti-svg/uni94F2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 银
 

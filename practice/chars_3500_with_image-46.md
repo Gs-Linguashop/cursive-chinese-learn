@@ -49,6 +49,7 @@
 ### 雇
 
 ### 雌
+<img src="../font/MingjianCaoshuHeiti-svg/uni96CC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 雏
 
@@ -183,6 +184,7 @@
 ### 韻
 
 ### 響
+<img src="../font/MingjianCaoshuHeiti-svg/uni97FF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 頁
 <img src="../font/MingjianCaoshuHeiti-svg/uni9801.svg" width="160" style="max-width:100%; height:auto;">
@@ -204,6 +206,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni980C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 預
+<img src="../font/MingjianCaoshuHeiti-svg/uni9810.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 頑
 

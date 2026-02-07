@@ -65,6 +65,7 @@
 ### 境
 
 ### 墅
+<img src="../font/MingjianCaoshuHeiti-svg/uni5885.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 墊
 <img src="../font/MingjianCaoshuHeiti-svg/uni588A.svg" width="160" style="max-width:100%; height:auto;">
@@ -97,6 +98,7 @@
 ### 壁
 
 ### 壇
+<img src="../font/MingjianCaoshuHeiti-svg/uni58C7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 壓
 

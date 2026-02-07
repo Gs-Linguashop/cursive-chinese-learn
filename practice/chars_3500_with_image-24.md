@@ -190,6 +190,7 @@
 ### 炒
 
 ### 炕
+<img src="../font/MingjianCaoshuHeiti-svg/uni7095.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 炫
 

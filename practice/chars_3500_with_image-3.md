@@ -48,6 +48,7 @@
 ### 做
 
 ### 停
+<img src="../font/MingjianCaoshuHeiti-svg/uni505C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 健
 
@@ -103,6 +104,7 @@
 ### 傾
 
 ### 僅
+<img src="../font/MingjianCaoshuHeiti-svg/uni50C5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 像
 

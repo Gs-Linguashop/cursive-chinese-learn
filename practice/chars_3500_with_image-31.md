@@ -61,6 +61,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7D27.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 紫
+<img src="../font/MingjianCaoshuHeiti-svg/uni7D2B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 紮
 
@@ -90,6 +91,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7D55.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 絞
+<img src="../font/MingjianCaoshuHeiti-svg/uni7D5E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 絡
 

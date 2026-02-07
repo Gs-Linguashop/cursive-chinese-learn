@@ -154,8 +154,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8ECA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 軋
+<img src="../font/MingjianCaoshuHeiti-svg/uni8ECB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 軌
+<img src="../font/MingjianCaoshuHeiti-svg/uni8ECC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 軍
 <img src="../font/MingjianCaoshuHeiti-svg/uni8ECD.svg" width="160" style="max-width:100%; height:auto;">
@@ -168,6 +170,7 @@
 ### 軸
 
 ### 較
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F03.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 載
 
@@ -216,8 +219,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8F66.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 轧
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F67.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 轨
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F68.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 轩
 

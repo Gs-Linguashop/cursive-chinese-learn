@@ -52,11 +52,13 @@
 ### 咪
 
 ### 咬
+<img src="../font/MingjianCaoshuHeiti-svg/uni54AC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 咱
 <img src="../font/MingjianCaoshuHeiti-svg/uni54B1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 咳
+<img src="../font/MingjianCaoshuHeiti-svg/uni54B3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 咸
 <img src="../font/MingjianCaoshuHeiti-svg/uni54B8.svg" width="160" style="max-width:100%; height:auto;">
@@ -77,6 +79,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni54C8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 响
+<img src="../font/MingjianCaoshuHeiti-svg/uni54CD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 哎
 
@@ -110,6 +113,7 @@
 ### 哺
 
 ### 哼
+<img src="../font/MingjianCaoshuHeiti-svg/uni54FC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 唁
 <img src="../font/MingjianCaoshuHeiti-svg/uni5501.svg" width="160" style="max-width:100%; height:auto;">

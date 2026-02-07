@@ -58,6 +58,7 @@
 ### 耗
 
 ### 耘
+<img src="../font/MingjianCaoshuHeiti-svg/uni8018.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 耙
 
@@ -170,6 +171,7 @@
 ### 肪
 
 ### 肮
+<img src="../font/MingjianCaoshuHeiti-svg/uni80AE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 肯
 <img src="../font/MingjianCaoshuHeiti-svg/uni80AF.svg" width="160" style="max-width:100%; height:auto;">
@@ -224,6 +226,7 @@
 ### 胳
 
 ### 胶
+<img src="../font/MingjianCaoshuHeiti-svg/uni80F6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 胸
 

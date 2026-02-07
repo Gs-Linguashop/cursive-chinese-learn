@@ -92,6 +92,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7EDD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 绞
+<img src="../font/MingjianCaoshuHeiti-svg/uni7EDE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 统
 

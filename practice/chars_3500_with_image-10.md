@@ -21,6 +21,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5982.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 妄
+<img src="../font/MingjianCaoshuHeiti-svg/uni5984.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 妆
 
@@ -199,6 +200,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5B66.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 孩
+<img src="../font/MingjianCaoshuHeiti-svg/uni5B69.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 孫
 <img src="../font/MingjianCaoshuHeiti-svg/uni5B6B.svg" width="160" style="max-width:100%; height:auto;">
@@ -220,6 +222,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5B85.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 宇
+<img src="../font/MingjianCaoshuHeiti-svg/uni5B87.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 守
 <img src="../font/MingjianCaoshuHeiti-svg/uni5B88.svg" width="160" style="max-width:100%; height:auto;">

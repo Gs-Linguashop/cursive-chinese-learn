@@ -261,6 +261,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4EAC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 亭
+<img src="../font/MingjianCaoshuHeiti-svg/uni4EAD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 亮
 <img src="../font/MingjianCaoshuHeiti-svg/uni4EAE.svg" width="160" style="max-width:100%; height:auto;">
@@ -279,10 +280,12 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4EC1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 仅
+<img src="../font/MingjianCaoshuHeiti-svg/uni4EC5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 仆
 
 ### 仇
+<img src="../font/MingjianCaoshuHeiti-svg/uni4EC7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 今
 <img src="../font/MingjianCaoshuHeiti-svg/uni4ECA.svg" width="160" style="max-width:100%; height:auto;">

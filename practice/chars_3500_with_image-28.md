@@ -23,6 +23,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni76EF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 盲
+<img src="../font/MingjianCaoshuHeiti-svg/uni76F2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 直
 <img src="../font/MingjianCaoshuHeiti-svg/uni76F4.svg" width="160" style="max-width:100%; height:auto;">

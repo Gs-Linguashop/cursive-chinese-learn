@@ -153,8 +153,10 @@
 ### 叽
 
 ### 吁
+<img src="../font/MingjianCaoshuHeiti-svg/uni5401.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吃
+<img src="../font/MingjianCaoshuHeiti-svg/uni5403.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 各
 <img src="../font/MingjianCaoshuHeiti-svg/uni5404.svg" width="160" style="max-width:100%; height:auto;">
@@ -204,6 +206,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni541E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吟
+<img src="../font/MingjianCaoshuHeiti-svg/uni541F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吠
 <img src="../font/MingjianCaoshuHeiti-svg/uni5420.svg" width="160" style="max-width:100%; height:auto;">
@@ -223,6 +226,7 @@
 ### 听
 
 ### 吭
+<img src="../font/MingjianCaoshuHeiti-svg/uni542D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吮
 

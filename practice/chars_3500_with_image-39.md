@@ -106,6 +106,7 @@
 ### 询
 
 ### 该
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BE5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 详
 
@@ -145,6 +146,7 @@
 ### 调
 
 ### 谅
+<img src="../font/MingjianCaoshuHeiti-svg/uni8C05.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 谆
 <img src="../font/MingjianCaoshuHeiti-svg/uni8C06.svg" width="160" style="max-width:100%; height:auto;">
@@ -179,6 +181,7 @@
 ### 谦
 
 ### 谨
+<img src="../font/MingjianCaoshuHeiti-svg/uni8C28.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 谬
 

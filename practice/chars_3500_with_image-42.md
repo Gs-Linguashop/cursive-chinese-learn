@@ -14,6 +14,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8F7F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 较
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F83.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 辅
 
@@ -87,8 +88,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8FC1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 迂
+<img src="../font/MingjianCaoshuHeiti-svg/uni8FC2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 迄
+<img src="../font/MingjianCaoshuHeiti-svg/uni8FC4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 迅
 

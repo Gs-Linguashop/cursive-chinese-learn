@@ -11,6 +11,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9867.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 顫
+<img src="../font/MingjianCaoshuHeiti-svg/uni986B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 顯
 <img src="../font/MingjianCaoshuHeiti-svg/uni986F.svg" width="160" style="max-width:100%; height:auto;">
@@ -46,6 +47,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9882.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 预
+<img src="../font/MingjianCaoshuHeiti-svg/uni9884.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 颅
 
@@ -80,6 +82,7 @@
 ### 颠
 
 ### 颤
+<img src="../font/MingjianCaoshuHeiti-svg/uni98A4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 風
 <img src="../font/MingjianCaoshuHeiti-svg/uni98A8.svg" width="160" style="max-width:100%; height:auto;">
@@ -124,6 +127,7 @@
 ### 飾
 
 ### 餃
+<img src="../font/MingjianCaoshuHeiti-svg/uni9903.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 餅
 
@@ -175,6 +179,7 @@
 ### 饶
 
 ### 饺
+<img src="../font/MingjianCaoshuHeiti-svg/uni997A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 饼
 
@@ -231,6 +236,7 @@
 ### 駡
 
 ### 駭
+<img src="../font/MingjianCaoshuHeiti-svg/uni99ED.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 駱
 

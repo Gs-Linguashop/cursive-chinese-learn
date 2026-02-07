@@ -78,6 +78,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni51C8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 凉
+<img src="../font/MingjianCaoshuHeiti-svg/uni51C9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 凌
 
@@ -213,6 +214,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni523A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 刻
+<img src="../font/MingjianCaoshuHeiti-svg/uni523B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 刽
 
@@ -245,6 +247,7 @@
 ### 剧
 
 ### 剩
+<img src="../font/MingjianCaoshuHeiti-svg/uni5269.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 剪
 

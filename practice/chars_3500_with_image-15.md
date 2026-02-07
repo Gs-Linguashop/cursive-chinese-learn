@@ -132,6 +132,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni624D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扎
+<img src="../font/MingjianCaoshuHeiti-svg/uni624E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扑
 
@@ -194,6 +195,7 @@
 ### 抑
 
 ### 抒
+<img src="../font/MingjianCaoshuHeiti-svg/uni6292.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 抓
 
@@ -203,6 +205,7 @@
 ### 抖
 
 ### 抗
+<img src="../font/MingjianCaoshuHeiti-svg/uni6297.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 折
 <img src="../font/MingjianCaoshuHeiti-svg/uni6298.svg" width="160" style="max-width:100%; height:auto;">

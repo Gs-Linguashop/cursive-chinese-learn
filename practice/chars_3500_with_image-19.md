@@ -19,6 +19,7 @@
 ### 智
 
 ### 晾
+<img src="../font/MingjianCaoshuHeiti-svg/uni667E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 暂
 
@@ -101,6 +102,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6717.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 望
+<img src="../font/MingjianCaoshuHeiti-svg/uni671B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 朝
 <img src="../font/MingjianCaoshuHeiti-svg/uni671D.svg" width="160" style="max-width:100%; height:auto;">
@@ -189,6 +191,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6768.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 杭
+<img src="../font/MingjianCaoshuHeiti-svg/uni676D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 杯
 <img src="../font/MingjianCaoshuHeiti-svg/uni676F.svg" width="160" style="max-width:100%; height:auto;">
@@ -205,6 +208,7 @@
 ### 板
 
 ### 极
+<img src="../font/MingjianCaoshuHeiti-svg/uni6781.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 构
 

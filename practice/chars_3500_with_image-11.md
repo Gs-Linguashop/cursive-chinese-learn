@@ -263,6 +263,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5C71.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 屹
+<img src="../font/MingjianCaoshuHeiti-svg/uni5C79.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 屿
 <img src="../font/MingjianCaoshuHeiti-svg/uni5C7F.svg" width="160" style="max-width:100%; height:auto;">

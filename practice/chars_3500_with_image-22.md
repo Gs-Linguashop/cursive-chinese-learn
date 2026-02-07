@@ -3,6 +3,7 @@
 ### 毯
 
 ### 氈
+<img src="../font/MingjianCaoshuHeiti-svg/uni6C08.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 氏
 <img src="../font/MingjianCaoshuHeiti-svg/uni6C0F.svg" width="160" style="max-width:100%; height:auto;">
@@ -56,6 +57,7 @@
 ### 汗
 
 ### 汙
+<img src="../font/MingjianCaoshuHeiti-svg/uni6C59.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 汛
 
@@ -68,6 +70,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6C60.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 污
+<img src="../font/MingjianCaoshuHeiti-svg/uni6C61.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 汤
 <img src="../font/MingjianCaoshuHeiti-svg/uni6C64.svg" width="160" style="max-width:100%; height:auto;">

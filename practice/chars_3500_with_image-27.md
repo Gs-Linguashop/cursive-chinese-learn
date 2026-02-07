@@ -60,6 +60,7 @@
 ### 疗
 
 ### 疙
+<img src="../font/MingjianCaoshuHeiti-svg/uni7599.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 疚
 <img src="../font/MingjianCaoshuHeiti-svg/uni759A.svg" width="160" style="max-width:100%; height:auto;">

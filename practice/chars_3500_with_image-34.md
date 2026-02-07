@@ -169,6 +169,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni821F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 航
+<img src="../font/MingjianCaoshuHeiti-svg/uni822A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 般
 <img src="../font/MingjianCaoshuHeiti-svg/uni822C.svg" width="160" style="max-width:100%; height:auto;">
@@ -221,6 +222,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8282.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 芋
+<img src="../font/MingjianCaoshuHeiti-svg/uni828B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 芍
 

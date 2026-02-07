@@ -67,6 +67,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni90C1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 郊
+<img src="../font/MingjianCaoshuHeiti-svg/uni90CA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 郎
 <img src="../font/MingjianCaoshuHeiti-svg/uni90CE.svg" width="160" style="max-width:100%; height:auto;">
@@ -174,6 +175,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni91CD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 野
+<img src="../font/MingjianCaoshuHeiti-svg/uni91CE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 量
 <img src="../font/MingjianCaoshuHeiti-svg/uni91CF.svg" width="160" style="max-width:100%; height:auto;">

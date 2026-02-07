@@ -198,23 +198,31 @@
 
 ## 「耳」
 
+下方第一个“耳”是一个字形结构示意，它是由上侧的横加下侧的包围结构构成的，可以参考隶书。包围结构又由左下的竖提和右侧的横弯钩勾勒而成。在其基础上可以理解章草和今草的“耳”。
+
 *“耳”*
 
 <img src="../font/MingjianCaoshuHeiti-svg/uni8033.svg" width="144" style="max-width:100%; height:auto;">
 
+*章草“耳”*
+
 <img src="../font/MingjianCaoshuHeiti-svg/uni8033.alt.svg" width="144" style="max-width:100%; height:auto;">
+
+*今草“耳”*
 
 <img src="../font/MingjianCaoshuHeiti-svg/uni8033.alt2.svg" width="144" style="max-width:100%; height:auto;">
 
-*左侧的“耳”（繁）*
+*左侧的“耳”*
 
 <img src="../font/MingjianCaoshuHeiti-svg/uni2F7F.left.svg" width="144" style="max-width:100%; height:auto;">
 
-左侧的「耳」也可以简化书写。
+左侧的「耳」也可以类似今草书写。
 
-*左侧的“耳”（简）*
+*左侧的“耳”（今草）*
 
 <img src="../font/MingjianCaoshuHeiti-svg/uni2F7F.left.alt.svg" width="144" style="max-width:100%; height:auto;">
+
+在简化情况下，可以类似简化的示字旁书写。
 
 <img src="../font/MingjianCaoshuHeiti-svg/uni2F70.left.svg" width="144" style="max-width:100%; height:auto;">
 

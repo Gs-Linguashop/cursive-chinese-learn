@@ -73,6 +73,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9ED1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 黔
+<img src="../font/MingjianCaoshuHeiti-svg/uni9ED4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 默
 

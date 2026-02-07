@@ -15,6 +15,7 @@
 ### 热
 
 ### 烹
+<img src="../font/MingjianCaoshuHeiti-svg/uni70F9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 焊
 
@@ -245,4 +246,5 @@
 ### 狠
 
 ### 狡
+<img src="../font/MingjianCaoshuHeiti-svg/uni72E1.svg" width="160" style="max-width:100%; height:auto;">
 

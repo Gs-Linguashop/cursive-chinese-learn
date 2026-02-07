@@ -53,12 +53,14 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6817.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 校
+<img src="../font/MingjianCaoshuHeiti-svg/uni6821.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 株
 
 ### 样
 
 ### 核
+<img src="../font/MingjianCaoshuHeiti-svg/uni6838.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 根
 
@@ -211,6 +213,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni696D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 極
+<img src="../font/MingjianCaoshuHeiti-svg/uni6975.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 楷
 

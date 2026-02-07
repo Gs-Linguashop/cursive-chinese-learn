@@ -105,6 +105,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8A71.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 該
+<img src="../font/MingjianCaoshuHeiti-svg/uni8A72.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 詳
 
@@ -164,6 +165,7 @@
 ### 請
 
 ### 諒
+<img src="../font/MingjianCaoshuHeiti-svg/uni8AD2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 論
 
@@ -212,6 +214,7 @@
 ### 謬
 
 ### 謹
+<img src="../font/MingjianCaoshuHeiti-svg/uni8B39.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 譁
 

@@ -1,6 +1,7 @@
 # 常用草书字形表05
 
 ### 剷
+<img src="../font/MingjianCaoshuHeiti-svg/uni5277.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 剿
 
@@ -92,6 +93,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni52E2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 勤
+<img src="../font/MingjianCaoshuHeiti-svg/uni52E4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 勦
 

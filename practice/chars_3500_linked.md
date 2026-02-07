@@ -89,16 +89,16 @@
 | [亩](../font/MingjianCaoshuHeiti-svg/uni4EA9.svg) |
 | [享](../font/MingjianCaoshuHeiti-svg/uni4EAB.svg) |
 | [京](../font/MingjianCaoshuHeiti-svg/uni4EAC.svg) |
-| 亭 |
+| [亭](../font/MingjianCaoshuHeiti-svg/uni4EAD.svg) |
 | [亮](../font/MingjianCaoshuHeiti-svg/uni4EAE.svg) |
 | [亲](../font/MingjianCaoshuHeiti-svg/uni4EB2.svg) |
 | [人](../font/MingjianCaoshuHeiti-svg/uni4EBA.svg) |
 | 亿 |
 | 什 |
 | [仁](../font/MingjianCaoshuHeiti-svg/uni4EC1.svg) |
-| 仅 |
+| [仅](../font/MingjianCaoshuHeiti-svg/uni4EC5.svg) |
 | 仆 |
-| 仇 |
+| [仇](../font/MingjianCaoshuHeiti-svg/uni4EC7.svg) |
 | [今](../font/MingjianCaoshuHeiti-svg/uni4ECA.svg) |
 | [介](../font/MingjianCaoshuHeiti-svg/uni4ECB.svg) |
 | [仍](../font/MingjianCaoshuHeiti-svg/uni4ECD.svg) |
@@ -124,7 +124,7 @@
 | 仿 |
 | [企](../font/MingjianCaoshuHeiti-svg/uni4F01.svg) |
 | [伊](../font/MingjianCaoshuHeiti-svg/uni4F0A.svg) |
-| 伍 |
+| [伍](../font/MingjianCaoshuHeiti-svg/uni4F0D.svg) |
 | [伏](../font/MingjianCaoshuHeiti-svg/uni4F0F.svg) |
 | [伐](../font/MingjianCaoshuHeiti-svg/uni4F10.svg) |
 | [休](../font/MingjianCaoshuHeiti-svg/uni4F11.svg) |
@@ -225,7 +225,7 @@
 | 偎 |
 | 偏 |
 | 做 |
-| 停 |
+| [停](../font/MingjianCaoshuHeiti-svg/uni505C.svg) |
 | 健 |
 | 側 |
 | 偵 |
@@ -249,7 +249,7 @@
 | [傷](../font/MingjianCaoshuHeiti-svg/uni50B7.svg) |
 | [傻](../font/MingjianCaoshuHeiti-svg/uni50BB.svg) |
 | 傾 |
-| 僅 |
+| [僅](../font/MingjianCaoshuHeiti-svg/uni50C5.svg) |
 | 像 |
 | [僑](../font/MingjianCaoshuHeiti-svg/uni50D1.svg) |
 | 僚 |
@@ -330,7 +330,7 @@
 | 凄 |
 | [准](../font/MingjianCaoshuHeiti-svg/uni51C6.svg) |
 | [凈](../font/MingjianCaoshuHeiti-svg/uni51C8.svg) |
-| 凉 |
+| [凉](../font/MingjianCaoshuHeiti-svg/uni51C9.svg) |
 | 凌 |
 | [凍](../font/MingjianCaoshuHeiti-svg/uni51CD.svg) |
 | 减 |
@@ -382,7 +382,7 @@
 | 券 |
 | 刹 |
 | [刺](../font/MingjianCaoshuHeiti-svg/uni523A.svg) |
-| 刻 |
+| [刻](../font/MingjianCaoshuHeiti-svg/uni523B.svg) |
 | 刽 |
 | 剂 |
 | 剃 |
@@ -397,12 +397,12 @@
 | 剝 |
 | 剥 |
 | 剧 |
-| 剩 |
+| [剩](../font/MingjianCaoshuHeiti-svg/uni5269.svg) |
 | 剪 |
 | 副 |
 | 割 |
 | 創 |
-| 剷 |
+| [剷](../font/MingjianCaoshuHeiti-svg/uni5277.svg) |
 | 剿 |
 | 劇 |
 | 劈 |
@@ -439,7 +439,7 @@
 | [勞](../font/MingjianCaoshuHeiti-svg/uni52DE.svg) |
 | 募 |
 | [勢](../font/MingjianCaoshuHeiti-svg/uni52E2.svg) |
-| 勤 |
+| [勤](../font/MingjianCaoshuHeiti-svg/uni52E4.svg) |
 | 勦 |
 | 勳 |
 | 勵 |
@@ -557,8 +557,8 @@
 | [叹](../font/MingjianCaoshuHeiti-svg/uni53F9.svg) |
 | 叼 |
 | 叽 |
-| 吁 |
-| 吃 |
+| [吁](../font/MingjianCaoshuHeiti-svg/uni5401.svg) |
+| [吃](../font/MingjianCaoshuHeiti-svg/uni5403.svg) |
 | [各](../font/MingjianCaoshuHeiti-svg/uni5404.svg) |
 | 吆 |
 | [合](../font/MingjianCaoshuHeiti-svg/uni5408.svg) |
@@ -576,7 +576,7 @@
 | [君](../font/MingjianCaoshuHeiti-svg/uni541B.svg) |
 | [吝](../font/MingjianCaoshuHeiti-svg/uni541D.svg) |
 | [吞](../font/MingjianCaoshuHeiti-svg/uni541E.svg) |
-| 吟 |
+| [吟](../font/MingjianCaoshuHeiti-svg/uni541F.svg) |
 | [吠](../font/MingjianCaoshuHeiti-svg/uni5420.svg) |
 | [否](../font/MingjianCaoshuHeiti-svg/uni5426.svg) |
 | 吧 |
@@ -584,7 +584,7 @@
 | 吩 |
 | [含](../font/MingjianCaoshuHeiti-svg/uni542B.svg) |
 | 听 |
-| 吭 |
+| [吭](../font/MingjianCaoshuHeiti-svg/uni542D.svg) |
 | 吮 |
 | [启](../font/MingjianCaoshuHeiti-svg/uni542F.svg) |
 | [吱](../font/MingjianCaoshuHeiti-svg/uni5431.svg) |
@@ -624,9 +624,9 @@
 | [咧](../font/MingjianCaoshuHeiti-svg/uni54A7.svg) |
 | 咨 |
 | 咪 |
-| 咬 |
+| [咬](../font/MingjianCaoshuHeiti-svg/uni54AC.svg) |
 | [咱](../font/MingjianCaoshuHeiti-svg/uni54B1.svg) |
-| 咳 |
+| [咳](../font/MingjianCaoshuHeiti-svg/uni54B3.svg) |
 | [咸](../font/MingjianCaoshuHeiti-svg/uni54B8.svg) |
 | 咽 |
 | [哀](../font/MingjianCaoshuHeiti-svg/uni54C0.svg) |
@@ -634,7 +634,7 @@
 | 哄 |
 | 哆 |
 | [哈](../font/MingjianCaoshuHeiti-svg/uni54C8.svg) |
-| 响 |
+| [响](../font/MingjianCaoshuHeiti-svg/uni54CD.svg) |
 | 哎 |
 | [哑](../font/MingjianCaoshuHeiti-svg/uni54D1.svg) |
 | 哗 |
@@ -648,7 +648,7 @@
 | 哮 |
 | 哲 |
 | 哺 |
-| 哼 |
+| [哼](../font/MingjianCaoshuHeiti-svg/uni54FC.svg) |
 | [唁](../font/MingjianCaoshuHeiti-svg/uni5501.svg) |
 | 唆 |
 | [唇](../font/MingjianCaoshuHeiti-svg/uni5507.svg) |
@@ -775,10 +775,10 @@
 | 坎 |
 | [坏](../font/MingjianCaoshuHeiti-svg/uni574F.svg) |
 | [坐](../font/MingjianCaoshuHeiti-svg/uni5750.svg) |
-| 坑 |
+| [坑](../font/MingjianCaoshuHeiti-svg/uni5751.svg) |
 | 块 |
 | [坚](../font/MingjianCaoshuHeiti-svg/uni575A.svg) |
-| 坛 |
+| [坛](../font/MingjianCaoshuHeiti-svg/uni575B.svg) |
 | 坝 |
 | [坞](../font/MingjianCaoshuHeiti-svg/uni575E.svg) |
 | 坟 |
@@ -829,7 +829,7 @@
 | 填 |
 | [塵](../font/MingjianCaoshuHeiti-svg/uni5875.svg) |
 | 境 |
-| 墅 |
+| [墅](../font/MingjianCaoshuHeiti-svg/uni5885.svg) |
 | [墊](../font/MingjianCaoshuHeiti-svg/uni588A.svg) |
 | 墓 |
 | [墙](../font/MingjianCaoshuHeiti-svg/uni5899.svg) |
@@ -842,7 +842,7 @@
 | [墻](../font/MingjianCaoshuHeiti-svg/uni58BB.svg) |
 | 墾 |
 | 壁 |
-| 壇 |
+| [壇](../font/MingjianCaoshuHeiti-svg/uni58C7.svg) |
 | 壓 |
 | 壕 |
 | 壘 |
@@ -909,7 +909,7 @@
 | [她](../font/MingjianCaoshuHeiti-svg/uni5979.svg) |
 | [好](../font/MingjianCaoshuHeiti-svg/uni597D.svg) |
 | [如](../font/MingjianCaoshuHeiti-svg/uni5982.svg) |
-| 妄 |
+| [妄](../font/MingjianCaoshuHeiti-svg/uni5984.svg) |
 | 妆 |
 | [妇](../font/MingjianCaoshuHeiti-svg/uni5987.svg) |
 | 妈 |
@@ -982,7 +982,7 @@
 | [季](../font/MingjianCaoshuHeiti-svg/uni5B63.svg) |
 | [孤](../font/MingjianCaoshuHeiti-svg/uni5B64.svg) |
 | [学](../font/MingjianCaoshuHeiti-svg/uni5B66.svg) |
-| 孩 |
+| [孩](../font/MingjianCaoshuHeiti-svg/uni5B69.svg) |
 | [孫](../font/MingjianCaoshuHeiti-svg/uni5B6B.svg) |
 | 孵 |
 | [學](../font/MingjianCaoshuHeiti-svg/uni5B78.svg) |
@@ -990,7 +990,7 @@
 | [宁](../font/MingjianCaoshuHeiti-svg/uni5B81.svg) |
 | [它](../font/MingjianCaoshuHeiti-svg/uni5B83.svg) |
 | [宅](../font/MingjianCaoshuHeiti-svg/uni5B85.svg) |
-| 宇 |
+| [宇](../font/MingjianCaoshuHeiti-svg/uni5B87.svg) |
 | [守](../font/MingjianCaoshuHeiti-svg/uni5B88.svg) |
 | [安](../font/MingjianCaoshuHeiti-svg/uni5B89.svg) |
 | [宋](../font/MingjianCaoshuHeiti-svg/uni5B8B.svg) |
@@ -1098,7 +1098,7 @@
 | [屬](../font/MingjianCaoshuHeiti-svg/uni5C6C.svg) |
 | [屯](../font/MingjianCaoshuHeiti-svg/uni5C6F.svg) |
 | [山](../font/MingjianCaoshuHeiti-svg/uni5C71.svg) |
-| 屹 |
+| [屹](../font/MingjianCaoshuHeiti-svg/uni5C79.svg) |
 | [屿](../font/MingjianCaoshuHeiti-svg/uni5C7F.svg) |
 | [岁](../font/MingjianCaoshuHeiti-svg/uni5C81.svg) |
 | [岂](../font/MingjianCaoshuHeiti-svg/uni5C82.svg) |
@@ -1197,7 +1197,7 @@
 | [庆](../font/MingjianCaoshuHeiti-svg/uni5E86.svg) |
 | 庇 |
 | [床](../font/MingjianCaoshuHeiti-svg/uni5E8A.svg) |
-| 序 |
+| [序](../font/MingjianCaoshuHeiti-svg/uni5E8F.svg) |
 | 庐 |
 | 库 |
 | [应](../font/MingjianCaoshuHeiti-svg/uni5E94.svg) |
@@ -1298,7 +1298,7 @@
 | 忍 |
 | [志](../font/MingjianCaoshuHeiti-svg/uni5FD7.svg) |
 | [忘](../font/MingjianCaoshuHeiti-svg/uni5FD8.svg) |
-| 忙 |
+| [忙](../font/MingjianCaoshuHeiti-svg/uni5FD9.svg) |
 | [忠](../font/MingjianCaoshuHeiti-svg/uni5FE0.svg) |
 | 忧 |
 | 快 |
@@ -1454,7 +1454,7 @@
 | [扇](../font/MingjianCaoshuHeiti-svg/uni6247.svg) |
 | [手](../font/MingjianCaoshuHeiti-svg/uni624B.svg) |
 | [才](../font/MingjianCaoshuHeiti-svg/uni624D.svg) |
-| 扎 |
+| [扎](../font/MingjianCaoshuHeiti-svg/uni624E.svg) |
 | 扑 |
 | 扒 |
 | [打](../font/MingjianCaoshuHeiti-svg/uni6253.svg) |
@@ -1480,11 +1480,11 @@
 | 抄 |
 | 把 |
 | 抑 |
-| 抒 |
+| [抒](../font/MingjianCaoshuHeiti-svg/uni6292.svg) |
 | 抓 |
 | [投](../font/MingjianCaoshuHeiti-svg/uni6295.svg) |
 | 抖 |
-| 抗 |
+| [抗](../font/MingjianCaoshuHeiti-svg/uni6297.svg) |
 | [折](../font/MingjianCaoshuHeiti-svg/uni6298.svg) |
 | 抚 |
 | [抛](../font/MingjianCaoshuHeiti-svg/uni629B.svg) |
@@ -1543,7 +1543,7 @@
 | 按 |
 | [挎](../font/MingjianCaoshuHeiti-svg/uni630E.svg) |
 | 挑 |
-| 挖 |
+| [挖](../font/MingjianCaoshuHeiti-svg/uni6316.svg) |
 | [挚](../font/MingjianCaoshuHeiti-svg/uni631A.svg) |
 | [挟](../font/MingjianCaoshuHeiti-svg/uni631F.svg) |
 | 挠 |
@@ -1593,7 +1593,7 @@
 | 掘 |
 | [掙](../font/MingjianCaoshuHeiti-svg/uni6399.svg) |
 | [掛](../font/MingjianCaoshuHeiti-svg/uni639B.svg) |
-| 掠 |
+| [掠](../font/MingjianCaoshuHeiti-svg/uni63A0.svg) |
 | 採 |
 | 探 |
 | 接 |
@@ -1677,7 +1677,7 @@
 | 撿 |
 | 擁 |
 | 擂 |
-| 擅 |
+| [擅](../font/MingjianCaoshuHeiti-svg/uni64C5.svg) |
 | [擇](../font/MingjianCaoshuHeiti-svg/uni64C7.svg) |
 | 擊 |
 | 擋 |
@@ -1714,7 +1714,7 @@
 | 放 |
 | [政](../font/MingjianCaoshuHeiti-svg/uni653F.svg) |
 | 故 |
-| 效 |
+| [效](../font/MingjianCaoshuHeiti-svg/uni6548.svg) |
 | 敌 |
 | [敏](../font/MingjianCaoshuHeiti-svg/uni654F.svg) |
 | 救 |
@@ -1766,7 +1766,7 @@
 | [旨](../font/MingjianCaoshuHeiti-svg/uni65E8.svg) |
 | [早](../font/MingjianCaoshuHeiti-svg/uni65E9.svg) |
 | 旬 |
-| 旭 |
+| [旭](../font/MingjianCaoshuHeiti-svg/uni65ED.svg) |
 | 旱 |
 | [时](../font/MingjianCaoshuHeiti-svg/uni65F6.svg) |
 | [旷](../font/MingjianCaoshuHeiti-svg/uni65F7.svg) |
@@ -1809,7 +1809,7 @@
 | 晴 |
 | [晶](../font/MingjianCaoshuHeiti-svg/uni6676.svg) |
 | 智 |
-| 晾 |
+| [晾](../font/MingjianCaoshuHeiti-svg/uni667E.svg) |
 | 暂 |
 | 暇 |
 | [暈](../font/MingjianCaoshuHeiti-svg/uni6688.svg) |
@@ -1840,7 +1840,7 @@
 | [朋](../font/MingjianCaoshuHeiti-svg/uni670B.svg) |
 | [服](../font/MingjianCaoshuHeiti-svg/uni670D.svg) |
 | [朗](../font/MingjianCaoshuHeiti-svg/uni6717.svg) |
-| 望 |
+| [望](../font/MingjianCaoshuHeiti-svg/uni671B.svg) |
 | [朝](../font/MingjianCaoshuHeiti-svg/uni671D.svg) |
 | [期](../font/MingjianCaoshuHeiti-svg/uni671F.svg) |
 | 朦 |
@@ -1873,13 +1873,13 @@
 | [条](../font/MingjianCaoshuHeiti-svg/uni6761.svg) |
 | [来](../font/MingjianCaoshuHeiti-svg/uni6765.svg) |
 | [杨](../font/MingjianCaoshuHeiti-svg/uni6768.svg) |
-| 杭 |
+| [杭](../font/MingjianCaoshuHeiti-svg/uni676D.svg) |
 | [杯](../font/MingjianCaoshuHeiti-svg/uni676F.svg) |
 | [杰](../font/MingjianCaoshuHeiti-svg/uni6770.svg) |
 | [東](../font/MingjianCaoshuHeiti-svg/uni6771.svg) |
 | [松](../font/MingjianCaoshuHeiti-svg/uni677E.svg) |
 | 板 |
-| 极 |
+| [极](../font/MingjianCaoshuHeiti-svg/uni6781.svg) |
 | 构 |
 | 枉 |
 | [析](../font/MingjianCaoshuHeiti-svg/uni6790.svg) |
@@ -1922,10 +1922,10 @@
 | 栓 |
 | 栖 |
 | [栗](../font/MingjianCaoshuHeiti-svg/uni6817.svg) |
-| 校 |
+| [校](../font/MingjianCaoshuHeiti-svg/uni6821.svg) |
 | 株 |
 | 样 |
-| 核 |
+| [核](../font/MingjianCaoshuHeiti-svg/uni6838.svg) |
 | 根 |
 | 格 |
 | 栽 |
@@ -1990,7 +1990,7 @@
 | [楞](../font/MingjianCaoshuHeiti-svg/uni695E.svg) |
 | 楣 |
 | [業](../font/MingjianCaoshuHeiti-svg/uni696D.svg) |
-| 極 |
+| [極](../font/MingjianCaoshuHeiti-svg/uni6975.svg) |
 | 楷 |
 | 楼 |
 | [概](../font/MingjianCaoshuHeiti-svg/uni6982.svg) |
@@ -2032,7 +2032,7 @@
 | [橢](../font/MingjianCaoshuHeiti-svg/uni6A62.svg) |
 | [橫](../font/MingjianCaoshuHeiti-svg/uni6A6B.svg) |
 | 橱 |
-| 檀 |
+| [檀](../font/MingjianCaoshuHeiti-svg/uni6A80.svg) |
 | 檁 |
 | 檐 |
 | 檔 |
@@ -2100,10 +2100,10 @@
 | 毕 |
 | 毙 |
 | [毛](../font/MingjianCaoshuHeiti-svg/uni6BDB.svg) |
-| 毡 |
+| [毡](../font/MingjianCaoshuHeiti-svg/uni6BE1.svg) |
 | [毫](../font/MingjianCaoshuHeiti-svg/uni6BEB.svg) |
 | 毯 |
-| 氈 |
+| [氈](../font/MingjianCaoshuHeiti-svg/uni6C08.svg) |
 | [氏](../font/MingjianCaoshuHeiti-svg/uni6C0F.svg) |
 | [民](../font/MingjianCaoshuHeiti-svg/uni6C11.svg) |
 | 氓 |
@@ -2124,12 +2124,12 @@
 | 汇 |
 | [汉](../font/MingjianCaoshuHeiti-svg/uni6C49.svg) |
 | 汗 |
-| 汙 |
+| [汙](../font/MingjianCaoshuHeiti-svg/uni6C59.svg) |
 | 汛 |
 | 汞 |
 | [江](../font/MingjianCaoshuHeiti-svg/uni6C5F.svg) |
 | [池](../font/MingjianCaoshuHeiti-svg/uni6C60.svg) |
-| 污 |
+| [污](../font/MingjianCaoshuHeiti-svg/uni6C61.svg) |
 | [汤](../font/MingjianCaoshuHeiti-svg/uni6C64.svg) |
 | 汪 |
 | 汰 |
@@ -2230,7 +2230,7 @@
 | 涯 |
 | 液 |
 | 涵 |
-| 涼 |
+| [涼](../font/MingjianCaoshuHeiti-svg/uni6DBC.svg) |
 | [淀](../font/MingjianCaoshuHeiti-svg/uni6DC0.svg) |
 | 淆 |
 | 淋 |
@@ -2386,7 +2386,7 @@
 | [炊](../font/MingjianCaoshuHeiti-svg/uni708A.svg) |
 | [炎](../font/MingjianCaoshuHeiti-svg/uni708E.svg) |
 | 炒 |
-| 炕 |
+| [炕](../font/MingjianCaoshuHeiti-svg/uni7095.svg) |
 | 炫 |
 | 炬 |
 | [炭](../font/MingjianCaoshuHeiti-svg/uni70AD.svg) |
@@ -2408,7 +2408,7 @@
 | 烧 |
 | [烫](../font/MingjianCaoshuHeiti-svg/uni70EB.svg) |
 | 热 |
-| 烹 |
+| [烹](../font/MingjianCaoshuHeiti-svg/uni70F9.svg) |
 | 焊 |
 | 焕 |
 | 焙 |
@@ -2501,7 +2501,7 @@
 | 狗 |
 | [狞](../font/MingjianCaoshuHeiti-svg/uni72DE.svg) |
 | 狠 |
-| 狡 |
+| [狡](../font/MingjianCaoshuHeiti-svg/uni72E1.svg) |
 | [独](../font/MingjianCaoshuHeiti-svg/uni72EC.svg) |
 | [狭](../font/MingjianCaoshuHeiti-svg/uni72ED.svg) |
 | [狮](../font/MingjianCaoshuHeiti-svg/uni72EE.svg) |
@@ -2561,7 +2561,7 @@
 | [琐](../font/MingjianCaoshuHeiti-svg/uni7410.svg) |
 | 琢 |
 | 琳 |
-| 琴 |
+| [琴](../font/MingjianCaoshuHeiti-svg/uni7434.svg) |
 | 琼 |
 | 瑞 |
 | [瑟](../font/MingjianCaoshuHeiti-svg/uni745F.svg) |
@@ -2624,7 +2624,7 @@
 | [疏](../font/MingjianCaoshuHeiti-svg/uni758F.svg) |
 | [疑](../font/MingjianCaoshuHeiti-svg/uni7591.svg) |
 | 疗 |
-| 疙 |
+| [疙](../font/MingjianCaoshuHeiti-svg/uni7599.svg) |
 | [疚](../font/MingjianCaoshuHeiti-svg/uni759A.svg) |
 | 疟 |
 | 疤 |
@@ -2710,7 +2710,7 @@
 | [盪](../font/MingjianCaoshuHeiti-svg/uni76EA.svg) |
 | [目](../font/MingjianCaoshuHeiti-svg/uni76EE.svg) |
 | [盯](../font/MingjianCaoshuHeiti-svg/uni76EF.svg) |
-| 盲 |
+| [盲](../font/MingjianCaoshuHeiti-svg/uni76F2.svg) |
 | [直](../font/MingjianCaoshuHeiti-svg/uni76F4.svg) |
 | [相](../font/MingjianCaoshuHeiti-svg/uni76F8.svg) |
 | 盹 |
@@ -2880,7 +2880,7 @@
 | 穢 |
 | [穩](../font/MingjianCaoshuHeiti-svg/uni7A69.svg) |
 | [穴](../font/MingjianCaoshuHeiti-svg/uni7A74.svg) |
-| 究 |
+| [究](../font/MingjianCaoshuHeiti-svg/uni7A76.svg) |
 | 穷 |
 | [空](../font/MingjianCaoshuHeiti-svg/uni7A7A.svg) |
 | [穿](../font/MingjianCaoshuHeiti-svg/uni7A7F.svg) |
@@ -3027,7 +3027,7 @@
 | 紡 |
 | [索](../font/MingjianCaoshuHeiti-svg/uni7D22.svg) |
 | [紧](../font/MingjianCaoshuHeiti-svg/uni7D27.svg) |
-| 紫 |
+| [紫](../font/MingjianCaoshuHeiti-svg/uni7D2B.svg) |
 | 紮 |
 | [累](../font/MingjianCaoshuHeiti-svg/uni7D2F.svg) |
 | [細](../font/MingjianCaoshuHeiti-svg/uni7D30.svg) |
@@ -3039,7 +3039,7 @@
 | 絆 |
 | 結 |
 | [絕](../font/MingjianCaoshuHeiti-svg/uni7D55.svg) |
-| 絞 |
+| [絞](../font/MingjianCaoshuHeiti-svg/uni7D5E.svg) |
 | 絡 |
 | 給 |
 | 絨 |
@@ -3141,7 +3141,7 @@
 | 给 |
 | 络 |
 | [绝](../font/MingjianCaoshuHeiti-svg/uni7EDD.svg) |
-| 绞 |
+| [绞](../font/MingjianCaoshuHeiti-svg/uni7EDE.svg) |
 | 统 |
 | 绢 |
 | 绣 |
@@ -3225,7 +3225,7 @@
 | 耐 |
 | [耕](../font/MingjianCaoshuHeiti-svg/uni8015.svg) |
 | 耗 |
-| 耘 |
+| [耘](../font/MingjianCaoshuHeiti-svg/uni8018.svg) |
 | 耙 |
 | [耳](../font/MingjianCaoshuHeiti-svg/uni8033.svg) |
 | 耸 |
@@ -3269,7 +3269,7 @@
 | [肥](../font/MingjianCaoshuHeiti-svg/uni80A5.svg) |
 | [肩](../font/MingjianCaoshuHeiti-svg/uni80A9.svg) |
 | 肪 |
-| 肮 |
+| [肮](../font/MingjianCaoshuHeiti-svg/uni80AE.svg) |
 | [肯](../font/MingjianCaoshuHeiti-svg/uni80AF.svg) |
 | [育](../font/MingjianCaoshuHeiti-svg/uni80B2.svg) |
 | 肴 |
@@ -3291,7 +3291,7 @@
 | [胯](../font/MingjianCaoshuHeiti-svg/uni80EF.svg) |
 | 胰 |
 | 胳 |
-| 胶 |
+| [胶](../font/MingjianCaoshuHeiti-svg/uni80F6.svg) |
 | 胸 |
 | [能](../font/MingjianCaoshuHeiti-svg/uni80FD.svg) |
 | 脂 |
@@ -3374,7 +3374,7 @@
 | 舔 |
 | 舞 |
 | [舟](../font/MingjianCaoshuHeiti-svg/uni821F.svg) |
-| 航 |
+| [航](../font/MingjianCaoshuHeiti-svg/uni822A.svg) |
 | [般](../font/MingjianCaoshuHeiti-svg/uni822C.svg) |
 | [舰](../font/MingjianCaoshuHeiti-svg/uni8230.svg) |
 | 舱 |
@@ -3395,7 +3395,7 @@
 | [艺](../font/MingjianCaoshuHeiti-svg/uni827A.svg) |
 | 艾 |
 | [节](../font/MingjianCaoshuHeiti-svg/uni8282.svg) |
-| 芋 |
+| [芋](../font/MingjianCaoshuHeiti-svg/uni828B.svg) |
 | 芍 |
 | [芒](../font/MingjianCaoshuHeiti-svg/uni8292.svg) |
 | 芙 |
@@ -3431,7 +3431,7 @@
 | 茉 |
 | [茎](../font/MingjianCaoshuHeiti-svg/uni830E.svg) |
 | [茧](../font/MingjianCaoshuHeiti-svg/uni8327.svg) |
-| 茫 |
+| [茫](../font/MingjianCaoshuHeiti-svg/uni832B.svg) |
 | 茬 |
 | 茴 |
 | 茵 |
@@ -3742,7 +3742,7 @@
 | 詩 |
 | [詭](../font/MingjianCaoshuHeiti-svg/uni8A6D.svg) |
 | [話](../font/MingjianCaoshuHeiti-svg/uni8A71.svg) |
-| 該 |
+| [該](../font/MingjianCaoshuHeiti-svg/uni8A72.svg) |
 | 詳 |
 | [誉](../font/MingjianCaoshuHeiti-svg/uni8A89.svg) |
 | [誊](../font/MingjianCaoshuHeiti-svg/uni8A8A.svg) |
@@ -3768,7 +3768,7 @@
 | [諄](../font/MingjianCaoshuHeiti-svg/uni8AC4.svg) |
 | 談 |
 | 請 |
-| 諒 |
+| [諒](../font/MingjianCaoshuHeiti-svg/uni8AD2.svg) |
 | 論 |
 | 諜 |
 | 諧 |
@@ -3790,7 +3790,7 @@
 | [謠](../font/MingjianCaoshuHeiti-svg/uni8B20.svg) |
 | [謡](../font/MingjianCaoshuHeiti-svg/uni8B21.svg) |
 | 謬 |
-| 謹 |
+| [謹](../font/MingjianCaoshuHeiti-svg/uni8B39.svg) |
 | 譁 |
 | 證 |
 | 譏 |
@@ -3846,7 +3846,7 @@
 | [诞](../font/MingjianCaoshuHeiti-svg/uni8BDE.svg) |
 | [诡](../font/MingjianCaoshuHeiti-svg/uni8BE1.svg) |
 | 询 |
-| 该 |
+| [该](../font/MingjianCaoshuHeiti-svg/uni8BE5.svg) |
 | 详 |
 | 诫 |
 | 诬 |
@@ -3864,7 +3864,7 @@
 | 课 |
 | 谁 |
 | 调 |
-| 谅 |
+| [谅](../font/MingjianCaoshuHeiti-svg/uni8C05.svg) |
 | [谆](../font/MingjianCaoshuHeiti-svg/uni8C06.svg) |
 | 谈 |
 | 谊 |
@@ -3880,7 +3880,7 @@
 | [谣](../font/MingjianCaoshuHeiti-svg/uni8C23.svg) |
 | 谤 |
 | 谦 |
-| 谨 |
+| [谨](../font/MingjianCaoshuHeiti-svg/uni8C28.svg) |
 | 谬 |
 | 谭 |
 | 谱 |
@@ -4070,13 +4070,13 @@
 | 躺 |
 | 軀 |
 | [車](../font/MingjianCaoshuHeiti-svg/uni8ECA.svg) |
-| 軋 |
-| 軌 |
+| [軋](../font/MingjianCaoshuHeiti-svg/uni8ECB.svg) |
+| [軌](../font/MingjianCaoshuHeiti-svg/uni8ECC.svg) |
 | [軍](../font/MingjianCaoshuHeiti-svg/uni8ECD.svg) |
 | 軒 |
 | [軟](../font/MingjianCaoshuHeiti-svg/uni8EDF.svg) |
 | 軸 |
-| 較 |
+| [較](../font/MingjianCaoshuHeiti-svg/uni8F03.svg) |
 | 載 |
 | 輓 |
 | 輔 |
@@ -4096,8 +4096,8 @@
 | [轎](../font/MingjianCaoshuHeiti-svg/uni8F4E.svg) |
 | [轟](../font/MingjianCaoshuHeiti-svg/uni8F5F.svg) |
 | [车](../font/MingjianCaoshuHeiti-svg/uni8F66.svg) |
-| 轧 |
-| 轨 |
+| [轧](../font/MingjianCaoshuHeiti-svg/uni8F67.svg) |
+| [轨](../font/MingjianCaoshuHeiti-svg/uni8F68.svg) |
 | 轩 |
 | [转](../font/MingjianCaoshuHeiti-svg/uni8F6C.svg) |
 | 轮 |
@@ -4107,7 +4107,7 @@
 | [轻](../font/MingjianCaoshuHeiti-svg/uni8F7B.svg) |
 | 载 |
 | [轿](../font/MingjianCaoshuHeiti-svg/uni8F7F.svg) |
-| 较 |
+| [较](../font/MingjianCaoshuHeiti-svg/uni8F83.svg) |
 | 辅 |
 | [辆](../font/MingjianCaoshuHeiti-svg/uni8F86.svg) |
 | 辈 |
@@ -4137,8 +4137,8 @@
 | 辽 |
 | 达 |
 | [迁](../font/MingjianCaoshuHeiti-svg/uni8FC1.svg) |
-| 迂 |
-| 迄 |
+| [迂](../font/MingjianCaoshuHeiti-svg/uni8FC2.svg) |
+| [迄](../font/MingjianCaoshuHeiti-svg/uni8FC4.svg) |
 | 迅 |
 | 过 |
 | [迈](../font/MingjianCaoshuHeiti-svg/uni8FC8.svg) |
@@ -4228,7 +4228,7 @@
 | 邮 |
 | 邻 |
 | [郁](../font/MingjianCaoshuHeiti-svg/uni90C1.svg) |
-| 郊 |
+| [郊](../font/MingjianCaoshuHeiti-svg/uni90CA.svg) |
 | [郎](../font/MingjianCaoshuHeiti-svg/uni90CE.svg) |
 | [郑](../font/MingjianCaoshuHeiti-svg/uni90D1.svg) |
 | [部](../font/MingjianCaoshuHeiti-svg/uni90E8.svg) |
@@ -4270,7 +4270,7 @@
 | [釋](../font/MingjianCaoshuHeiti-svg/uni91CB.svg) |
 | [里](../font/MingjianCaoshuHeiti-svg/uni91CC.svg) |
 | [重](../font/MingjianCaoshuHeiti-svg/uni91CD.svg) |
-| 野 |
+| [野](../font/MingjianCaoshuHeiti-svg/uni91CE.svg) |
 | [量](../font/MingjianCaoshuHeiti-svg/uni91CF.svg) |
 | [釐](../font/MingjianCaoshuHeiti-svg/uni91D0.svg) |
 | [金](../font/MingjianCaoshuHeiti-svg/uni91D1.svg) |
@@ -4336,7 +4336,7 @@
 | 鎬 |
 | 鎮 |
 | 鏈 |
-| 鏟 |
+| [鏟](../font/MingjianCaoshuHeiti-svg/uni93DF.svg) |
 | 鏡 |
 | 鏽 |
 | 鐐 |
@@ -4382,7 +4382,7 @@
 | 铡 |
 | 铣 |
 | 铭 |
-| 铲 |
+| [铲](../font/MingjianCaoshuHeiti-svg/uni94F2.svg) |
 | 银 |
 | 铸 |
 | 铺 |
@@ -4521,7 +4521,7 @@
 | 雅 |
 | [集](../font/MingjianCaoshuHeiti-svg/uni96C6.svg) |
 | 雇 |
-| 雌 |
+| [雌](../font/MingjianCaoshuHeiti-svg/uni96CC.svg) |
 | 雏 |
 | 雕 |
 | 雖 |
@@ -4578,7 +4578,7 @@
 | [音](../font/MingjianCaoshuHeiti-svg/uni97F3.svg) |
 | 韵 |
 | 韻 |
-| 響 |
+| [響](../font/MingjianCaoshuHeiti-svg/uni97FF.svg) |
 | [頁](../font/MingjianCaoshuHeiti-svg/uni9801.svg) |
 | [頂](../font/MingjianCaoshuHeiti-svg/uni9802.svg) |
 | [頃](../font/MingjianCaoshuHeiti-svg/uni9803.svg) |
@@ -4586,7 +4586,7 @@
 | 順 |
 | [須](../font/MingjianCaoshuHeiti-svg/uni9808.svg) |
 | [頌](../font/MingjianCaoshuHeiti-svg/uni980C.svg) |
-| 預 |
+| [預](../font/MingjianCaoshuHeiti-svg/uni9810.svg) |
 | 頑 |
 | 頒 |
 | 頓 |
@@ -4606,7 +4606,7 @@
 | 顛 |
 | 類 |
 | [顧](../font/MingjianCaoshuHeiti-svg/uni9867.svg) |
-| 顫 |
+| [顫](../font/MingjianCaoshuHeiti-svg/uni986B.svg) |
 | [顯](../font/MingjianCaoshuHeiti-svg/uni986F.svg) |
 | 顱 |
 | [页](../font/MingjianCaoshuHeiti-svg/uni9875.svg) |
@@ -4620,7 +4620,7 @@
 | 顿 |
 | 颁 |
 | [颂](../font/MingjianCaoshuHeiti-svg/uni9882.svg) |
-| 预 |
+| [预](../font/MingjianCaoshuHeiti-svg/uni9884.svg) |
 | 颅 |
 | 领 |
 | [颇](../font/MingjianCaoshuHeiti-svg/uni9887.svg) |
@@ -4634,7 +4634,7 @@
 | [颜](../font/MingjianCaoshuHeiti-svg/uni989C.svg) |
 | 额 |
 | 颠 |
-| 颤 |
+| [颤](../font/MingjianCaoshuHeiti-svg/uni98A4.svg) |
 | [風](../font/MingjianCaoshuHeiti-svg/uni98A8.svg) |
 | 颯 |
 | [颺](../font/MingjianCaoshuHeiti-svg/uni98BA.svg) |
@@ -4652,7 +4652,7 @@
 | 飼 |
 | [飽](../font/MingjianCaoshuHeiti-svg/uni98FD.svg) |
 | 飾 |
-| 餃 |
+| [餃](../font/MingjianCaoshuHeiti-svg/uni9903.svg) |
 | 餅 |
 | 養 |
 | 餌 |
@@ -4676,7 +4676,7 @@
 | 饲 |
 | 饵 |
 | 饶 |
-| 饺 |
+| [饺](../font/MingjianCaoshuHeiti-svg/uni997A.svg) |
 | 饼 |
 | 饿 |
 | 馁 |
@@ -4700,7 +4700,7 @@
 | 駛 |
 | 駝 |
 | 駡 |
-| 駭 |
+| [駭](../font/MingjianCaoshuHeiti-svg/uni99ED.svg) |
 | 駱 |
 | 駿 |
 | 騎 |
@@ -4729,7 +4729,7 @@
 | 骂 |
 | [骄](../font/MingjianCaoshuHeiti-svg/uni9A84.svg) |
 | 骆 |
-| 骇 |
+| [骇](../font/MingjianCaoshuHeiti-svg/uni9A87.svg) |
 | 验 |
 | 骏 |
 | 骑 |
@@ -4738,7 +4738,7 @@
 | 骡 |
 | 骤 |
 | [骨](../font/MingjianCaoshuHeiti-svg/uni9AA8.svg) |
-| 骯 |
+| [骯](../font/MingjianCaoshuHeiti-svg/uni9AAF.svg) |
 | [髓](../font/MingjianCaoshuHeiti-svg/uni9AD3.svg) |
 | [體](../font/MingjianCaoshuHeiti-svg/uni9AD4.svg) |
 | [高](../font/MingjianCaoshuHeiti-svg/uni9AD8.svg) |
@@ -4756,7 +4756,7 @@
 | [魯](../font/MingjianCaoshuHeiti-svg/uni9B6F.svg) |
 | [鮮](../font/MingjianCaoshuHeiti-svg/uni9BAE.svg) |
 | [鯉](../font/MingjianCaoshuHeiti-svg/uni9BC9.svg) |
-| 鯨 |
+| [鯨](../font/MingjianCaoshuHeiti-svg/uni9BE8.svg) |
 | [鯽](../font/MingjianCaoshuHeiti-svg/uni9BFD.svg) |
 | 鰐 |
 | 鰭 |
@@ -4768,14 +4768,14 @@
 | [鲜](../font/MingjianCaoshuHeiti-svg/uni9C9C.svg) |
 | [鲤](../font/MingjianCaoshuHeiti-svg/uni9CA4.svg) |
 | [鲫](../font/MingjianCaoshuHeiti-svg/uni9CAB.svg) |
-| 鲸 |
+| [鲸](../font/MingjianCaoshuHeiti-svg/uni9CB8.svg) |
 | 鳄 |
 | 鳍 |
 | 鳖 |
 | 鳞 |
 | [鳥](../font/MingjianCaoshuHeiti-svg/uni9CE5.svg) |
 | [鳧](../font/MingjianCaoshuHeiti-svg/uni9CE7.svg) |
-| 鳩 |
+| [鳩](../font/MingjianCaoshuHeiti-svg/uni9CE9.svg) |
 | [鳬](../font/MingjianCaoshuHeiti-svg/uni9CEC.svg) |
 | [鳳](../font/MingjianCaoshuHeiti-svg/uni9CF3.svg) |
 | [鳴](../font/MingjianCaoshuHeiti-svg/uni9CF4.svg) |
@@ -4799,7 +4799,7 @@
 | [鷹](../font/MingjianCaoshuHeiti-svg/uni9DF9.svg) |
 | 鸚 |
 | [鸟](../font/MingjianCaoshuHeiti-svg/uni9E1F.svg) |
-| 鸠 |
+| [鸠](../font/MingjianCaoshuHeiti-svg/uni9E20.svg) |
 | 鸡 |
 | [鸣](../font/MingjianCaoshuHeiti-svg/uni9E23.svg) |
 | 鸥 |
@@ -4832,7 +4832,7 @@
 | [黍](../font/MingjianCaoshuHeiti-svg/uni9ECD.svg) |
 | 黎 |
 | [黑](../font/MingjianCaoshuHeiti-svg/uni9ED1.svg) |
-| 黔 |
+| [黔](../font/MingjianCaoshuHeiti-svg/uni9ED4.svg) |
 | 默 |
 | 點 |
 | [鼎](../font/MingjianCaoshuHeiti-svg/uni9F0E.svg) |

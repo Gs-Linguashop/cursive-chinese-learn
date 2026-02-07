@@ -26,9 +26,7 @@
 
 <img src="../font/MingjianCaoshuHeiti-svg/uni2F5C.left.svg" width="144" style="max-width:100%; height:auto;">
 
-*“牡”*
-
-<img src="../font/MingjianCaoshuHeiti-svg/uni7261.svg" width="144" style="max-width:100%; height:auto;">
+牛字旁和楷书书写类似，竖下方可以连笔写成钩，就不赘述了。
 
 ## 肉月旁（左）
 
@@ -78,16 +76,6 @@
 
 <img src="../font/MingjianCaoshuHeiti-svg/uni7C73.svg" width="144" style="max-width:100%; height:auto;">
 
-在字中，「釆」经常省略上方撇，与「米」写法相同。
-
-*“悉”*
-
-<img src="../font/MingjianCaoshuHeiti-svg/uni6089.svg" width="144" style="max-width:100%; height:auto;">
-
-*“番”*
-
-<img src="../font/MingjianCaoshuHeiti-svg/uni756A.svg" width="144" style="max-width:100%; height:auto;">
-
 简化书写时，「米」上方的两点可以合并为一横。
 
 *“粟”*
@@ -101,6 +89,16 @@
 *“糍”*
 
 <img src="../font/MingjianCaoshuHeiti-svg/uni7CCD.svg" width="144" style="max-width:100%; height:auto;">
+
+在字中，「釆」经常省略上方撇，与「米」写法相同。
+
+*“釋释”*
+
+<img src="../font/MingjianCaoshuHeiti-svg/uni91CB.svg" width="144" style="max-width:100%; height:auto;">
+
+*“悉”*
+
+<img src="../font/MingjianCaoshuHeiti-svg/uni6089.svg" width="144" style="max-width:100%; height:auto;">
 
 ## 「木」
 
@@ -172,4 +170,50 @@
 
 左侧「車车」也含有标志性的「竖钩-提」，我们会在后续课程详细介绍。
 
-*（未完待续）*
+## 方㫃
+
+*“方”*
+
+<img src="../font/MingjianCaoshuHeiti-svg/uni65B9.svg" width="144" style="max-width:100%; height:auto;">
+
+*左侧的“方”*
+
+<img src="../font/MingjianCaoshuHeiti-svg/uni2F45.left.svg" width="144" style="max-width:100%; height:auto;">
+
+「㫃」即是「旗」的部首，在草书中直接拆解成「方」加「撇横」，位置关系与楷书相同。
+
+*“旗”*
+
+<img src="../font/MingjianCaoshuHeiti-svg/uni65D7.svg" width="144" style="max-width:100%; height:auto;">
+
+左侧的「方」在少数简化书写时可作「扌」。
+
+*“於”*
+
+<img src="../font/MingjianCaoshuHeiti-svg/uni65BC.svg" width="144" style="max-width:100%; height:auto;">
+
+## 龺倝
+
+*“龺”*
+
+<img src="../font/MingjianCaoshuHeiti-svg/_part.uni9FBA.svg" width="144" style="max-width:100%; height:auto;">
+
+*“朝”*
+
+<img src="../font/MingjianCaoshuHeiti-svg/uni671D.svg" width="144" style="max-width:100%; height:auto;">
+
+「倝」即是「乾」的部首，在草书中直接拆解成「龺」加「撇横」，位置关系与楷书相同。
+
+*“幹”*
+
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E79.svg" width="144" style="max-width:100%; height:auto;">
+
+## 革
+
+*“革”*
+
+<img src="../font/MingjianCaoshuHeiti-svg/uni9769.svg" width="144" style="max-width:100%; height:auto;">
+
+*“鞋”*
+
+<img src="../font/MingjianCaoshuHeiti-svg/uni978B.svg" width="144" style="max-width:100%; height:auto;">

@@ -68,6 +68,7 @@
 ### 橱
 
 ### 檀
+<img src="../font/MingjianCaoshuHeiti-svg/uni6A80.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 檁
 
@@ -237,6 +238,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6BDB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 毡
+<img src="../font/MingjianCaoshuHeiti-svg/uni6BE1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 毫
 <img src="../font/MingjianCaoshuHeiti-svg/uni6BEB.svg" width="160" style="max-width:100%; height:auto;">

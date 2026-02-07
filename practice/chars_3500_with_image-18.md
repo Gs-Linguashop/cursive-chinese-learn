@@ -30,6 +30,7 @@
 ### 故
 
 ### 效
+<img src="../font/MingjianCaoshuHeiti-svg/uni6548.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 敌
 
@@ -168,6 +169,7 @@
 ### 旬
 
 ### 旭
+<img src="../font/MingjianCaoshuHeiti-svg/uni65ED.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 旱
 

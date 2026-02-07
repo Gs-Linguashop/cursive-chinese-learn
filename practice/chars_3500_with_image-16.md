@@ -96,6 +96,7 @@
 ### 挑
 
 ### 挖
+<img src="../font/MingjianCaoshuHeiti-svg/uni6316.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 挚
 <img src="../font/MingjianCaoshuHeiti-svg/uni631A.svg" width="160" style="max-width:100%; height:auto;">
@@ -208,6 +209,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni639B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 掠
+<img src="../font/MingjianCaoshuHeiti-svg/uni63A0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 採
 

@@ -191,6 +191,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7A74.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 究
+<img src="../font/MingjianCaoshuHeiti-svg/uni7A76.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 穷
 

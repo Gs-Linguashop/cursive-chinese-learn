@@ -240,6 +240,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5FD8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 忙
+<img src="../font/MingjianCaoshuHeiti-svg/uni5FD9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 忠
 <img src="../font/MingjianCaoshuHeiti-svg/uni5FE0.svg" width="160" style="max-width:100%; height:auto;">
