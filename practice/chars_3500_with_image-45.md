@@ -70,8 +70,10 @@
 ### 閣
 
 ### 閥
+<img src="../font/MingjianCaoshuHeiti-svg/uni95A5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 閧
+<img src="../font/MingjianCaoshuHeiti-svg/uni95A7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 閨
 <img src="../font/MingjianCaoshuHeiti-svg/uni95A8.svg" width="160" style="max-width:100%; height:auto;">
@@ -96,6 +98,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni95DC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 闡
+<img src="../font/MingjianCaoshuHeiti-svg/uni95E1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 门
 <img src="../font/MingjianCaoshuHeiti-svg/uni95E8.svg" width="160" style="max-width:100%; height:auto;">
@@ -135,6 +138,7 @@
 ### 闽
 
 ### 阀
+<img src="../font/MingjianCaoshuHeiti-svg/uni9600.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 阁
 
@@ -144,6 +148,7 @@
 ### 阎
 
 ### 阐
+<img src="../font/MingjianCaoshuHeiti-svg/uni9610.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 阔
 <img src="../font/MingjianCaoshuHeiti-svg/uni9614.svg" width="160" style="max-width:100%; height:auto;">
@@ -173,6 +178,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni963F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 附
+<img src="../font/MingjianCaoshuHeiti-svg/uni9644.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 际
 
@@ -210,6 +216,7 @@
 ### 陨
 
 ### 险
+<img src="../font/MingjianCaoshuHeiti-svg/uni9669.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 陪
 
@@ -221,6 +228,7 @@
 ### 陵
 
 ### 陶
+<img src="../font/MingjianCaoshuHeiti-svg/uni9676.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 陷
 

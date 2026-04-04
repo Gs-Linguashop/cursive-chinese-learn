@@ -34,6 +34,7 @@
 ### 盹
 
 ### 盼
+<img src="../font/MingjianCaoshuHeiti-svg/uni76FC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 盾
 <img src="../font/MingjianCaoshuHeiti-svg/uni76FE.svg" width="160" style="max-width:100%; height:auto;">
@@ -58,6 +59,7 @@
 ### 眯
 
 ### 眶
+<img src="../font/MingjianCaoshuHeiti-svg/uni7736.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 眷
 
@@ -142,6 +144,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni77F3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 矾
+<img src="../font/MingjianCaoshuHeiti-svg/uni77FE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 矿
 <img src="../font/MingjianCaoshuHeiti-svg/uni77FF.svg" width="160" style="max-width:100%; height:auto;">
@@ -151,6 +154,7 @@
 ### 砂
 
 ### 砌
+<img src="../font/MingjianCaoshuHeiti-svg/uni780C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 砍
 
@@ -168,11 +172,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7834.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 砸
+<img src="../font/MingjianCaoshuHeiti-svg/uni7838.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 砾
 <img src="../font/MingjianCaoshuHeiti-svg/uni783E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 础
+<img src="../font/MingjianCaoshuHeiti-svg/uni7840.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 硅
 <img src="../font/MingjianCaoshuHeiti-svg/uni7845.svg" width="160" style="max-width:100%; height:auto;">
@@ -186,6 +192,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni786B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 硬
+<img src="../font/MingjianCaoshuHeiti-svg/uni786C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 确
 
@@ -201,12 +208,15 @@
 ### 碍
 
 ### 碎
+<img src="../font/MingjianCaoshuHeiti-svg/uni788E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 碑
+<img src="../font/MingjianCaoshuHeiti-svg/uni7891.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 碗
 
 ### 碘
+<img src="../font/MingjianCaoshuHeiti-svg/uni7898.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 碟
 

@@ -101,6 +101,7 @@
 ### 鄰
 
 ### 酌
+<img src="../font/MingjianCaoshuHeiti-svg/uni914C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 配
 <img src="../font/MingjianCaoshuHeiti-svg/uni914D.svg" width="160" style="max-width:100%; height:auto;">
@@ -108,6 +109,7 @@
 ### 酒
 
 ### 酗
+<img src="../font/MingjianCaoshuHeiti-svg/uni9157.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 酝
 <img src="../font/MingjianCaoshuHeiti-svg/uni915D.svg" width="160" style="max-width:100%; height:auto;">
@@ -138,6 +140,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9187.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 醉
+<img src="../font/MingjianCaoshuHeiti-svg/uni9189.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 醋
 
@@ -150,6 +153,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni919E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 醫
+<img src="../font/MingjianCaoshuHeiti-svg/uni91AB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 醬
 <img src="../font/MingjianCaoshuHeiti-svg/uni91AC.svg" width="160" style="max-width:100%; height:auto;">
@@ -190,8 +194,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni91D8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 針
+<img src="../font/MingjianCaoshuHeiti-svg/uni91DD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 釣
+<img src="../font/MingjianCaoshuHeiti-svg/uni91E3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 釦
 
@@ -201,6 +207,7 @@
 ### 鈍
 
 ### 鈎
+<img src="../font/MingjianCaoshuHeiti-svg/uni920E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鈔
 
@@ -214,6 +221,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9223.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鈴
+<img src="../font/MingjianCaoshuHeiti-svg/uni9234.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鉀
 
@@ -238,6 +246,7 @@
 ### 銅
 
 ### 銑
+<img src="../font/MingjianCaoshuHeiti-svg/uni9291.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 銘
 

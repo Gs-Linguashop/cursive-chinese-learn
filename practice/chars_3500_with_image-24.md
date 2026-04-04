@@ -74,6 +74,7 @@
 ### 潮
 
 ### 潰
+<img src="../font/MingjianCaoshuHeiti-svg/uni6F70.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 澀
 
@@ -82,6 +83,7 @@
 ### 澆
 
 ### 澇
+<img src="../font/MingjianCaoshuHeiti-svg/uni6F87.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 澈
 <img src="../font/MingjianCaoshuHeiti-svg/uni6F88.svg" width="160" style="max-width:100%; height:auto;">
@@ -91,6 +93,7 @@
 ### 澗
 
 ### 澜
+<img src="../font/MingjianCaoshuHeiti-svg/uni6F9C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 澡
 
@@ -106,6 +109,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6FC1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 濃
+<img src="../font/MingjianCaoshuHeiti-svg/uni6FC3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 濒
 
@@ -129,14 +133,17 @@
 ### 濾
 
 ### 瀉
+<img src="../font/MingjianCaoshuHeiti-svg/uni7009.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瀑
 
 ### 瀕
 
 ### 瀝
+<img src="../font/MingjianCaoshuHeiti-svg/uni701D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瀾
+<img src="../font/MingjianCaoshuHeiti-svg/uni703E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 灌
 <img src="../font/MingjianCaoshuHeiti-svg/uni704C.svg" width="160" style="max-width:100%; height:auto;">
@@ -170,6 +177,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7078.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 灼
+<img src="../font/MingjianCaoshuHeiti-svg/uni707C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 災
 <img src="../font/MingjianCaoshuHeiti-svg/uni707D.svg" width="160" style="max-width:100%; height:auto;">
@@ -178,8 +186,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni707E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 灿
+<img src="../font/MingjianCaoshuHeiti-svg/uni707F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 炉
+<img src="../font/MingjianCaoshuHeiti-svg/uni7089.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 炊
 <img src="../font/MingjianCaoshuHeiti-svg/uni708A.svg" width="160" style="max-width:100%; height:auto;">
@@ -206,6 +216,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni70B8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 点
+<img src="../font/MingjianCaoshuHeiti-svg/uni70B9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 為
 <img src="../font/MingjianCaoshuHeiti-svg/uni70BA.svg" width="160" style="max-width:100%; height:auto;">
@@ -217,6 +228,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni70C1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 烂
+<img src="../font/MingjianCaoshuHeiti-svg/uni70C2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 烈
 <img src="../font/MingjianCaoshuHeiti-svg/uni70C8.svg" width="160" style="max-width:100%; height:auto;">
@@ -225,6 +237,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni70CF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 烘
+<img src="../font/MingjianCaoshuHeiti-svg/uni70D8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 烙
 

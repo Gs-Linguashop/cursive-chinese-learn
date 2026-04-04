@@ -1,6 +1,7 @@
 # 常用草书字形表14
 
 ### 忱
+<img src="../font/MingjianCaoshuHeiti-svg/uni5FF1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 念
 <img src="../font/MingjianCaoshuHeiti-svg/uni5FF5.svg" width="160" style="max-width:100%; height:auto;">
@@ -9,6 +10,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5FFD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 忿
+<img src="../font/MingjianCaoshuHeiti-svg/uni5FFF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 怀
 <img src="../font/MingjianCaoshuHeiti-svg/uni6000.svg" width="160" style="max-width:100%; height:auto;">
@@ -58,6 +60,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni604B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恍
+<img src="../font/MingjianCaoshuHeiti-svg/uni604D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恐
 
@@ -72,6 +75,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6064.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恥
+<img src="../font/MingjianCaoshuHeiti-svg/uni6065.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恨
 
@@ -82,6 +86,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni606C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恭
+<img src="../font/MingjianCaoshuHeiti-svg/uni606D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 息
 <img src="../font/MingjianCaoshuHeiti-svg/uni606F.svg" width="160" style="max-width:100%; height:auto;">
@@ -127,10 +132,12 @@
 ### 悲
 
 ### 悴
+<img src="../font/MingjianCaoshuHeiti-svg/uni60B4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 悶
 
 ### 悼
+<img src="../font/MingjianCaoshuHeiti-svg/uni60BC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 悽
 
@@ -155,6 +162,7 @@
 ### 惦
 
 ### 惧
+<img src="../font/MingjianCaoshuHeiti-svg/uni60E7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 惨
 
@@ -182,8 +190,10 @@
 ### 愁
 
 ### 愈
+<img src="../font/MingjianCaoshuHeiti-svg/uni6108.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 愉
+<img src="../font/MingjianCaoshuHeiti-svg/uni6109.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 意
 <img src="../font/MingjianCaoshuHeiti-svg/uni610F.svg" width="160" style="max-width:100%; height:auto;">
@@ -202,6 +212,7 @@
 ### 愧
 
 ### 愿
+<img src="../font/MingjianCaoshuHeiti-svg/uni613F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 慄
 

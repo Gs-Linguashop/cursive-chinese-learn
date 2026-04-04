@@ -25,12 +25,14 @@
 ### 堕
 
 ### 堡
+<img src="../font/MingjianCaoshuHeiti-svg/uni5821.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 堤
 
 ### 堪
 
 ### 堰
+<img src="../font/MingjianCaoshuHeiti-svg/uni5830.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 報
 <img src="../font/MingjianCaoshuHeiti-svg/uni5831.svg" width="160" style="max-width:100%; height:auto;">
@@ -101,6 +103,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni58C7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 壓
+<img src="../font/MingjianCaoshuHeiti-svg/uni58D3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 壕
 

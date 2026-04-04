@@ -18,6 +18,7 @@
 ### 讚
 
 ### 计
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BA1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 订
 <img src="../font/MingjianCaoshuHeiti-svg/uni8BA2.svg" width="160" style="max-width:100%; height:auto;">
@@ -37,21 +38,27 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8BAE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 讯
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BAF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 记
 <img src="../font/MingjianCaoshuHeiti-svg/uni8BB0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 讲
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BB2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 讳
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BB3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 讶
 
 ### 许
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BB8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 讹
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BB9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 论
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BBA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 讼
 <img src="../font/MingjianCaoshuHeiti-svg/uni8BBC.svg" width="160" style="max-width:100%; height:auto;">
@@ -179,6 +186,7 @@
 ### 谤
 
 ### 谦
+<img src="../font/MingjianCaoshuHeiti-svg/uni8C26.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 谨
 <img src="../font/MingjianCaoshuHeiti-svg/uni8C28.svg" width="160" style="max-width:100%; height:auto;">
@@ -223,6 +231,7 @@
 ### 豬
 
 ### 豹
+<img src="../font/MingjianCaoshuHeiti-svg/uni8C79.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 豺
 

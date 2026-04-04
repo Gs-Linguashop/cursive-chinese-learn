@@ -4,11 +4,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7545.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 界
+<img src="../font/MingjianCaoshuHeiti-svg/uni754C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 畏
 <img src="../font/MingjianCaoshuHeiti-svg/uni754F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 畔
+<img src="../font/MingjianCaoshuHeiti-svg/uni7554.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 留
 <img src="../font/MingjianCaoshuHeiti-svg/uni7559.svg" width="160" style="max-width:100%; height:auto;">
@@ -70,8 +72,10 @@
 ### 疤
 
 ### 疫
+<img src="../font/MingjianCaoshuHeiti-svg/uni75AB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 疮
+<img src="../font/MingjianCaoshuHeiti-svg/uni75AE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 疯
 
@@ -93,8 +97,10 @@
 ### 症
 
 ### 痊
+<img src="../font/MingjianCaoshuHeiti-svg/uni75CA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 痒
+<img src="../font/MingjianCaoshuHeiti-svg/uni75D2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 痕
 
@@ -104,6 +110,7 @@
 ### 痛
 
 ### 痢
+<img src="../font/MingjianCaoshuHeiti-svg/uni75E2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 痪
 
@@ -117,8 +124,10 @@
 ### 痹
 
 ### 痺
+<img src="../font/MingjianCaoshuHeiti-svg/uni75FA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瘉
+<img src="../font/MingjianCaoshuHeiti-svg/uni7609.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瘋
 
@@ -128,6 +137,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni761F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瘡
+<img src="../font/MingjianCaoshuHeiti-svg/uni7621.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瘤
 
@@ -143,6 +153,7 @@
 ### 瘫
 
 ### 瘸
+<img src="../font/MingjianCaoshuHeiti-svg/uni7638.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瘾
 <img src="../font/MingjianCaoshuHeiti-svg/uni763E.svg" width="160" style="max-width:100%; height:auto;">
@@ -152,6 +163,7 @@
 ### 癌
 
 ### 癒
+<img src="../font/MingjianCaoshuHeiti-svg/uni7652.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 癞
 
@@ -161,6 +173,7 @@
 ### 癡
 
 ### 癢
+<img src="../font/MingjianCaoshuHeiti-svg/uni7662.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 癣
 
@@ -189,6 +202,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7682.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 的
+<img src="../font/MingjianCaoshuHeiti-svg/uni7684.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 皆
 <img src="../font/MingjianCaoshuHeiti-svg/uni7686.svg" width="160" style="max-width:100%; height:auto;">
@@ -200,8 +214,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni76AE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 皱
+<img src="../font/MingjianCaoshuHeiti-svg/uni76B1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 皺
+<img src="../font/MingjianCaoshuHeiti-svg/uni76BA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 皿
 <img src="../font/MingjianCaoshuHeiti-svg/uni76BF.svg" width="160" style="max-width:100%; height:auto;">
@@ -213,6 +229,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni76C5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 盆
+<img src="../font/MingjianCaoshuHeiti-svg/uni76C6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 盈
 <img src="../font/MingjianCaoshuHeiti-svg/uni76C8.svg" width="160" style="max-width:100%; height:auto;">

@@ -4,6 +4,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni84B8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蒼
+<img src="../font/MingjianCaoshuHeiti-svg/uni84BC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蒿
 
@@ -110,6 +111,7 @@
 ### 藻
 
 ### 蘆
+<img src="../font/MingjianCaoshuHeiti-svg/uni8606.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蘇
 <img src="../font/MingjianCaoshuHeiti-svg/uni8607.svg" width="160" style="max-width:100%; height:auto;">
@@ -121,6 +123,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8611.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蘭
+<img src="../font/MingjianCaoshuHeiti-svg/uni862D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蘸
 
@@ -153,6 +156,7 @@
 ### 號
 
 ### 虧
+<img src="../font/MingjianCaoshuHeiti-svg/uni8667.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 虫
 <img src="../font/MingjianCaoshuHeiti-svg/uni866B.svg" width="160" style="max-width:100%; height:auto;">
@@ -204,6 +208,7 @@
 ### 蛇
 
 ### 蛉
+<img src="../font/MingjianCaoshuHeiti-svg/uni86C9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蛋
 <img src="../font/MingjianCaoshuHeiti-svg/uni86CB.svg" width="160" style="max-width:100%; height:auto;">

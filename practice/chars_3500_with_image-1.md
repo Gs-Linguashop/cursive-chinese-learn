@@ -190,6 +190,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4E73.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 乾
+<img src="../font/MingjianCaoshuHeiti-svg/uni4E7E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 亂
 <img src="../font/MingjianCaoshuHeiti-svg/uni4E82.svg" width="160" style="max-width:100%; height:auto;">
@@ -275,6 +276,7 @@
 ### 亿
 
 ### 什
+<img src="../font/MingjianCaoshuHeiti-svg/uni4EC0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 仁
 <img src="../font/MingjianCaoshuHeiti-svg/uni4EC1.svg" width="160" style="max-width:100%; height:auto;">
@@ -283,6 +285,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4EC5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 仆
+<img src="../font/MingjianCaoshuHeiti-svg/uni4EC6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 仇
 <img src="../font/MingjianCaoshuHeiti-svg/uni4EC7.svg" width="160" style="max-width:100%; height:auto;">

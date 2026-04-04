@@ -43,6 +43,7 @@
 ### 煌
 
 ### 煎
+<img src="../font/MingjianCaoshuHeiti-svg/uni714E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 煙
 
@@ -121,8 +122,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni720D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 爐
+<img src="../font/MingjianCaoshuHeiti-svg/uni7210.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 爛
+<img src="../font/MingjianCaoshuHeiti-svg/uni721B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 爪
 <img src="../font/MingjianCaoshuHeiti-svg/uni722A.svg" width="160" style="max-width:100%; height:auto;">
@@ -170,6 +173,7 @@
 ### 版
 
 ### 牌
+<img src="../font/MingjianCaoshuHeiti-svg/uni724C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 牍
 <img src="../font/MingjianCaoshuHeiti-svg/uni724D.svg" width="160" style="max-width:100%; height:auto;">
@@ -196,6 +200,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7267.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 物
+<img src="../font/MingjianCaoshuHeiti-svg/uni7269.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 牲
 
@@ -215,6 +220,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7280.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 犁
+<img src="../font/MingjianCaoshuHeiti-svg/uni7281.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 犧
 

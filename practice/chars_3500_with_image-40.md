@@ -14,8 +14,10 @@
 ### 貢
 
 ### 貧
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CA7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 貨
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CA8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 販
 
@@ -44,19 +46,23 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CB7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 貸
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CB8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 費
 
 ### 貼
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CBC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 貿
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CBF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 賀
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CC0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 賂
 
 ### 賃
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CC3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 賄
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CC4.svg" width="160" style="max-width:100%; height:auto;">
@@ -70,6 +76,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CCA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 賒
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CD2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 賓
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CD3.svg" width="160" style="max-width:100%; height:auto;">
@@ -102,8 +109,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CF4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 賺
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CFA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 購
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CFC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 賽
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CFD.svg" width="160" style="max-width:100%; height:auto;">
@@ -152,6 +161,7 @@
 ### 账
 
 ### 货
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D27.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 质
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D28.svg" width="160" style="max-width:100%; height:auto;">
@@ -162,11 +172,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D2A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 贫
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D2B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 贬
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D2C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 购
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D2D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 贮
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D2E.svg" width="160" style="max-width:100%; height:auto;">
@@ -180,11 +192,13 @@
 ### 贱
 
 ### 贴
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D34.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 贵
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D35.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 贷
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D37.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 贸
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D38.svg" width="160" style="max-width:100%; height:auto;">
@@ -192,6 +206,7 @@
 ### 费
 
 ### 贺
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D3A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 贼
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D3C.svg" width="160" style="max-width:100%; height:auto;">
@@ -203,6 +218,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D3F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 赁
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D41.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 赂
 
@@ -211,6 +227,7 @@
 ### 资
 
 ### 赊
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D4A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 赋
 
@@ -233,6 +250,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D58.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 赚
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D5A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 赛
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D5B.svg" width="160" style="max-width:100%; height:auto;">

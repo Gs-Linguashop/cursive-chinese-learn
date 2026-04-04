@@ -11,6 +11,7 @@
 ### 蝇
 
 ### 蝉
+<img src="../font/MingjianCaoshuHeiti-svg/uni8749.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蝌
 
@@ -58,6 +59,7 @@
 ### 蟋
 
 ### 蟬
+<img src="../font/MingjianCaoshuHeiti-svg/uni87EC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蟲
 
@@ -103,6 +105,7 @@
 ### 衙
 
 ### 衛
+<img src="../font/MingjianCaoshuHeiti-svg/uni885B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 衡
 
@@ -110,6 +113,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8863.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 补
+<img src="../font/MingjianCaoshuHeiti-svg/uni8865.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 表
 <img src="../font/MingjianCaoshuHeiti-svg/uni8868.svg" width="160" style="max-width:100%; height:auto;">
@@ -133,6 +137,7 @@
 ### 袄
 
 ### 袋
+<img src="../font/MingjianCaoshuHeiti-svg/uni888B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 袍
 <img src="../font/MingjianCaoshuHeiti-svg/uni888D.svg" width="160" style="max-width:100%; height:auto;">
@@ -151,6 +156,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni88AD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 袱
+<img src="../font/MingjianCaoshuHeiti-svg/uni88B1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 裁
 
@@ -183,6 +189,7 @@
 ### 褐
 
 ### 褒
+<img src="../font/MingjianCaoshuHeiti-svg/uni8912.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 褥
 

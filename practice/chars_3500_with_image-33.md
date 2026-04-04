@@ -13,6 +13,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7FC5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 翎
+<img src="../font/MingjianCaoshuHeiti-svg/uni7FCE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 習
 <img src="../font/MingjianCaoshuHeiti-svg/uni7FD2.svg" width="160" style="max-width:100%; height:auto;">
@@ -22,10 +23,12 @@
 ### 翘
 
 ### 翠
+<img src="../font/MingjianCaoshuHeiti-svg/uni7FE0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 翩
 
 ### 翰
+<img src="../font/MingjianCaoshuHeiti-svg/uni7FF0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 翹
 
@@ -66,10 +69,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8033.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 耸
+<img src="../font/MingjianCaoshuHeiti-svg/uni8038.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 耻
+<img src="../font/MingjianCaoshuHeiti-svg/uni803B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 耽
+<img src="../font/MingjianCaoshuHeiti-svg/uni803D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 耿
 <img src="../font/MingjianCaoshuHeiti-svg/uni803F.svg" width="160" style="max-width:100%; height:auto;">
@@ -109,6 +115,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8072.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 聳
+<img src="../font/MingjianCaoshuHeiti-svg/uni8073.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 聶
 <img src="../font/MingjianCaoshuHeiti-svg/uni8076.svg" width="160" style="max-width:100%; height:auto;">
@@ -135,8 +142,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8089.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 肋
+<img src="../font/MingjianCaoshuHeiti-svg/uni808B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 肌
+<img src="../font/MingjianCaoshuHeiti-svg/uni808C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 肖
 <img src="../font/MingjianCaoshuHeiti-svg/uni8096.svg" width="160" style="max-width:100%; height:auto;">
@@ -203,6 +212,7 @@
 ### 胎
 
 ### 胖
+<img src="../font/MingjianCaoshuHeiti-svg/uni80D6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 胚
 <img src="../font/MingjianCaoshuHeiti-svg/uni80DA.svg" width="160" style="max-width:100%; height:auto;">
@@ -229,6 +239,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni80F6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 胸
+<img src="../font/MingjianCaoshuHeiti-svg/uni80F8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 能
 <img src="../font/MingjianCaoshuHeiti-svg/uni80FD.svg" width="160" style="max-width:100%; height:auto;">

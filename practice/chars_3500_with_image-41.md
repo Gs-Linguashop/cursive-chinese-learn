@@ -9,6 +9,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D70.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 赴
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D74.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 赵
 
@@ -25,6 +26,7 @@
 ### 越
 
 ### 趋
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D8B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 趕
 
@@ -35,13 +37,16 @@
 ### 趣
 
 ### 趨
+<img src="../font/MingjianCaoshuHeiti-svg/uni8DA8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 足
 <img src="../font/MingjianCaoshuHeiti-svg/uni8DB3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 趴
+<img src="../font/MingjianCaoshuHeiti-svg/uni8DB4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 趾
+<img src="../font/MingjianCaoshuHeiti-svg/uni8DBE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 跃
 
@@ -72,6 +77,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8DEF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 跳
+<img src="../font/MingjianCaoshuHeiti-svg/uni8DF3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 践
 
@@ -101,6 +107,7 @@
 ### 踱
 
 ### 踴
+<img src="../font/MingjianCaoshuHeiti-svg/uni8E34.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蹂
 
@@ -115,6 +122,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8E5F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蹤
+<img src="../font/MingjianCaoshuHeiti-svg/uni8E64.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蹦
 
@@ -143,12 +151,14 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8EAC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 躯
+<img src="../font/MingjianCaoshuHeiti-svg/uni8EAF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 躲
 
 ### 躺
 
 ### 軀
+<img src="../font/MingjianCaoshuHeiti-svg/uni8EC0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 車
 <img src="../font/MingjianCaoshuHeiti-svg/uni8ECA.svg" width="160" style="max-width:100%; height:auto;">
@@ -175,6 +185,7 @@
 ### 載
 
 ### 輓
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F13.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 輔
 
@@ -190,10 +201,12 @@
 ### 輩
 
 ### 輪
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F2A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 輯
 
 ### 輸
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F38.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 輻
 
@@ -230,6 +243,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8F6C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 轮
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F6E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 软
 <img src="../font/MingjianCaoshuHeiti-svg/uni8F6F.svg" width="160" style="max-width:100%; height:auto;">

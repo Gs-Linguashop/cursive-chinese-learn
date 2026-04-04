@@ -10,6 +10,7 @@
 ### 鋒
 
 ### 鋤
+<img src="../font/MingjianCaoshuHeiti-svg/uni92E4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鋪
 
@@ -19,6 +20,7 @@
 ### 鋸
 
 ### 鋼
+<img src="../font/MingjianCaoshuHeiti-svg/uni92FC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 錄
 <img src="../font/MingjianCaoshuHeiti-svg/uni9304.svg" width="160" style="max-width:100%; height:auto;">
@@ -55,6 +57,7 @@
 ### 鍍
 
 ### 鍘
+<img src="../font/MingjianCaoshuHeiti-svg/uni9358.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鍛
 
@@ -115,11 +118,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni947F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 针
+<img src="../font/MingjianCaoshuHeiti-svg/uni9488.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 钉
 <img src="../font/MingjianCaoshuHeiti-svg/uni9489.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 钓
+<img src="../font/MingjianCaoshuHeiti-svg/uni9493.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 钙
 <img src="../font/MingjianCaoshuHeiti-svg/uni9499.svg" width="160" style="max-width:100%; height:auto;">
@@ -134,6 +139,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni94A0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 钢
+<img src="../font/MingjianCaoshuHeiti-svg/uni94A2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 钥
 
@@ -143,6 +149,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni94A7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 钩
+<img src="../font/MingjianCaoshuHeiti-svg/uni94A9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 钮
 <img src="../font/MingjianCaoshuHeiti-svg/uni94AE.svg" width="160" style="max-width:100%; height:auto;">
@@ -158,6 +165,7 @@
 ### 铁
 
 ### 铃
+<img src="../font/MingjianCaoshuHeiti-svg/uni94C3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 铅
 <img src="../font/MingjianCaoshuHeiti-svg/uni94C5.svg" width="160" style="max-width:100%; height:auto;">
@@ -175,8 +183,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni94DD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 铡
+<img src="../font/MingjianCaoshuHeiti-svg/uni94E1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 铣
+<img src="../font/MingjianCaoshuHeiti-svg/uni94E3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 铭
 
@@ -197,6 +207,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9501.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 锄
+<img src="../font/MingjianCaoshuHeiti-svg/uni9504.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 锅
 

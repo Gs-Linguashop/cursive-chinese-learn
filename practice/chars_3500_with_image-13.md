@@ -31,6 +31,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5EB8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 廁
+<img src="../font/MingjianCaoshuHeiti-svg/uni5EC1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 廂
 
@@ -51,6 +52,7 @@
 ### 廢
 
 ### 廬
+<img src="../font/MingjianCaoshuHeiti-svg/uni5EEC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 廳
 
@@ -115,11 +117,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5F37.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 弹
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F39.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 强
 <img src="../font/MingjianCaoshuHeiti-svg/uni5F3A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 彈
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F48.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 彌
 
@@ -159,8 +163,10 @@
 ### 影
 
 ### 役
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F79.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 彻
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F7B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 彼
 <img src="../font/MingjianCaoshuHeiti-svg/uni5F7C.svg" width="160" style="max-width:100%; height:auto;">
@@ -184,6 +190,7 @@
 ### 律
 
 ### 徐
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F90.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 徑
 <img src="../font/MingjianCaoshuHeiti-svg/uni5F91.svg" width="160" style="max-width:100%; height:auto;">

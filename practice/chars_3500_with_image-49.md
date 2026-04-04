@@ -68,6 +68,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9ECD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 黎
+<img src="../font/MingjianCaoshuHeiti-svg/uni9ECE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 黑
 <img src="../font/MingjianCaoshuHeiti-svg/uni9ED1.svg" width="160" style="max-width:100%; height:auto;">
@@ -78,6 +79,7 @@
 ### 默
 
 ### 點
+<img src="../font/MingjianCaoshuHeiti-svg/uni9EDE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鼎
 <img src="../font/MingjianCaoshuHeiti-svg/uni9F0E.svg" width="160" style="max-width:100%; height:auto;">
@@ -103,11 +105,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9F52.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 齡
+<img src="../font/MingjianCaoshuHeiti-svg/uni9F61.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 齿
 <img src="../font/MingjianCaoshuHeiti-svg/uni9F7F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 龄
+<img src="../font/MingjianCaoshuHeiti-svg/uni9F84.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 龍
 <img src="../font/MingjianCaoshuHeiti-svg/uni9F8D.svg" width="160" style="max-width:100%; height:auto;">

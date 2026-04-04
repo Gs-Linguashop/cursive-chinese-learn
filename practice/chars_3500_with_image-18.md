@@ -28,6 +28,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni653F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 故
+<img src="../font/MingjianCaoshuHeiti-svg/uni6545.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 效
 <img src="../font/MingjianCaoshuHeiti-svg/uni6548.svg" width="160" style="max-width:100%; height:auto;">
@@ -42,11 +43,13 @@
 ### 敗
 
 ### 敘
+<img src="../font/MingjianCaoshuHeiti-svg/uni6558.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 教
 <img src="../font/MingjianCaoshuHeiti-svg/uni6559.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 敛
+<img src="../font/MingjianCaoshuHeiti-svg/uni655B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 敞
 <img src="../font/MingjianCaoshuHeiti-svg/uni655E.svg" width="160" style="max-width:100%; height:auto;">
@@ -78,6 +81,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6578.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 斂
+<img src="../font/MingjianCaoshuHeiti-svg/uni6582.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 斃
 
@@ -96,6 +100,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6599.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 斜
+<img src="../font/MingjianCaoshuHeiti-svg/uni659C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 斟
 
@@ -188,6 +193,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6606.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 昇
+<img src="../font/MingjianCaoshuHeiti-svg/uni6607.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 昌
 <img src="../font/MingjianCaoshuHeiti-svg/uni660C.svg" width="160" style="max-width:100%; height:auto;">
@@ -255,6 +261,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6655.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 晚
+<img src="../font/MingjianCaoshuHeiti-svg/uni665A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 晝
 <img src="../font/MingjianCaoshuHeiti-svg/uni665D.svg" width="160" style="max-width:100%; height:auto;">

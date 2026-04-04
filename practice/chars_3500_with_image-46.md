@@ -18,6 +18,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni96A8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 險
+<img src="../font/MingjianCaoshuHeiti-svg/uni96AA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 隱
 <img src="../font/MingjianCaoshuHeiti-svg/uni96B1.svg" width="160" style="max-width:100%; height:auto;">
@@ -52,6 +53,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni96CC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 雏
+<img src="../font/MingjianCaoshuHeiti-svg/uni96CF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 雕
 
@@ -61,6 +63,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni96D9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 雛
+<img src="../font/MingjianCaoshuHeiti-svg/uni96DB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 雜
 <img src="../font/MingjianCaoshuHeiti-svg/uni96DC.svg" width="160" style="max-width:100%; height:auto;">
@@ -79,6 +82,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni96EA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 雳
+<img src="../font/MingjianCaoshuHeiti-svg/uni96F3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 零
 
@@ -91,6 +95,7 @@
 ### 電
 
 ### 雾
+<img src="../font/MingjianCaoshuHeiti-svg/uni96FE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 需
 <img src="../font/MingjianCaoshuHeiti-svg/uni9700.svg" width="160" style="max-width:100%; height:auto;">
@@ -106,6 +111,7 @@
 ### 霎
 
 ### 霑
+<img src="../font/MingjianCaoshuHeiti-svg/uni9711.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 霜
 <img src="../font/MingjianCaoshuHeiti-svg/uni971C.svg" width="160" style="max-width:100%; height:auto;">
@@ -113,6 +119,7 @@
 ### 霞
 
 ### 霧
+<img src="../font/MingjianCaoshuHeiti-svg/uni9727.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 露
 
@@ -122,6 +129,7 @@
 ### 霹
 
 ### 靂
+<img src="../font/MingjianCaoshuHeiti-svg/uni9742.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 靈
 <img src="../font/MingjianCaoshuHeiti-svg/uni9748.svg" width="160" style="max-width:100%; height:auto;">
@@ -149,6 +157,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9769.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 靴
+<img src="../font/MingjianCaoshuHeiti-svg/uni9774.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 靶
 
@@ -160,18 +169,24 @@
 ### 鞏
 
 ### 鞠
+<img src="../font/MingjianCaoshuHeiti-svg/uni97A0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鞭
+<img src="../font/MingjianCaoshuHeiti-svg/uni97AD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 韁
 
 ### 韌
+<img src="../font/MingjianCaoshuHeiti-svg/uni97CC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 韓
+<img src="../font/MingjianCaoshuHeiti-svg/uni97D3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 韧
+<img src="../font/MingjianCaoshuHeiti-svg/uni97E7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 韩
+<img src="../font/MingjianCaoshuHeiti-svg/uni97E9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 韭
 <img src="../font/MingjianCaoshuHeiti-svg/uni97ED.svg" width="160" style="max-width:100%; height:auto;">
@@ -209,8 +224,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9810.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 頑
+<img src="../font/MingjianCaoshuHeiti-svg/uni9811.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 頒
+<img src="../font/MingjianCaoshuHeiti-svg/uni9812.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 頓
 
@@ -218,6 +235,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9817.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 領
+<img src="../font/MingjianCaoshuHeiti-svg/uni9818.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 頭
 <img src="../font/MingjianCaoshuHeiti-svg/uni982D.svg" width="160" style="max-width:100%; height:auto;">

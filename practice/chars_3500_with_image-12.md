@@ -4,8 +4,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5C94.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 岖
+<img src="../font/MingjianCaoshuHeiti-svg/uni5C96.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 岗
+<img src="../font/MingjianCaoshuHeiti-svg/uni5C97.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 岛
 <img src="../font/MingjianCaoshuHeiti-svg/uni5C9B.svg" width="160" style="max-width:100%; height:auto;">
@@ -16,6 +18,7 @@
 ### 岩
 
 ### 岭
+<img src="../font/MingjianCaoshuHeiti-svg/uni5CAD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 岳
 
@@ -53,10 +56,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5D14.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 崖
+<img src="../font/MingjianCaoshuHeiti-svg/uni5D16.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 崗
+<img src="../font/MingjianCaoshuHeiti-svg/uni5D17.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 崙
+<img src="../font/MingjianCaoshuHeiti-svg/uni5D19.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 崩
 
@@ -67,8 +73,10 @@
 ### 嶄
 
 ### 嶇
+<img src="../font/MingjianCaoshuHeiti-svg/uni5D87.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嶺
+<img src="../font/MingjianCaoshuHeiti-svg/uni5DBA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嶼
 <img src="../font/MingjianCaoshuHeiti-svg/uni5DBC.svg" width="160" style="max-width:100%; height:auto;">
@@ -143,6 +151,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E05.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 帆
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E06.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 师
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E08.svg" width="160" style="max-width:100%; height:auto;">
@@ -155,6 +164,7 @@
 ### 帕
 
 ### 帖
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E16.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 帘
 
@@ -189,6 +199,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E38.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 帽
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E3D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 幅
 
@@ -248,6 +259,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E8F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 庐
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E90.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 库
 

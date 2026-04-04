@@ -64,6 +64,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni59D0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 姑
+<img src="../font/MingjianCaoshuHeiti-svg/uni59D1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 姓
 
@@ -71,6 +72,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni59D4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 姚
+<img src="../font/MingjianCaoshuHeiti-svg/uni59DA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 姜
 <img src="../font/MingjianCaoshuHeiti-svg/uni59DC.svg" width="160" style="max-width:100%; height:auto;">
@@ -108,6 +110,7 @@
 ### 娜
 
 ### 娩
+<img src="../font/MingjianCaoshuHeiti-svg/uni5A29.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 娱
 <img src="../font/MingjianCaoshuHeiti-svg/uni5A31.svg" width="160" style="max-width:100%; height:auto;">
@@ -148,6 +151,7 @@
 ### 嫉
 
 ### 嫌
+<img src="../font/MingjianCaoshuHeiti-svg/uni5ACC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嫡
 

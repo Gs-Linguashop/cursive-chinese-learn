@@ -13,8 +13,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5289.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 劊
+<img src="../font/MingjianCaoshuHeiti-svg/uni528A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 劍
+<img src="../font/MingjianCaoshuHeiti-svg/uni528D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 劑
 
@@ -25,6 +27,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni529D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 办
+<img src="../font/MingjianCaoshuHeiti-svg/uni529E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 功
 
@@ -48,6 +51,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni52AB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 励
+<img src="../font/MingjianCaoshuHeiti-svg/uni52B1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 劲
 <img src="../font/MingjianCaoshuHeiti-svg/uni52B2.svg" width="160" style="max-width:100%; height:auto;">
@@ -64,8 +68,10 @@
 ### 勃
 
 ### 勇
+<img src="../font/MingjianCaoshuHeiti-svg/uni52C7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 勉
+<img src="../font/MingjianCaoshuHeiti-svg/uni52C9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 勋
 
@@ -100,6 +106,7 @@
 ### 勳
 
 ### 勵
+<img src="../font/MingjianCaoshuHeiti-svg/uni52F5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 勸
 <img src="../font/MingjianCaoshuHeiti-svg/uni52F8.svg" width="160" style="max-width:100%; height:auto;">
@@ -126,6 +133,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5306.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 匈
+<img src="../font/MingjianCaoshuHeiti-svg/uni5308.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 匕
 <img src="../font/MingjianCaoshuHeiti-svg/uni5315.svg" width="160" style="max-width:100%; height:auto;">
@@ -179,6 +187,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni534A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 华
+<img src="../font/MingjianCaoshuHeiti-svg/uni534E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 协
 <img src="../font/MingjianCaoshuHeiti-svg/uni534F.svg" width="160" style="max-width:100%; height:auto;">
@@ -228,6 +237,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5367.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 卫
+<img src="../font/MingjianCaoshuHeiti-svg/uni536B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 印
 <img src="../font/MingjianCaoshuHeiti-svg/uni5370.svg" width="160" style="max-width:100%; height:auto;">

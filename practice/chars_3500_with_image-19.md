@@ -136,6 +136,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6731.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 朴
+<img src="../font/MingjianCaoshuHeiti-svg/uni6734.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 朵
 <img src="../font/MingjianCaoshuHeiti-svg/uni6735.svg" width="160" style="max-width:100%; height:auto;">
@@ -211,6 +212,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6781.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 构
+<img src="../font/MingjianCaoshuHeiti-svg/uni6784.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 枉
 
@@ -218,6 +220,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6790.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 枕
+<img src="../font/MingjianCaoshuHeiti-svg/uni6795.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 林
 <img src="../font/MingjianCaoshuHeiti-svg/uni6797.svg" width="160" style="max-width:100%; height:auto;">
@@ -237,17 +240,21 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni67A3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 枪
+<img src="../font/MingjianCaoshuHeiti-svg/uni67AA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 枫
 
 ### 枯
+<img src="../font/MingjianCaoshuHeiti-svg/uni67AF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 枴
 <img src="../font/MingjianCaoshuHeiti-svg/uni67B4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 架
+<img src="../font/MingjianCaoshuHeiti-svg/uni67B6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 枷
+<img src="../font/MingjianCaoshuHeiti-svg/uni67B7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 柄
 <img src="../font/MingjianCaoshuHeiti-svg/uni67C4.svg" width="160" style="max-width:100%; height:auto;">

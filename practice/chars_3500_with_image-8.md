@@ -16,15 +16,19 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5606.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嘉
+<img src="../font/MingjianCaoshuHeiti-svg/uni5609.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嘔
+<img src="../font/MingjianCaoshuHeiti-svg/uni5614.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嘗
 <img src="../font/MingjianCaoshuHeiti-svg/uni5617.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嘩
+<img src="../font/MingjianCaoshuHeiti-svg/uni5629.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嘮
+<img src="../font/MingjianCaoshuHeiti-svg/uni562E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嘯
 
@@ -112,6 +116,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni56F1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 围
+<img src="../font/MingjianCaoshuHeiti-svg/uni56F4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 固
 
@@ -125,10 +130,12 @@
 ### 圆
 
 ### 圈
+<img src="../font/MingjianCaoshuHeiti-svg/uni5708.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 國
 
 ### 圍
+<img src="../font/MingjianCaoshuHeiti-svg/uni570D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 園
 
@@ -158,6 +165,7 @@
 ### 圾
 
 ### 址
+<img src="../font/MingjianCaoshuHeiti-svg/uni5740.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 均
 <img src="../font/MingjianCaoshuHeiti-svg/uni5747.svg" width="160" style="max-width:100%; height:auto;">
@@ -208,11 +216,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni576F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 坷
+<img src="../font/MingjianCaoshuHeiti-svg/uni5777.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 垂
 <img src="../font/MingjianCaoshuHeiti-svg/uni5782.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 垃
+<img src="../font/MingjianCaoshuHeiti-svg/uni5783.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 垄
 
@@ -234,6 +244,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni57AE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 埂
+<img src="../font/MingjianCaoshuHeiti-svg/uni57C2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 埃
 

@@ -91,6 +91,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6216.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 战
+<img src="../font/MingjianCaoshuHeiti-svg/uni6218.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 戚
 <img src="../font/MingjianCaoshuHeiti-svg/uni621A.svg" width="160" style="max-width:100%; height:auto;">
@@ -99,6 +100,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni622A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 戰
+<img src="../font/MingjianCaoshuHeiti-svg/uni6230.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 戲
 <img src="../font/MingjianCaoshuHeiti-svg/uni6232.svg" width="160" style="max-width:100%; height:auto;">
@@ -135,8 +137,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni624E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扑
+<img src="../font/MingjianCaoshuHeiti-svg/uni6251.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扒
+<img src="../font/MingjianCaoshuHeiti-svg/uni6252.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 打
 <img src="../font/MingjianCaoshuHeiti-svg/uni6253.svg" width="160" style="max-width:100%; height:auto;">
@@ -167,8 +171,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni626D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扮
+<img src="../font/MingjianCaoshuHeiti-svg/uni626E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扯
+<img src="../font/MingjianCaoshuHeiti-svg/uni626F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扰
 
@@ -179,6 +185,7 @@
 ### 批
 
 ### 扼
+<img src="../font/MingjianCaoshuHeiti-svg/uni627C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 找
 <img src="../font/MingjianCaoshuHeiti-svg/uni627E.svg" width="160" style="max-width:100%; height:auto;">
@@ -193,6 +200,7 @@
 ### 把
 
 ### 抑
+<img src="../font/MingjianCaoshuHeiti-svg/uni6291.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 抒
 <img src="../font/MingjianCaoshuHeiti-svg/uni6292.svg" width="160" style="max-width:100%; height:auto;">
@@ -216,10 +224,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni629B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 抠
+<img src="../font/MingjianCaoshuHeiti-svg/uni62A0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 抡
+<img src="../font/MingjianCaoshuHeiti-svg/uni62A1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 抢
+<img src="../font/MingjianCaoshuHeiti-svg/uni62A2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 护
 
