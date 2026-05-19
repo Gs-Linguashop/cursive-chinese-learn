@@ -20,6 +20,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CA8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 販
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CA9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 貪
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CAA.svg" width="160" style="max-width:100%; height:auto;">
@@ -60,6 +61,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CC0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 賂
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CC2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 賃
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CC3.svg" width="160" style="max-width:100%; height:auto;">
@@ -87,6 +89,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CDE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 賠
+<img src="../font/MingjianCaoshuHeiti-svg/uni8CE0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 賢
 <img src="../font/MingjianCaoshuHeiti-svg/uni8CE2.svg" width="160" style="max-width:100%; height:auto;">
@@ -167,6 +170,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D28.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 贩
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D29.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 贪
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D2A.svg" width="160" style="max-width:100%; height:auto;">
@@ -221,6 +225,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D41.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 赂
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D42.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 赃
 
@@ -242,6 +247,7 @@
 ### 赐
 
 ### 赔
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D54.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 赖
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D56.svg" width="160" style="max-width:100%; height:auto;">

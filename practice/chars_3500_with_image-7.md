@@ -13,6 +13,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni545C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 呢
+<img src="../font/MingjianCaoshuHeiti-svg/uni5462.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 周
 <img src="../font/MingjianCaoshuHeiti-svg/uni5468.svg" width="160" style="max-width:100%; height:auto;">
@@ -23,6 +24,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5475.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 呻
+<img src="../font/MingjianCaoshuHeiti-svg/uni547B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 呼
 <img src="../font/MingjianCaoshuHeiti-svg/uni547C.svg" width="160" style="max-width:100%; height:auto;">
@@ -34,6 +36,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5486.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 和
+<img src="../font/MingjianCaoshuHeiti-svg/uni548C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 咏
 
@@ -71,6 +74,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni54B8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 咽
+<img src="../font/MingjianCaoshuHeiti-svg/uni54BD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 哀
 <img src="../font/MingjianCaoshuHeiti-svg/uni54C0.svg" width="160" style="max-width:100%; height:auto;">
@@ -82,6 +86,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni54C4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 哆
+<img src="../font/MingjianCaoshuHeiti-svg/uni54C6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 哈
 <img src="../font/MingjianCaoshuHeiti-svg/uni54C8.svg" width="160" style="max-width:100%; height:auto;">
@@ -117,6 +122,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni54ED.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 哮
+<img src="../font/MingjianCaoshuHeiti-svg/uni54EE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 哲
 
@@ -129,6 +135,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5501.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 唆
+<img src="../font/MingjianCaoshuHeiti-svg/uni5506.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 唇
 <img src="../font/MingjianCaoshuHeiti-svg/uni5507.svg" width="160" style="max-width:100%; height:auto;">
@@ -142,6 +149,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5520.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 唤
+<img src="../font/MingjianCaoshuHeiti-svg/uni5524.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 唧
 <img src="../font/MingjianCaoshuHeiti-svg/uni5527.svg" width="160" style="max-width:100%; height:auto;">
@@ -158,6 +166,7 @@
 ### 唸
 
 ### 唾
+<img src="../font/MingjianCaoshuHeiti-svg/uni553E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 啃
 
@@ -197,6 +206,7 @@
 ### 啸
 
 ### 啼
+<img src="../font/MingjianCaoshuHeiti-svg/uni557C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 喂
 
@@ -210,10 +220,12 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5589.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 喊
+<img src="../font/MingjianCaoshuHeiti-svg/uni558A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 喘
 
 ### 喚
+<img src="../font/MingjianCaoshuHeiti-svg/uni559A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 喜
 <img src="../font/MingjianCaoshuHeiti-svg/uni559C.svg" width="160" style="max-width:100%; height:auto;">
@@ -221,6 +233,7 @@
 ### 喝
 
 ### 喧
+<img src="../font/MingjianCaoshuHeiti-svg/uni55A7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 喪
 <img src="../font/MingjianCaoshuHeiti-svg/uni55AA.svg" width="160" style="max-width:100%; height:auto;">

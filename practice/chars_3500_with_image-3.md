@@ -4,8 +4,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5009.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 個
+<img src="../font/MingjianCaoshuHeiti-svg/uni500B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 倍
+<img src="../font/MingjianCaoshuHeiti-svg/uni500D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 們
 
@@ -13,15 +15,18 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5012.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 倔
+<img src="../font/MingjianCaoshuHeiti-svg/uni5014.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 倖
 
 ### 倘
+<img src="../font/MingjianCaoshuHeiti-svg/uni5018.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 候
 <img src="../font/MingjianCaoshuHeiti-svg/uni5019.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 倚
+<img src="../font/MingjianCaoshuHeiti-svg/uni501A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 借
 
@@ -42,6 +47,7 @@
 ### 倾
 
 ### 假
+<img src="../font/MingjianCaoshuHeiti-svg/uni5047.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 偉
 <img src="../font/MingjianCaoshuHeiti-svg/uni5049.svg" width="160" style="max-width:100%; height:auto;">
@@ -78,6 +84,7 @@
 ### 傀
 
 ### 傅
+<img src="../font/MingjianCaoshuHeiti-svg/uni5085.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 傍
 
@@ -93,6 +100,7 @@
 ### 储
 
 ### 催
+<img src="../font/MingjianCaoshuHeiti-svg/uni50AC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 傭
 
@@ -120,11 +128,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni50D1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 僚
+<img src="../font/MingjianCaoshuHeiti-svg/uni50DA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 僞
 <img src="../font/MingjianCaoshuHeiti-svg/uni50DE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 僥
+<img src="../font/MingjianCaoshuHeiti-svg/uni50E5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 僧
 

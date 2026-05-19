@@ -22,6 +22,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8D81.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 超
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D85.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 越
 
@@ -33,8 +34,10 @@
 ### 趙
 
 ### 趟
+<img src="../font/MingjianCaoshuHeiti-svg/uni8D9F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 趣
+<img src="../font/MingjianCaoshuHeiti-svg/uni8DA3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 趨
 <img src="../font/MingjianCaoshuHeiti-svg/uni8DA8.svg" width="160" style="max-width:100%; height:auto;">
@@ -49,10 +52,12 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8DBE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 跃
+<img src="../font/MingjianCaoshuHeiti-svg/uni8DC3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 跋
 
 ### 跌
+<img src="../font/MingjianCaoshuHeiti-svg/uni8DCC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 跑
 <img src="../font/MingjianCaoshuHeiti-svg/uni8DD1.svg" width="160" style="max-width:100%; height:auto;">
@@ -61,6 +66,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8DDB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 距
+<img src="../font/MingjianCaoshuHeiti-svg/uni8DDD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 跟
 
@@ -84,10 +90,12 @@
 ### 跶
 
 ### 跷
+<img src="../font/MingjianCaoshuHeiti-svg/uni8DF7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 跺
 
 ### 跼
+<img src="../font/MingjianCaoshuHeiti-svg/uni8DFC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 踊
 
@@ -100,6 +108,7 @@
 ### 踩
 
 ### 踪
+<img src="../font/MingjianCaoshuHeiti-svg/uni8E2A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 踫
 <img src="../font/MingjianCaoshuHeiti-svg/uni8E2B.svg" width="160" style="max-width:100%; height:auto;">
@@ -125,16 +134,20 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8E64.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蹦
+<img src="../font/MingjianCaoshuHeiti-svg/uni8E66.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蹬
 
 ### 蹭
 
 ### 蹲
+<img src="../font/MingjianCaoshuHeiti-svg/uni8E72.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蹺
+<img src="../font/MingjianCaoshuHeiti-svg/uni8E7A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 躁
+<img src="../font/MingjianCaoshuHeiti-svg/uni8E81.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 躂
 
@@ -156,6 +169,7 @@
 ### 躲
 
 ### 躺
+<img src="../font/MingjianCaoshuHeiti-svg/uni8EBA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 軀
 <img src="../font/MingjianCaoshuHeiti-svg/uni8EC0.svg" width="160" style="max-width:100%; height:auto;">
@@ -204,6 +218,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8F2A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 輯
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F2F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 輸
 <img src="../font/MingjianCaoshuHeiti-svg/uni8F38.svg" width="160" style="max-width:100%; height:auto;">
@@ -213,6 +228,7 @@
 ### 輿
 
 ### 轄
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F44.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 轅
 

@@ -21,6 +21,7 @@
 ### 翔
 
 ### 翘
+<img src="../font/MingjianCaoshuHeiti-svg/uni7FD8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 翠
 <img src="../font/MingjianCaoshuHeiti-svg/uni7FE0.svg" width="160" style="max-width:100%; height:auto;">
@@ -31,6 +32,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7FF0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 翹
+<img src="../font/MingjianCaoshuHeiti-svg/uni7FF9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 翻
 
@@ -64,6 +66,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8018.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 耙
+<img src="../font/MingjianCaoshuHeiti-svg/uni8019.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 耳
 <img src="../font/MingjianCaoshuHeiti-svg/uni8033.svg" width="160" style="max-width:100%; height:auto;">
@@ -154,8 +157,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8098.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 肚
+<img src="../font/MingjianCaoshuHeiti-svg/uni809A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 肛
+<img src="../font/MingjianCaoshuHeiti-svg/uni809B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 肝
 
@@ -191,6 +196,7 @@
 ### 肴
 
 ### 肺
+<img src="../font/MingjianCaoshuHeiti-svg/uni80BA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 肾
 <img src="../font/MingjianCaoshuHeiti-svg/uni80BE.svg" width="160" style="max-width:100%; height:auto;">
@@ -210,6 +216,7 @@
 ### 背
 
 ### 胎
+<img src="../font/MingjianCaoshuHeiti-svg/uni80CE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 胖
 <img src="../font/MingjianCaoshuHeiti-svg/uni80D6.svg" width="160" style="max-width:100%; height:auto;">
@@ -232,8 +239,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni80EF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 胰
+<img src="../font/MingjianCaoshuHeiti-svg/uni80F0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 胳
+<img src="../font/MingjianCaoshuHeiti-svg/uni80F3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 胶
 <img src="../font/MingjianCaoshuHeiti-svg/uni80F6.svg" width="160" style="max-width:100%; height:auto;">

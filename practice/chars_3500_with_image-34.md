@@ -6,6 +6,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8113.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 脖
+<img src="../font/MingjianCaoshuHeiti-svg/uni8116.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 脚
 <img src="../font/MingjianCaoshuHeiti-svg/uni811A.svg" width="160" style="max-width:100%; height:auto;">
@@ -33,10 +34,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni813E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 腊
+<img src="../font/MingjianCaoshuHeiti-svg/uni814A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 腋
+<img src="../font/MingjianCaoshuHeiti-svg/uni814B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 腌
+<img src="../font/MingjianCaoshuHeiti-svg/uni814C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 腎
 <img src="../font/MingjianCaoshuHeiti-svg/uni814E.svg" width="160" style="max-width:100%; height:auto;">
@@ -46,6 +50,7 @@
 ### 腔
 
 ### 腕
+<img src="../font/MingjianCaoshuHeiti-svg/uni8155.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 腥
 
@@ -66,6 +71,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8178.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 腹
+<img src="../font/MingjianCaoshuHeiti-svg/uni8179.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 腺
 
@@ -79,6 +85,7 @@
 ### 膀
 
 ### 膊
+<img src="../font/MingjianCaoshuHeiti-svg/uni818A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 膏
 
@@ -88,6 +95,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni819A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 膛
+<img src="../font/MingjianCaoshuHeiti-svg/uni819B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 膜
 
@@ -100,6 +108,7 @@
 ### 膩
 
 ### 膳
+<img src="../font/MingjianCaoshuHeiti-svg/uni81B3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 膽
 
@@ -114,6 +123,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni81C9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 臊
+<img src="../font/MingjianCaoshuHeiti-svg/uni81CA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 臍
 
@@ -188,6 +198,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8231.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 舵
+<img src="../font/MingjianCaoshuHeiti-svg/uni8235.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 舶
 
@@ -199,6 +210,7 @@
 ### 艇
 
 ### 艘
+<img src="../font/MingjianCaoshuHeiti-svg/uni8258.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 艙
 <img src="../font/MingjianCaoshuHeiti-svg/uni8259.svg" width="160" style="max-width:100%; height:auto;">
@@ -240,6 +252,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8292.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 芙
+<img src="../font/MingjianCaoshuHeiti-svg/uni8299.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 芜
 

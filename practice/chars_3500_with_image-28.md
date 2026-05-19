@@ -32,6 +32,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni76F8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 盹
+<img src="../font/MingjianCaoshuHeiti-svg/uni76F9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 盼
 <img src="../font/MingjianCaoshuHeiti-svg/uni76FC.svg" width="160" style="max-width:100%; height:auto;">
@@ -80,10 +81,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni775C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 睡
+<img src="../font/MingjianCaoshuHeiti-svg/uni7761.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 督
+<img src="../font/MingjianCaoshuHeiti-svg/uni7763.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 睦
+<img src="../font/MingjianCaoshuHeiti-svg/uni7766.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 睬
 
@@ -94,6 +98,7 @@
 ### 瞇
 
 ### 瞎
+<img src="../font/MingjianCaoshuHeiti-svg/uni778E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瞒
 <img src="../font/MingjianCaoshuHeiti-svg/uni7792.svg" width="160" style="max-width:100%; height:auto;">
@@ -108,6 +113,7 @@
 ### 瞬
 
 ### 瞭
+<img src="../font/MingjianCaoshuHeiti-svg/uni77AD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瞳
 
@@ -128,6 +134,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni77E5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 矩
+<img src="../font/MingjianCaoshuHeiti-svg/uni77E9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 矫
 <img src="../font/MingjianCaoshuHeiti-svg/uni77EB.svg" width="160" style="max-width:100%; height:auto;">
@@ -136,6 +143,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni77ED.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 矮
+<img src="../font/MingjianCaoshuHeiti-svg/uni77EE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 矯
 <img src="../font/MingjianCaoshuHeiti-svg/uni77EF.svg" width="160" style="max-width:100%; height:auto;">
@@ -157,6 +165,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni780C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 砍
+<img src="../font/MingjianCaoshuHeiti-svg/uni780D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 研
 <img src="../font/MingjianCaoshuHeiti-svg/uni7814.svg" width="160" style="max-width:100%; height:auto;">
@@ -201,6 +210,7 @@
 ### 硼
 
 ### 碉
+<img src="../font/MingjianCaoshuHeiti-svg/uni7889.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 碌
 <img src="../font/MingjianCaoshuHeiti-svg/uni788C.svg" width="160" style="max-width:100%; height:auto;">
@@ -214,6 +224,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7891.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 碗
+<img src="../font/MingjianCaoshuHeiti-svg/uni7897.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 碘
 <img src="../font/MingjianCaoshuHeiti-svg/uni7898.svg" width="160" style="max-width:100%; height:auto;">
@@ -229,6 +240,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni78B0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 碱
+<img src="../font/MingjianCaoshuHeiti-svg/uni78B1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 碳
 
@@ -237,6 +249,7 @@
 ### 碼
 
 ### 碾
+<img src="../font/MingjianCaoshuHeiti-svg/uni78BE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 磁
 <img src="../font/MingjianCaoshuHeiti-svg/uni78C1.svg" width="160" style="max-width:100%; height:auto;">

@@ -29,6 +29,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6A11.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 樓
+<img src="../font/MingjianCaoshuHeiti-svg/uni6A13.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 標
 
@@ -45,8 +46,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6A2A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 樱
+<img src="../font/MingjianCaoshuHeiti-svg/uni6A31.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 樹
+<img src="../font/MingjianCaoshuHeiti-svg/uni6A39.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 樺
 <img src="../font/MingjianCaoshuHeiti-svg/uni6A3A.svg" width="160" style="max-width:100%; height:auto;">
@@ -99,6 +102,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6AE5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 櫻
+<img src="../font/MingjianCaoshuHeiti-svg/uni6AFB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 欄
 <img src="../font/MingjianCaoshuHeiti-svg/uni6B04.svg" width="160" style="max-width:100%; height:auto;">
@@ -137,6 +141,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6B49.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 歌
+<img src="../font/MingjianCaoshuHeiti-svg/uni6B4C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 歎
 <img src="../font/MingjianCaoshuHeiti-svg/uni6B4E.svg" width="160" style="max-width:100%; height:auto;">
@@ -186,6 +191,7 @@
 ### 歼
 
 ### 殃
+<img src="../font/MingjianCaoshuHeiti-svg/uni6B83.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 殉
 

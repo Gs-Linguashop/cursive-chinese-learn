@@ -4,6 +4,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni616E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 慰
+<img src="../font/MingjianCaoshuHeiti-svg/uni6170.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 慶
 <img src="../font/MingjianCaoshuHeiti-svg/uni6176.svg" width="160" style="max-width:100%; height:auto;">
@@ -66,6 +67,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni61F7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 懸
+<img src="../font/MingjianCaoshuHeiti-svg/uni61F8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 懼
 
@@ -152,8 +154,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6258.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扛
+<img src="../font/MingjianCaoshuHeiti-svg/uni625B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扣
+<img src="../font/MingjianCaoshuHeiti-svg/uni6263.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 执
 <img src="../font/MingjianCaoshuHeiti-svg/uni6267.svg" width="160" style="max-width:100%; height:auto;">
@@ -177,10 +181,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni626F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扰
+<img src="../font/MingjianCaoshuHeiti-svg/uni6270.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扳
+<img src="../font/MingjianCaoshuHeiti-svg/uni6273.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 扶
+<img src="../font/MingjianCaoshuHeiti-svg/uni6276.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 批
 
@@ -196,8 +203,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6280.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 抄
+<img src="../font/MingjianCaoshuHeiti-svg/uni6284.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 把
+<img src="../font/MingjianCaoshuHeiti-svg/uni628A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 抑
 <img src="../font/MingjianCaoshuHeiti-svg/uni6291.svg" width="160" style="max-width:100%; height:auto;">
@@ -241,6 +250,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni62AB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 抬
+<img src="../font/MingjianCaoshuHeiti-svg/uni62AC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 抱
 <img src="../font/MingjianCaoshuHeiti-svg/uni62B1.svg" width="160" style="max-width:100%; height:auto;">

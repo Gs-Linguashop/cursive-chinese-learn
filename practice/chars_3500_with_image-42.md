@@ -29,6 +29,7 @@
 ### 辐
 
 ### 辑
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F91.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 输
 <img src="../font/MingjianCaoshuHeiti-svg/uni8F93.svg" width="160" style="max-width:100%; height:auto;">
@@ -36,6 +37,7 @@
 ### 辕
 
 ### 辖
+<img src="../font/MingjianCaoshuHeiti-svg/uni8F96.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 辙
 <img src="../font/MingjianCaoshuHeiti-svg/uni8F99.svg" width="160" style="max-width:100%; height:auto;">
@@ -88,6 +90,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8FB9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 辽
+<img src="../font/MingjianCaoshuHeiti-svg/uni8FBD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 达
 
@@ -118,6 +121,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8FD1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 返
+<img src="../font/MingjianCaoshuHeiti-svg/uni8FD4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 还
 <img src="../font/MingjianCaoshuHeiti-svg/uni8FD8.svg" width="160" style="max-width:100%; height:auto;">
@@ -166,8 +170,10 @@
 ### 逆
 
 ### 选
+<img src="../font/MingjianCaoshuHeiti-svg/uni9009.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 逊
+<img src="../font/MingjianCaoshuHeiti-svg/uni900A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 透
 
@@ -192,6 +198,7 @@
 ### 逝
 
 ### 逞
+<img src="../font/MingjianCaoshuHeiti-svg/uni901E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 速
 <img src="../font/MingjianCaoshuHeiti-svg/uni901F.svg" width="160" style="max-width:100%; height:auto;">
@@ -207,6 +214,7 @@
 ### 逮
 
 ### 週
+<img src="../font/MingjianCaoshuHeiti-svg/uni9031.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 進
 <img src="../font/MingjianCaoshuHeiti-svg/uni9032.svg" width="160" style="max-width:100%; height:auto;">
@@ -252,6 +260,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9059.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 遜
+<img src="../font/MingjianCaoshuHeiti-svg/uni905C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 遞
 

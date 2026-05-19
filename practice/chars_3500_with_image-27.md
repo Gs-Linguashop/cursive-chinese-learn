@@ -40,15 +40,18 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7570.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 畴
+<img src="../font/MingjianCaoshuHeiti-svg/uni7574.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 當
 <img src="../font/MingjianCaoshuHeiti-svg/uni7576.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 畸
+<img src="../font/MingjianCaoshuHeiti-svg/uni7578.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 疆
 
 ### 疇
+<img src="../font/MingjianCaoshuHeiti-svg/uni7587.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 疊
 <img src="../font/MingjianCaoshuHeiti-svg/uni758A.svg" width="160" style="max-width:100%; height:auto;">
@@ -60,6 +63,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7591.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 疗
+<img src="../font/MingjianCaoshuHeiti-svg/uni7597.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 疙
 <img src="../font/MingjianCaoshuHeiti-svg/uni7599.svg" width="160" style="max-width:100%; height:auto;">
@@ -70,6 +74,7 @@
 ### 疟
 
 ### 疤
+<img src="../font/MingjianCaoshuHeiti-svg/uni75A4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 疫
 <img src="../font/MingjianCaoshuHeiti-svg/uni75AB.svg" width="160" style="max-width:100%; height:auto;">
@@ -113,6 +118,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni75E2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 痪
+<img src="../font/MingjianCaoshuHeiti-svg/uni75EA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 痰
 
@@ -132,6 +138,7 @@
 ### 瘋
 
 ### 瘓
+<img src="../font/MingjianCaoshuHeiti-svg/uni7613.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瘟
 <img src="../font/MingjianCaoshuHeiti-svg/uni761F.svg" width="160" style="max-width:100%; height:auto;">
@@ -142,6 +149,7 @@
 ### 瘤
 
 ### 瘦
+<img src="../font/MingjianCaoshuHeiti-svg/uni7626.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 瘧
 
@@ -159,8 +167,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni763E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 療
+<img src="../font/MingjianCaoshuHeiti-svg/uni7642.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 癌
+<img src="../font/MingjianCaoshuHeiti-svg/uni764C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 癒
 <img src="../font/MingjianCaoshuHeiti-svg/uni7652.svg" width="160" style="max-width:100%; height:auto;">
@@ -246,6 +256,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni76D1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 盒
+<img src="../font/MingjianCaoshuHeiti-svg/uni76D2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 盔
 

@@ -9,17 +9,20 @@
 ### 庞
 
 ### 废
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E9F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 度
 <img src="../font/MingjianCaoshuHeiti-svg/uni5EA6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 座
+<img src="../font/MingjianCaoshuHeiti-svg/uni5EA7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 庫
 
 ### 庭
 
 ### 庵
+<img src="../font/MingjianCaoshuHeiti-svg/uni5EB5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 庶
 <img src="../font/MingjianCaoshuHeiti-svg/uni5EB6.svg" width="160" style="max-width:100%; height:auto;">
@@ -36,6 +39,7 @@
 ### 廂
 
 ### 廈
+<img src="../font/MingjianCaoshuHeiti-svg/uni5EC8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 廉
 <img src="../font/MingjianCaoshuHeiti-svg/uni5EC9.svg" width="160" style="max-width:100%; height:auto;">
@@ -50,6 +54,7 @@
 ### 廟
 
 ### 廢
+<img src="../font/MingjianCaoshuHeiti-svg/uni5EE2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 廬
 <img src="../font/MingjianCaoshuHeiti-svg/uni5EEC.svg" width="160" style="max-width:100%; height:auto;">
@@ -99,6 +104,7 @@
 ### 张
 
 ### 弥
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F25.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 弦
 
@@ -126,6 +132,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5F48.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 彌
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F4C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 彎
 <img src="../font/MingjianCaoshuHeiti-svg/uni5F4E.svg" width="160" style="max-width:100%; height:auto;">
@@ -151,6 +158,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5F6A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 彫
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F6B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 彬
 <img src="../font/MingjianCaoshuHeiti-svg/uni5F6C.svg" width="160" style="max-width:100%; height:auto;">
@@ -182,10 +190,12 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5F84.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 待
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F85.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 很
 
 ### 徊
+<img src="../font/MingjianCaoshuHeiti-svg/uni5F8A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 律
 
@@ -255,4 +265,5 @@
 ### 忧
 
 ### 快
+<img src="../font/MingjianCaoshuHeiti-svg/uni5FEB.svg" width="160" style="max-width:100%; height:auto;">
 

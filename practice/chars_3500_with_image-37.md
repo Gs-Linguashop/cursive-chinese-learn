@@ -3,8 +3,10 @@
 ### 蜘
 
 ### 蜜
+<img src="../font/MingjianCaoshuHeiti-svg/uni871C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蜡
+<img src="../font/MingjianCaoshuHeiti-svg/uni8721.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蜻
 
@@ -28,6 +30,7 @@
 ### 蝠
 
 ### 蝦
+<img src="../font/MingjianCaoshuHeiti-svg/uni8766.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蝨
 <img src="../font/MingjianCaoshuHeiti-svg/uni8768.svg" width="160" style="max-width:100%; height:auto;">
@@ -37,6 +40,7 @@
 ### 蝶
 
 ### 蝸
+<img src="../font/MingjianCaoshuHeiti-svg/uni8778.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 螃
 
@@ -103,6 +107,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8857.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 衙
+<img src="../font/MingjianCaoshuHeiti-svg/uni8859.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 衛
 <img src="../font/MingjianCaoshuHeiti-svg/uni885B.svg" width="160" style="max-width:100%; height:auto;">
@@ -119,6 +124,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8868.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 衩
+<img src="../font/MingjianCaoshuHeiti-svg/uni8869.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 衫
 
@@ -164,20 +170,24 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni88C2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 装
+<img src="../font/MingjianCaoshuHeiti-svg/uni88C5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 裆
 
 ### 裕
 
 ### 裙
+<img src="../font/MingjianCaoshuHeiti-svg/uni88D9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 補
 
 ### 裝
+<img src="../font/MingjianCaoshuHeiti-svg/uni88DD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 裤
 
 ### 裳
+<img src="../font/MingjianCaoshuHeiti-svg/uni88F3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 裸
 
@@ -218,6 +228,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8981.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 覆
+<img src="../font/MingjianCaoshuHeiti-svg/uni8986.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 見
 <img src="../font/MingjianCaoshuHeiti-svg/uni898B.svg" width="160" style="max-width:100%; height:auto;">

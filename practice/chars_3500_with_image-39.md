@@ -33,6 +33,7 @@
 ### 让
 
 ### 训
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BAD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 议
 <img src="../font/MingjianCaoshuHeiti-svg/uni8BAE.svg" width="160" style="max-width:100%; height:auto;">
@@ -71,6 +72,7 @@
 ### 访
 
 ### 诀
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BC0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 证
 
@@ -91,6 +93,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8BCA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 词
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BCD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 译
 <img src="../font/MingjianCaoshuHeiti-svg/uni8BD1.svg" width="160" style="max-width:100%; height:auto;">
@@ -98,6 +101,7 @@
 ### 试
 
 ### 诗
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BD7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 诚
 
@@ -120,8 +124,10 @@
 ### 诫
 
 ### 诬
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BEC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 语
+<img src="../font/MingjianCaoshuHeiti-svg/uni8BED.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 误
 <img src="../font/MingjianCaoshuHeiti-svg/uni8BEF.svg" width="160" style="max-width:100%; height:auto;">
@@ -151,6 +157,7 @@
 ### 谁
 
 ### 调
+<img src="../font/MingjianCaoshuHeiti-svg/uni8C03.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 谅
 <img src="../font/MingjianCaoshuHeiti-svg/uni8C05.svg" width="160" style="max-width:100%; height:auto;">
@@ -161,6 +168,7 @@
 ### 谈
 
 ### 谊
+<img src="../font/MingjianCaoshuHeiti-svg/uni8C0A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 谋
 
@@ -179,6 +187,7 @@
 ### 谜
 
 ### 谢
+<img src="../font/MingjianCaoshuHeiti-svg/uni8C22.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 谣
 <img src="../font/MingjianCaoshuHeiti-svg/uni8C23.svg" width="160" style="max-width:100%; height:auto;">
@@ -203,8 +212,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8C37.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 谿
+<img src="../font/MingjianCaoshuHeiti-svg/uni8C3F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 豁
+<img src="../font/MingjianCaoshuHeiti-svg/uni8C41.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 豆
 <img src="../font/MingjianCaoshuHeiti-svg/uni8C46.svg" width="160" style="max-width:100%; height:auto;">
@@ -213,6 +224,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8C48.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 豌
+<img src="../font/MingjianCaoshuHeiti-svg/uni8C4C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 豎
 <img src="../font/MingjianCaoshuHeiti-svg/uni8C4E.svg" width="160" style="max-width:100%; height:auto;">

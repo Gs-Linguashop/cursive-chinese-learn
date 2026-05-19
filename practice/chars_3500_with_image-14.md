@@ -21,12 +21,14 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni600E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 怒
+<img src="../font/MingjianCaoshuHeiti-svg/uni6012.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 怔
 
 ### 怕
 
 ### 怖
+<img src="../font/MingjianCaoshuHeiti-svg/uni6016.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 怜
 
@@ -34,6 +36,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni601D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 怠
+<img src="../font/MingjianCaoshuHeiti-svg/uni6020.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 急
 <img src="../font/MingjianCaoshuHeiti-svg/uni6025.svg" width="160" style="max-width:100%; height:auto;">
@@ -41,6 +44,7 @@
 ### 性
 
 ### 怨
+<img src="../font/MingjianCaoshuHeiti-svg/uni6028.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 怪
 <img src="../font/MingjianCaoshuHeiti-svg/uni602A.svg" width="160" style="max-width:100%; height:auto;">
@@ -52,6 +56,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni603B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恃
+<img src="../font/MingjianCaoshuHeiti-svg/uni6043.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恆
 <img src="../font/MingjianCaoshuHeiti-svg/uni6046.svg" width="160" style="max-width:100%; height:auto;">
@@ -63,11 +68,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni604D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恐
+<img src="../font/MingjianCaoshuHeiti-svg/uni6050.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恒
 <img src="../font/MingjianCaoshuHeiti-svg/uni6052.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恕
+<img src="../font/MingjianCaoshuHeiti-svg/uni6055.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恢
 
@@ -92,6 +99,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni606F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恰
+<img src="../font/MingjianCaoshuHeiti-svg/uni6070.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 恳
 
@@ -114,6 +122,7 @@
 ### 悔
 
 ### 悟
+<img src="../font/MingjianCaoshuHeiti-svg/uni609F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 悠
 
@@ -124,8 +133,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni60A6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 您
+<img src="../font/MingjianCaoshuHeiti-svg/uni60A8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 悬
+<img src="../font/MingjianCaoshuHeiti-svg/uni60AC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 悯
 
@@ -140,12 +151,14 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni60BC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 悽
+<img src="../font/MingjianCaoshuHeiti-svg/uni60BD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 情
 
 ### 惊
 
 ### 惋
+<img src="../font/MingjianCaoshuHeiti-svg/uni60CB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 惑
 
@@ -165,6 +178,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni60E7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 惨
+<img src="../font/MingjianCaoshuHeiti-svg/uni60E8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 惩
 
@@ -199,6 +213,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni610F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 愕
+<img src="../font/MingjianCaoshuHeiti-svg/uni6115.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 愚
 
@@ -230,6 +245,7 @@
 ### 慕
 
 ### 慘
+<img src="../font/MingjianCaoshuHeiti-svg/uni6158.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 慚
 

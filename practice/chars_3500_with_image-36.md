@@ -11,8 +11,10 @@
 ### 蓄
 
 ### 蓆
+<img src="../font/MingjianCaoshuHeiti-svg/uni84C6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蓉
+<img src="../font/MingjianCaoshuHeiti-svg/uni84C9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蓋
 <img src="../font/MingjianCaoshuHeiti-svg/uni84CB.svg" width="160" style="max-width:100%; height:auto;">
@@ -34,8 +36,10 @@
 ### 蔗
 
 ### 蔘
+<img src="../font/MingjianCaoshuHeiti-svg/uni8518.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蔚
+<img src="../font/MingjianCaoshuHeiti-svg/uni851A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蔣
 <img src="../font/MingjianCaoshuHeiti-svg/uni8523.svg" width="160" style="max-width:100%; height:auto;">
@@ -72,6 +76,7 @@
 ### 蕾
 
 ### 薄
+<img src="../font/MingjianCaoshuHeiti-svg/uni8584.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 薇
 
@@ -109,6 +114,7 @@
 ### 藹
 
 ### 藻
+<img src="../font/MingjianCaoshuHeiti-svg/uni85FB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蘆
 <img src="../font/MingjianCaoshuHeiti-svg/uni8606.svg" width="160" style="max-width:100%; height:auto;">
@@ -154,6 +160,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni865C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 號
+<img src="../font/MingjianCaoshuHeiti-svg/uni865F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 虧
 <img src="../font/MingjianCaoshuHeiti-svg/uni8667.svg" width="160" style="max-width:100%; height:auto;">
@@ -165,10 +172,12 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8671.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 虹
+<img src="../font/MingjianCaoshuHeiti-svg/uni8679.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 虽
 
 ### 虾
+<img src="../font/MingjianCaoshuHeiti-svg/uni867E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蚀
 
@@ -178,6 +187,7 @@
 ### 蚂
 
 ### 蚊
+<img src="../font/MingjianCaoshuHeiti-svg/uni868A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蚌
 <img src="../font/MingjianCaoshuHeiti-svg/uni868C.svg" width="160" style="max-width:100%; height:auto;">
@@ -206,6 +216,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni86C6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蛇
+<img src="../font/MingjianCaoshuHeiti-svg/uni86C7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蛉
 <img src="../font/MingjianCaoshuHeiti-svg/uni86C9.svg" width="160" style="max-width:100%; height:auto;">
@@ -214,6 +225,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni86CB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蛔
+<img src="../font/MingjianCaoshuHeiti-svg/uni86D4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蛙
 <img src="../font/MingjianCaoshuHeiti-svg/uni86D9.svg" width="160" style="max-width:100%; height:auto;">
@@ -221,6 +233,7 @@
 ### 蛛
 
 ### 蛤
+<img src="../font/MingjianCaoshuHeiti-svg/uni86E4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蛮
 <img src="../font/MingjianCaoshuHeiti-svg/uni86EE.svg" width="160" style="max-width:100%; height:auto;">
@@ -236,6 +249,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8700.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蜂
+<img src="../font/MingjianCaoshuHeiti-svg/uni8702.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蜈
 <img src="../font/MingjianCaoshuHeiti-svg/uni8708.svg" width="160" style="max-width:100%; height:auto;">
@@ -249,4 +263,5 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8715.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 蜗
+<img src="../font/MingjianCaoshuHeiti-svg/uni8717.svg" width="160" style="max-width:100%; height:auto;">
 

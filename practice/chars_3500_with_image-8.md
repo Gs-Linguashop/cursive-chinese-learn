@@ -9,6 +9,7 @@
 ### 嗽
 
 ### 嘀
+<img src="../font/MingjianCaoshuHeiti-svg/uni5600.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嘁
 
@@ -35,6 +36,7 @@
 ### 嘰
 
 ### 嘱
+<img src="../font/MingjianCaoshuHeiti-svg/uni5631.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嘲
 
@@ -43,8 +45,10 @@
 ### 嘶
 
 ### 嘹
+<img src="../font/MingjianCaoshuHeiti-svg/uni5639.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嘿
+<img src="../font/MingjianCaoshuHeiti-svg/uni563F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 器
 <img src="../font/MingjianCaoshuHeiti-svg/uni5668.svg" width="160" style="max-width:100%; height:auto;">
@@ -53,16 +57,19 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5669.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 噪
+<img src="../font/MingjianCaoshuHeiti-svg/uni566A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 噴
 
 ### 噸
+<img src="../font/MingjianCaoshuHeiti-svg/uni5678.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嚇
 
 ### 嚎
 
 ### 嚐
+<img src="../font/MingjianCaoshuHeiti-svg/uni5690.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嚣
 <img src="../font/MingjianCaoshuHeiti-svg/uni56A3.svg" width="160" style="max-width:100%; height:auto;">
@@ -84,8 +91,10 @@
 ### 囉
 
 ### 囊
+<img src="../font/MingjianCaoshuHeiti-svg/uni56CA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 囑
+<img src="../font/MingjianCaoshuHeiti-svg/uni56D1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 囚
 <img src="../font/MingjianCaoshuHeiti-svg/uni56DA.svg" width="160" style="max-width:100%; height:auto;">
@@ -103,6 +112,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni56E2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 囤
+<img src="../font/MingjianCaoshuHeiti-svg/uni56E4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 囪
 <img src="../font/MingjianCaoshuHeiti-svg/uni56EA.svg" width="160" style="max-width:100%; height:auto;">
@@ -119,8 +129,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni56F4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 固
+<img src="../font/MingjianCaoshuHeiti-svg/uni56FA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 国
+<img src="../font/MingjianCaoshuHeiti-svg/uni56FD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 图
 <img src="../font/MingjianCaoshuHeiti-svg/uni56FE.svg" width="160" style="max-width:100%; height:auto;">
@@ -128,11 +140,13 @@
 ### 圃
 
 ### 圆
+<img src="../font/MingjianCaoshuHeiti-svg/uni5706.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 圈
 <img src="../font/MingjianCaoshuHeiti-svg/uni5708.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 國
+<img src="../font/MingjianCaoshuHeiti-svg/uni570B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 圍
 <img src="../font/MingjianCaoshuHeiti-svg/uni570D.svg" width="160" style="max-width:100%; height:auto;">
@@ -140,6 +154,7 @@
 ### 園
 
 ### 圓
+<img src="../font/MingjianCaoshuHeiti-svg/uni5713.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 圖
 <img src="../font/MingjianCaoshuHeiti-svg/uni5716.svg" width="160" style="max-width:100%; height:auto;">
@@ -163,6 +178,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni573A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 圾
+<img src="../font/MingjianCaoshuHeiti-svg/uni573E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 址
 <img src="../font/MingjianCaoshuHeiti-svg/uni5740.svg" width="160" style="max-width:100%; height:auto;">
@@ -173,6 +189,7 @@
 ### 坊
 
 ### 坎
+<img src="../font/MingjianCaoshuHeiti-svg/uni574E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 坏
 <img src="../font/MingjianCaoshuHeiti-svg/uni574F.svg" width="160" style="max-width:100%; height:auto;">
@@ -184,6 +201,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5751.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 块
+<img src="../font/MingjianCaoshuHeiti-svg/uni5757.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 坚
 <img src="../font/MingjianCaoshuHeiti-svg/uni575A.svg" width="160" style="max-width:100%; height:auto;">
@@ -197,6 +215,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni575E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 坟
+<img src="../font/MingjianCaoshuHeiti-svg/uni575F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 坠
 <img src="../font/MingjianCaoshuHeiti-svg/uni5760.svg" width="160" style="max-width:100%; height:auto;">
@@ -234,6 +253,7 @@
 ### 垛
 
 ### 垢
+<img src="../font/MingjianCaoshuHeiti-svg/uni57A2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 垦
 

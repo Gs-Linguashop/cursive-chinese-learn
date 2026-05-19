@@ -24,6 +24,7 @@
 ### 暂
 
 ### 暇
+<img src="../font/MingjianCaoshuHeiti-svg/uni6687.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 暈
 <img src="../font/MingjianCaoshuHeiti-svg/uni6688.svg" width="160" style="max-width:100%; height:auto;">
@@ -50,6 +51,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni66C7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 曉
+<img src="../font/MingjianCaoshuHeiti-svg/uni66C9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 曙
 
@@ -158,6 +160,7 @@
 ### 杆
 
 ### 杈
+<img src="../font/MingjianCaoshuHeiti-svg/uni6748.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 杉
 
@@ -176,11 +179,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6756.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 杜
+<img src="../font/MingjianCaoshuHeiti-svg/uni675C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 束
 <img src="../font/MingjianCaoshuHeiti-svg/uni675F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 杠
+<img src="../font/MingjianCaoshuHeiti-svg/uni6760.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 条
 <img src="../font/MingjianCaoshuHeiti-svg/uni6761.svg" width="160" style="max-width:100%; height:auto;">
@@ -207,6 +212,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni677E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 板
+<img src="../font/MingjianCaoshuHeiti-svg/uni677F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 极
 <img src="../font/MingjianCaoshuHeiti-svg/uni6781.svg" width="160" style="max-width:100%; height:auto;">

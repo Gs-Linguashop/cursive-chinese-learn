@@ -10,6 +10,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni57F7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 培
+<img src="../font/MingjianCaoshuHeiti-svg/uni57F9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 基
 <img src="../font/MingjianCaoshuHeiti-svg/uni57FA.svg" width="160" style="max-width:100%; height:auto;">
@@ -52,6 +53,7 @@
 ### 塔
 
 ### 塘
+<img src="../font/MingjianCaoshuHeiti-svg/uni5858.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 塞
 <img src="../font/MingjianCaoshuHeiti-svg/uni585E.svg" width="160" style="max-width:100%; height:auto;">
@@ -122,8 +124,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni58EB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 壮
+<img src="../font/MingjianCaoshuHeiti-svg/uni58EE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 壯
+<img src="../font/MingjianCaoshuHeiti-svg/uni58EF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 声
 <img src="../font/MingjianCaoshuHeiti-svg/uni58F0.svg" width="160" style="max-width:100%; height:auto;">
@@ -168,8 +172,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni591C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 够
+<img src="../font/MingjianCaoshuHeiti-svg/uni591F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 夠
+<img src="../font/MingjianCaoshuHeiti-svg/uni5920.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 夢
 <img src="../font/MingjianCaoshuHeiti-svg/uni5922.svg" width="160" style="max-width:100%; height:auto;">
@@ -235,6 +241,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni594F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 契
+<img src="../font/MingjianCaoshuHeiti-svg/uni5951.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 奔
 <img src="../font/MingjianCaoshuHeiti-svg/uni5954.svg" width="160" style="max-width:100%; height:auto;">

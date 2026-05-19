@@ -21,6 +21,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6539.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 攻
+<img src="../font/MingjianCaoshuHeiti-svg/uni653B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 放
 
@@ -34,6 +35,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6548.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 敌
+<img src="../font/MingjianCaoshuHeiti-svg/uni654C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 敏
 <img src="../font/MingjianCaoshuHeiti-svg/uni654F.svg" width="160" style="max-width:100%; height:auto;">
@@ -74,6 +76,7 @@
 ### 整
 
 ### 敵
+<img src="../font/MingjianCaoshuHeiti-svg/uni6575.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 敷
 
@@ -217,6 +220,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni661F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 映
+<img src="../font/MingjianCaoshuHeiti-svg/uni6620.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 春
 <img src="../font/MingjianCaoshuHeiti-svg/uni6625.svg" width="160" style="max-width:100%; height:auto;">
@@ -227,11 +231,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6628.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 昭
+<img src="../font/MingjianCaoshuHeiti-svg/uni662D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 是
 <img src="../font/MingjianCaoshuHeiti-svg/uni662F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 昵
+<img src="../font/MingjianCaoshuHeiti-svg/uni6635.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 昼
 <img src="../font/MingjianCaoshuHeiti-svg/uni663C.svg" width="160" style="max-width:100%; height:auto;">
@@ -251,11 +257,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni664B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 晌
+<img src="../font/MingjianCaoshuHeiti-svg/uni664C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 晒
 <img src="../font/MingjianCaoshuHeiti-svg/uni6652.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 晓
+<img src="../font/MingjianCaoshuHeiti-svg/uni6653.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 晕
 <img src="../font/MingjianCaoshuHeiti-svg/uni6655.svg" width="160" style="max-width:100%; height:auto;">
@@ -267,6 +275,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni665D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 晤
+<img src="../font/MingjianCaoshuHeiti-svg/uni6664.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 晦
 

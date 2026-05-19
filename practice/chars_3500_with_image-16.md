@@ -21,6 +21,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni62D0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 拒
+<img src="../font/MingjianCaoshuHeiti-svg/uni62D2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 拓
 <img src="../font/MingjianCaoshuHeiti-svg/uni62D3.svg" width="160" style="max-width:100%; height:auto;">
@@ -33,11 +34,13 @@
 ### 拗
 
 ### 拘
+<img src="../font/MingjianCaoshuHeiti-svg/uni62D8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 拙
 <img src="../font/MingjianCaoshuHeiti-svg/uni62D9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 招
+<img src="../font/MingjianCaoshuHeiti-svg/uni62DB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 拜
 <img src="../font/MingjianCaoshuHeiti-svg/uni62DC.svg" width="160" style="max-width:100%; height:auto;">
@@ -58,6 +61,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni62E7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 拨
+<img src="../font/MingjianCaoshuHeiti-svg/uni62E8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 择
 
@@ -82,11 +86,13 @@
 ### 拼
 
 ### 拾
+<img src="../font/MingjianCaoshuHeiti-svg/uni62FE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 拿
 <img src="../font/MingjianCaoshuHeiti-svg/uni62FF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 持
+<img src="../font/MingjianCaoshuHeiti-svg/uni6301.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 挂
 <img src="../font/MingjianCaoshuHeiti-svg/uni6302.svg" width="160" style="max-width:100%; height:auto;">
@@ -94,6 +100,7 @@
 ### 指
 
 ### 按
+<img src="../font/MingjianCaoshuHeiti-svg/uni6309.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 挎
 <img src="../font/MingjianCaoshuHeiti-svg/uni630E.svg" width="160" style="max-width:100%; height:auto;">
@@ -111,6 +118,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni631F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 挠
+<img src="../font/MingjianCaoshuHeiti-svg/uni6320.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 挡
 
@@ -127,6 +135,7 @@
 ### 挪
 
 ### 挫
+<img src="../font/MingjianCaoshuHeiti-svg/uni632B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 振
 <img src="../font/MingjianCaoshuHeiti-svg/uni632F.svg" width="160" style="max-width:100%; height:auto;">
@@ -140,10 +149,12 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni633E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 捂
+<img src="../font/MingjianCaoshuHeiti-svg/uni6342.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 捅
 
 ### 捆
+<img src="../font/MingjianCaoshuHeiti-svg/uni6346.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 捉
 
@@ -165,23 +176,29 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni635E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 损
+<img src="../font/MingjianCaoshuHeiti-svg/uni635F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 捡
 <img src="../font/MingjianCaoshuHeiti-svg/uni6361.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 换
+<img src="../font/MingjianCaoshuHeiti-svg/uni6362.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 捣
 
 ### 捧
+<img src="../font/MingjianCaoshuHeiti-svg/uni6367.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 据
+<img src="../font/MingjianCaoshuHeiti-svg/uni636E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 捶
+<img src="../font/MingjianCaoshuHeiti-svg/uni6376.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 捷
 
 ### 捺
+<img src="../font/MingjianCaoshuHeiti-svg/uni637A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 捻
 
@@ -196,6 +213,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6384.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 授
+<img src="../font/MingjianCaoshuHeiti-svg/uni6388.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 掉
 <img src="../font/MingjianCaoshuHeiti-svg/uni6389.svg" width="160" style="max-width:100%; height:auto;">
@@ -211,8 +229,10 @@
 ### 排
 
 ### 掖
+<img src="../font/MingjianCaoshuHeiti-svg/uni6396.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 掘
+<img src="../font/MingjianCaoshuHeiti-svg/uni6398.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 掙
 <img src="../font/MingjianCaoshuHeiti-svg/uni6399.svg" width="160" style="max-width:100%; height:auto;">
@@ -228,12 +248,14 @@
 ### 探
 
 ### 接
+<img src="../font/MingjianCaoshuHeiti-svg/uni63A5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 控
 
 ### 推
 
 ### 掩
+<img src="../font/MingjianCaoshuHeiti-svg/uni63A9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 措
 

@@ -11,6 +11,7 @@
 ### 审
 
 ### 客
+<img src="../font/MingjianCaoshuHeiti-svg/uni5BA2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 宣
 <img src="../font/MingjianCaoshuHeiti-svg/uni5BA3.svg" width="160" style="max-width:100%; height:auto;">
@@ -55,10 +56,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5BBF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 寂
+<img src="../font/MingjianCaoshuHeiti-svg/uni5BC2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 寄
+<img src="../font/MingjianCaoshuHeiti-svg/uni5BC4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 密
+<img src="../font/MingjianCaoshuHeiti-svg/uni5BC6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 寇
 <img src="../font/MingjianCaoshuHeiti-svg/uni5BC7.svg" width="160" style="max-width:100%; height:auto;">
@@ -76,6 +80,7 @@
 ### 寞
 
 ### 察
+<img src="../font/MingjianCaoshuHeiti-svg/uni5BDF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 寡
 <img src="../font/MingjianCaoshuHeiti-svg/uni5BE1.svg" width="160" style="max-width:100%; height:auto;">
@@ -245,8 +250,10 @@
 ### 屠
 
 ### 屡
+<img src="../font/MingjianCaoshuHeiti-svg/uni5C61.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 屢
+<img src="../font/MingjianCaoshuHeiti-svg/uni5C62.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 層
 

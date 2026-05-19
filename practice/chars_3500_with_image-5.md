@@ -30,6 +30,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni529E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 功
+<img src="../font/MingjianCaoshuHeiti-svg/uni529F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 加
 <img src="../font/MingjianCaoshuHeiti-svg/uni52A0.svg" width="160" style="max-width:100%; height:auto;">
@@ -46,6 +47,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni52A9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 努
+<img src="../font/MingjianCaoshuHeiti-svg/uni52AA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 劫
 <img src="../font/MingjianCaoshuHeiti-svg/uni52AB.svg" width="160" style="max-width:100%; height:auto;">
@@ -66,6 +68,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni52C1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 勃
+<img src="../font/MingjianCaoshuHeiti-svg/uni52C3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 勇
 <img src="../font/MingjianCaoshuHeiti-svg/uni52C7.svg" width="160" style="max-width:100%; height:auto;">
@@ -214,6 +217,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5357.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 博
+<img src="../font/MingjianCaoshuHeiti-svg/uni535A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 卜
 <img src="../font/MingjianCaoshuHeiti-svg/uni535C.svg" width="160" style="max-width:100%; height:auto;">

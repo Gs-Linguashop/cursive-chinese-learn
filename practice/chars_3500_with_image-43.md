@@ -16,16 +16,19 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9072.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 遵
+<img src="../font/MingjianCaoshuHeiti-svg/uni9075.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 遷
 <img src="../font/MingjianCaoshuHeiti-svg/uni9077.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 選
+<img src="../font/MingjianCaoshuHeiti-svg/uni9078.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 遺
 <img src="../font/MingjianCaoshuHeiti-svg/uni907A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 遼
+<img src="../font/MingjianCaoshuHeiti-svg/uni907C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 避
 
@@ -60,6 +63,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni90AA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 邮
+<img src="../font/MingjianCaoshuHeiti-svg/uni90AE.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 邻
 
@@ -120,21 +124,27 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9165.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 酪
+<img src="../font/MingjianCaoshuHeiti-svg/uni916A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 酬
+<img src="../font/MingjianCaoshuHeiti-svg/uni916C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 酱
 <img src="../font/MingjianCaoshuHeiti-svg/uni9171.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 酵
+<img src="../font/MingjianCaoshuHeiti-svg/uni9175.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 酷
+<img src="../font/MingjianCaoshuHeiti-svg/uni9177.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 酸
+<img src="../font/MingjianCaoshuHeiti-svg/uni9178.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 酿
 
 ### 醃
+<img src="../font/MingjianCaoshuHeiti-svg/uni9183.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 醇
 <img src="../font/MingjianCaoshuHeiti-svg/uni9187.svg" width="160" style="max-width:100%; height:auto;">
@@ -200,16 +210,19 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni91E3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 釦
+<img src="../font/MingjianCaoshuHeiti-svg/uni91E6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鈉
 <img src="../font/MingjianCaoshuHeiti-svg/uni9209.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鈍
+<img src="../font/MingjianCaoshuHeiti-svg/uni920D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鈎
 <img src="../font/MingjianCaoshuHeiti-svg/uni920E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鈔
+<img src="../font/MingjianCaoshuHeiti-svg/uni9214.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鈕
 <img src="../font/MingjianCaoshuHeiti-svg/uni9215.svg" width="160" style="max-width:100%; height:auto;">
@@ -237,6 +250,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni925B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鉤
+<img src="../font/MingjianCaoshuHeiti-svg/uni9264.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鉴
 <img src="../font/MingjianCaoshuHeiti-svg/uni9274.svg" width="160" style="max-width:100%; height:auto;">
@@ -244,11 +258,13 @@
 ### 銀
 
 ### 銅
+<img src="../font/MingjianCaoshuHeiti-svg/uni9285.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 銑
 <img src="../font/MingjianCaoshuHeiti-svg/uni9291.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 銘
+<img src="../font/MingjianCaoshuHeiti-svg/uni9298.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 銜
 

@@ -10,8 +10,10 @@
 ### 键
 
 ### 锯
+<img src="../font/MingjianCaoshuHeiti-svg/uni952F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 锰
+<img src="../font/MingjianCaoshuHeiti-svg/uni9530.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 锹
 
@@ -26,10 +28,12 @@
 ### 镐
 
 ### 镕
+<img src="../font/MingjianCaoshuHeiti-svg/uni9555.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 镜
 
 ### 镣
+<img src="../font/MingjianCaoshuHeiti-svg/uni9563.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 镰
 
@@ -68,6 +72,7 @@
 ### 閘
 
 ### 閣
+<img src="../font/MingjianCaoshuHeiti-svg/uni95A3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 閥
 <img src="../font/MingjianCaoshuHeiti-svg/uni95A5.svg" width="160" style="max-width:100%; height:auto;">
@@ -141,6 +146,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9600.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 阁
+<img src="../font/MingjianCaoshuHeiti-svg/uni9601.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 阅
 <img src="../font/MingjianCaoshuHeiti-svg/uni9605.svg" width="160" style="max-width:100%; height:auto;">
@@ -183,6 +189,7 @@
 ### 际
 
 ### 陆
+<img src="../font/MingjianCaoshuHeiti-svg/uni9646.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 陈
 <img src="../font/MingjianCaoshuHeiti-svg/uni9648.svg" width="160" style="max-width:100%; height:auto;">
@@ -193,6 +200,7 @@
 ### 陌
 
 ### 降
+<img src="../font/MingjianCaoshuHeiti-svg/uni964D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 限
 
@@ -206,6 +214,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9661.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 院
+<img src="../font/MingjianCaoshuHeiti-svg/uni9662.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 陣
 <img src="../font/MingjianCaoshuHeiti-svg/uni9663.svg" width="160" style="max-width:100%; height:auto;">
@@ -214,6 +223,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9664.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 陨
+<img src="../font/MingjianCaoshuHeiti-svg/uni9668.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 险
 <img src="../font/MingjianCaoshuHeiti-svg/uni9669.svg" width="160" style="max-width:100%; height:auto;">
@@ -226,6 +236,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9673.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 陵
+<img src="../font/MingjianCaoshuHeiti-svg/uni9675.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 陶
 <img src="../font/MingjianCaoshuHeiti-svg/uni9676.svg" width="160" style="max-width:100%; height:auto;">
@@ -233,6 +244,7 @@
 ### 陷
 
 ### 陸
+<img src="../font/MingjianCaoshuHeiti-svg/uni9678.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 陽
 <img src="../font/MingjianCaoshuHeiti-svg/uni967D.svg" width="160" style="max-width:100%; height:auto;">

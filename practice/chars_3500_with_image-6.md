@@ -13,6 +13,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5395.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 厖
+<img src="../font/MingjianCaoshuHeiti-svg/uni5396.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 厘
 <img src="../font/MingjianCaoshuHeiti-svg/uni5398.svg" width="160" style="max-width:100%; height:auto;">
@@ -29,6 +30,7 @@
 ### 厢
 
 ### 厦
+<img src="../font/MingjianCaoshuHeiti-svg/uni53A6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 厨
 <img src="../font/MingjianCaoshuHeiti-svg/uni53A8.svg" width="160" style="max-width:100%; height:auto;">
@@ -94,6 +96,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni53D9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 叛
+<img src="../font/MingjianCaoshuHeiti-svg/uni53DB.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 叠
 <img src="../font/MingjianCaoshuHeiti-svg/uni53E0.svg" width="160" style="max-width:100%; height:auto;">
@@ -192,6 +195,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni540F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吐
+<img src="../font/MingjianCaoshuHeiti-svg/uni5410.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 向
 <img src="../font/MingjianCaoshuHeiti-svg/uni5411.svg" width="160" style="max-width:100%; height:auto;">
@@ -222,8 +226,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5426.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吧
+<img src="../font/MingjianCaoshuHeiti-svg/uni5427.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吨
+<img src="../font/MingjianCaoshuHeiti-svg/uni5428.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吩
 <img src="../font/MingjianCaoshuHeiti-svg/uni5429.svg" width="160" style="max-width:100%; height:auto;">
@@ -252,11 +258,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5434.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吵
+<img src="../font/MingjianCaoshuHeiti-svg/uni5435.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吶
 <img src="../font/MingjianCaoshuHeiti-svg/uni5436.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吸
+<img src="../font/MingjianCaoshuHeiti-svg/uni5438.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吹
 <img src="../font/MingjianCaoshuHeiti-svg/uni5439.svg" width="160" style="max-width:100%; height:auto;">
@@ -265,6 +273,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni543B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吼
+<img src="../font/MingjianCaoshuHeiti-svg/uni543C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 呀
 

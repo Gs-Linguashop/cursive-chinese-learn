@@ -10,6 +10,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4ED3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 仔
+<img src="../font/MingjianCaoshuHeiti-svg/uni4ED4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 他
 <img src="../font/MingjianCaoshuHeiti-svg/uni4ED6.svg" width="160" style="max-width:100%; height:auto;">
@@ -75,6 +76,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F11.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 伕
+<img src="../font/MingjianCaoshuHeiti-svg/uni4F15.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 众
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F17.svg" width="160" style="max-width:100%; height:auto;">
@@ -116,8 +118,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F36.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 伸
+<img src="../font/MingjianCaoshuHeiti-svg/uni4F38.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 伺
+<img src="../font/MingjianCaoshuHeiti-svg/uni4F3A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 似
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F3C.svg" width="160" style="max-width:100%; height:auto;">
@@ -128,6 +132,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F46.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 佈
+<img src="../font/MingjianCaoshuHeiti-svg/uni4F48.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 位
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F4D.svg" width="160" style="max-width:100%; height:auto;">
@@ -138,6 +143,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F4F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 佑
+<img src="../font/MingjianCaoshuHeiti-svg/uni4F51.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 体
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F53.svg" width="160" style="max-width:100%; height:auto;">
@@ -157,6 +163,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F5C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 你
+<img src="../font/MingjianCaoshuHeiti-svg/uni4F60.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 佣
 
@@ -177,11 +184,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F86.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 侈
+<img src="../font/MingjianCaoshuHeiti-svg/uni4F88.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 例
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F8B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 侍
+<img src="../font/MingjianCaoshuHeiti-svg/uni4F8D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 侖
 <img src="../font/MingjianCaoshuHeiti-svg/uni4F96.svg" width="160" style="max-width:100%; height:auto;">
@@ -219,6 +228,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4FB6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 侷
+<img src="../font/MingjianCaoshuHeiti-svg/uni4FB7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 便
 <img src="../font/MingjianCaoshuHeiti-svg/uni4FBF.svg" width="160" style="max-width:100%; height:auto;">
@@ -228,6 +238,7 @@
 ### 俄
 
 ### 俊
+<img src="../font/MingjianCaoshuHeiti-svg/uni4FCA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 俏
 
@@ -237,6 +248,7 @@
 ### 俗
 
 ### 俘
+<img src="../font/MingjianCaoshuHeiti-svg/uni4FD8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 保
 <img src="../font/MingjianCaoshuHeiti-svg/uni4FDD.svg" width="160" style="max-width:100%; height:auto;">
@@ -262,6 +274,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4FF1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 俺
+<img src="../font/MingjianCaoshuHeiti-svg/uni4FFA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 倆
 <img src="../font/MingjianCaoshuHeiti-svg/uni5006.svg" width="160" style="max-width:100%; height:auto;">

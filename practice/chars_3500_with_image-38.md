@@ -48,6 +48,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8A0E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 訓
+<img src="../font/MingjianCaoshuHeiti-svg/uni8A13.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 託
 <img src="../font/MingjianCaoshuHeiti-svg/uni8A17.svg" width="160" style="max-width:100%; height:auto;">
@@ -64,6 +65,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8A1F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 訣
+<img src="../font/MingjianCaoshuHeiti-svg/uni8A23.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 訪
 
@@ -93,6 +95,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8A5B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 詞
+<img src="../font/MingjianCaoshuHeiti-svg/uni8A5E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 詠
 
@@ -101,6 +104,7 @@
 ### 試
 
 ### 詩
+<img src="../font/MingjianCaoshuHeiti-svg/uni8A69.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 詭
 <img src="../font/MingjianCaoshuHeiti-svg/uni8A6D.svg" width="160" style="max-width:100%; height:auto;">
@@ -131,12 +135,14 @@
 ### 誘
 
 ### 語
+<img src="../font/MingjianCaoshuHeiti-svg/uni8A9E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 誠
 
 ### 誡
 
 ### 誣
+<img src="../font/MingjianCaoshuHeiti-svg/uni8AA3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 誤
 <img src="../font/MingjianCaoshuHeiti-svg/uni8AA4.svg" width="160" style="max-width:100%; height:auto;">
@@ -158,8 +164,10 @@
 ### 誹
 
 ### 誼
+<img src="../font/MingjianCaoshuHeiti-svg/uni8ABC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 調
+<img src="../font/MingjianCaoshuHeiti-svg/uni8ABF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 諄
 <img src="../font/MingjianCaoshuHeiti-svg/uni8AC4.svg" width="160" style="max-width:100%; height:auto;">
@@ -212,6 +220,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni8B1B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 謝
+<img src="../font/MingjianCaoshuHeiti-svg/uni8B1D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 謠
 <img src="../font/MingjianCaoshuHeiti-svg/uni8B20.svg" width="160" style="max-width:100%; height:auto;">

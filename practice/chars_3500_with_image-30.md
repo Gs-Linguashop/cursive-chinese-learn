@@ -31,6 +31,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7AE0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 竣
+<img src="../font/MingjianCaoshuHeiti-svg/uni7AE3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 童
 <img src="../font/MingjianCaoshuHeiti-svg/uni7AE5.svg" width="160" style="max-width:100%; height:auto;">
@@ -51,6 +52,7 @@
 ### 竿
 
 ### 笆
+<img src="../font/MingjianCaoshuHeiti-svg/uni7B06.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 笋
 <img src="../font/MingjianCaoshuHeiti-svg/uni7B0B.svg" width="160" style="max-width:100%; height:auto;">
@@ -66,6 +68,7 @@
 ### 笛
 
 ### 笤
+<img src="../font/MingjianCaoshuHeiti-svg/uni7B24.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 符
 <img src="../font/MingjianCaoshuHeiti-svg/uni7B26.svg" width="160" style="max-width:100%; height:auto;">
@@ -96,6 +99,7 @@
 ### 筑
 
 ### 筒
+<img src="../font/MingjianCaoshuHeiti-svg/uni7B52.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 答
 <img src="../font/MingjianCaoshuHeiti-svg/uni7B54.svg" width="160" style="max-width:100%; height:auto;">
@@ -109,8 +113,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7B5D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 筷
+<img src="../font/MingjianCaoshuHeiti-svg/uni7B77.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 筹
+<img src="../font/MingjianCaoshuHeiti-svg/uni7B79.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 签
 <img src="../font/MingjianCaoshuHeiti-svg/uni7B7E.svg" width="160" style="max-width:100%; height:auto;">
@@ -130,6 +136,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7B97.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 管
+<img src="../font/MingjianCaoshuHeiti-svg/uni7BA1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 箩
 
@@ -165,6 +172,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7C07.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 簍
+<img src="../font/MingjianCaoshuHeiti-svg/uni7C0D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 簡
 
@@ -179,11 +187,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni7C3D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 簿
+<img src="../font/MingjianCaoshuHeiti-svg/uni7C3F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 籃
 <img src="../font/MingjianCaoshuHeiti-svg/uni7C43.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 籌
+<img src="../font/MingjianCaoshuHeiti-svg/uni7C4C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 籍
 
@@ -202,6 +212,7 @@
 ### 类
 
 ### 籽
+<img src="../font/MingjianCaoshuHeiti-svg/uni7C7D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 粉
 <img src="../font/MingjianCaoshuHeiti-svg/uni7C89.svg" width="160" style="max-width:100%; height:auto;">
@@ -245,8 +256,10 @@
 ### 糕
 
 ### 糖
+<img src="../font/MingjianCaoshuHeiti-svg/uni7CD6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 糙
+<img src="../font/MingjianCaoshuHeiti-svg/uni7CD9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 糜
 <img src="../font/MingjianCaoshuHeiti-svg/uni7CDC.svg" width="160" style="max-width:100%; height:auto;">

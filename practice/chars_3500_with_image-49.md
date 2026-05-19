@@ -7,14 +7,19 @@
 ### 鸭
 
 ### 鸯
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E2F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鸳
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E33.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鸵
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E35.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鸽
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E3D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鸿
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E3F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鹃
 
@@ -29,6 +34,7 @@
 ### 鹤
 
 ### 鹦
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E66.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鹰
 <img src="../font/MingjianCaoshuHeiti-svg/uni9E70.svg" width="160" style="max-width:100%; height:auto;">
@@ -52,8 +58,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9EA6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 麩
+<img src="../font/MingjianCaoshuHeiti-svg/uni9EA9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 麸
+<img src="../font/MingjianCaoshuHeiti-svg/uni9EB8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 麻
 <img src="../font/MingjianCaoshuHeiti-svg/uni9EBB.svg" width="160" style="max-width:100%; height:auto;">
@@ -77,6 +85,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9ED4.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 默
+<img src="../font/MingjianCaoshuHeiti-svg/uni9ED8.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 點
 <img src="../font/MingjianCaoshuHeiti-svg/uni9EDE.svg" width="160" style="max-width:100%; height:auto;">
