@@ -22,6 +22,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5CAD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 岳
+<img src="../font/MingjianCaoshuHeiti-svg/uni5CB3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 岸
 <img src="../font/MingjianCaoshuHeiti-svg/uni5CB8.svg" width="160" style="max-width:100%; height:auto;">
@@ -33,6 +34,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5CE6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 峭
+<img src="../font/MingjianCaoshuHeiti-svg/uni5CED.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 峯
 <img src="../font/MingjianCaoshuHeiti-svg/uni5CEF.svg" width="160" style="max-width:100%; height:auto;">
@@ -56,6 +58,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5D0E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 崑
+<img src="../font/MingjianCaoshuHeiti-svg/uni5D11.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 崔
 <img src="../font/MingjianCaoshuHeiti-svg/uni5D14.svg" width="160" style="max-width:100%; height:auto;">
@@ -73,10 +76,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5D29.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 崭
+<img src="../font/MingjianCaoshuHeiti-svg/uni5D2D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嵌
+<img src="../font/MingjianCaoshuHeiti-svg/uni5D4C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嶄
+<img src="../font/MingjianCaoshuHeiti-svg/uni5D84.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嶇
 <img src="../font/MingjianCaoshuHeiti-svg/uni5D87.svg" width="160" style="max-width:100%; height:auto;">
@@ -88,8 +94,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5DBC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 嶽
+<img src="../font/MingjianCaoshuHeiti-svg/uni5DBD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 巍
+<img src="../font/MingjianCaoshuHeiti-svg/uni5DCD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 巒
 <img src="../font/MingjianCaoshuHeiti-svg/uni5DD2.svg" width="160" style="max-width:100%; height:auto;">
@@ -167,18 +175,22 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E0C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 帐
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E10.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 帕
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E15.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 帖
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E16.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 帘
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E18.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 帚
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E1A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 帜
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E1C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 帝
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E1D.svg" width="160" style="max-width:100%; height:auto;">
@@ -199,6 +211,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E2E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 帳
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E33.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 帶
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E36.svg" width="160" style="max-width:100%; height:auto;">
@@ -210,16 +223,22 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E3D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 幅
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E45.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 幌
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E4C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 幔
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E54.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 幕
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E55.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 幟
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E5F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 幢
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E62.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 幣
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E63.svg" width="160" style="max-width:100%; height:auto;">
@@ -261,6 +280,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E86.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 庇
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E87.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 床
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E8A.svg" width="160" style="max-width:100%; height:auto;">
@@ -272,9 +292,11 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E90.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 库
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E93.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 应
 <img src="../font/MingjianCaoshuHeiti-svg/uni5E94.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 底
+<img src="../font/MingjianCaoshuHeiti-svg/uni5E95.svg" width="160" style="max-width:100%; height:auto;">
 

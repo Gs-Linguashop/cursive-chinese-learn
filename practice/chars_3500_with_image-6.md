@@ -28,6 +28,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni53A0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 厢
+<img src="../font/MingjianCaoshuHeiti-svg/uni53A2.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 厦
 <img src="../font/MingjianCaoshuHeiti-svg/uni53A6.svg" width="160" style="max-width:100%; height:auto;">
@@ -147,6 +148,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni53F3.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 叶
+<img src="../font/MingjianCaoshuHeiti-svg/uni53F6.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 号
 <img src="../font/MingjianCaoshuHeiti-svg/uni53F7.svg" width="160" style="max-width:100%; height:auto;">
@@ -161,6 +163,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni53FC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 叽
+<img src="../font/MingjianCaoshuHeiti-svg/uni53FD.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吁
 <img src="../font/MingjianCaoshuHeiti-svg/uni5401.svg" width="160" style="max-width:100%; height:auto;">
@@ -172,6 +175,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5404.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吆
+<img src="../font/MingjianCaoshuHeiti-svg/uni5406.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 合
 <img src="../font/MingjianCaoshuHeiti-svg/uni5408.svg" width="160" style="max-width:100%; height:auto;">
@@ -201,11 +205,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni5411.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吓
+<img src="../font/MingjianCaoshuHeiti-svg/uni5413.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吕
 <img src="../font/MingjianCaoshuHeiti-svg/uni5415.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 吗
+<img src="../font/MingjianCaoshuHeiti-svg/uni5417.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 君
 <img src="../font/MingjianCaoshuHeiti-svg/uni541B.svg" width="160" style="max-width:100%; height:auto;">
@@ -276,6 +282,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni543C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 呀
+<img src="../font/MingjianCaoshuHeiti-svg/uni5440.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 呂
 <img src="../font/MingjianCaoshuHeiti-svg/uni5442.svg" width="160" style="max-width:100%; height:auto;">

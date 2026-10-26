@@ -1,15 +1,19 @@
 # 常用草书字形表18
 
 ### 攝
+<img src="../font/MingjianCaoshuHeiti-svg/uni651D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 攢
+<img src="../font/MingjianCaoshuHeiti-svg/uni6522.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 攤
+<img src="../font/MingjianCaoshuHeiti-svg/uni6524.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 攪
 <img src="../font/MingjianCaoshuHeiti-svg/uni652A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 攬
+<img src="../font/MingjianCaoshuHeiti-svg/uni652C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 支
 <img src="../font/MingjianCaoshuHeiti-svg/uni652F.svg" width="160" style="max-width:100%; height:auto;">
@@ -24,6 +28,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni653B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 放
+<img src="../font/MingjianCaoshuHeiti-svg/uni653E.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 政
 <img src="../font/MingjianCaoshuHeiti-svg/uni653F.svg" width="160" style="max-width:100%; height:auto;">
@@ -41,8 +46,10 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni654F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 救
+<img src="../font/MingjianCaoshuHeiti-svg/uni6551.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 敗
+<img src="../font/MingjianCaoshuHeiti-svg/uni6557.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 敘
 <img src="../font/MingjianCaoshuHeiti-svg/uni6558.svg" width="160" style="max-width:100%; height:auto;">
@@ -72,13 +79,16 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6570.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 敲
+<img src="../font/MingjianCaoshuHeiti-svg/uni6572.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 整
+<img src="../font/MingjianCaoshuHeiti-svg/uni6574.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 敵
 <img src="../font/MingjianCaoshuHeiti-svg/uni6575.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 敷
+<img src="../font/MingjianCaoshuHeiti-svg/uni6577.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 數
 <img src="../font/MingjianCaoshuHeiti-svg/uni6578.svg" width="160" style="max-width:100%; height:auto;">
@@ -87,11 +97,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6582.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 斃
+<img src="../font/MingjianCaoshuHeiti-svg/uni6583.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 文
 <img src="../font/MingjianCaoshuHeiti-svg/uni6587.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 斋
+<img src="../font/MingjianCaoshuHeiti-svg/uni658B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 斑
 <img src="../font/MingjianCaoshuHeiti-svg/uni6591.svg" width="160" style="max-width:100%; height:auto;">
@@ -106,6 +118,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni659C.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 斟
+<img src="../font/MingjianCaoshuHeiti-svg/uni659F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 斤
 <img src="../font/MingjianCaoshuHeiti-svg/uni65A4.svg" width="160" style="max-width:100%; height:auto;">
@@ -114,6 +127,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni65A5.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 斧
+<img src="../font/MingjianCaoshuHeiti-svg/uni65A7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 斩
 <img src="../font/MingjianCaoshuHeiti-svg/uni65A9.svg" width="160" style="max-width:100%; height:auto;">
@@ -128,6 +142,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni65AF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 新
+<img src="../font/MingjianCaoshuHeiti-svg/uni65B0.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 斷
 <img src="../font/MingjianCaoshuHeiti-svg/uni65B7.svg" width="160" style="max-width:100%; height:auto;">
@@ -175,11 +190,13 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni65E9.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 旬
+<img src="../font/MingjianCaoshuHeiti-svg/uni65EC.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 旭
 <img src="../font/MingjianCaoshuHeiti-svg/uni65ED.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 旱
+<img src="../font/MingjianCaoshuHeiti-svg/uni65F1.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 时
 <img src="../font/MingjianCaoshuHeiti-svg/uni65F6.svg" width="160" style="max-width:100%; height:auto;">
@@ -188,6 +205,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni65F7.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 旺
+<img src="../font/MingjianCaoshuHeiti-svg/uni65FA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 昂
 <img src="../font/MingjianCaoshuHeiti-svg/uni6602.svg" width="160" style="max-width:100%; height:auto;">
@@ -226,6 +244,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6625.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 昧
+<img src="../font/MingjianCaoshuHeiti-svg/uni6627.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 昨
 <img src="../font/MingjianCaoshuHeiti-svg/uni6628.svg" width="160" style="max-width:100%; height:auto;">
@@ -249,6 +268,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6642.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 晃
+<img src="../font/MingjianCaoshuHeiti-svg/uni6643.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 晉
 <img src="../font/MingjianCaoshuHeiti-svg/uni6649.svg" width="160" style="max-width:100%; height:auto;">
@@ -278,4 +298,5 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni6664.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 晦
+<img src="../font/MingjianCaoshuHeiti-svg/uni6666.svg" width="160" style="max-width:100%; height:auto;">
 

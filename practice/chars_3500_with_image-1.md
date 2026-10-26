@@ -274,6 +274,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni4EBA.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 亿
+<img src="../font/MingjianCaoshuHeiti-svg/uni4EBF.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 什
 <img src="../font/MingjianCaoshuHeiti-svg/uni4EC0.svg" width="160" style="max-width:100%; height:auto;">

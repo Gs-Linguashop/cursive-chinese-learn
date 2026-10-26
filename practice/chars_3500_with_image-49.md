@@ -3,8 +3,10 @@
 ### 鸥
 
 ### 鸦
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E26.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鸭
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E2D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鸯
 <img src="../font/MingjianCaoshuHeiti-svg/uni9E2F.svg" width="160" style="max-width:100%; height:auto;">
@@ -22,16 +24,22 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9E3F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鹃
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E43.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鹅
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E45.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鹉
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E49.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鹊
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E4A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鹏
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E4F.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鹤
+<img src="../font/MingjianCaoshuHeiti-svg/uni9E64.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 鹦
 <img src="../font/MingjianCaoshuHeiti-svg/uni9E66.svg" width="160" style="max-width:100%; height:auto;">
@@ -106,6 +114,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9F4A.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 齋
+<img src="../font/MingjianCaoshuHeiti-svg/uni9F4B.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 齐
 <img src="../font/MingjianCaoshuHeiti-svg/uni9F50.svg" width="160" style="max-width:100%; height:auto;">
@@ -126,6 +135,7 @@
 <img src="../font/MingjianCaoshuHeiti-svg/uni9F8D.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 龐
+<img src="../font/MingjianCaoshuHeiti-svg/uni9F90.svg" width="160" style="max-width:100%; height:auto;">
 
 ### 龙
 <img src="../font/MingjianCaoshuHeiti-svg/uni9F99.svg" width="160" style="max-width:100%; height:auto;">
